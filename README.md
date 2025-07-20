@@ -8,5 +8,3 @@ You will also find some of the datasets used during the experiments. Some of the
 This repository is divided into 5 different parts of the experiment that were used chronologically. If you would like to replicate the experiment you should follow the different steps in order.
 
 Should you have any question or detect an anomaly in the repository, do not hesitate to contact us.
-
-# Part One: Chat dataset creation
