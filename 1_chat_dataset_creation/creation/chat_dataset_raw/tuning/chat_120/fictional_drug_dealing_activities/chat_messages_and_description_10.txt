@@ -1,0 +1,14 @@
+sender;content
+Mark;Guys, I got a new shipment in.
+Robert;What's the quality like, Mark?
+Mark;Top-notch as always.
+Jennifer;How much are we talking about here?
+Mark;Enough to keep us busy for a while.
+Robert;Alright, we need to plan the distribution carefully then.
+Jennifer;Agreed. We can't afford any mistakes.
+Mark;We never do. Let's meet tomorrow and discuss.
+Robert;Sounds good. See you then.
+Jennifer;See you tomorrow, Mark.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;The Business;[Mark, Robert, Jennifer];07.12.2022 18:30:00

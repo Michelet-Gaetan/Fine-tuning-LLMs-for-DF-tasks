@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John and David are chatting of David's last hike.;
+
+John asks David if he recently went for a hike. David answers that yes, and explains that he went to the Rocky Mountain National Park, for a 10-mile hike that was difficult but very rewarding. After being asked by David about breaks taken during the hike, he answers that they had a few, but also brought some lunch and could eat close to a nice lake. John states that he should go for a hike soon, and is encouraged by David.;
+
+The conversation revolves around hiking, a shared hobby between John and David. John initiates the chat asking David about his recent hiking experiences. David shares his recent hiking trip to the Rocky Mountain National Park, describing the weather, the views, and the length of the hike. John, intrigued by David's experience, expresses his desire to plan a hiking trip soon. David encourages John, highlighting the benefits of hiking such as enjoying nature and exercising. The conversation ends with David showing his willingness to share his hiking experiences.

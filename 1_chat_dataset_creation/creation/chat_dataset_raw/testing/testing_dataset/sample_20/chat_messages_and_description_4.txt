@@ -1,0 +1,14 @@
+sender, content
+Brandon, "Hey guys, how are you managing your study time?";
+Marvin, "I'm trying to stick to a schedule, but it's tough with all the assignments and projects.";
+Kea, "I find it helpful to break things down into smaller tasks. Makes it less overwhelming.";
+Joshua, "I use a planner to keep track of everything. It helps to see everything laid out in front of me.";
+Brandon, "Great suggestions guys! I'll try to incorporate those into my routine.";
+Marvin, "Just remember to take breaks too. It's easy to burn out if you're not careful.";
+Kea, "Absolutely, Marvin. I usually take a 10-minute break for every hour of study.";
+Joshua, "That's a good tip, Kea. I'll try that out.";
+Brandon, "Thanks for the tips everyone. Let's keep pushing and finish strong!";
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, "College Study Tips", ["Brandon", "Marvin", "Kea", "Joshua"], "01.09.2022 15:30:00"

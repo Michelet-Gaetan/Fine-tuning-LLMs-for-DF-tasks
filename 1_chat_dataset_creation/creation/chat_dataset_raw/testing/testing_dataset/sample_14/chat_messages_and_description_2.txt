@@ -1,0 +1,14 @@
+sender, content
+Brody, "Hey guys, have you seen the latest on the Mars Rover?";
+Eric, "Yeah, I saw something about it. Isn't it sending some really cool images?";
+John, "Absolutely, the images are stunning. It’s amazing how far we've come in space exploration.";
+Brody, "The perseverance rover is also going to look for signs of past microbial life. That's huge!";
+Eric, "I know right! Just imagine if they find something. It would change everything we know about life in the universe.";
+John, "Indeed, it's fascinating! I can't wait to see what they discover next.";
+Brody, "It's also interesting to see how this mission might pave the way for future manned missions to Mars.";
+Eric, "That's true. The data this rover collects could be crucial for planning those missions.";
+John, "I hope I'm around to see the day when the first human steps on Mars.";
+
+-----
+application, chat group name, list of participants, first message sending datetime
+Telegram, "Current News Discussion", ["Brody", "Eric", "John"], 15.03.2021 10:15:00

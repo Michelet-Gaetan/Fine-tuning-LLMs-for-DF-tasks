@@ -1,0 +1,16 @@
+sender;content
+Brandon;Hey guys, have you seen the latest episode of 'Stranger Things'?
+Marvin;I haven't watched it yet, Brandon. No spoilers, please!
+Kea;I'm with Marvin on this one. I plan to binge-watch it over the weekend.
+Joshua;Well, I've seen it and it's fantastic. You guys are in for a treat!
+Brandon;Okay, no spoilers. But let's discuss it once everyone's seen it. It's too good!
+Marvin;Sounds like a plan. We can have a virtual watch party over the weekend.
+Kea;Great idea, Marvin! I'll get the popcorn.
+Joshua;And I'll bring the theories! Looking forward to it.
+Brandon;Haha, Joshua, always the conspiracy theorist!
+Marvin;That's what makes our discussions interesting. Can't wait for the weekend!
+Kea;Same here, guys. Let's do this!
+Joshua;It's a date then. See you all on the other side of 'Stranger Things'!
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;TV Show Frenzy;[Brandon, Marvin, Kea, Joshua];15.03.2022 20:15:30

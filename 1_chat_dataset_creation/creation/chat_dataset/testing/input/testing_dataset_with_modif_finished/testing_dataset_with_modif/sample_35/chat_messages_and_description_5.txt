@@ -1,0 +1,14 @@
+sender;content
+Thomas;Hey Kristopher, have you heard the new album by The Weeknd?
+Kristopher;Hey Thomas, yes I have. It's really different from his previous stuff, isn't it?
+Thomas;Definitely, he seems to be experimenting with a new sound. What did you think of it?
+Kristopher;I quite liked it, but I need to listen to it a few more times to fully appreciate it. The lyrics are quite deep.
+Thomas;I agree. I think 'Save Your Tears' is my favourite track. What's yours?
+Kristopher;Hmm, I think 'Blinding Lights' is my favourite. I love the synth in it.
+Thomas;Yeah, that's a great track too. Have you been to any good concerts lately?
+Kristopher;Not recently, due to the pandemic. But I'm looking forward to seeing some live music again soon.
+Thomas;Same here. Let's plan to go to a concert together once things are back to normal.
+Kristopher;Sounds like a plan, Thomas. Looking forward to it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Music Buddies;[Thomas, Kristopher]; 14.06.2021 18:45:30

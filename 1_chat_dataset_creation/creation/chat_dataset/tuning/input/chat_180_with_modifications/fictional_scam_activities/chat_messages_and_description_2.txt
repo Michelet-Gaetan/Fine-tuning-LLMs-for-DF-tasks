@@ -1,0 +1,12 @@
+sender;content
+James;Hey Robert, I came across this fantastic investment opportunity.
+Robert;Oh really? Tell me more about it, James.
+James;It's a high return, low risk scheme. You just need to invest $1000 and you will get $5000 back in a week.
+Robert;Sounds too good to be true. Are there any hidden charges?
+James;Not at all! There's just a small fee of $100 for paperwork and you're all set.
+Robert;I'm interested but I'd like to do some research first.
+James;Sure, but keep in mind the offer is available for a limited time only.
+Robert;Alright, I'll let you know.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;High Return Investments;[James, Robert];02.10.2022 18:45:00

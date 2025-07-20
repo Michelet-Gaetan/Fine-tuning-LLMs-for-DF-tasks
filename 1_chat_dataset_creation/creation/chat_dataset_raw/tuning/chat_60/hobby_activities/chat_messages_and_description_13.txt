@@ -1,0 +1,14 @@
+sender,content
+John,Hey Robert, have you tried any new hobbies lately?;
+Robert,Hey John! Yes, I just started learning to play the guitar. How about you?;
+John,That's awesome! I've been getting into bird watching. There are so many species around my area.;
+Robert,Wow, that sounds interesting. I've never considered bird watching. What got you into it?;
+John,Well, I was looking for a hobby that would allow me to spend more time outdoors. Plus, it's pretty relaxing.;
+Robert,That's a great point. Maybe I should try it out sometime. How do you identify the different species?;
+John,There are some great apps that help identify birds by their looks and sounds. Plus, I have a guide book that's been really helpful.;
+Robert,That's quite cool. I'll definitely consider it. Thanks for the suggestion, John.;
+John,No problem, Robert. Let's share more about our hobbies next time.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,HobbyTalk,[John, Robert],03.03.2022 16:45:00

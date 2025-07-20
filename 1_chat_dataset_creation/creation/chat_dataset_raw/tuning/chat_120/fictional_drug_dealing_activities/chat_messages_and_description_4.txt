@@ -1,0 +1,14 @@
+sender;content
+John;Hey, I've got the stuff you were asking about.
+Robert;Great, how much are we talking about?
+John;100 units, as per our discussion.
+Robert;And the price per unit?
+John;$200. Non-negotiable.
+Robert;That's a steep price. Can we discuss this?
+John;As I said, non-negotiable. You know the quality of the stuff.
+Robert;Okay, I'll take it.
+John;When and where are we doing this?
+Robert;Tomorrow, at the usual spot.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Business Deals;[John, Robert];05.06.2022 14:00:00

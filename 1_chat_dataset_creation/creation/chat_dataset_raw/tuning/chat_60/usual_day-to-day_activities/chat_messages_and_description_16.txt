@@ -1,0 +1,16 @@
+sender,content
+"Robert,Hey, how's your day going?";
+"Matthew,Good, Robert. Just finished with the morning chores. How about you?";
+"Robert,Just returned from the grocery store. Planning the meals for the week.";
+"Matthew,That sounds good. I need to plan mine too. Any suggestions?";
+"Robert,How about trying some Italian dishes? I can share some recipes.";
+"Matthew,That's a great idea. I would love to try some Italian recipes.";
+"Robert,Cool. I will send you some easy-to-make recipes.";
+"Matthew,Thanks, Robert. Looking forward to trying them out.";
+"Robert,You're welcome. Let me know how it goes.";
+"Matthew,Sure, I will. Talk to you later, Robert.";
+"Robert,Later, Matthew. Have a great day."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+"WhatsApp,Day-to-Day Chats,[Robert, Matthew],15.09.2021 09:00:00"

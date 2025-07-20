@@ -1,0 +1,19 @@
+sender;content
+Parker;Hey guys, how's the weather where you all are?
+April;It's pretty cold over here in New York. Snowed a little this morning.
+Alexander;Nice and sunny in California. Couldn't ask for better weather.
+Teegan;It's raining cats and dogs here in London. Wish I was in California right now!
+Kim;It's windy here in Chicago. The Windy City living up to its name.
+Parker;Sounds like we're all experiencing different weather conditions.
+April;I wish I was experiencing Alexander's weather right now. I miss the sun.
+Alexander;Well, I wouldn't mind a bit of snow. We rarely get that here.
+Teegan;I would trade the rain for snow any day. It's been so gloomy here.
+Kim;And I wouldn't mind a bit of rain. It would be a nice change from the wind.
+Parker;Maybe we should all swap places for a bit.
+April;That sounds like a great idea, Parker.
+Alexander;I'm in. Who wants to come to sunny California?
+Teegan;I'll swap with you, Alexander. You can have the London rain.
+Kim;And I'll swap with you, April. I could use a bit of snow in my life.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weather Update Group;[Parker, April, Alexander, Teegan, Kim];15.12.2021 14:00:00

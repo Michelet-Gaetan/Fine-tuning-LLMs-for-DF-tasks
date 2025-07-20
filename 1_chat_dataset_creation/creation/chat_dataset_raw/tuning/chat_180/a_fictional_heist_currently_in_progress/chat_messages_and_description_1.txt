@@ -1,0 +1,19 @@
+sender,content
+John,"We're approaching the target"
+Robert,"Good, remember to stay low"
+John,"Got it, disabling the alarm now"
+Robert,"Be quick, we don't have much time"
+John,"Alarm is off, moving to the vault"
+Robert,"I'm in the getaway car, hurry up"
+John,"Vault is open, grabbing the goods"
+Robert,"I see the police, you have to be quick"
+John,"Almost done, just a bit more"
+Robert,"They're getting closer, hurry up"
+John,"Got everything, exiting now"
+Robert,"I see you, get in the car"
+John,"Driving away now, we did it"
+Robert,"Great job, let's lay low for a while"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Operation Gold Rush",["John", "Robert"],"21.04.2022 22:15:00"

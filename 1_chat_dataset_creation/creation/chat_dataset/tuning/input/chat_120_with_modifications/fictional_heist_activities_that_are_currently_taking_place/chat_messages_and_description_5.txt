@@ -1,0 +1,18 @@
+sender;content
+James;I've found a potential target, the museum at the city center.
+Robert;Interesting. What's the prize?
+James;A priceless diamond. Guarded heavily though.
+Robert;We'll need a solid plan then.
+James;Exactly. We can't afford any mistakes.
+Robert;What's the layout of the building?
+James;I've got the blueprints. I'll send them over.
+Robert;Okay. Let's figure out the best entry and exit points.
+James;Already on it. We need to consider the security as well.
+Robert;Right. We need to disable them without raising any suspicion.
+James;We'll also need a team. I'm thinking a hacker, a con artist, and a safe cracker.
+Robert;I know just the right people. Let's meet up and discuss in detail.
+James;Sounds good. I'll arrange for a secure location.
+Robert;See you then. We've got a diamond to steal.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Diamond Heist;[James, Robert];07.05.2022 19:13:20

@@ -1,0 +1,13 @@
+sender;content
+Mark;Good Morning, everyone!
+Jennifer;Morning, Mark! How's everyone doing today?
+Robert;Hey Mark, Hey Jennifer. Doing fine here. Just having my coffee.
+Michael;Good morning guys! Just heading out for my morning run.
+Jennifer;Wow Michael, that's impressive. I can barely get out of bed!
+Mark;I second Jennifer on that, Michael. Wish I had your motivation!
+Robert;Same here. Well, have a good run, Michael.
+Jennifer;Yes, have a good one, Michael.
+Michael;Thanks guys! Have a great day everyone.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Morning Routine;[Mark, Jennifer, Robert, Michael];20.06.2021 07:30:00

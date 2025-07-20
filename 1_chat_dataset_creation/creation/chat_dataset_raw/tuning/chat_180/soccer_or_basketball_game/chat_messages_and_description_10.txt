@@ -1,0 +1,13 @@
+sender,content
+Robert,"Hey guys, are we all set for the soccer game tonight?";
+William,"Absolutely, Robert. I've got the snacks and drinks ready.";
+Jennifer,"I'll be there too. I hope our team wins this time.";
+Thomas,"Yes, Jennifer. I hope so too. We've been practicing a lot.";
+Robert,"That's the spirit, team! Let's gear up for the game.";
+Brian,"I've heard the opposing team has a strong defense.";
+Anthony,"Yes, Brian. But we have a strong attack. We can win this.";
+Robert,"Exactly, Anthony. Let's keep our spirits high.";
+Jennifer,"Looking forward to the game. See you all there!";
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Soccer Enthusiasts",["Robert", "William", "Jennifer", "Thomas", "Brian", "Anthony"],"22.07.2021 18:00:00"

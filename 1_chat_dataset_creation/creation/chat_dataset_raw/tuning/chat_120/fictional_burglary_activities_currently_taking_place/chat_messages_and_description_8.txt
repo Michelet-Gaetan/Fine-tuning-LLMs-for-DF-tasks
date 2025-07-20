@@ -1,0 +1,12 @@
+sender;content
+Robert;Just got the layout of the building. Looks complex.
+Michael;We need to get in unnoticed. Night time is the best.
+James;I've found a guy who can disable the alarms for us.
+Robert;Great. We need to work out the timing perfectly.
+Thomas;I can handle the security guards. They rotate every 30 mins.
+Michael;We need to be out before the police respond. That gives us 15 minutes.
+James;The goods are kept in a vault. It's going to be tricky.
+Robert;Let's meet tomorrow to finalize the plan. We can't afford any mistakes.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Operation Nightfall;[Robert, Michael, James, Thomas];02.02.2022 19:45:30

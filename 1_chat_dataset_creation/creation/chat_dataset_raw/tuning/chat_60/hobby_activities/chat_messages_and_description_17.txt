@@ -1,0 +1,12 @@
+sender,content
+Robert,"Hey guys, what are your plans for this weekend?"
+Jennifer,"Hi Robert, I was thinking of going bird-watching. There's a park nearby that is perfect for it."
+Paul,"That sounds interesting, Jennifer. I might join you. As for me, I'll probably spend some time painting. It's been awhile."
+Robert,"Awesome, I was planning to do some gardening. Maybe we can share pictures of our activities afterward."
+Jennifer,"That's a great idea, Robert. I'll definitely take some pictures of the birds I spot."
+Paul,"Count me in. I'd love to see your garden, Robert, and the birds you spot, Jennifer."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Weekend Hobby Plans",["Robert", "Jennifer", "Paul"],"15.03.2022 18:05:30"

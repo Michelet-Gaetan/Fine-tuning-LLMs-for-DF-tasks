@@ -1,0 +1,19 @@
+sender,content
+Robert,"We're at the location."
+Mark,"Copy that. Remember, stealth is the key here."
+Robert,"I've got eyes on the target. No signs of security."
+Mark,"Proceed with caution, Robert. Any mistake can cost us big."
+Robert,"I'm in. Heading to the vault now."
+Mark,"Great. Keep me updated."
+Robert,"I've reached the vault. It's a biometric lock."
+Mark,"I'll send you the override code. Hold tight."
+Robert,"Got the code. The vault is open."
+Mark,"Good job. Get the goods and let's wrap this up."
+Robert,"Goods secured. Heading to the exit now."
+Mark,"I'll meet you at the rendezvous point. Stay safe."
+Robert,"Roger that."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Operation Gold Heist",["Robert", "Mark"],"20.11.2022 22:30:00"

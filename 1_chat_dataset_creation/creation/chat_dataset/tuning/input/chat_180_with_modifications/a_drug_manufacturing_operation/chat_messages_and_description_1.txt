@@ -1,0 +1,14 @@
+sender;content
+Robert;Hey John, how's the new project?
+John;Hello Robert, it's going well. We're almost ready for the first stage.
+Robert;Excellent, what's the timeline we're looking at?
+John;We should be ready to start production in about two weeks.
+Robert;Great, keep me updated on the progress. Any challenges so far?
+John;There are a few minor issues but nothing we can't handle. The team is working round the clock.
+Robert;Good to hear. Let's keep everything smooth and low-key, as always.
+John;Absolutely, Robert. We're on top of it.
+Robert;Alright John, let's touch base again next week. Keep up the good work.
+John;Will do, Robert. Talk to you soon.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Project Alpha;[Robert, John];23.03.2021 10:05:30

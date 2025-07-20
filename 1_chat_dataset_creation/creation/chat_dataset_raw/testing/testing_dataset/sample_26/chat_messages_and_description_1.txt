@@ -1,0 +1,15 @@
+sender,content
+Jaiden,"Hey guys, do you have any idea about the math homework?"
+Cindy,"Yes, Jaiden. It's about the quadratic equations we studied in class today."
+Tre,"I'm still confused about those equations. Can someone explain the formula to me again?"
+John,"Sure Tre, the quadratic formula is: x = [-b ± sqrt(b^2 - 4ac)] / (2a)."
+Cindy,"That's right, John. And 'a' is the coefficient of x^2, 'b' is the coefficient of x, and 'c' is the constant."
+Tre,"Oh, I see now. Thanks, Cindy and John."
+Jaiden,"No problem, Tre. Do you guys want to study together for the test next week?"
+John,"That sounds like a good idea, Jaiden. Let's meet up in the library after school tomorrow."
+Cindy,"I'm in too. I think it would be really helpful."
+Tre,"Count me in as well. Let's ace this test together!"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"High-School Math Study Group",["Jaiden", "Cindy", "Tre", "John"],"15.11.2022 16:30:00"

@@ -1,0 +1,16 @@
+sender;content
+Thomas;Hey Kris, have you seen the new season of 'Stranger Things' yet?
+Kristopher;Hey Tom, not yet. Is it good?
+Thomas;It's amazing! They've really outdone themselves this time.
+Kristopher;I'll have to check it out then. Have you seen 'The Witcher'?
+Thomas;No, I haven't. Is it worth a watch?
+Kristopher;Absolutely, if you're into fantasy and action, it's a must-watch.
+Thomas;I'll definitely put it on my list then. Thanks for the recommendation.
+Kristopher;No problem! Let me know what you think when you see it.
+Thomas;Sure, will do! By the way, have you seen 'The Crown'?
+Kristopher;Not yet, but I've heard good things about it. Is it good?
+Thomas;I personally enjoyed it. It's a great historical drama.
+Kristopher;I'll add it to my list. Thanks for the suggestion, Tom.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;TV Show Discussions;[Thomas, Kristopher];12.05.2022 16:20:30

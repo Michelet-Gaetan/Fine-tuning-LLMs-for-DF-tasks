@@ -1,0 +1,15 @@
+sender,content
+John,Hey Michael, are you free for a meeting next week?;
+Michael,Hi John, sure, what day are you thinking?;
+John,I'm thinking either Monday or Wednesday, any preference?;
+Michael,Monday works better for me. What time?;
+John,How about 10am?;
+Michael,10am sounds perfect. Where should we meet?;
+John,Let's meet at our usual coffee shop. Does that work for you?;
+Michael,Yes, that's perfect. See you on Monday then!;
+John,Great, see you on Monday at 10am at the coffee shop!;
+Michael,Looking forward to it, John.
+
+-----
+application,chat group name, list of participants, first message sending datetime
+WhatsApp,Work Meeting,[John, Michael], 21.04.2022 09:00:00

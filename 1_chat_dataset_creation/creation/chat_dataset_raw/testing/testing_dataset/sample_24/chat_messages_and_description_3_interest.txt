@@ -1,0 +1,14 @@
+sender,content
+Meredith,"Hey guys, what are you up to this weekend?";
+Roy,"Not sure yet, got any plans Mer?";
+Steven,"I was thinking about going to the park and maybe do some outdoor activities";
+Meredith,"That sounds great! We could make a picnic out of it";
+Roy,"I'm in! I can bring some snacks and drinks";
+Steven,"Perfect! I'll bring a frisbee and some games";
+Meredith,"Great! Let's meet at the park at 10:00 AM on Saturday";
+Roy,"Sounds like a plan. See you guys then!";
+Steven,"Looking forward to it! See you on Saturday"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Weekend Activities",["Meredith", "Roy", "Steven"],"22.09.2022 14:30:00"

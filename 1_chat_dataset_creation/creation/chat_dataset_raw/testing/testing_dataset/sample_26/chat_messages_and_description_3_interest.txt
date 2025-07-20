@@ -1,0 +1,13 @@
+sender, content
+Jaiden, "Hey guys! Have you tried out the new painting techniques I sent last week?";
+Cindy, "Yes, I have! The wet-on-wet technique was quite tricky but fun to learn.";
+Tre, "I'm still struggling with the dry brush technique. Any tips?";
+John, "I found watching some tutorial videos really helpful, Tre. Try that.";
+Cindy, "Also, always remember to use a stiff brush and very little paint for dry brushing.";
+Jaiden, "Great tips, guys! Let's keep practicing and share our artworks next week.";
+John, "Sounds like a plan. Looking forward to it.";
+Tre, "Me too. Happy painting, everyone!"
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, Art Enthusiasts, ["Jaiden", "Cindy", "Tre", "John"], 12.03.2022 18:30:00

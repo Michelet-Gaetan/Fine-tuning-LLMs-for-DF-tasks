@@ -1,0 +1,15 @@
+sender,content
+Robert,"We need a plan for the heist";
+Mark,"Agreed. We should focus on the security systems first";
+Jennifer,"I can handle that. I've been studying their systems for a while";
+Mark,"Perfect, Jennifer. What about the vault?";
+Robert,"I know a guy who's good with locks. I'll bring him in";
+Jennifer,"And the getaway?";
+Mark,"I have a few ideas. We'll need a fast car and a good driver";
+Robert,"I'll drive. I used to race in my younger days";
+Jennifer,"Sounds like we have a plan then. Let's meet tomorrow to finalize everything";
+Mark,"Agreed. Let's do this. Tomorrow, 8 PM, at the usual place".
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Heist Masters",['Robert', 'Mark', 'Jennifer'],"12.06.2022 21:30:00"

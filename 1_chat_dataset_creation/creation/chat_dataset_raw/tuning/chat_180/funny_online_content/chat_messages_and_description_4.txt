@@ -1,0 +1,15 @@
+sender,content
+James,"Hey guys, have you seen the latest cat video on YouTube?"
+Kimberly,"No, James. Share the link."
+James,"Okay, here it is: www.youtube.com/watch?v=12345"
+Mark,"That's hilarious! The cat's reaction is priceless."
+Kimberly,"Oh my goodness! That's too funny! I can't stop laughing."
+James,"I know, right? That cat has some serious skills."
+Mark,"It's the perfect mid-week pick-me-up."
+Kimberly,"Definitely! We should create a playlist of funny videos."
+James,"Great idea, Kimberly. Let's do it!"
+Mark,"I'll start. Here's another funny video: www.youtube.com/watch?v=67890"
+James,"That's just too good, Mark. This is why I love the internet."
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,The Laughing Squad,[James, Kimberly, Mark],01.05.2022 15:45:30

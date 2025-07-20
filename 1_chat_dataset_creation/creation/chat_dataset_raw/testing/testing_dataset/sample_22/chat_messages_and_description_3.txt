@@ -1,0 +1,16 @@
+sender,content
+Kenneth,"Good morning, Rebecca and Evelyn"
+Rebecca,"Morning Kenneth, how's the project going?"
+Kenneth,"It's on track, but we're facing some minor issues with the software"
+Evelyn,"I've noticed that too, Kenneth. It's been quite slow lately"
+Rebecca,"Should we report this to IT?"
+Kenneth,"Yes, please do. In the meantime, let's try to make do with what we have"
+Evelyn,"Agreed. I'll also make a list of all the issues we've been having"
+Rebecca,"Sounds like a plan. Let's also schedule a meeting to discuss this"
+Kenneth,"Good idea, Rebecca. Let's meet at 2pm"
+Evelyn,"Works for me. Looking forward to resolving these issues"
+Rebecca,"Same here. See you both at 2pm"
+Kenneth,"See you then. Have a productive morning"
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Project Alpha,['Kenneth', 'Rebecca', 'Evelyn'],'04.10.2021 08:00:00'

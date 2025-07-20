@@ -1,0 +1,14 @@
+sender;content
+John;We need a plan, any ideas?
+Michael;I was thinking about the museum. It has a new exhibit, lots of valuable stuff.
+John;Sounds risky, but I like it. How do we get past security?
+Michael;I have a contact who can get us the blueprints. We'll find a way in.
+John;What about the alarms?
+Michael;I know a guy who's good with tech, he can handle it.
+John;And the getaway?
+Michael;We'll need a fast car, and a driver who knows the city like the back of his hand.
+John;I know just the person. Let's meet tomorrow to discuss the details.
+Michael;Alright. Be careful, John. We can't afford any mistakes.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Heist Planning;[John, Michael];12.06.2022 14:05:00

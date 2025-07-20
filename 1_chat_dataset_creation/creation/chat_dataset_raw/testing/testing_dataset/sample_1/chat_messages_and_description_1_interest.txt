@@ -1,0 +1,16 @@
+sender,content
+Trinity,Hey Glenda, you got the stuff?
+Glenda,Yeah, I have it. When and where?
+Trinity,Let's meet at the usual spot. Tomorrow at 9.
+Glenda,Alright. But this is the last time, Trinity.
+Trinity,What? Why's that?
+Glenda,I'm getting out of the business. Too risky.
+Trinity,What about the team?
+Glenda,They'll manage. This isn't a game anymore, Trinity.
+Trinity,You're right. Maybe it's time for a change.
+Glenda,Exactly. See you tomorrow, Trinity.
+Trinity,See you, Glenda.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,The Final Deal,[Trinity, Glenda],03.04.2022 20:05:00

@@ -1,0 +1,15 @@
+sender,content
+Alex,"Hey guys, have you listened to the new album by The Weeknd?"
+Sydney,"Yeah, I did. His sound has really evolved, I love it!"
+Salik,"I haven't yet. Is it worth a listen?"
+Aliyah,"Definitely, Salik. He has really outdone himself this time."
+Chester,"I'm more of a classic rock guy, but I'll give it a listen."
+Alex,"That's the spirit, Chester. Music is all about exploring different genres."
+Sydney,"True, Alex. By the way, has anyone been to a live concert recently?"
+Salik,"No, but I'm planning to attend the Jazz festival next month."
+Aliyah,"That sounds exciting, Salik. I wish I could join."
+Chester,"I attended a Metallica concert last year. It was epic!"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Music Maniacs","['Alex', 'Sydney', 'Salik', 'Aliyah', 'Chester']","12.09.2022 18:30:00"

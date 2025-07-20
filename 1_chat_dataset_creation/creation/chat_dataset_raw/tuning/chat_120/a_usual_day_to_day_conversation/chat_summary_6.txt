@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John and Richard are chatting about their day and plans for the evening.;
+
+John and Richard ask each other about their day, which are both usual. John then asks Richard about his evening plans, and Richard explains that will just watch tv shows. On the other hand, James might cook something special, maybe an italian dish. Richard finally requests James to share the recipe later on, and James accepts.;
+
+The conversation between John and Richard revolves around their daily routines. They start by checking on each other's wellbeing, followed by John sharing about his usual day at work. They discuss their evening plans, where Richard mentions he plans to watch TV shows while John contemplates cooking an Italian dish. John also promises to share the recipe with Richard later. They end the conversation by deciding to catch up later and wishing each other a great day.

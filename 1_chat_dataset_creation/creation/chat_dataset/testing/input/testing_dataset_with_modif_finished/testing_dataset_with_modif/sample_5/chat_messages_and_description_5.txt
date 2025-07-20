@@ -1,0 +1,11 @@
+sender;content
+Joshua;Hey Renea, how's it going with the new math teacher?
+Renea;Hi Joshua! She's really good, explains everything clearly. But the homework is quite a lot.
+Joshua;Yeah, I've heard she's strict. Think we'll have a lot of tests?
+Renea;I guess so. But I think it's better to understand the material than just memorizing it.
+Joshua;You're right. Have you started studying for the biology test yet?
+Renea;Not yet, but I've gathered all my notes. We should study together, what do you think?
+Joshua;That sounds like a good idea, Renea. Let's do it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;High School Matters;[Joshua, Renea];25.09.2022 15:30:00

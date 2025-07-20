@@ -1,0 +1,14 @@
+sender,content
+Meredith,"Hey guys, I just saw that the Arctic Monkeys are doing a concert next month!"
+Roy,"Wow, really? That's awesome. I've always wanted to see them live."
+Steven,"Same here. Their last album was amazing."
+Meredith,"Should we plan to go together?"
+Roy,"I'm in. Let's do it."
+Steven,"Me too. Let's start planning."
+Meredith,"Great, I'll start looking at tickets."
+Roy,"And I can check out accommodation and travel."
+Steven,"Sounds like a plan. This is going to be fun."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Concert Buddies,[Meredith, Roy, Steven],22.05.2021 14:30:00

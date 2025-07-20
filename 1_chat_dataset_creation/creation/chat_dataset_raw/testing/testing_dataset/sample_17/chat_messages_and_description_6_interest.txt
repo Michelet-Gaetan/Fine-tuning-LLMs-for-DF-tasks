@@ -1,0 +1,17 @@
+sender;content
+Helen;"Hey Karen, we need to discuss our next steps."
+Karen;"I agree, Helen. The previous operation didn’t go as planned."
+Helen;"Yes, we need a new location for manufacturing. Any ideas?"
+Karen;"I've found a potential place. It's an old barn, secluded and not in use."
+Helen;"Sounds good. We need to ensure it has the necessary power supply."
+Karen;"Already checked, it's perfect for our needs."
+Helen;"Great. Let's plan a visit to check it out in person."
+Karen;"Agreed. We should also think about security measures."
+Helen;"Absolutely. We can't afford any unexpected surprises."
+Karen;"I'll contact our guy about the security then."
+Helen;"Perfect. Let's keep this operation as discrete as possible."
+Karen;"Absolutely, Helen. We can't afford any slip-ups."
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;"Operation Next Step";["Helen", "Karen"];21.06.2022 16:34:22

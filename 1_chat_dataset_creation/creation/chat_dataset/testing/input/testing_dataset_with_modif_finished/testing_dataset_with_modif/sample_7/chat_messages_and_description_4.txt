@@ -1,0 +1,14 @@
+sender;content
+Eusebia;Hi Azaiah, I have been having some health issues lately.
+Azaiah;Oh no Eusebia, sorry to hear that. What seems to be the problem?
+Eusebia;I have been feeling very tired and weak. I also have frequent headaches.
+Azaiah;It sounds like you need to see a doctor, Eusebia. It could be something simple like a vitamin deficiency, but it's best to get checked.
+Eusebia;Yes, I agree. I have scheduled an appointment for next week.
+Azaiah;That's good, Eusebia. In the meantime, try to eat healthily and rest as much as you can.
+Eusebia;I will. Thank you for your concern, Azaiah.
+Azaiah;Of course, Eusebia. Health is important. Let me know how it goes, okay?
+Eusebia;I definitely will. Thanks, Azaiah.
+Azaiah;You're welcome, Eusebia. Take care.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Health Chat;[Eusebia, Azaiah];20.02.2022 10:15:30

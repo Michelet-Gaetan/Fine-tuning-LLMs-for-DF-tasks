@@ -1,0 +1,20 @@
+sender,content
+Reba,"Hi everyone, what hobbies have you been into lately?";
+Nadir,"I've been getting into gardening. It's so rewarding to see the plants grow.";
+Ronnie,"That's cool, Nadir! I've been into cycling recently. It's a great way to stay fit and enjoy the outdoors.";
+Sheree,"I've been doing a lot of cooking and trying out new recipes.";
+Robert,"That's awesome, Sheree! I've been into painting, it's a great stress-reliever for me.";
+Nadir,"Robert, I'd love to see some of your paintings sometime!";
+Robert,"Sure thing, Nadir! I'd be happy to share.";
+Reba,"It's great to hear everyone's hobbies. They all sound so interesting!";
+Ronnie,"Yes, maybe we can all try out each other's hobbies sometime.";
+Sheree,"That sounds like a great idea, Ronnie! Let's do it.";
+Reba,"Count me in! I'd love to learn more about gardening, Nadir.";
+Nadir,"Absolutely, Reba! Happy to share my knowledge.";
+Ronnie,"And I'd be happy to teach anyone who's interested in cycling!";
+Sheree,"And anyone up for a cooking lesson?";
+Robert,"I'm in! And I'd be happy to teach anyone who wants to learn painting."
+
+-----
+application,chat group name, list of participants (in a list), first message sending datetime (dd.mm.yyyy hh:mm:ss)
+Telegram,"Hobby Chat", ["Reba", "Nadir", "Ronnie", "Sheree", "Robert"], "12.09.2021 18:00:00"

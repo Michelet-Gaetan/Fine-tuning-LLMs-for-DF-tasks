@@ -1,0 +1,17 @@
+sender;content
+James;I've got a new shipment coming in.
+Robert;What's the ETA, James?
+James;Should be here by tomorrow evening.
+Michael;Remember to be careful, James. We can't afford any mistakes.
+James;Understood, Michael. Everything will be handled smoothly.
+Robert;We'll meet at the usual spot then?
+James;Yes, that's the plan. Tomorrow at 9PM.
+Michael;Alright. Make sure you're not followed. We need to keep this operation under the radar.
+James;Absolutely, Michael. I'll take all necessary precautions.
+Robert;Good. We'll see you tomorrow then.
+James;See you guys tomorrow.
+Michael;Stay safe, James.
+James;Will do, Michael. Thanks.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Operation Nightfall;[James, Robert, Michael];05.05.2021 18:35:22

@@ -1,0 +1,14 @@
+sender;content
+Trinity;Hey Glenda, have you played the new release from Rockstar Games?
+Glenda;Yes Trinity, I've started playing it. The graphics are amazing!
+Trinity;I know right! I love the level of detail. How far are you in the game?
+Glenda;Well, I just completed the third mission. The storyline is really engaging.
+Trinity;Agreed! I love how they've incorporated different elements. Have you tried the multiplayer mode yet?
+Glenda;No, not yet. But I've heard it's a lot of fun.
+Trinity;It is! You should definitely give it a try. Maybe we can play together sometime?
+Glenda;Sure, that sounds like fun! I'll let you know once I'm ready for multiplayer.
+Trinity;Great! Looking forward to it. Let's conquer the virtual world together!
+Glenda;Indeed! It's going to be a blast!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Video Game Chat;[Trinity, Glenda];10.03.2022 15:30:00

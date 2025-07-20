@@ -1,0 +1,15 @@
+sender,content
+Reba,"Hello everyone, have you seen the latest news on climate change?";
+Nadir,"Yes, I just read an article about it. The situation is becoming more critical.";
+Ronnie,"I agree, Nadir. It's alarming how rapidly the Arctic ice is melting.";
+Sheree,"Not just the Arctic, even our local weather patterns have been so unpredictable lately.";
+Robert,"True Sheree, it's high time we start taking some serious action.";
+Reba,"I was thinking the same. Maybe we should start by minimizing our carbon footprint.";
+Nadir,"That's a good start, Reba. We should also encourage others to do the same.";
+Ronnie,"Agreed. Also, awareness about the situation is crucial. Many people are still unaware of the gravity of the situation.";
+Sheree,"That's right Ronnie. More awareness campaigns are needed.";
+Robert,"Let's each do our part and hope for the best.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Current Affairs Discussion,[Reba, Nadir, Ronnie, Sheree, Robert],"15.12.2021 09:30:00"

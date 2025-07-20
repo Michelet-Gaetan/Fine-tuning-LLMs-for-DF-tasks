@@ -1,0 +1,15 @@
+sender, content
+Mae; Hey Brent, did you finish the math homework?
+Brent; Hey Mae, yeah I did. Did you find it difficult too?
+Mae; Absolutely, I’m not sure I did the last question right. Can we review it tomorrow?
+Brent; Sure, we can go over it before class. I also had a hard time with it.
+Mae; Thanks, Brent. Also, have you decided on a topic for the History project?
+Brent; Not yet, any suggestions?
+Mae; What about the French Revolution? I think we can find a lot of resources on it.
+Brent; Sounds good to me. Let’s start researching tomorrow after we review the math homework.
+Mae; Perfect! See you tomorrow, Brent.
+Brent; See you, Mae.
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp; High School Homework; Mae, Brent; 15.09.2021 19:05:32

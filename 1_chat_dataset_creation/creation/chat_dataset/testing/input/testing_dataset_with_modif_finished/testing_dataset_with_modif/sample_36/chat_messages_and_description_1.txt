@@ -1,0 +1,13 @@
+sender;content
+Victoria;Hey everyone, has anyone read 'The Great Gatsby'?
+Kamrin;Hi Victoria, I have. I found it to be a very intriguing exploration of the American Dream.
+Juandiego;I haven't read it. Would you guys recommend it for someone who's more into sci-fi?
+Jacqueline;Well, it's not a sci-fi book, Juandiego. But it's a classic worth reading.
+Victoria;I agree with Jacqueline. It's not sci-fi but it's still a fascinating read.
+Kamrin;Juandiego, maybe you can give it a try and tell us what you think.
+Jacqueline;That's a good idea. It's always interesting to hear diverse opinions.
+Juandiego;Alright, I'll add it to my reading list and let you know my thoughts when I'm done.
+Victoria;Sounds like a plan, looking forward to hearing your thoughts, Juandiego!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Book Lovers Club;[Victoria, Kamrin, Juandiego, Jacqueline];21.06.2021 17:30:00

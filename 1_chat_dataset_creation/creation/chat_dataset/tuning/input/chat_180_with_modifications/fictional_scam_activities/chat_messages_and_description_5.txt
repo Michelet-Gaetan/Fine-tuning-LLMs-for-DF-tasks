@@ -1,0 +1,16 @@
+sender;content
+David;Hey, have you heard about the new investment opportunity?
+Jennifer;No, what's it about?
+David;It's a new crypto coin. You can double your investment in no time.
+Jennifer;Sounds too good to be true.
+David;Trust me, it's legit. I've already made a huge profit.
+Jennifer;How do I join?
+David;Just send me your credit card details. I will handle the rest.
+Jennifer;Wait, that doesn't sound safe. Why do you need my credit card details?
+David;It's just a process. Don't worry, your info will be safe with me.
+Jennifer;I think I need to think about it.
+David;Sure, but don't take too long. The opportunity won't last forever.
+Jennifer;I'll let you know, David. Thanks for the info.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Investment Opportunities;[David, Jennifer];08.06.2022 16:13:12

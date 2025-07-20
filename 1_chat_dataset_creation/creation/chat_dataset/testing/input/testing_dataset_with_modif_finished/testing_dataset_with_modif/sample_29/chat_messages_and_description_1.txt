@@ -1,0 +1,17 @@
+sender;content
+Willie;Hey Mary, have you seen the latest video on PewDiePie's channel?
+Mary;Hi Willie! No, I haven't had the chance yet. Is it worth watching?
+Willie;Absolutely! He did a hilarious review of some old video games.
+Mary;Sounds like fun! I'll definitely check it out tonight.
+Willie;Cool! Let me know what you think.
+Mary;Sure, Willie. Have you seen the new video from TED Talks?
+Willie;No, not yet. What's it about?
+Mary;It's about the impact of online videos on education. Very insightful.
+Willie;Sounds interesting. I'll watch it later tonight.
+Mary;Great! We can discuss it tomorrow.
+Willie;Sure thing, Mary. Looking forward to it.
+Mary;Me too, Willie. Have a good night!
+Willie;You too, Mary. Goodnight!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Online Videos Discussion;[Willie, Mary];02.10.2021 18:30:00

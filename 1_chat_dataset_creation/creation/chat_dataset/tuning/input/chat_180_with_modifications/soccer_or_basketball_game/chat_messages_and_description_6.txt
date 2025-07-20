@@ -1,0 +1,14 @@
+sender;content
+John;Hey, did you catch the soccer game last night?
+Michael;Yeah, I did. It was a thrilling match!
+John;I know, right? That last-minute goal was insane!
+Michael;Absolutely! The goalkeeper had no chance.
+John;And the way they controlled the game...just brilliant!
+Michael;Yes, their strategy was top-notch. The other team was completely outplayed.
+John;What do you think they could have done better though?
+Michael;Hmm, perhaps their defense could have been tighter. They let a few risky passes through.
+John;True, there's always room for improvement. Looking forward to the next game!
+Michael;Me too! It's going to be a great season.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Soccer Fans Chat;[John, Michael];02.06.2021 19:45:30

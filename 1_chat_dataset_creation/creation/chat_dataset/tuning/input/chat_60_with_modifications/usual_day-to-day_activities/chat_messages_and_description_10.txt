@@ -1,0 +1,18 @@
+sender;content
+John;Morning everyone, how's everyone doing?
+Richard;Hey John, just getting ready for work. How about you?
+John;Same here, Richard. Have a meeting in an hour.
+Patricia;Morning guys! Just dropping off the kids at school.
+Robert;Good morning! I'm already at work, got an early start today.
+John;That's great, Robert. Patricia, drive safe.
+Patricia;Thanks, John. Will do.
+Robert;Anyone got plans for the weekend?
+Richard;Not really Robert, maybe just rest and watch some movies.
+John;I might go for a hike, the weather seems nice.
+Patricia;Sounds fun, John. I might take the kids to the park.
+Robert;That's nice. Have a great day everyone!
+Richard;You too, Robert. See you guys later.
+John;See you guys. Have a good day.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Daily Catch-up;[John, Richard, Patricia, Robert];20.08.2021 08:15:00

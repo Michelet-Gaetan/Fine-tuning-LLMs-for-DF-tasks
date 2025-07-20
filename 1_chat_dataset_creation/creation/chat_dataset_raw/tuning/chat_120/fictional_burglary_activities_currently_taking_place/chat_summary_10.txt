@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John, Robert, Jessica, Daniel, Mary, and Thomas are planning a robbery targeting a mansion on Oak Street.;
+
+John wonders if others also identified a mansion on Oak Street as a potential target. Robert answers that yes. According to him, this is a quiet place, and the owners have valuables. Jessica mentions that these owners will also be gone during a few weeks. Daniel then worries about the security systems, but Mary might know someone to handle it. John finally proposes to meet that night to plan the details.;
+
+Sure, the conversation is among six individuals: John, Robert, Jessica, Daniel, Mary, and Thomas. They are discussing a potential burglary at a mansion on Oak Street, which appears to be a promising target due to its quiet neighborhood and wealthy owners who are currently away. Daniel mentions the presence of a security system, but Mary suggests she knows someone who can help bypass it. The group agrees to meet later to further discuss and plan this operation. This conversation took place on Telegram in a group named "Oak Street Operation" on the 18th of April, 2022 at 8:45am.

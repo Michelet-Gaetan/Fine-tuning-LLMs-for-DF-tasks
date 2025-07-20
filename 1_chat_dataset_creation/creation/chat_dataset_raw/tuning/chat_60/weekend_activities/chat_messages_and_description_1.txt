@@ -1,0 +1,16 @@
+sender,content
+"Robert","Hey John, what are you doing this weekend?"
+"John","Hey Robert, I'm not sure yet. What about you?"
+"Robert","I was thinking of going for a hike. Would you like to join?"
+"John","That sounds like a great idea. Where are you planning to hike?"
+"Robert","I was considering the trails at Blue Ridge Mountains. It's beautiful this time of year."
+"John","I've heard so much about it but never been there. I'm in!"
+"Robert","Awesome, let's plan for Saturday. We can leave early morning."
+"John","Sounds like a plan. I'll bring some sandwiches for us."
+"Robert","Great. I'll handle the drinks then. See you Saturday."
+"John","See you Saturday, Robert. Looking forward to it."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+"WhatsApp","Weekend Warriors",["Robert", "John"],"12.05.2021 16:20:00"

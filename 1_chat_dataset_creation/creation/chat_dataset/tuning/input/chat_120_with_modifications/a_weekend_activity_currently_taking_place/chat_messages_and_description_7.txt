@@ -1,0 +1,15 @@
+sender;content
+James;Hey guys, anyone up for a hike this weekend?
+Robert;Sounds good James. Where are you thinking?
+James;What about the Appalachian Trail?
+Michael;I'm in! What time are we leaving?
+James;How does 8am sound?
+Robert;Perfect for me. We'll need to pack some food and drinks
+Michael;I can take care of the food. Robert, can you handle the drinks?
+Robert;Sure, I'll bring water and some energy drinks
+James;Great, it's settled then. Looking forward to it!
+Michael;Same here! See you guys at 8am on Saturday.
+Robert;See you then!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Warriors;[James, Robert, Michael];20.04.2022 14:34:27

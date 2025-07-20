@@ -1,0 +1,12 @@
+sender;content
+William;Hey guys, have you seen the latest news on the Mars Rover?
+Sheila;Yes, I just read about it. They found evidence of ancient water, right?
+Herman;That's correct, Sheila. NASA's perseverance rover has found signs of ancient water on Mars. It's fascinating!
+William;Indeed, it's a huge step forward in our search for extraterrestrial life.
+Sheila;It's amazing to think about what other secrets the universe holds.
+Herman;I agree. And with advancements in technology, we're able to explore more of it than ever before.
+William;Can't wait to see what the future holds for space exploration. 
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Space Enthusiasts;[William, Sheila, Herman];16.04.2021 08:23:00

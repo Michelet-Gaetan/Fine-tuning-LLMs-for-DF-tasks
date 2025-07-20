@@ -1,0 +1,15 @@
+sender,content
+John,Hey Michael, any plans for the weekend?;
+Michael,Hi John, I was thinking about going hiking. Want to join?;
+John,Sounds awesome! Which trail are you thinking about?;
+Michael,I was considering the Blue Ridge trail. It's quite scenic this time of the year.;
+John,I've heard good things about it. Let's do it!;
+Michael,Great! We can meet at my place at 7am on Saturday.;
+John,Perfect. I'll bring some snacks and water.;
+Michael,Great, I'll take care of the map and first aid kit. See you then!;
+John,See you on Saturday, Michael. Looking forward to it!
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Weekend Hiking,[John, Michael],22.09.2022 18:45:00

@@ -1,0 +1,17 @@
+sender,content
+"James","We need to discuss a new route for the shipment"
+"Robert","I agree, the old one has become too risky"
+"Michael","Let's use the southern route, it's less monitored"
+"James","That's a good idea, Michael. But we need a reliable transporter"
+"Barbara","I know a guy, trustworthy and discreet. Used to work in smuggling"
+"Robert","Sounds good Barbara. Let's arrange a meeting"
+"Michael","I will handle the meeting. Let's not leave any loose ends"
+"James","Agreed, Michael. We need to play this safe"
+"Barbara","I'll contact the transporter and set up the meeting"
+"Robert","Keep us updated, Barbara"
+"James","This plan needs to work, we can't afford any mistakes"
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+"Telegram","Trading Routes",["James", "Robert", "Michael", "Barbara"],"05.05.2021 18:00:00"

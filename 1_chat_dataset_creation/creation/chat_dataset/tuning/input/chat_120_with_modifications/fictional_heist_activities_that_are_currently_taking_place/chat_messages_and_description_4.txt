@@ -1,0 +1,16 @@
+sender;content
+John;We've got our eyes on the prize, are you in?
+Robert;You know I can't resist a good heist. What's the plan?
+John;We hit the Museum of Fine Arts, midnight. The new exhibit worth millions.
+Robert;Security?
+John;Top-notch, but I've got a guy. He'll disable the system for a 10-minute window.
+Robert;That's tight. We need a backup plan.
+John;We have one. If things go south, we have a getaway car at the back entrance.
+Robert;Driver?
+John;Betty. Best in the business.
+Robert;Sounds solid. Let's do it.
+John;Great. We meet tomorrow to go over the details. No slip-ups, Robert.
+Robert;Don't worry, John. I've got this.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Heist Planners;[John, Robert];01.04.2022 20:15:00

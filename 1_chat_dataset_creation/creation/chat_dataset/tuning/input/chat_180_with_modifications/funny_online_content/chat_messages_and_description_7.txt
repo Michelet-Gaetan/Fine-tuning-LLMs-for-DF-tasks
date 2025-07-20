@@ -1,0 +1,16 @@
+sender;content
+James;Hey guys, have you seen the latest cat video on YouTube?
+Michael;Not yet, James. Is it another one of those videos with cats being scared of cucumbers?
+Robert;Haha, I saw that one. It's super funny. The cat jumped like 3 feet in the air!
+James;No, it's not a cucumber one. It's a cat trying to catch a laser pointer. It's hilarious!
+Matthew;I saw that one! The cat keeps jumping and spinning around. It's so funny!
+Elizabeth;Oh, I need to see this. I could use a good laugh.
+Michael;Here's the link: www.youtube.com/watch?v=dQw4w9WgXcQ
+Robert;Classic Rickroll, Michael! Nice try.
+James;Haha, good one, Michael.ss
+Matthew;Michael, you got us there!
+Elizabeth;I actually fell for it, Michael. Good one!
+Michael;Glad you guys liked it. Always here for the laughs.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Funny Video Squad;[James, Michael, Robert, Matthew, Elizabeth];01.10.2021 19:30:00

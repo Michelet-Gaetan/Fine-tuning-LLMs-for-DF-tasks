@@ -1,0 +1,14 @@
+sender;content
+Robert;Hey, do we have the shipment ready for tonight?
+Michael;Yes, everything is in order. Just checking the final details now.
+Robert;Great. Remember, we can't afford any mistakes.
+Michael;I know, I know. Relax, we've done this a hundred times.
+Robert;Not like this, we haven’t. This is the biggest shipment we’ve ever handled.
+Michael;And we're ready for it. Trust me.
+Robert;I do, just keep an eye out for anything unusual.
+Michael;Will do. I'll let you know if anything changes.
+Robert;Good. We’re in this together, remember that.
+Michael;I know. We've got this, Robert.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Night Shipment;[Robert, Michael];02.03.2022 20:45:00

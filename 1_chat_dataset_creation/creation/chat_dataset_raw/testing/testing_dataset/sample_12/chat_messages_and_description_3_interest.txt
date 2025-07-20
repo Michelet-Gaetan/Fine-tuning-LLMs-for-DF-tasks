@@ -1,0 +1,20 @@
+sender,content
+Alex,"I've got a lead on the next mark. The Golden Griffin, it's called."
+Sydney,"Sounds exotic. What's the story?"
+Salik,"It's a priceless artifact, last seen in the vault of a billionaire tycoon."
+Aliyah,"Getting into that vault won't be easy. We'll need a solid plan."
+Chester,"And the right tools. I can handle that part."
+Alex,"Sydney, start gathering intel on the tycoon's security measures."
+Sydney,"On it. Salik, let's touch base later. We need to map out the building."
+Salik,"Agreed. Aliyah, can you work on possible escape routes?"
+Aliyah,"Sure thing. Chester, I'll need your help with that."
+Chester,"No problem, Aliyah. We've got this."
+Alex,"Let's meet tomorrow at dawn. Everyone knows their role."
+Sydney,"See you all tomorrow. Stay safe."
+Salik,"Good luck, everyone."
+Aliyah,"We'll need it. See you tomorrow."
+Chester,"Until then, team."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Heist Masters",["Alex", "Sydney", "Salik", "Aliyah", "Chester"],"05.08.2022 14:00:00"

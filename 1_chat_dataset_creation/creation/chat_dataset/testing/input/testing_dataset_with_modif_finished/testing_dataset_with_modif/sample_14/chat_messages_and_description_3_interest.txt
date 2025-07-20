@@ -1,0 +1,15 @@
+sender;content
+Brody;Just got the floor plans, how are we looking on the security system, Eric?
+Eric;Still working on it. The system is more complicated than we thought.
+John;We need to figure it out soon, we're on a tight schedule here.
+Eric;I know, John. I'm doing my best here.
+Brody;Let's stay focused, guys. Eric, you've got this. 
+Eric;Thanks, Brody. I think I've got a lead here. 
+John;Good. We need to be inside and out before the guards switch shifts.
+Brody;Remember, no one gets hurt. That's the rule.
+Eric;Of course. I've just cracked the system. We're all set.
+John;Perfect. Let's meet up and finalize everything.
+Brody;See you guys in an hour. Let's make this count.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Operation Diamond;[Brody, Eric, John];12.04.2021 14:15:30

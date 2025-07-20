@@ -1,0 +1,15 @@
+sender,content
+John,Hey Michael, how's it going?
+Michael,Hi John, I'm good. Just got back from the grocery store.
+John,Great. What did you get?
+Michael,Just the usual stuff: milk, eggs, bread, and some fruits.
+John,Did you remember to get the bananas?
+Michael,Yes, I did. Also got some fresh berries.
+John,Perfect! I was thinking of making a fruit salad for dessert tonight.
+Michael,Sounds delicious. I'm looking forward to it.
+John,Great! See you at dinner then.
+Michael,See you, John.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Day to Day Chats,[John, Michael],12.04.2022 10:15:30

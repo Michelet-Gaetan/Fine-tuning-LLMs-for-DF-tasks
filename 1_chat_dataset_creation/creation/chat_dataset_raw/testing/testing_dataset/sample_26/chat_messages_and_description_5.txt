@@ -1,0 +1,17 @@
+sender,content
+Jaiden,"Hey guys, I've started a new diet recently, any tips?";
+Cindy,"That's great Jaiden! Make sure you're eating a balanced diet, not just restricting certain food groups.";
+Tre,"Agreed with Cindy. Also, remember to drink lots of water.";
+John,"Absolutely! Exercise is just as important as diet too.";
+Jaiden,"Thanks for the tips! I've been trying to incorporate more fruits and veggies.";
+Cindy,"That's a good start, Jaiden. Also, try to cut down on processed foods.";
+Tre,"Yes, and don't forget about your protein intake. It's essential for muscle health.";
+John,"Good point, Tre. Protein is also important for repairing body tissues.";
+Jaiden,"I'll keep that in mind! I've also been considering taking supplements.";
+Cindy,"It's better to get your nutrients from food, but supplements can help fill the gaps.";
+Tre,"Just make sure to consult with a healthcare professional before starting any supplements.";
+John,"Agreed. Not all supplements are created equal, and some can even be harmful."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Health and Fitness Discussion",["Jaiden", "Cindy", "Tre", "John"],"20.04.2022 10:30:00"

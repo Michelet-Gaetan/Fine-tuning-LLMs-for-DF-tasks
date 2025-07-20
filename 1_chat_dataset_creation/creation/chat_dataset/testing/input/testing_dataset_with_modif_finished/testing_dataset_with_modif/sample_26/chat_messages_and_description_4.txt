@@ -1,0 +1,13 @@
+sender;content
+Jaiden;Hey guys, what are your plans for this weekend?
+Cindy;I'm thinking of going to the beach. Anyone wants to join?
+Tre;Sounds great, Cindy! I'll bring the snacks.
+John;I'm in too. I'll drive.
+Jaiden;Awesome! I'll bring the beach games.
+Cindy;Great. Let's meet at my place at 9 am.
+Tre;Perfect. See you all there.
+John;Looking forward to it.
+Jaiden;It's a date then. See you all on Saturday.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Plans;[Jaiden, Cindy, Tre, John];10.06.2022 18:30:00

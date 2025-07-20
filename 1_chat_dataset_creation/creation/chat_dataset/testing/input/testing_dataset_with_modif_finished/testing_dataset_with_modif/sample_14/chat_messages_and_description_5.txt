@@ -1,0 +1,13 @@
+sender;content
+Brody;Hey guys, have you played the new Call of Duty yet?
+Eric;Not yet, Brody. I've been hooked on the new Assassin's Creed.
+John;I've been playing CoD non-stop. It's awesome, Eric, you have to try it!
+Eric;Really, John? What's so good about it?
+John;The graphics are insane and there's more strategy involved now. Plus, the new maps are really cool.
+Brody;I second John. The game play has really improved. Plus, there's a lot of new weapons.
+Eric;Sounds interesting. I'll try it out soon.
+John;Great! Let's plan a game night soon.
+Brody;I'm in. Let's do this.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Game Chat;[Brody, Eric, John];01.05.2022 19:45:00

@@ -1,0 +1,15 @@
+sender,content
+Amanda,Hey Paulette, have you tried that new Italian restaurant downtown?
+Paulette,Hi Amanda, are you talking about Bella Napoli?
+Amanda,Yes, that's the one! I heard it's really good.
+Paulette,I've been there once. The pasta was amazing!
+Amanda,Really? What else did you try?
+Paulette,I also had the tiramisu. It was absolutely delicious.
+Amanda,That sounds great. I'm thinking of going there this weekend.
+Paulette,You should! And make sure to try their seafood risotto. It's their specialty.
+Amanda,Seafood risotto, got it. Thanks for the recommendation, Paulette!
+Paulette,You're welcome, Amanda. Enjoy your meal!
+
+-----
+application,chat group name, list of participants, first message sending datetime
+WhatsApp,Foodies Chat,[Amanda, Paulette], 14.02.2022 10:05:00

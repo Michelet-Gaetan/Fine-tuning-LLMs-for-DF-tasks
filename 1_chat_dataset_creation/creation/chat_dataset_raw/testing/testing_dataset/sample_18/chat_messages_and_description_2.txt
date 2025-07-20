@@ -1,0 +1,15 @@
+sender,content
+Parker,"Hey guys, have you seen the latest episode of The Mandalorian?";
+April,"Not yet, Parker. Planning to watch it tonight.";
+Alexander,"I've seen it! The graphics and storyline are just amazing!";
+Teegan,"No spoilers, Alexander! I haven't watched it yet either.";
+Kim,"Guys, let's plan a watch party for the next episode. What do you say?";
+Parker,"Sounds like a plan, Kim. Let's do it!";
+April,"I'm in! It'll be fun to watch together.";
+Alexander,"Count me in too. Can't wait for the next episode!";
+Teegan,"I'm in. Let's decide the time and platform.";
+Kim,"Great! Let's finalize the details in our next chat."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Entertainment Enthusiasts",['Parker', 'April', 'Alexander', 'Teegan', 'Kim'],"02.02.2022 18:00:00"

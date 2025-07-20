@@ -1,0 +1,20 @@
+sender, content
+Alex, "Hey guys, did anyone watch the football game last night?";
+Sydney, "I did, it was quite intense. I can't believe they went into overtime!";
+Salik, "I missed it, had to work late. Who won in the end?";
+Aliyah, "The Tigers did. They scored a goal in the last minute. It was really exciting!";
+Chester, "I knew it! I bet on them. They've been playing really well this season.";
+Alex, "Chester, you're always lucky with your bets.";
+Salik, "Can someone tell me the final score?";
+Sydney, "It was 3-2 for the Tigers.";
+Aliyah, "Salik, you should really try to catch the next game. It's against the Hawks, it's going to be a good one.";
+Chester, "I agree with Aliyah. The Hawks are a tough team, it's going to be a great match.";
+Alex, "Let's all watch it together. Game night at my place?";
+Sydney, "Sounds good to me. What about you guys?";
+Salik, "I'm in. Thanks, Alex.";
+Aliyah, "Me too. Looking forward to it.";
+Chester, "Count me in. I'll bring the snacks.";
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, "Sports Enthusiasts", [Alex, Sydney, Salik, Aliyah, Chester], 10.09.2021 19:45:00

@@ -1,0 +1,18 @@
+sender,content
+James,"We need a plan, gentlemen."
+Robert,"Agreed, James. We need to understand the layout first."
+John,"I can handle that. I have a contact who can get us the blueprints."
+Michael,"Good. Timing is crucial too. We need to know when the guards change shifts."
+David,"I can observe and get that information. Also, we need a getaway plan."
+William,"I'll arrange the vehicles. Two cars should do it, right?"
+Richard,"Yeah, that's good. But we need a backup plan as well. What if things go south?"
+Joseph,"Let's hope they don't, Richard. But you're right, a backup plan is necessary."
+Thomas,"We'll need a hacker too. To disable the security system."
+Christopher,"I know a guy. He's the best in the business."
+Mark,"Sounds like we're getting somewhere. Let's meet up and finalize the plan."
+Donald,"Agreed. Tomorrow, same time?"
+Robert,"Tomorrow it is then. Let's do this, gentlemen."
+James,"Stay safe. See you all tomorrow."
+-----
+application,chat group name,list of participants,first message sending datetime
+Signal,"The Heist Plan",["James", "Robert", "John", "Michael", "David", "William", "Richard", "Joseph", "Thomas", "Christopher", "Mark", "Donald"],"01.05.2022 15:00:00"

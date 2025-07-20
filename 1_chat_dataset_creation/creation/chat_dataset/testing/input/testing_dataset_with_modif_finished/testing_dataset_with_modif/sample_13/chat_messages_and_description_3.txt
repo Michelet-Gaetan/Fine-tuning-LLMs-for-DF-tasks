@@ -1,0 +1,19 @@
+sender;content
+Mae;Hey Brent! I had the weirdest dream last night.
+Brent;Really? What happened?
+Mae;I was flying over a city full of skyscrapers, it was so real.
+Brent;That's cool! Do you often have dreams where you're flying?
+Mae;Not really, it's the first time. Do you believe dreams have meanings?
+Brent;Well, I think they can be influenced by our thoughts and experiences. For example, if you've been thinking about freedom or escape, that might explain the flying.
+Mae;That makes sense. I've been feeling quite stressed at work lately. Maybe I'm yearning for an escape.
+Brent;It's possible. Dreams can be a way for our subconscious to communicate with us.
+Mae;Do you remember your dreams often?
+Brent;Not always. But there are some dreams that I remember vividly, like the one where I was chased by a giant cookie.
+Mae;Ha! That sounds like a fun dream, unless you're scared of cookies.
+Brent;It was more amusing than scary. Anyway, it's interesting to analyze dreams, isn't it?
+Mae;Definitely! It gives us a glimpse into our subconscious mind.
+Brent;Yeah, I agree. Let's share more dreams next time.
+Mae;Sure thing, Brent. Goodnight for now.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Dream Discussions;[Mae, Brent];17.03.2022 21:45:12

@@ -1,0 +1,19 @@
+sender,content
+Thomas,Hey Kristopher, have you seen the latest Marvel movie?
+Kristopher,No, I haven't Thomas. Is it good?
+Thomas,It's fantastic! I think it's one of their best yet.
+Kristopher,Really? Wow, I'll have to check it out then.
+Thomas,Definitely! Do you like action movies in general?
+Kristopher,Yes, I do. Especially the ones with a good story.
+Thomas,Well, you're in for a treat then. This one has a great story!
+Kristopher,That's awesome. I'll definitely watch it this weekend.
+Thomas,Great! Let me know what you think after you've seen it.
+Kristopher,Sure thing. Thanks for the recommendation, Thomas.
+Thomas,No problem, always happy to share a good movie.
+Kristopher,I appreciate it, Thomas. Looking forward to our next movie chat.
+Thomas,Me too, Kristopher. Talk to you soon.
+Kristopher,Alright, take care Thomas. See you soon.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Movie Buffs,[Thomas, Kristopher],15.04.2022 20:15:00

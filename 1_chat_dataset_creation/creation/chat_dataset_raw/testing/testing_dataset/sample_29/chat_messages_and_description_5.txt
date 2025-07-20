@@ -1,0 +1,17 @@
+sender,content
+Willie,"Hey Mary, just checking in about the Johnson project."
+Mary,"Hi Willie, yes I've been working on it. There's a bit of a snag with the data analysis."
+Willie,"Oh, what's the issue?"
+Mary,"The data isn't correlating as expected. I might need some assistance."
+Willie,"Alright, I can get Tom from data science to help out. He's great with these kind of problems."
+Mary,"That would be awesome. I've been stuck for a while."
+Willie,"No problem, I'll set up a meeting for tomorrow."
+Mary,"Thanks Willie, really appreciate it."
+Willie,"Not a problem, Mary. We're a team."
+Mary,"Indeed we are. Catch you tomorrow, then."
+Willie,"Yep, catch you tomorrow.";
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Work Project,[Willie, Mary],23.08.2021 09:15:30

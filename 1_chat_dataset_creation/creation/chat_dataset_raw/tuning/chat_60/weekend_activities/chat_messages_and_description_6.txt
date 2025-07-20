@@ -1,0 +1,13 @@
+sender,content
+James,"Hey, what are your plans for the weekend?";
+Robert,"Hi James, I am thinking about going hiking in the mountains. You?";
+James,"Sounds like a good plan. I was thinking about visiting a museum.";
+Robert,"Which museum are you planning to visit?";
+James,"I am planning to visit the Natural History Museum. They have a new exhibit.";
+Robert,"That sounds interesting. Maybe I will join you after my hike.";
+James,"Sounds like a plan, Robert. Let's meet at the museum around 4 PM.";
+Robert,"Perfect, see you then!";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Weekend Plans,[James, Robert],22.08.2022 09:15:30

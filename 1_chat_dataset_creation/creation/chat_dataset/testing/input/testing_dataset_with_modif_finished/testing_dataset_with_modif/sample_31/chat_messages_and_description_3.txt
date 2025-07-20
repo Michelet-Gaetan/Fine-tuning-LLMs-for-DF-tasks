@@ -1,0 +1,14 @@
+sender;content
+Paul;Hey Amelia, I just discovered this new band, have you heard of 'The Midnight' ?
+Amelia;No, I haven't. What kind of music do they play?
+Paul;They're a synthwave band. Their music is kind of a mix between 80's electronic and modern pop.
+Amelia;Sounds interesting! Any song recommendations?
+Paul;Definitely! Try 'Los Angeles', 'Sunset' and 'Vampires'. The first one is my favorite.
+Amelia;I'll give them a listen. I've been looking for some new music to add to my playlist.
+Paul;Great! Let me know what you think. I find their music really refreshing.
+Amelia;Will do. Thanks for the recommendation, Paul!
+Paul;Anytime, Amelia. Always happy to share good music!
+Amelia;Just listened to 'Los Angeles'. I love it! Can't wait to explore more of their songs.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Music Lovers;[Paul, Amelia];12.06.2022 18:30:00

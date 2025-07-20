@@ -1,0 +1,13 @@
+sender;content
+Robert;Hey Joe, have you seen the latest video on FunnyVids.com?
+Joe;No, not yet. What's it about?
+Robert;It's a compilation of the funniest pet fails. It's hilarious!
+Joe;Oh, I'm gonna have to check that out. I love a good pet fail.
+Robert;You should. There's one with a cat trying to jump on a shelf, but it totally misses. I almost choked on my coffee.
+Joe;Haha, sounds like my cat. I'll definitely watch it during my break.
+Robert;Let me know what you think. I can't stop laughing.
+Joe;Sure, looking forward to a good laugh.
+Robert;I'm sure you'll have more than one. Enjoy!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Funny Content Sharing;[Robert, Joe];15.09.2022 09:30:00

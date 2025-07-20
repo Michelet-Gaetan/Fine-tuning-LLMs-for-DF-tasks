@@ -1,0 +1,14 @@
+sender;content
+William;Hello everyone, how are we doing with the family reunion plans?
+Sheila;Hi William, I've started gathering addresses for the invitations.
+Herman;I'm working on the event location. I have a few places in mind.
+William;Great, Sheila can you send the addresses to Herman once you're done? He'll include them in the venue selection process.
+Sheila;Sure, I can do that. Herman, when do you need them by?
+Herman;If you can get them to me by the end of the week, that would be perfect.
+Sheila;Alright, I'll get on it.
+William;Thanks Sheila and Herman. Let's keep each other posted on the progress.
+Herman;Will do, William.
+Sheila;Same here, Will keep everyone updated.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Family Reunion Planning;[William, Sheila, Herman];10.04.2021 09:00:00

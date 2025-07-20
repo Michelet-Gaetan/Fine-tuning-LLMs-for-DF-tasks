@@ -1,0 +1,15 @@
+sender,content
+James,"Hey guys, I have a new idea for our operation."
+Robert,"What's that, James?"
+James,"We have been using the old method for a long time. I think it's time to upgrade our facilities."
+Michael,"That sounds like a good idea. But it will cost us a lot, won't it?"
+James,"Yes, it will. But I believe it will be worth it in the long run."
+Robert,"Okay, I'm in. Let's discuss this further."
+Michael,"Agreed. Let's plan a meeting to discuss the details."
+James,"Great. I'll set up a meeting for next week."
+Robert,"Sounds good. Let's make this happen."
+Michael,"Looking forward to it."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Drug Production Discussion,"[James, Robert, Michael]",22.08.2022 11:45:30

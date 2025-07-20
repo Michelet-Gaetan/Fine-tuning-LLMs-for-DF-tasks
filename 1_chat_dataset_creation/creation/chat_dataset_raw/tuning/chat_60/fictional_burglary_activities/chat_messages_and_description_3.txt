@@ -1,0 +1,16 @@
+sender,content
+John,Hey Michael, are you in?
+Michael,Yeah John, what's up?
+John,Got a potential job. A fictional one, of course.
+Michael,Oh? Tell me more.
+John,It's a mansion, out in the countryside. Plenty of valuables.
+Michael,How's the security?
+John,Pretty tight. Guards, cameras, the works.
+Michael,We'll need a plan then.
+John,Indeed. Are you in?
+Michael,Count me in, John. Let's get to work.
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,The Fictional Job,[John, Michael],15.09.2021 20:30:00

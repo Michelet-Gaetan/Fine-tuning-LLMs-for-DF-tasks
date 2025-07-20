@@ -1,0 +1,11 @@
+sender;content
+Michael;Hey James, are you at the park yet?
+James;Just arrived, Michael. It's packed but I found a good spot near the lake.
+Michael;Great; I'm on my way. I have the frisbees and snacks.
+James;Awesome. Don't forget the water bottles.
+Michael;Got them, and I also brought some sunscreen. It's really sunny today.
+James;Good thinking. See you in a bit.
+Michael;Sure thing, be there soon.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Frisbee Club;[Michael, James];20.08.2022 10:45:30

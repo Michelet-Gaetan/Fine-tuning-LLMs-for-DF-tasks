@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+James, Robert, and Elizabeth are chatting about James' new drone and drone photography as a hobby.;
+
+James notifies Robert and Elizabeth that he acquired a new photography drone. Robert wonders what drone it is, and James answers that it is the DIJ Mavic Pro, small with a great camera. Elizabeth asks James if this is is difficult to learn, which acoording to James, is not. He also suggests providing advices if she wnats. Robert requests James to share pictures, and Elizabeth states that she might try drone photography after seeing James' pictures.;
+
+In the chat group "Drone Enthusiasts" on WhatsApp, James initiates a conversation about his new hobby - drone photography. He shares that he has recently purchased a DJI Mavic Pro drone for this purpose. Robert, another group member, expresses interest and asks James about his experiences. Elizabeth, intrigued by the discussion, asks about the learning curve associated with drone photography, to which James responds positively, offering to share some tips. Both Robert and Elizabeth express eagerness to see James' drone photography, and Elizabeth contemplates buying a drone herself. The conversation, which starts on 05.10.2021 at 18:30:00, showcases a shared interest in drone photography among the group members.

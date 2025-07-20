@@ -1,0 +1,12 @@
+sender;content
+Tracy;Hey Jon, did you catch the game last night?
+Jon;Yes, I did. It was an incredible game!
+Tracy;I know right! The team's performance was amazing.
+Jon;Absolutely. Their strategy and execution were spot on.
+Tracy;And the goal in the last minute! That was epic.
+Jon;I almost couldn't believe it. The timing was perfect.
+Tracy;Absolutely. Looking forward to the next match.
+Jon;Me too. It's going to be thrilling.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sports Chat;[Tracy, Jon];07.04.2022 19:45:00

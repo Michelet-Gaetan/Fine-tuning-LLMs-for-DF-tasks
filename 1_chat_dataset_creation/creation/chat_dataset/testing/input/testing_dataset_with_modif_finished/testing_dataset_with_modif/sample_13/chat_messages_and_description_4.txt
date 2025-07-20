@@ -1,0 +1,11 @@
+sender;content
+Mae;Hey Brent, have you seen the line-up for the upcoming music concert?
+Brent;Not yet, Mae. Which bands are playing?
+Mae;The headliners are Arctic Monkeys and The Black Keys. They also have some emerging local bands.
+Brent;That sounds amazing! I'm a big fan of Arctic Monkeys. When is it happening?
+Mae;It's on the 25th of next month. I was thinking of buying the tickets.
+Brent;Count me in, Mae. Let's do it! I can't miss this concert.
+Mae;Great! I'll get the tickets and let you know the details.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Music Lovers;[Mae, Brent];02.04.2022 16:30:00

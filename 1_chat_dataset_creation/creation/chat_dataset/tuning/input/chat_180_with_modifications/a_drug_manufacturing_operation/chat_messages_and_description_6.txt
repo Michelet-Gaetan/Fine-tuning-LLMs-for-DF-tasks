@@ -1,0 +1,14 @@
+sender;content
+James;Hey Michael, I've been doing some research on that project you mentioned.
+Michael;Oh? Which one, James? I've got a lot going on.
+James;The one about the new pharmaceutical. The 'alternative' one.
+Michael;Ah, that one. Yes, the manufacturing process is quite complex.
+James;I've found a potential supplier for some of the necessary components.
+Michael;Really? That's good news. We'll need to set up a secure delivery method.
+James;I've thought of that. Maybe we can use a private courier service?
+Michael;Sounds like a plan. Let's discuss this in more detail tomorrow.
+James;Alright, I'll prepare some more details. Talk to you then.
+Michael;Good work, James. Speak soon.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Pharmaceutical Project;[James, Michael];15.09.2021 09:15:32

@@ -1,0 +1,15 @@
+sender,content
+Rylan,"Hi Phyllis, have you ever tried painting?"
+Phyllis,"Hey Rylan, yes, I have tried it a few times. Do you paint?"
+Rylan,"I've started recently. It's really therapeutic."
+Phyllis,"That's great! What type of painting do you prefer?"
+Rylan,"I'm really enjoying watercolor. There's something about the fluidity that I love."
+Phyllis,"Yes, watercolor is beautiful. Have you taken any classes, or are you self-taught?"
+Rylan,"I'm mostly self-taught, but I've watched a lot of YouTube tutorials. Do you have any tips?"
+Phyllis,"Just keep practicing, and don't be afraid to make mistakes. That's how we learn."
+Rylan,"Thanks, Phyllis. I really appreciate your advice."
+Phyllis,"You're welcome, Rylan. Happy painting!"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Hobby Chat,[Rylan, Phyllis],08.09.2021 18:30:00

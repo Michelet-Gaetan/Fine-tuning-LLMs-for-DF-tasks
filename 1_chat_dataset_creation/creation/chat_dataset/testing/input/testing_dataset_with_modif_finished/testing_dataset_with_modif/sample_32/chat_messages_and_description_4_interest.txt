@@ -1,0 +1,13 @@
+sender;content
+Mason;Hey guys, did you watch the soccer game last night?
+Glen;Yeah, I did. That was quite a match.
+Evelyn;I missed it. What happened?
+Mason;Our team scored 3 goals in the second half. It was amazing.
+Glen;Yeah, it was. The other team couldn't even touch the ball.
+Evelyn;Wow! Sounds like it was an exciting game. I'll watch the highlights.
+Mason;You should, Evelyn. It was one of the best games this season.
+Glen;Agreed. Can't wait for the next match.
+Evelyn;I'll make sure to watch the next game live.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Soccer Fans;[Mason, Glen, Evelyn];15.05.2022 18:30:00

@@ -1,0 +1,14 @@
+sender;content
+John;Hey Robert, are you free next Tuesday?
+Robert;Hi John, let me check my schedule quickly.
+Robert;Looks like I'm free in the afternoon. What time are you thinking?
+John;How about we meet at 2pm?
+Robert;That sounds good. Where shall we meet?
+John;Let's meet at our usual spot, the coffee shop near the office.
+Robert;Perfect. See you then.
+John;Great, looking forward to it. See you on Tuesday at 2pm.
+Robert;Got it. Have a good day, John.
+John;You too, Robert.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Work Meeting;[John, Robert];24.08.2021 09:15:30

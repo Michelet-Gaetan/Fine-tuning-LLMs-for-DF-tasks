@@ -1,0 +1,14 @@
+sender;content
+Victoria;Hey guys, have you tried the new Call of Duty game?
+Kamrin;Yeah, I got it last week. The graphics are insane!
+Juandiego;I haven't tried it yet, is it worth the hype?
+Jacqueline;I'm more into RPGs, but I've heard good things about it from my friends who are fans of the series.
+Victoria;Definitely worth it, Juandiego. And Jacqueline, they've improved the story mode a lot in this one; you might like it.
+Kamrin;The multiplayer mode is great too, we should all team up sometime!
+Juandiego;Sounds like a plan. I'll get the game this weekend.
+Jacqueline;I'll give it a shot too. Let's see if it can convert me into a COD fan.
+Victoria;Awesome! Let's plan for next weekend then.
+Kamrin;Perfect, looking forward to it.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Game Night;[Victoria, Kamrin, Juandiego, Jacqueline];15.02.2022 18:45:00

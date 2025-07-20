@@ -1,0 +1,14 @@
+sender;content
+Joseph;Hey guys, have you been keeping up with your fitness routines during the lockdown?
+Elizabeth;Not as much as I would like, Joseph. I've found it hard to stay motivated without the gym.
+Justin;I've actually been doing quite well with home workouts, surprisingly. It was tough initially, but I've found a rhythm now.
+Joseph;That's great, Justin! Elizabeth, perhaps you could try mixing things up a bit? Maybe try yoga or dance workouts?
+Elizabeth;I think that's a great idea, Joseph. I'll look into it.
+Justin;There are tons of free resources online, Elizabeth. I can send you some links if you'd like.
+Elizabeth;That would be great, Justin. Thanks a lot!
+Joseph;It's important that we all keep active, especially now. Remember, health is wealth.
+Justin;Agreed, Joseph. Let's all try and motivate each other.
+Elizabeth;I'm in. Let's do this!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Health Matters;[Joseph, Elizabeth, Justin];20.02.2022 18:30:45

@@ -1,0 +1,11 @@
+sender, content
+Trinity, "Hey Glenda, have you seen the latest video on the SuperVlog channel?";
+Glenda, "Hi Trinity, no I haven't. I've been quite busy. Is it good?";
+Trinity, "Yes, it's really interesting. They're discussing the impact of viral videos on social media platforms.";
+Glenda, "Sounds intriguing! I'll check it out when I get some free time.";
+Trinity, "Cool! Let me know what you think once you've watched it.";
+Glenda, "Definitely, I'll get back to you after watching.";
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, 'Video Discussion', ['Trinity', 'Glenda'], "02.03.2022 18:30:00"

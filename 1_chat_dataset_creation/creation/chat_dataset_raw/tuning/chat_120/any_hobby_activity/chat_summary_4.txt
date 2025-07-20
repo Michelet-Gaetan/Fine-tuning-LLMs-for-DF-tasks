@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+Matthew and Mark are talking about miniatures painting, one of Matthew's hobby.;
+
+Matthew asks Mark if he ever painted miniatures as a hobby before. Mark responds that he has not and asks if this is one of Matthew's hobby. Matthew answers that it is the case, and that he paints fantasy miniatures, which usually have lots of details. Mark asks for beginner tips and matthew advices to start with simple miniatures and buy quality brushes. Matthew finally asks Mark to let him know wether he decides to start this hobby.;
+
+In the conversation, Matthew and Mark discuss the hobby of painting miniatures. Matthew, who is experienced in the hobby, provides insight into what it entails and how it benefits him. Mark shows interest and Matthew gives him some tips for beginners. The conversation happens in a Telegram chat group named "Hobby Chat" on 13th December 2021 at 18:45.

@@ -1,0 +1,20 @@
+sender,content
+James,Hey, have you heard about the recent break-ins?
+Robert,Yeah, it's quite disturbing. Seems like it's happening all around town.
+James,I heard they're targeting houses that seem unoccupied.
+Robert,That's what I heard too. Apparently, they're quite skilled.
+James,Do you think it could be someone local?
+Robert,It's hard to say. But the way they're navigating the city, it could be.
+James,Yeah, they would need to know the area well.
+Robert,Exactly. And they're avoiding main streets, only targeting houses in secluded areas.
+James,It's really scary. We need to be extra vigilant.
+Robert,Agreed. We should also inform others in our neighborhood about this.
+James,That's a good idea. Let's discuss this in our neighborhood meeting.
+Robert,Yeah, let's do that. Safety should be our top priority.
+James,Do you think we should involve the police?
+Robert,Definitely. We can't handle this on our own.
+James,Alright. Let's gather more info and then we'll report it to the police.
+
+-----
+application,chat group name, list of participants, first message sending datetime
+WhatsApp,Neighborhood Watch,[James, Robert], 01.04.2022 19:00:00

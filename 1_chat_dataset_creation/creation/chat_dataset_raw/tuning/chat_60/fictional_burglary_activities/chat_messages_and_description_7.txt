@@ -1,0 +1,15 @@
+sender,content
+John,"So, we're really going through with this, huh?"
+Robert,"Looks like it. Got the blueprints ready?"
+James,"Right here. The safe is in the basement."
+William,"That's a tight spot. We need a good plan."
+Robert,"Let's not rush things. We have time."
+John,"Agreed. Everyone needs to know their part."
+James,"I'll get the tools. We need to be silent and quick."
+William,"I can distract the guards. Used to be one, remember?"
+Robert,"Perfect. John, you're with James. I'll be the lookout."
+John,"Sounds like a plan. Let's meet tomorrow to finalize everything.";
+-----
+
+application,chat group name, list of participants, first message sending datetime
+WhatsApp,"The Heist", ['John', 'Robert', 'James', 'William'], "24.03.2022 16:45:00"

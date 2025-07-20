@@ -1,0 +1,16 @@
+sender,content
+Paul,"We're in position. Over."
+Robert,"Copy that, Paul. Watch for the guards' rotation."
+Paul,"Got it. Looks like a 15-minute cycle."
+Robert,"Good. You remember the layout, right?"
+Paul,"Yes, vault on the east side, security room opposite. Three cameras."
+Robert,"And the alarm system?"
+Paul,"Cut at 22:00, should give us a 2-minute window."
+Robert,"Right. We move on your signal."
+Paul,"On it. Wait for my go."
+Robert,"Standing by. Be careful, Paul."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Operation Midnight",[Paul, Robert],"20.03.2022 21:45:00"

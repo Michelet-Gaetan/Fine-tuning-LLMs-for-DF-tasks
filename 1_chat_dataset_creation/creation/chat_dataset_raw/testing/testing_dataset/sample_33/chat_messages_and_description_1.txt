@@ -1,0 +1,18 @@
+sender,content
+Robert,Hey Joe! How's college life treating you?;
+Joe,Hi Robert! It's quite an experience. The workload is definitely more than I expected.;
+Robert,I can imagine! How are you managing your study schedule?;
+Joe,It's a bit challenging but I try to stick to a timetable. I study in short bursts rather than long hours.;
+Robert,That sounds like a smart plan. Have you joined any clubs or societies?;
+Joe,Yes, I joined the photography club. It's a great way to unwind and meet new people.;
+Robert,That's awesome! I remember how much I enjoyed being part of the music club in my college days. It really adds to the overall experience.;
+Joe,Definitely! It's not all about academics. The extracurricular activities make college life more enjoyable.;
+Robert,Exactly! Just make sure to balance everything. How are the professors?;
+Joe,Some are really good, and some are tough. But I guess that's part of the learning process.;
+Robert,True. College is as much about learning to deal with different people and situations as it is about academic growth.;
+Joe,You're right, Robert. It's a whole new world out here.;
+Robert,Enjoy it, Joe! It's a once-in-a-lifetime experience. Remember to make the most of it.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,College Chat,[Robert, Joe],28.08.2021 10:15:30

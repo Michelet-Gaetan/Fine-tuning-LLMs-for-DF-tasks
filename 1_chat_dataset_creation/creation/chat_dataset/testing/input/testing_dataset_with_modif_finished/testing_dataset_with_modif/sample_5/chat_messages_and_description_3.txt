@@ -1,0 +1,14 @@
+sender;content
+Joshua;Hey Renea, have you seen the new Marvel movie yet?
+Renea,Hi Joshua, yes, I saw it last weekend. It was amazing!
+Joshua;I thought so too! The special effects were really top-notch.
+Renea;Definitely. And the storyline was so engaging. I can't wait for the next movie.
+Joshua;Same here. I heard it's coming out next year.
+Renea;Yes, I also read that. Any other movies you're looking forward to?
+Joshua;Actually, I'm quite excited about the new James Bond movie. How about you?
+Renea;Oh, I can't wait to see that one as well. I'm a big fan of the franchise.
+Joshua;Great! Maybe we can go watch it together.
+Renea;That sounds like a plan. Let's do that.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Movie Discussion;[Joshua, Renea];01.10.2021 19:45:00

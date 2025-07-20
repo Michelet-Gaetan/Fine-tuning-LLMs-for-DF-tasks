@@ -1,0 +1,16 @@
+sender,content
+Nicholas,"Hey Scharron, you heard about the heist going on?"
+Scharron,"Yeah, Nick, crazy stuff. Seems like it's straight out of a movie."
+Nicholas,"Exactly, I can't believe it's happening in real life."
+Scharron,"Got any idea who's behind it?"
+Nicholas,"Not a clue. But they're experts, that much is clear."
+Scharron,"You're telling me! The way they bypassed the security... professionals for sure."
+Nicholas,"And the way they've kept their identities hidden... impressive."
+Scharron,"Yeah, and the speed of it all. It's like they've planned for years."
+Nicholas,"I wonder what they'll do next."
+Scharron,"Whatever it is, I hope they get caught. This isn't a movie, after all."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Heist Speculations",['Nicholas', 'Scharron'],"13.02.2022 19:45:30"

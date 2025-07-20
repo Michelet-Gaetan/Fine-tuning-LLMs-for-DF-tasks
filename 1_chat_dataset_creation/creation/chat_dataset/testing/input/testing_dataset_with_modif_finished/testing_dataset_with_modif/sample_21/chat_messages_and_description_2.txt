@@ -1,0 +1,14 @@
+sender;content
+Robert;Hello Tiana, are you free to chat about our upcoming trip?
+Tiana;Hi Robert, sure I am. Do you have any specific plans?
+Robert;I was thinking about visiting France. Have you been there before?
+Tiana;Yes, I have. France is beautiful. Do you have any specific cities in mind?
+Robert;I've always wanted to visit Paris and Nice. What do you think?
+Tiana;Paris is a must-visit. Nice is also great, especially during the summer.
+Robert;That's great. Do we need any specific documents for traveling there?
+Tiana;We need our passports, and France requires a tourist visa for stays longer than 90 days.
+Robert;Perfect! I'll start preparing the necessary documents.
+Tiana;Great! Let's discuss more details soon.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Travel Planning;[Robert, Tiana];12.05.2022 09:30:00

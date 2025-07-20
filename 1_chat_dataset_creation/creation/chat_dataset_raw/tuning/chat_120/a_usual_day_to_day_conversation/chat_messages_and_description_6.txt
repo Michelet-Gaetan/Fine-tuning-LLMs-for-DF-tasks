@@ -1,0 +1,13 @@
+sender;content
+John;Hey Richard, how's it going?
+Richard;Hey John, things are going well. How about you?
+John;Not bad. Just a usual day at work. Any plans for the evening?
+Richard;Nothing special, just catching up on some TV shows. You?
+John;I'm thinking of cooking something special. Maybe Italian?
+Richard;That sounds great. Do share the recipe.
+John;Sure. Let's catch up later then.
+Richard;Definitely. Have a great day, John.
+John;You too, Richard.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Everyday Chat;[John, Richard];15.03.2022 09:30:00

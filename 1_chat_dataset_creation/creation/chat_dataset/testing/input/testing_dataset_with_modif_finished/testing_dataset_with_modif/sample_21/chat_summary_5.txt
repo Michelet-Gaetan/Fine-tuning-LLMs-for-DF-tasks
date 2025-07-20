@@ -1,0 +1,2 @@
+general;GPT4_non_adjusted
+Robert and Tiana are chatting about the new Marvel movie.;The conversation was between Robert and Tiana about the latest Marvel movie. Robert had seen the movie and recommended it to Tiana. While he enjoyed it, he shared his opinion that the previous movie was better. Tiana, who had not yet seen the new movie but loved the previous one, was encouraged by Robert to watch it and form her own opinion. The conversation ended with Tiana promising to share her thoughts after watching the movie, and they both agreed to chat later.

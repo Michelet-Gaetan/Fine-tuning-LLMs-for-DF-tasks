@@ -1,0 +1,15 @@
+sender;content
+John;Hey guys, who's up for the soccer game tonight?
+Robert;I'm in! Who are we up against?
+John;It's us against the Golden Eagles. We need to be in top form.
+Robert;Definitely. I've heard they've got a new striker.
+James;Yes, he's really good. Scored three goals in the last game.
+John;That's true. We need a solid defense strategy.
+Robert;I agree. Let's focus on blocking their attacks.
+James;And we should also work on our attacks. Let's not underestimate our opponents.
+John;Great points, guys. Let's meet early to strategize.
+Robert;Sounds good. See you guys at the field.
+James;See you there. Let's win this!
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Soccer Enthusiasts;[John, Robert, James];22.03.2022 14:30:00

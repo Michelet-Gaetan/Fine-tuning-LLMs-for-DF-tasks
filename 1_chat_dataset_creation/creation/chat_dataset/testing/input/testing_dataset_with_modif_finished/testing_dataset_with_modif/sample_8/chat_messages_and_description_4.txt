@@ -1,0 +1,19 @@
+sender;content
+Ashton;Hey guys, how many siblings do you all have?
+Ryan;I have two younger brothers and one older sister. You?
+Linda;Just one younger sister here. 
+Ashton;Interesting, I have one older brother and two younger sisters.
+Lavern;I'm the only child, so no siblings here.
+Ryan;Lavern, do you ever wish you had siblings?
+Lavern;Sometimes, yes. But I also appreciate the perks of being an only child.
+Linda;I think it's fun to have a sibling. I can't imagine being an only child.
+Ashton;Agree with you Linda. My siblings and I have a lot of fun together.
+Ryan;Yeah, siblings can be annoying but they are also your best friends.
+Linda;So true, Ryan! Despite the fights, I wouldn't trade my sister for anything.
+Ashton;Same here! I love my siblings to bits, even when they drive me crazy.
+Lavern;You guys make having siblings sound so fun. Maybe I missed out on something.
+Ryan;Every family is unique, Lavern. There are pros and cons to every situation.
+Linda;Well said, Ryan. At the end of the day, it's the love in the family that matters.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sibling Chat;[Ashton, Ryan, Linda, Lavern];15.08.2021 19:30:00

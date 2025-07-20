@@ -1,0 +1,19 @@
+sender;content
+Alex;Hey guys, have you seen the latest concert line-ups?
+Sydney;No, not yet. Who's performing?
+Salik;I heard that Coldplay is headlining.
+Aliyah;Really? I love Coldplay! When is it?
+Chester;It's on the 30th next month. We should all go.
+Alex;That sounds like a great idea. Let's do it.
+Sydney;I'm in! Let's buy the tickets tomorrow.
+Salik;Sounds like a plan. I'll check the prices.
+Aliyah;Great, let's meet at the coffee shop to plan this out.
+Chester;Perfect. See you guys tomorrow.
+Alex;Looking forward to it.
+Sydney;Me too. Can't wait!
+Salik;It's going to be fun.
+Aliyah;Definitely. Concerts are always fun with you guys.
+Chester;Couldn't agree more. See you all tomorrow.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Concert Buddies;[Alex, Sydney, Salik, Aliyah, Chester];03.04.2022 16:30:00

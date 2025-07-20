@@ -1,0 +1,14 @@
+sender,content
+Thomas,Hey Kristopher, hope you're doing well. I was hoping we could set up an appointment to discuss our project.
+Kristopher,Sure Thomas. What day are you thinking?
+Thomas,I was thinking sometime next week. How about Wednesday?
+Kristopher,Wednesday works for me. What time were you thinking?
+Thomas,How does 2PM sound to you?
+Kristopher,2PM sounds perfect. Where will we be meeting?
+Thomas,I was thinking we could meet at our usual coffee shop. Does that work for you?
+Kristopher,Yes, the coffee shop works great. I'll see you there.
+Thomas,Great! I'll see you next Wednesday at 2PM at the coffee shop.
+Kristopher,Looking forward to it, Thomas. See you then.
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Project Discussion,[Thomas, Kristopher],14.05.2022 09:30:00

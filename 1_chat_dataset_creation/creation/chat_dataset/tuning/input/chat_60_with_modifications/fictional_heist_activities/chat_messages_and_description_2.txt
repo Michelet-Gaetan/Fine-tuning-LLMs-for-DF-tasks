@@ -1,0 +1,14 @@
+sender;content
+John;We need to plan this heist carefully.
+Robert;Agreed, John. The target is the diamond exhibit at the museum.
+John;I've got blueprints of the museum. We need to study them.
+Robert;Good. We should also know the security measures in place.
+John;I've got a guy who can help us with that.
+Robert;Perfect. We also need to think about the escape route.
+John;I've thought of that. I've got a driver who can get us out fast.
+Robert;Sounds good. Let's meet up and discuss in detail.
+John;Sure. Let's meet tomorrow at the usual place.
+Robert;See you then.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Heist Planning;[John, Robert];01.12.2021 10:15:30

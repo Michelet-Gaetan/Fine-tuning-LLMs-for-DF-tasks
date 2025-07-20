@@ -1,0 +1,12 @@
+sender;content
+Robert;Hey David, are you free next week? I need to discuss something with you.
+David;Sure Robert, what day are you thinking?
+Robert;How about Wednesday at 3pm?
+David;Wednesday works fine for me but can we do it a bit earlier? Say, 1pm?
+Robert;1pm it is then. Where should we meet?
+David;Let's meet at our usual place, Cafe Mocha.
+Robert;Perfect! Cafe Mocha, Wednesday at 1pm. See you there, David.
+David;Looking forward to it, Robert. See you on Wednesday!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Appointment Chat;[Robert, David];15.10.2021 09:15:30

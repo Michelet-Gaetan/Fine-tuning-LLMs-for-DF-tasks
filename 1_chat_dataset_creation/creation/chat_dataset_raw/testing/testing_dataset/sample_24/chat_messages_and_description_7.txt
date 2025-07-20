@@ -1,0 +1,14 @@
+sender;content
+Meredith;"Hi everyone, I was thinking about getting a pet. Any suggestions?"
+Roy;"Hey Meredith, that's great! What are you considering? A dog, cat or something else?"
+Steven;"A pet can be a great companion, Meredith. Do you have any preferences in terms of size, lifespan, etc.?"
+Meredith;"I am thinking of a smaller pet due to my apartment size. Any ideas?"
+Roy;"How about a cat? They are relatively low maintenance and perfect for apartments."
+Steven;"A hamster could also be a good option. They are small and easy to take care of."
+Meredith;"Thanks for the suggestions, guys. I'll look into both cats and hamsters."
+Roy;"You're welcome, Meredith. Feel free to ask if you have any more questions."
+Steven;"Good luck with your decision, Meredith."
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Pet Discussion Group;[Meredith, Roy, Steven];21.07.2021 19:30:00

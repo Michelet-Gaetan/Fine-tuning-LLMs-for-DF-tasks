@@ -1,0 +1,15 @@
+sender;content
+John;Hey guys, anyone up for a hike this weekend?
+Michael;Sure John, I'd love to. Any particular location in mind?
+John;I was thinking about the Whispering Pines trail. It's quite beautiful this time of the year.
+Robert;Count me in! I've heard a lot about the Whispering Pines trail but never got a chance to visit.
+Michael;Great! Let's plan it out then. What time should we start?
+John;How about we meet at the trailhead at 8 AM?
+Robert;Sounds perfect! I'll bring some snacks.
+Michael;Great, I'll bring water and a first aid kit. Just in case.
+John;Perfect, see you guys on Saturday then!
+Robert;See you guys!
+Michael;Looking forward to it, see you all on Saturday.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Hikers Club;[John, Michael, Robert];16.09.2021 10:30:00

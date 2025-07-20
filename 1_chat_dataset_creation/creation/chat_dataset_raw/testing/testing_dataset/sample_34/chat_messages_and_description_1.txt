@@ -1,0 +1,21 @@
+sender,content
+Adam,Hey guys, any thoughts on going to the Green Day concert next month?;
+Shelby,That sounds like a great idea! I haven't been to a concert in ages.;
+Kyle,I'm in! I've been wanting to see them live.;
+Leon,I’m not a big fan of Green Day. What about a different band?;
+Jessica,Leon, you're always the odd one out! But let's vote on it to be fair.;
+Adam,Okay, everyone list a band and we'll go with the majority.;
+Shelby,I'll stick with Green Day.;
+Kyle,Green Day for me too.;
+Leon,I'd prefer Metallica.;
+Jessica,Green Day. Looks like we have a winner, Leon.;
+Leon,Alright, I'm outnumbered. Green Day it is.;
+Adam,Great, I'll look for tickets for us.;
+Shelby,Thanks, Adam. Let's hope they are not sold out!;
+Kyle,Can't wait for this, it's going to be epic.;
+Jessica,Agreed, thanks Adam for organizing!
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Concert Buddies,[Adam, Shelby, Kyle, Leon, Jessica],22.10.2022 18:30:00

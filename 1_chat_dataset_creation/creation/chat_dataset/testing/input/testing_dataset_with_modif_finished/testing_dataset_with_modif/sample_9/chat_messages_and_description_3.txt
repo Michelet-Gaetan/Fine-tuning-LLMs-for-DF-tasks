@@ -1,0 +1,14 @@
+sender;content
+Amanda;Hey Paulette, do you have the notes from yesterday's Chemistry class?
+Paulette;Hi Amanda! Yes, I do. Do you want me to send them over?
+Amanda;Yes please, that would be great. I missed the class because of basketball practice.
+Paulette;No problem, I'll send them to you shortly. How's the basketball team doing?
+Amanda;We're doing good. We've been practicing for the upcoming tournament.
+Paulette;That sounds exciting! I'll come and cheer for you guys.
+Amanda;That'd be great, thanks! We could use all the support we can get.
+Paulette;Of course, we're in this high school journey together after all. I'll send the notes now.
+Amanda;Thanks, Paulette. You're a lifesaver!
+Paulette;Anything for a friend. Let's ace this semester together!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;High School Chemistry Notes;[Amanda, Paulette];24.07.2021 15:45:00

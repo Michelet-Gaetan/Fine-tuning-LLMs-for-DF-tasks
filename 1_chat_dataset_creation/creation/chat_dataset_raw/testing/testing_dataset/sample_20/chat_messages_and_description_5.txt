@@ -1,0 +1,15 @@
+sender, content
+Brandon, Hey guys, have you tried the new yoga class in our gym?
+Marvin, No, I haven't. Is it good?
+Brandon, Yeah! It's really amazing for mental and physical health.
+Kea, Sounds interesting. How often do you go?
+Brandon, I try to go at least three times a week.
+Joshua, I've been thinking about starting yoga. Does it help with stress?
+Brandon, Absolutely, Joshua. It helps me a lot with stress management.
+Marvin, I think I'll give it a try. Thanks for the suggestion, Brandon.
+Kea, I'm in too. Let's all go together next time.
+Joshua, Sounds like a plan. 
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, Health Enthusiasts, [Brandon, Marvin, Kea, Joshua], 10.09.2022 18:30:00

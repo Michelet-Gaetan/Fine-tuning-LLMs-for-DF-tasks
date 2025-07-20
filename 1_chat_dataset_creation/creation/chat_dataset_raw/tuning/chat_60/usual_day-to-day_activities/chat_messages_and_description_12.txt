@@ -1,0 +1,16 @@
+sender,content
+David,Hey John, how was your day?
+John,Hey David, it was quite hectic. How about yours?
+David,Oh, mine was fairly relaxed. Had a few meetings though.
+John,That sounds nice. I was stuck with a pile of paperwork.
+David,Oh, that doesn't sound fun. Anything interesting?
+John,Not really, just usual office stuff.
+David,Alright. What are your plans for dinner?
+John,Thinking of cooking something. Maybe pasta.
+David,That sounds nice. I think I'll order pizza.
+John,Not a bad idea. Maybe I'll do the same.
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Day to Day,["David", "John"],20.09.2022 10:30:00

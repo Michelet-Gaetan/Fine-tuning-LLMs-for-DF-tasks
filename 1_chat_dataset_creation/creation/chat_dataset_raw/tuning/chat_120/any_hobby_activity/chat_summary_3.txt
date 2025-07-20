@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+Robert and John are chatting about the bird watching hobby.;
+
+Robert asks Jiohn if he ever tried bird watching. John responds that no, and wonders how Robert discovered it, and later on asks for more details. Robert explains that he liked outdoors activities and that one day started observing birds with binoculars. Robert also advises getting binoculars, and maybe a field guide when you start. He finally suggests to start in local parks or nature reserves. John states that he will try it the next weekend and Robert tells him that he can ask for tips if needed.;
+
+The conversation between Robert and John revolves around the hobby of bird watching. Robert initiates the discussion, asking John if he has ever tried bird watching. John shows interest in the hobby and asks Robert about the necessary equipment and recommended locations for beginners. Robert suggests starting with a good pair of binoculars and a field guide to birds, and recommends local parks and nature reserves as good bird watching locations. John decides to give bird watching a try over the weekend, and Robert encourages him to reach out if he has any questions.

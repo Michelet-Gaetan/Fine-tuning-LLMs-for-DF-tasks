@@ -1,0 +1,15 @@
+sender;content
+Nicholas;"Hey Scharron, have you ever had a lucid dream?"
+Scharron;"Hi Nicholas, yes I have. It's quite a fascinating experience."
+Nicholas;"Really? Can you control what happens in those dreams?"
+Scharron;"To some extent, yes. But it takes practice and not all dreams are lucid."
+Nicholas;"I see. I want to learn how to have lucid dreams. Any advice?"
+Scharron;"Well, it involves recognizing that you're dreaming while you're in the dream. A trick is to look for details that don't make sense in real life."
+Nicholas;"That sounds challenging but fun. I'll give it a try."
+Scharron;"Good luck, Nicholas! Remember, it might take time. Don't get frustrated."
+Nicholas;"Thanks for the advice, Scharron. I'll keep that in mind."
+Scharron;"You're welcome, Nicholas. Let me know if you have any success or need more tips."
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Dream Discussions;[Nicholas, Scharron];15.06.2021 20:30:00

@@ -1,0 +1,13 @@
+sender;content
+Daniel;Hi Michael, are you available for a meeting?
+Michael;Hello Daniel, sure. When are you thinking?
+Daniel;How about next Tuesday at 2 pm?
+Michael;I'm sorry, I have another appointment at that time. How about Wednesday?
+Daniel;Wednesday works for me. 2 pm?
+Michael;That's perfect. I'll see you then.
+Daniel;Great! Looking forward to it.
+Michael;Me too. Have a nice day, Daniel.
+Daniel;You too, Michael. Bye.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Work Meeting;[Daniel, Michael];22.02.2022 09:15:00

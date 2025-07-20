@@ -1,0 +1,12 @@
+sender;content
+Willie;Hey Mary, are you at the park for the picnic?
+Mary;Hi Willie, yes I just got here. The place is packed!
+Willie;Great! I'm on my way. What can I bring?
+Mary;We could use some more drinks. Can you grab some on your way?
+Willie;Sure thing. Anything specific you want?
+Mary;Some soda and water would be great. Thanks Willie!
+Willie;No problem. See you in a bit.
+Mary;See you soon, Willie. Safe drive.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Park Picnic;[Willie, Mary];15.10.2021 10:30:00

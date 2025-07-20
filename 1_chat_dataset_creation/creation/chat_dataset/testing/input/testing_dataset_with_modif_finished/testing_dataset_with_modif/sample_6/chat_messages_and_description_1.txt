@@ -1,0 +1,18 @@
+sender;content
+Jason;Hey everyone, have you ever thought about where you'd like to go if we planned a group trip?
+Desiree;Definitely! I've always wanted to see the Northern Lights in Iceland. 
+Katherine;That sounds amazing, Desiree! I'd love to go to Japan, the culture and food have always intrigued me.
+Ronda;Japan sounds great, Katherine. I have always wanted to go on a safari in Kenya though.
+Mario;I have a soft spot for history. So, Greece is on top of my list. 
+Jason;Great choices everyone! Let's put these options into a poll and vote?
+Desiree;Good idea Jason. But before that, let's discuss the best time to travel to these places.
+Katherine;For Japan, it's best to go in Spring for the cherry blossoms, or in Autumn for the fall colors.
+Ronda;In Kenya, the best wildlife viewing months are during the dry season from late June to October.
+Mario;And for Greece, the best time is from April to early November. The weather is warm and there's little rain.
+Desiree;For Iceland, the best time to see the Northern Lights is from late September to late March.
+Jason;Perfect, let's put all this info into the poll too.
+Katherine;Great! Looking forward to this trip, wherever we end up going!
+Ronda;Same here, can't wait!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Travel Buddies;[Jason, Desiree, Katherine, Ronda, Mario];15.06.2021 18:34:57

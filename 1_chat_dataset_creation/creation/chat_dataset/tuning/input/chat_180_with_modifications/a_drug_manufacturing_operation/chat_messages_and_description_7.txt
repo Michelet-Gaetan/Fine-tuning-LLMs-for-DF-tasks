@@ -1,0 +1,17 @@
+sender;content
+Robert;Hey guys, I've been doing some research on this new project.
+John;Interesting Robert, what have you found?
+Robert;We need a specific lab setup for the drug manufacturing operation.
+Mary;What kind of setup are we talking about here?
+Robert;We'll need to acquire some specialized equipment. A sterilizer, a rotary evaporator, and a high-performance liquid chromatography (HPLC) system.
+Michael;Where can we get these?
+Robert;I know a supplier who can get us what we need, but it's going to cost.
+John;How much are we talking about here?
+Robert;Around $100,000 for everything.
+Mary;That's a lot of money. We need to make sure we have a market for this before we invest.
+Michael;Agreed. We need to do more research before we proceed.
+Robert;I'll look into potential markets and report back.
+John;Sounds like a plan. Let's reconvene in a week.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Project X;[Robert, John, Mary, Michael];15.06.2021 09:15:00

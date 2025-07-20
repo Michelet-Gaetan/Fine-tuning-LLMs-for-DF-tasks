@@ -1,0 +1,13 @@
+sender;content
+John;We need to discuss our next move
+Michael;Agreed, John. The mansion on Maple Street looks like a good target
+Robert;It's heavily guarded though, we need a solid plan
+John;True. We could use a distraction. Maybe trigger the alarm on the other side of the town?
+David;That might work. But we need someone on the inside too
+Michael;I think I know just the guy. He owes me a favor
+Robert;Great. Let's finalize the plan tomorrow. Everyone should be prepared
+John;Agreed. Let's be careful. We can't afford to mess this up
+David;Absolutely. See you guys tomorrow
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;The Strategists;[John, Michael, Robert, David];15.02.2022 18:30:00

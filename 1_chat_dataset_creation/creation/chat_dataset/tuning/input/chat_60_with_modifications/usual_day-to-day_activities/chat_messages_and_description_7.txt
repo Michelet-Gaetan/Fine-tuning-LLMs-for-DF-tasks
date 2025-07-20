@@ -1,0 +1,17 @@
+sender;content
+John;Morning everyone, how did you sleep?
+Robert;Morning John, I slept pretty well. How about you?
+John;Not bad Robert, had a bit of a late night working on a project though.
+Barbara;Morning guys, I slept like a baby!
+William;Morning all, I had a restless night. Kept thinking about work.
+John;William, you need to learn to switch off buddy!
+Robert;I agree with John, William. It's important to have some downtime.
+Barbara;Maybe try some meditation William, it works wonders for me.
+William;Thanks for the advice guys. I'll definitely try that tonight.
+John;That's what friends are for William. Anyways, what's everyone's plan for the day?
+Robert;I have a few meetings at work, then I'll hit the gym.
+Barbara;I have a yoga class in the morning, then I'm going to the market.
+William;Work, work, and more work for me.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Daily Chit-Chat;[John, Robert, Barbara, William];20.09.2021 08:00:00

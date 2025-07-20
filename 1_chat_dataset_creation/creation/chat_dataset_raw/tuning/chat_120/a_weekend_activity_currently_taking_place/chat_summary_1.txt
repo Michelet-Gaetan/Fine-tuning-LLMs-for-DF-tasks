@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+Michael and robert are planning the last details for their weekend hike.;
+
+Michael wonsers if they still go for a hike that weekend. Robert states that it is the case, and they decide to meet at 8 AM at the trailhead. Michael will bring snacks, and Robert will manage the water and the map.;
+
+The conversation takes place between Michael and Robert on WhatsApp in a chat group named "Hiking Weekend". The chat starts with Michael confirming if they are still going for a hike over the weekend, to which Robert affirms and mentions that the weather will be perfect for it. They then discuss the meeting time and agree on 8:00 AM at the trailhead. Michael offers to bring some snacks, and Robert decides to bring water bottles and a map. Both express their excitement about the upcoming hike. The first message was sent on 12.06.2021 at 15:00:00.

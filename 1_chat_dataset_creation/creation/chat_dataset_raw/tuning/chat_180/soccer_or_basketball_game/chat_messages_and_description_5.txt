@@ -1,0 +1,17 @@
+sender,content
+Michael,"Hey, did you catch the soccer game last night?";
+John,"Yes, I did. That was a thrilling match!";
+Michael,"Absolutely! That goal in the last minute was epic.";
+John,"I know, right? That was some fantastic footwork from the striker.";
+Michael,"And the goalkeeper! He made some unbelievable saves.";
+John,"Yes, the goalkeeper was indeed the unsung hero of the match.";
+Michael,"Can't wait for the next game. The team really seems to be in form.";
+John,"Definitely. Looking forward to it.";
+Michael,"By the way, are you also following the basketball season?";
+John,"Not as closely as soccer, but yes, I do catch a game now and then.";
+Michael,"Great! We should watch the next basketball match together.";
+John,"Sounds like a plan, Michael. Let's do it!";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Soccer & Basketball Fans",["Michael","John"],"10.03.2022 19:00:00"

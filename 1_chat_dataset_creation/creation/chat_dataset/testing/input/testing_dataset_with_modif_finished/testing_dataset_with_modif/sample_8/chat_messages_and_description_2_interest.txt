@@ -1,0 +1,17 @@
+sender;content
+Ashton;We need to figure out how to get past that alarm system tonight.
+Ryan;I heard there's a weak spot on the west side, near the basement window.
+Linda;Are we sure there's no backup generator? Last time we almost got caught because of that.
+Lavern;Already checked, there's no backup this time. But the guard shift change is at 2 AM, so we need to be quick.
+Ashton;Perfect, then we'll go in right after the shift change. Who's got the gear?
+Ryan;I’ll bring the tools. Lavern, you’re on lookout, right?
+Lavern;Yeah, I’ll have the van ready around the corner. Make sure you wear gloves.
+Linda;Got it. We can’t leave any traces behind. How about the security cameras?
+Ashton;Ryan’s got that covered. He’ll loop the feed while we’re inside.
+Ryan;I’ll disable them as soon as we’re ready to move in. No one will even know we were there.
+Linda;Alright, then we’re all set. Let’s get this done quickly and cleanly.
+Lavern;Agreed. No mistakes this time. Everyone knows their role, let’s stick to it.
+Ryan;Meet at the usual spot at 1:30 AM. Don’t be late.
+-----
+application;chat group name;list of participants;first message sending datetime
+Signal;The Night Shift;[Ashton, Ryan, Linda, Lavern];27.08.2024 21:13:05

@@ -1,0 +1,15 @@
+sender,content
+Matthew,"Hi Sandra, I need to schedule an appointment."
+Sandra,"Sure Matthew, what day are you thinking about?"
+Matthew,"I was thinking about next Tuesday, is that possible?"
+Sandra,"I'm afraid Tuesday is fully booked. Would Wednesday work for you?"
+Matthew,"Yes, that's fine. What time slots do you have available?"
+Sandra,"I have slots at 10 am, 2 pm, and 4 pm. Which one suits you best?"
+Matthew,"The 2 pm slot works best for me."
+Sandra,"Great! I have booked you in for next Wednesday at 2 pm. See you then."
+Matthew,"Thank you Sandra, see you then."
+Sandra,"You're welcome Matthew. If anything changes, let me know."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Appointment Booking,[Matthew, Sandra],15.03.2022 09:15:30

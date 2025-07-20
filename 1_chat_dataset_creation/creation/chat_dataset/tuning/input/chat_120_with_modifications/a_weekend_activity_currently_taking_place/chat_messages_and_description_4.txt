@@ -1,0 +1,14 @@
+sender;content
+James;Hey guys, anyone up for some hiking this weekend?
+Brian;I'm in James. What time are we planning to leave?
+James;Great Brian! I was thinking we could start early around 7AM. We can beat the crowds then.
+Brian;Sounds good to me. Which trail are we taking?
+James;I was considering the Blue Ridge trail. It's a bit challenging but the views are worth it.
+Brian;I've heard about it. Excited to try it out!
+James;Awesome, let's meet at my place then. We can carpool.
+Brian;Perfect plan, James. See you tomorrow at 7.
+James;Great, see you then Brian. Bring enough water and snacks.
+Brian;Will do. Looking forward to it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Hiking;[James, Brian];12.03.2022 16:00:00

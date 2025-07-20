@@ -1,0 +1,16 @@
+sender;content
+Nicholas;Hey Scharron, any plans for the weekend?
+Scharron;Not sure yet, maybe just some Netflix and chill. How about you?
+Nicholas;I'm thinking about going hiking, the weather should be good.
+Scharron;That sounds fun, where are you planning to go?
+Nicholas;Probably the local national park, wanna join?
+Scharron;I'd love to, but I am not feeling too adventurous lately.
+Nicholas;No problem, maybe next time. We could do a movie night instead?
+Scharron;Sure, that sounds great. Any movie suggestions?
+Nicholas;How about 'The Shawshank Redemption'? It's a classic.
+Scharron;Oh, I love that movie. It's a deal then.
+Nicholas;Great, see you on Saturday then.
+Scharron;Looking forward to it, see you!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Plans;[Nicholas, Scharron];05.11.2021 18:30:00

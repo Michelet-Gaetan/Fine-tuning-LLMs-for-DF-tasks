@@ -1,0 +1,19 @@
+sender,content
+Ashton,"Hey team, I think we have a situation here"
+Ryan,"What's up, Ashton?"
+Ashton,"I've been hearing about some fictional burglary activities happening around"
+Linda,"Fictional? Do you mean in a book or something?"
+Ashton,"No, it's a new trend for online role-playing games. People are planning 'burglaries' in their favorite games"
+Ryan,"Oh, I see. So, it's not real crime. It's just part of the game"
+Linda,"Sounds fun. Which games are these happening in?"
+Ashton,"Mostly in open-world games. I've heard about it in Grand Theft Auto and Minecraft"
+Lavern,"Interesting. Should we be worried about it?"
+Ashton,"Not really. But we should keep an eye on it. It could be a potential issue if it starts to inspire real-world crime"
+Ryan,"Agreed. Let's monitor the situation"
+Linda,"Good idea. I'll start looking into it"
+Lavern,"Me too. We should stay informed about these trends"
+Ashton,"Great. Let's touch base in a few days to discuss our findings";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Game Watchers",["Ashton", "Ryan", "Linda", "Lavern"],"05.06.2022 14:33:45"

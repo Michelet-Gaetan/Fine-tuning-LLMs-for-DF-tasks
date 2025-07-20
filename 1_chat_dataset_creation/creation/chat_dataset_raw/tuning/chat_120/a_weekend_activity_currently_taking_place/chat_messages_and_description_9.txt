@@ -1,0 +1,14 @@
+sender;content
+James;Hey guys, anyone up for a hiking trip this weekend?
+Michael;Count me in, James! Where are we thinking?
+Robert;I'm in too. How about the Blue Ridge Mountains?
+James;Sounds great! Let's meet at my place at 6am on Saturday.
+Michael;Perfect. I'll bring some snacks.
+Robert;I can handle the gear. Anyone have any allergies or preferences?
+James;No allergies here. Just remember to bring enough water.
+Michael;Good call, Robert. And James, I'll bring some extra water bottles.
+Robert;Great, see you guys on Saturday then!
+James;Looking forward to it. See you guys.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Warriors;[James, Michael, Robert];23.09.2021 17:30:00

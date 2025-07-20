@@ -1,0 +1,14 @@
+sender;content
+Rylan;Hey Phyllis, did you catch the latest episode of The Crown?
+Phyllis;Hi Rylan, yes I did! The storyline is getting more and more interesting.
+Rylan;I know right! The character development is absolutely remarkable.
+Phyllis;Definitely. Olivia Colman is doing a great job portraying Queen Elizabeth II.
+Rylan;Agreed. And what about Tobias Menzies as Prince Philip? He's phenomenal!
+Phyllis;Yes, his performance is quite captivating. I'm also really enjoying Helena Bonham Carter as Princess Margaret.
+Rylan;She's always been one of my favorite actresses. Her versatility is just amazing.
+Phyllis;Indeed. Can't wait for the next episode!
+Rylan;Me too. Let's plan a watch party for it.
+Phyllis;That sounds like a great idea, Rylan! Let's do it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Entertainment Enthusiasts;[Rylan, Phyllis];20.05.2021 18:20:00

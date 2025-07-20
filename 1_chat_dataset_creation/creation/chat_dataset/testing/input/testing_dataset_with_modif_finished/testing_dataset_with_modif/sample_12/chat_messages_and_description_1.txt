@@ -1,0 +1,15 @@
+sender;content
+Alex;Hi guys, I was thinking we could share our favorite hobbies and maybe learn something new from each other.
+Sydney;That sounds like a fun idea, Alex. I'll start - I love painting, it's my way of expressing my creativity and it relaxes me.
+Salik;That's cool, Sydney. I enjoy playing the guitar. I find it therapeutic.
+Aliyah;I didn't know that, Salik. I love baking. There's something satisfying about creating something tasty from scratch.
+Chester;Interesting hobbies everyone! I'm a big fan of hiking. Being in nature and the physical activity really clears my mind.
+Alex;Wow, we have some diverse interests here. Sydney, have you ever considered selling your paintings?
+Sydney;I've thought about it, Alex. But for now, I just enjoy doing it for myself. Salik, do you play in a band or just for fun?
+Salik;Just for fun, Sydney. But I do dream of performing on stage one day.
+Aliyah;That would be amazing, Salik. Chester, where's your favorite place to hike?
+Chester;I love hiking in the Rockies, Aliyah. The views are incredible.
+Alex;Those sound like great experiences. Let's make a pact to try out each other's hobbies sometime.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Hobby Enthusiasts;[Alex, Sydney, Salik, Aliyah, Chester];15.03.2022 18:30:00

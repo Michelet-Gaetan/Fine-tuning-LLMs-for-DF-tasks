@@ -1,0 +1,16 @@
+sender,content
+Helen,Hey Karen, how are you finding high school so far?
+Karen,Hi Helen! It's been a bit overwhelming, but I'm managing. How about you?
+Helen,I know what you mean. It's a lot different from middle school. I'm doing okay though. Just trying to keep up with all the homework.
+Karen,Right? I didn't expect so much work. Are you involved in any clubs or sports?
+Helen,Yeah, I joined the debate team. It's pretty fun. Are you in any?
+Karen,I'm thinking about joining the art club. I've always enjoyed painting and sketching.
+Helen,That sounds great! You're really good at art. It would be a good outlet for you.
+Karen,Thanks, Helen! That's really sweet of you to say. Maybe we can study together sometime?
+Helen,That sounds like a great idea, Karen. I'd love that. We can help each other out.
+Karen,Perfect! Let's plan for that. I'll message you about it later. Thanks, Helen.
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,High School Chats,[Helen, Karen],01.09.2021 16:05:00

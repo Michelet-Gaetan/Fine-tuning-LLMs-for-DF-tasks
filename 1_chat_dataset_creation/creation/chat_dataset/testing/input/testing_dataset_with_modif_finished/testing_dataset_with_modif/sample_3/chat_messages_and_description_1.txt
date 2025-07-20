@@ -1,0 +1,14 @@
+sender;content
+Clara;Hey Carlton, I'm thinking about going on a trip.
+Carlton;That sounds like a great idea! Where are you planning to go?
+Clara;I'm not sure yet, I was thinking about going to Europe. Have you ever been?
+Carlton;Yes, I've been to France and Italy. Both were great experiences. 
+Clara;I've always wanted to go to France. What was your favorite part?
+Carlton;The food was incredible! And the art museums in Paris were a highlight.
+Clara;That sounds amazing. I think I'll start planning my trip to France!
+Carlton;That's exciting! Make sure to visit the Louvre and take a trip to the countryside.
+Clara;Definitely, I'll add those to my list. Thanks for the advice, Carlton.
+Carlton;No problem, Clara. Have a fantastic trip!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Euro Travel Chat;[Clara, Carlton];20.07.2022 14:00:00

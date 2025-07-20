@@ -1,0 +1,14 @@
+sender;content
+Adam;Hey guys, have you seen the latest video of the 'Falling Panda' on YouTube?
+Shelby;Haha, yeah! That panda has better gymnastic skills than me.
+Kyle;I laughed so hard when it tried to do a somersault but ended up rolling down.
+Leon;I didn't see it yet. Can someone share the link?
+Jessica;Sure Leon, here it is: www.youtube.com/FallingPandaLatest
+Adam;I bet you will be laughing out loud, Leon. It's hilarious!
+Shelby;I have seen it three times already. It's my stress buster.
+Kyle;I'm waiting for the next video. Hope it will be out soon.
+Leon;I just watched it. OMG! That's the cutest and funniest thing I've seen in a while.
+Jessica;Told ya! It's a mood lifter.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Funny Online Squad;[Adam, Shelby, Kyle, Leon, Jessica];20.03.2022 13:45:00

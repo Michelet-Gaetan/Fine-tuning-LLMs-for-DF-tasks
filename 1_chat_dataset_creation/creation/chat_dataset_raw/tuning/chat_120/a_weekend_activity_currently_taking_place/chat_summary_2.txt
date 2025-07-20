@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+James and Robert are planning their meeting at the farmer's market.;
+
+James asks Robert if he plans to go to the farmer's market later on. Robert responds that yes and proposes James to join. They decide to meet at 10:30 AM, and to grab a coffee after the maret. James finally reminds Robert to take reusable bags.;
+
+The conversation between James and Robert revolves around their plan to visit a farmer's market on a weekend. James initiates the conversation by asking Robert if he intends to visit the farmer's market. Robert confirms and invites James to join him. They agree to meet at 10:30 am and plan to grab a coffee afterwards. James reminds Robert to bring his reusable bags for the market. The conversation takes place on WhatsApp under the group name "Weekend Plans" on the 24th of April, 2021 starting from 8:30 am.

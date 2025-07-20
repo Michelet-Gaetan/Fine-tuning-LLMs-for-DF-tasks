@@ -1,0 +1,14 @@
+sender;content
+Michael;Hey Richard, got a minute?
+Richard;Sure, what's up Michael?
+Michael;Been hearing about this new product in town. Ever heard of it?
+Richard;Depends, what's it called?
+Michael;They're calling it the 'Blue Sky'. I hear it's quite potent.
+Richard;Interesting, we might want to look into it.
+Michael;That's what I was thinking. We should be ahead of the game.
+Richard;Let's be careful though. We don't want any heat from the authorities.
+Michael;Agreed. We'll tread lightly.
+Richard;I'll start gathering some intel.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Business Matters;[Michael, Richard];20.04.2021 14:30:00

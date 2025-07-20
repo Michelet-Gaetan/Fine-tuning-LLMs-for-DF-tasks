@@ -1,0 +1,17 @@
+sender, content
+Jon, "Hey Tracy, how's your new pet rabbit doing?"
+Tracy, "Hello Jon! He's doing great, thanks for asking."
+Jon, "That's awesome! What's his name?"
+Tracy, "His name is Fluffy. He's so adorable!"
+Jon, "Fluffy is a cute name. How is he adjusting to his new home?"
+Tracy, "He seems to be enjoying it. He's already found his favorite corner to play in."
+Jon, "That's wonderful. It's important for pets to feel comfortable in their environment."
+Tracy, "Exactly, Jon. And I make sure he gets plenty of exercise and a balanced diet."
+Jon, "That's great to hear, Tracy. Are you planning on getting more pets?"
+Tracy, "Not at the moment, Jon. Fluffy is quite a handful already!"
+Jon, "I can imagine! Pets are a big responsibility but they're worth it."
+Tracy, "Absolutely, Jon. They bring so much joy and happiness."
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, "Pet Chat", ["Jon", "Tracy"], "08.12.2021 10:30:00"

@@ -1,0 +1,12 @@
+sender,content
+David,"Hey Thomas, how's the weather looking on your end?";
+Thomas,"Hi David, it's quite sunny here. How about at your place?";
+David,"It's quite gloomy here. Looks like it's going to rain.";
+Thomas,"Oh, that's quite the contrast. Make sure to carry an umbrella if you're heading out.";
+David,"Will do, Thomas. Hopefully, it clears up soon.";
+Thomas,"Fingers crossed, David. Stay safe out there.";
+David,"Thanks, Thomas. You too, enjoy the sun.";
+
+-----
+application,chat group name, list of participants, first message sending datetime
+WhatsApp,Weather Chat,[David, Thomas],08.03.2022 10:15:00

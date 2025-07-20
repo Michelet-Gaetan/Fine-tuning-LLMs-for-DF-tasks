@@ -1,0 +1,13 @@
+sender;content
+James;Hey, you got the details for our next mission?
+Robert;Yeah, got them from the boss. It's a mansion in the outskirts.
+James;A mansion, huh? Fancy. Any idea about the security?
+Robert;The usual stuff. CCTV, alarms, guards. We'll need to be careful.
+James;And the valuables?
+Robert;Lots. Artwork, jewels, cash. It's a goldmine.
+James;We'll need a solid plan then. Let's meet up and discuss.
+Robert;Agreed. Tomorrow, our usual spot?
+James;Sounds good. See you then, mate.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Heist Planning;[James, Robert];06.03.2022 10:25:30

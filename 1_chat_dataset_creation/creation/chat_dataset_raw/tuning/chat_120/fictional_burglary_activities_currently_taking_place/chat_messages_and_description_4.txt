@@ -1,0 +1,18 @@
+sender,content
+John,"Hey, have you heard about the recent break-ins?"
+Robert,"Yes, I heard about it on the news. They say it's a series of burglaries."
+John,"Any idea who's behind it?"
+Robert,"No, but the word is it's a professional job. They're in and out without a trace."
+John,"Sounds scary. We should be careful."
+Robert,"Definitely. I've already updated my security system."
+John,"Good idea. I think I'll do the same."
+Robert,"Better safe than sorry, right?"
+John,"Absolutely. Especially these days."
+Robert,"Yes, it's a crazy world out there."
+John,"Stay safe, man."
+Robert,"You too, John."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Neighborhood Watch",["John", "Robert"],"01.10.2021 18:30:00"

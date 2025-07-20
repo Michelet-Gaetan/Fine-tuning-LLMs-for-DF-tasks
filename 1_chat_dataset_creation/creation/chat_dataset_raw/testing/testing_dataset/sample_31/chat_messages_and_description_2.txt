@@ -1,0 +1,17 @@
+sender, content
+Paul, Hey Amelia, how are you?
+Amelia, I'm good, Paul! How about you?
+Paul, I'm doing well, thanks. How's everyone at home?
+Amelia, They're all doing well. Mom and Dad send their love.
+Paul, That's nice to hear. How's little Timmy doing in school?
+Amelia, He's doing great. He scored an A+ in his math test last week.
+Paul, That's my nephew! Always knew he had it in him.
+Amelia, Yeah, he's a smart kid. He takes after his uncle.
+Paul, I'm flattered, Amelia. How's work for you?
+Amelia, It's going well. A bit busy these days but manageable.
+Paul, That's good to hear. Let's catch up soon.
+Amelia, Sounds like a plan. Let's do it.
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, Paul and Amelia's Family Chat, [Paul, Amelia], 01.01.2022 10:30:00

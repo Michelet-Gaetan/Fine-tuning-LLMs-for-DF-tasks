@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+Michael, John, William, and Robert are chatting about the arrival of a new shipment.;
+
+Michael inquires about the arrival of a new shipment. John responds that it should arrive by the next day evening. William emphasizes the need to monitor it. Robert then notifies the others that their contact confirmed the shipment is going as planned. William asks one more time to keep all the operation discret. Everyone agrees and reassures him. They finaly decide to keep in touch on the next day.;
+
+The conversation takes place among four individuals: Michael, John, William, and Robert. The group communicates via a WhatsApp chat named "Operation Silent Night". The chat starts on the 15th of September, 2021 at 10:13:47 PM. The discussion revolves around a "shipment" that is currently in transit and due to arrive the following day. The participants emphasize the importance of ensuring the operation runs smoothly and quietly, without any mistakes. They agree to check in the following morning to update each other on the progress. The conversation ends with the participants saying goodnight to each other.

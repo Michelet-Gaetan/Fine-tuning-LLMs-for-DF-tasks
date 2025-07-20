@@ -1,0 +1,16 @@
+sender;content
+John;Hey David, have you been doing any hiking lately?
+David;Yes John, I went for a hike last weekend. It was great! The weather was perfect.
+John;That's awesome! Where did you go hiking?
+David;I went to the Rocky Mountain National Park. The views were spectacular.
+John;Wow, that sounds amazing. I've always wanted to visit that place. How long was the hike?
+David;It was a 10-mile hike. Quite challenging but totally worth it.
+John;10 miles, wow! That must have been tiring. Did you take any breaks?
+David;Yes, we took a few breaks along the way. We also packed some lunch and ate it by a beautiful lake.
+John;That sounds like a perfect day. I should definitely plan a hiking trip soon.
+David;You should, John. It's a great way to enjoy nature and also get some exercise.
+John;Definitely, I'll start planning. Thanks for the motivation, David.
+David;No problem, John. Happy to share my experience.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Outdoor Enthusiasts;[John, David];25.08.2021 10:30:00

@@ -1,0 +1,12 @@
+sender,content
+Matthew,"Hello everyone, we need to set up a meeting for next week to discuss our project progress.";
+Robert,"I'm available on Wednesday or Thursday.";
+Kimberly,"Wednesday works for me. What time are you thinking, Matthew?";
+Matthew,"How about we meet at 10 am?";
+Robert,"Sounds good to me.";
+Kimberly,"Perfect, see you then.";
+Matthew,"Great, meeting confirmed for Wednesday at 10 am. Let's make sure we're all prepared.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Project Progress Meeting,["Matthew","Robert","Kimberly"],"10.04.2022 09:30:00"

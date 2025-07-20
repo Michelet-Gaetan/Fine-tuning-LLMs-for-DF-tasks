@@ -1,0 +1,13 @@
+sender;content
+Mason;Hey guys, have you seen the new Spider-Man movie yet?
+Glen;Not yet, Mason. I heard it's really good though!
+Evelyn;I saw it last weekend. It's definitely worth watching!
+Mason;Great! Maybe we could all go this weekend?
+Glen;I'm free on Sunday. How about you, Evelyn?
+Evelyn;Sunday works for me. Let's do it!
+Mason;Awesome! I'll look up showtimes and get back to you both.
+Glen;Sounds like a plan. Looking forward to it!
+Evelyn;Same here. Movie nights are the best!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Movie Lovers;[Mason, Glen, Evelyn];01.02.2022 18:30:00

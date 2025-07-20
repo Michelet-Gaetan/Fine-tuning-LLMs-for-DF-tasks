@@ -1,0 +1,14 @@
+sender;content
+Nicholas;The vault’s security is tighter than expected. We might need an alternative entry point.
+Scharron;Did you check the ventilation system on the south side? It could be our best bet.
+Nicholas;Already on it. It’s narrow, but it’s doable. We’ll need to cut power to avoid triggering alarms.
+Scharron;Agreed. I’ll handle the power grid. You just make sure the cameras are looped before we move in.
+Nicholas;Looping the cameras now. We’ll have a 15-minute window. Is the getaway vehicle ready?
+Scharron;Yes, it’s parked two blocks away. Remember, we’ve got to be quick. The guards change shifts at 02:00.
+Nicholas;Perfect timing then. I’ll signal you once I’m inside. Stay sharp.
+Scharron;Understood. Let’s make this clean. We can’t afford any mistakes tonight.
+Nicholas;Copy that. I’m heading in now. Keep the comms open in case things go sideways.
+Scharron;I’m monitoring everything from here. If something goes wrong, I’ll create a diversion.
+-----
+application;chat group name;list of participants;first message sending datetime
+Signal;The Vault Heist;[Nicholas, Scharron];26.08.2024 23:45:12

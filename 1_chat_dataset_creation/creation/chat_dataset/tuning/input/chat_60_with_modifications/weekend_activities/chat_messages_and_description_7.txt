@@ -1,0 +1,16 @@
+sender;content
+John;Hey guys, what are your plans for this weekend?
+Michael;I was thinking about going for a hike, the weather is perfect.
+Richard;That sounds great, Michael. I'd be up for that.
+Elizabeth;I might join too. I need a good workout.
+John;Great! Let's meet up on Saturday morning then.
+Michael;Perfect! Let's say at 8:00 AM at the trailhead?
+Richard;Sounds good to me.
+Elizabeth;Count me in. See you guys on Saturday.
+John;Awesome! Looking forward to it.
+Michael;Same here! It's going to be a fun weekend.
+Richard;Indeed. See you all on Saturday.
+Elizabeth;See you then!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Warriors;[John, Michael, Richard, Elizabeth];12.08.2021 18:34:25

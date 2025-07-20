@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John and Michael are planning a robbery at the new exhibit of a museum.;
+
+John asks Michael for an idea, and Michael answers proposing the museum, given the important number of valuables in the new exhibit. John is seduced by the idea eventough it might be risky. Michael knows someone to get the blueprints, and a tech guy to neutralize the alarms. On the other hand, John has a contact that has a rapid car and a good knowledge of the city. They finally agree to meet on the next day to fine-tune their plan.;
+
+The conversation generated involves two individuals, John and Michael, planning a fictional heist. The discussion, which takes place on Telegram under the chat group name "Heist Planning", begins on 12.06.2022 at 14:05:00. The two discuss potential targets, with Michael suggesting a museum with a new exhibit. They also contemplate security concerns, including the building's blueprints and alarm system, and consider potential contacts who could assist them. The conversation ends with them deciding to meet the next day to further discuss the details.

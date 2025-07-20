@@ -1,0 +1,17 @@
+sender;content
+John;We need to discuss the plan for the heist.
+Michael;Agreed, John. We need to ensure every detail is in place.
+Robert;I've got the blueprints for the bank.
+David;Good work, Robert. I've been working on disabling the alarm system.
+John;We also need a solid escape plan.
+William;I'll handle that. I've got a few contacts who can help us with fast cars.
+Richard;Let's not forget about the security guards. We need to know their routine.
+Michael;True, Richard. I know someone who can get us that information.
+John;Perfect. Once we have all this, we can decide on the date.
+David;Remember, no one gets hurt. That's our rule.
+Robert;Agreed, it's about the money, not violence.
+William;Once we have the money, we need to lay low for a while.
+John;Yes, let's meet again in three days to finalize everything.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Heist Planning;[John, Michael, Robert, David, William, Richard];15.03.2023 18:45:00

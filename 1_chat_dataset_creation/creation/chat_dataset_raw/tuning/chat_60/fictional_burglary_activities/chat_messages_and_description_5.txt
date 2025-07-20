@@ -1,0 +1,15 @@
+sender,content
+Robert,"Hey, did you find a good spot yet for our fictional operation?"
+John,"Yes, I've found the perfect spot. It's a mansion in the city center."
+Robert,"Sounds great. What's the security like?"
+John,"From what I've observed, there's a guard at the main entrance, CCTV cameras around the property, and an alarm system."
+Robert,"We'll need to plan carefully then. Have you started working on a strategy?"
+John,"I've started brainstorming some ideas. We'll definitely need a good disguise and we'll need to figure out how to disable the alarm system."
+Robert,"Agreed. We should also have a contingency plan in case things go wrong."
+John,"Absolutely. I'll start working on these plans and share them with you soon."
+Robert,"Perfect. Let's meet up tomorrow to discuss this further."
+John,"Sounds good. I'll bring the blueprints of the mansion with me."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Fictional Burglary Plan",["Robert","John"],"01.04.2022 10:30:00"

@@ -1,0 +1,15 @@
+sender;content
+Paul;Hi Amelia, are you watching the soccer game tonight?
+Amelia;Hey Paul, I was actually planning to watch the basketball game. Who's playing in the soccer game?
+Paul;It's Manchester United vs Barcelona. It's going to be a thrilling match!
+Amelia;Sounds exciting, but I'm a huge Lakers fan and they're playing tonight as well.
+Paul;Oh that's cool! Maybe we can keep each other updated on the scores?
+Amelia;Sure, that sounds like a fun idea. Let's do it!
+Paul;Great! I'll message you once the soccer game starts.
+Amelia;And I'll do the same for the basketball game. Looking forward to our sports night!
+Paul;Absolutely! It will be fun to follow both games at the same time.
+Amelia;Agreed, it's a date then. Talk to you later, Paul!
+Paul;Talk to you later, Amelia. Enjoy the game!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sports Night;[Paul, Amelia];20.04.2022 18:30:00

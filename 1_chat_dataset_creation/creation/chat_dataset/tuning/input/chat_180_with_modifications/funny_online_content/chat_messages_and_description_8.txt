@@ -1,0 +1,14 @@
+sender;content
+James;Hey guys, have you seen that video of the dog trying to catch its tail? Hilarious!
+Patricia;Haha, James, I watched it yesterday. So funny! The dog seemed so determined.
+Robert;Patricia, James, I loved that video too. It's probably the funniest thing I've seen this week.
+Elizabeth;Oh, Robert, you've got to see the one with the parrot mimicking its owner's phone call. It's even funnier!
+James;Elizabeth, send us the link, please!
+Elizabeth;Sure James, here you go: www.parrotvideo.com
+Patricia;Just watched it, Elizabeth. I can't stop laughing. That parrot is a genius!
+Robert;Patricia, Elizabeth, James, I agree. That parrot is the star of the internet today!
+James;Internet is such a funny place. Always something to laugh about.
+Patricia;So true, James. Makes our days brighter!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Funny Online Content;[James, Patricia, Robert, Elizabeth];15.03.2022 12:00:00

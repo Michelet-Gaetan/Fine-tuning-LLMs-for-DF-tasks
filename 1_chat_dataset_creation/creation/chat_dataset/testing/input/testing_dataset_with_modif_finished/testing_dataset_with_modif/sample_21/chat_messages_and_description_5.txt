@@ -1,0 +1,17 @@
+sender;content
+Robert;Have you watched the latest Marvel movie?
+Tiana;Not yet, have you?
+Robert;Yes, I watched it last night.
+Tiana;How was it?
+Robert;I liked it but I think the previous one was better.
+Tiana;Oh really? I loved the previous one so maybe I won't like this as much.
+Robert;Maybe. But you should still watch it, it’s worth it.
+Tiana;Yeah, I will. Thanks for the recommendation.
+Robert;Anytime! Let me know what you think once you’ve seen it.
+Tiana;Will do. Thanks Robert.
+Robert;You're welcome. Enjoy!
+Tiana;I'm sure I will. Chat later, Robert.
+Robert;Bye Tiana, talk to you soon.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Movie Discussion;[Robert, Tiana];05.05.2021 19:30:00

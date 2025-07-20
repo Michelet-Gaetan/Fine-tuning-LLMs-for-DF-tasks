@@ -1,0 +1,952 @@
+[
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Work Meeting",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "21.04.2022 09:00:00"
+            },
+            "dialogue": "John: Hey Michael, are you free for a meeting next week?\r\nMichael: Hi John, sure, what day are you thinking?\r\nJohn: I'm thinking either Monday or Wednesday, any preference?\r\nMichael: Monday works better for me. What time?\r\nJohn: How about 10am?\r\nMichael: 10am sounds perfect. Where should we meet?\r\nJohn: Let's meet at our usual coffee shop. Does that work for you?\r\nMichael: Yes, that's perfect. See you on Monday then!\r\nJohn: Great, see you on Monday at 10am at the coffee shop!\r\nMichael: Looking forward to it, John.",
+            "summaries": {
+                  "general": "John and Michael are planning a meeting in a coffee shop.",
+                  "precise": "John wonders if Michael is free the following week. Michael replies that this is the case and asks which day John thinks of. John proposes Monday or Wednesday. Michael accepts Monday and asks for the time, to which John answers 10 AM. After being asked about the meeting point, John suggests their usual coffee shop. They finally confirm the meeting.",
+                  "GPT4_non_adjusted": "In the conversation, John initiates a discussion with Michael about scheduling a meeting for the following week. John suggests Monday or Wednesday, and Michael chooses Monday as the more suitable day. John proposes a meeting time of 10am, which Michael agrees to. John then suggests their usual coffee shop as the meeting location, which Michael also agrees to. The conversation concludes with both parties confirming the meeting details: Monday at 10am at their usual coffee shop. The chat took place on WhatsApp under the group name \"Work Meeting\" and the first message was sent on 21.04.2022 at 09:00:00.",
+                  "GPT4_adjusted": "In the conversation, John initiates a discussion with Michael about scheduling a meeting for the following week. John suggests Monday or Wednesday, and Michael chooses Monday as the more suitable day. John proposes a meeting time of 10am, which Michael agrees to. John then suggests their usual coffee shop as the meeting location, which Michael also agrees to. The conversation concludes with both parties confirming the meeting details: Monday at 10am at their usual coffee shop."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Work Meeting",
+                  "list of participants": [
+                        "Daniel",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "22.02.2022 09:15:00"
+            },
+            "dialogue": "Daniel: Hi Michael, are you available for a meeting?\r\nMichael: Hello Daniel, sure. When are you thinking?\r\nDaniel: How about next Tuesday at 2 pm?\r\nMichael: I'm sorry, I have another appointment at that time. How about Wednesday?\r\nDaniel: Wednesday works for me. 2 pm?\r\nMichael: That's perfect. I'll see you then.\r\nDaniel: Great! Looking forward to it.\r\nMichael: Me too. Have a nice day, Daniel.\r\nDaniel: You too, Michael. Bye.",
+            "summaries": {
+                  "general": "Daniel and Michael are trying to set up a meeting that will finally take place the following Wednesday at 2 PM.",
+                  "precise": "Daniel asks Michael's availability to set a meeting. After Michael returns the question, Daniel suggests meeting the following Tuesday at 2 PM. It does not work for Michael, who proposes the Wednesday instead. Daniel agrees and wonders if 2 PM works, to which Michael agrees.",
+                  "GPT4_non_adjusted": "The conversation was initiated by Daniel, who wanted to set up a meeting with Michael. The meeting was initially proposed for Tuesday at 2 pm, but due to a scheduling conflict, Michael suggested Wednesday instead. Daniel agreed to the new timing, and both parties expressed their anticipation for the meeting before ending the conversation. The chat took place on WhatsApp in the chat group named \"Work Meeting\", and the first message was sent on 22nd February 2022 at 9:15 am.",
+                  "GPT4_adjusted": "The conversation was initiated by Daniel, who wanted to set up a meeting with Michael. The meeting was initially proposed for Tuesday at 2 pm, but due to a scheduling conflict, Michael suggested Wednesday instead. Daniel agreed to the new timing, and both parties expressed their anticipation for the meeting before ending the conversation."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Work Meeting",
+                  "list of participants": [
+                        "David",
+                        "Karen"
+                  ],
+                  "first message sending datetime": "01.09.2022 09:30:00"
+            },
+            "dialogue": "David: Hey Karen, are you available for a meeting next week?\r\nKaren: Sure David, what day are you thinking of?\r\nDavid: How about Monday, at 10am?\r\nKaren: I'm afraid I have another meeting at that time. Can we do it in the afternoon instead?\r\nDavid: That works for me. How about 2pm?\r\nKaren: Perfect! Let's lock that in. Where will the meeting be held?\r\nDavid: It's going to be in the conference room on the 4th floor.\r\nKaren: Great, see you then.\r\nDavid: See you Karen. I'll send you a calendar invite shortly.\r\nKaren: Thanks David. Looking forward to our meeting.",
+            "summaries": {
+                  "general": "David and Karen are discussing a potential meeting that should take place the following Monday at 2 PM in the 4th-floor conference room.",
+                  "precise": "David asks Karen about potential availabilities for a meeting the following week. After being asked for the schedule he was planning, David suggests Monday at 10 PM. Karen replies that she is unavailable due to another meeting but might be during the afternoon, to which David proposes 2 PM. Karen accepts and then asks about the location, and David replies that they will meet at the 4th-floor conference room. David finally states that he will send a calendar invite.",
+                  "GPT4_non_adjusted": "In the conversation, David reached out to Karen to schedule a meeting for the upcoming week. They initially considered having the meeting on Monday at 10am, but Karen was already booked at that time. They agreed to reschedule the meeting for the same day at 2pm. The meeting venue was confirmed to be the conference room on the 4th floor. David assured Karen that he would send a calendar invite to her to formally set the appointment.",
+                  "GPT4_adjusted": "In the conversation, David reached out to Karen to schedule a meeting for the upcoming week. They initially considered having the meeting on Monday at 10am, but Karen was already booked at that time. They agreed to reschedule the meeting for the same day at 2pm. The meeting venue was confirmed to be the conference room on the 4th floor. David assured Karen that he would send a calendar invite to her to formally set the appointment."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Appointment Chat",
+                  "list of participants": [
+                        "Robert",
+                        "David"
+                  ],
+                  "first message sending datetime": "15.10.2021 09:15:30"
+            },
+            "dialogue": "Robert: Hey David, are you free next week? I need to discuss something with you.\r\nDavid: Sure Robert, what day are you thinking?\r\nRobert: How about Wednesday at 3pm?\r\nDavid: Wednesday works fine for me but can we do it a bit earlier? Say, 1pm?\r\nRobert: 1pm it is then. Where should we meet?\r\nDavid: Let's meet at our usual place, Cafe Mocha.\r\nRobert: Perfect! Cafe Mocha, Wednesday at 1pm. See you there, David.\r\nDavid: Looking forward to it, Robert. See you on Wednesday!",
+            "summaries": {
+                  "general": "Robert and David are trying to plan a meeting. They finally agree on the following Wednesday at 3 PM and the Cafe Mocha.",
+                  "precise": "Robert asks about David's availability the following week to discuss something. Robert was thinking of the Wednesday at 3 PM. The day works for David, but he asks if it might be possible to meet at 1 PM. Robert agrees and asks about the meeting locations. David suggests their usual place, the Cafe Mocha, and Robert agrees.",
+                  "GPT4_non_adjusted": "The conversation between Robert and David revolves around scheduling an appointment. Robert initiates the conversation by asking David if he's available for a meeting the following week. David agrees and asks Robert for the preferred date. Robert suggests Wednesday at 3pm, but David proposes to meet earlier, at 1pm. Robert agrees with the new timing and asks for the meeting location. David proposes Cafe Mocha, their usual meeting place. Robert confirms the appointment for Wednesday at 1pm at Cafe Mocha and David expresses his anticipation for the meeting. This conversation was held on WhatsApp in a chat group named \"Appointment Chat\". The first message was sent by Robert on 15th October 2021 at 09:15:30.",
+                  "GPT4_adjusted": "The conversation between Robert and David revolves around scheduling an appointment. Robert initiates the conversation by asking David if he's available for a meeting the following week. David agrees and asks Robert for the preferred date. Robert suggests Wednesday at 3pm, but David proposes to meet earlier, at 1pm. Robert agrees with the new timing and asks for the meeting location. David proposes Cafe Mocha, their usual meeting place. Robert confirms the appointment for Wednesday at 1pm at Cafe Mocha and David expresses his anticipation for the meeting."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Work Meeting",
+                  "list of participants": [
+                        "John",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "24.08.2021 09:15:30"
+            },
+            "dialogue": "John: Hey Robert, are you free next Tuesday?\r\nRobert: Hi John, let me check my schedule quickly.\r\nRobert: Looks like I'm free in the afternoon. What time are you thinking?\r\nJohn: How about we meet at 2pm?\r\nRobert: That sounds good. Where shall we meet?\r\nJohn: Let's meet at our usual spot, the coffee shop near the office.\r\nRobert: Perfect. See you then.\r\nJohn: Great, looking forward to it. See you on Tuesday at 2pm.\r\nRobert: Got it. Have a good day, John.\r\nJohn: You too, Robert.",
+            "summaries": {
+                  "general": "John and Robert are planning a meeting. They agree to meet the following Tuesday at 2 PM at their usual spot, a coffee shop near their office.",
+                  "precise": "John asks if Robert is free the following Tuesday. After checking his schedule, Robert replies that he is free during the afternoon and asks for John's proposition. John suggests 2 PM, and when Robert asks about the location, John replies that they can meet at the coffee shop near their office, which, according to him, is their usual spot. Robert finally agrees.",
+                  "GPT4_non_adjusted": "The conversation is between John and Robert. They are discussing to set up a meeting. John initiates the conversation by asking Robert if he is free next Tuesday. Robert checks his schedule and confirms that he is free in the afternoon. They agree to meet at 2pm at their usual spot, which is a coffee shop near their office. They both confirm the meeting and express their anticipation for the meeting. The entire conversation took place over WhatsApp in a chat group named \"Work Meeting\". The first message was sent by John on 24th of August, 2021 at 09:15:30.",
+                  "GPT4_adjusted": "The conversation is between John and Robert. They are discussing to set up a meeting. John initiates the conversation by asking Robert if he is free next Tuesday. Robert checks his schedule and confirms that he is free in the afternoon. They agree to meet at 2pm at their usual spot, which is a coffee shop near their office. They both confirm the meeting and express their anticipation for the meeting."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Project Discussion Group",
+                  "list of participants": [
+                        "Michael",
+                        "John",
+                        "Elizabeth"
+                  ],
+                  "first message sending datetime": "23.04.2022 09:15:00"
+            },
+            "dialogue": "Michael: Hello everyone, I was thinking we should have a meeting to discuss the upcoming project. What do you think?\r\nJohn: I agree, Michael. We need to sort out a few things before we proceed.\r\nElizabeth: That sounds like a good idea. When are we thinking?\r\nMichael: How about next Monday at 10am?\r\nJohn: I'm free at that time.\r\nElizabeth: I have a prior engagement at that time. Can we do it in the afternoon?\r\nMichael: Sure, how about 2pm?\r\nJohn: That works for me.\r\nElizabeth: Perfect. 2pm it is.\r\nMichael: Great. I'll send out a calendar invite. See you then.",
+            "summaries": {
+                  "general": "Michael, John, and Elizabeth are planning a meeting to discuss their next project. They finally agree to meet the following Monday at 2 PM.",
+                  "precise": "Michael suggests the other to set up a meeting together to discuss their next project. John replies that it is a nice idea, and Elizabeth agrees, asking Michael for his schedule thought. Michael suggests meeting the following Monday at 10 AM, which works for John but not for Elizabeth, who asks if it is possible to have the meeting during the afternoon. Michael proposes 2 PM, and everyone agrees. Michael finally states that he will send calendar invites.",
+                  "GPT4_non_adjusted": "In the conversation, Michael initiated a discussion about scheduling a meeting to discuss an upcoming project. John agreed with the need for a meeting. When Michael suggested Monday at 10 am, Elizabeth indicated that she had a prior engagement at that time. They agreed to reschedule the meeting to 2 pm. Michael then confirmed that he would send out a calendar invite for the meeting. This chat took place on WhatsApp in a group named \"Project Discussion Group\" with Michael, John, and Elizabeth as participants. The first message was sent on the 23rd of April, 2022 at 09:15 am.",
+                  "GPT4_adjusted": "In the conversation, Michael initiated a discussion about scheduling a meeting to discuss an upcoming project. John agreed with the need for a meeting. When Michael suggested Monday at 10 am, Elizabeth indicated that she had a prior engagement at that time. They agreed to reschedule the meeting to 2 pm. Michael then confirmed that he would send out a calendar invite for the meeting. This chat took place in a group with Michael, John, and Elizabeth as participants."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Project Progress Meeting",
+                  "list of participants": [
+                        "Matthew",
+                        "Robert",
+                        "Kimberly"
+                  ],
+                  "first message sending datetime": "10.04.2022 09:30:00"
+            },
+            "dialogue": "Matthew: Hello everyone, we need to set up a meeting for next week to discuss our project progress.\r\nRobert: I'm available on Wednesday or Thursday.\r\nKimberly: Wednesday works for me. What time are you thinking, Matthew?\r\nMatthew: How about we meet at 10 am?\r\nRobert: Sounds good to me.\r\nKimberly: Perfect, see you then.\r\nMatthew: Great, meeting confirmed for Wednesday at 10 am. Let's make sure we're all prepared.",
+            "summaries": {
+                  "general": "Matthew, Robert, and Kimberley are setting up a project meeting to discuss their progress. After discussion, they agree to meet the following Wednesday at 10 PM.",
+                  "precise": "Matthew notifies the other of the need for a meeting the following week to discuss the progress of their project. Robert proposes Wednesday or Thursday, and Kimberley replies that she is available Wednesday. When being asked about the schedule, Matthew suggests 10 AM, and everyone agrees.",
+                  "GPT4_non_adjusted": "The conversation was initiated by Matthew in a WhatsApp group named \"Project Progress Meeting\", which also includes Robert and Kimberly as participants. Matthew proposed a meeting to discuss the project's progress, to which Robert suggested Wednesday or Thursday as potential days. Kimberly agreed with Wednesday and Matthew suggested 10 am as the meeting time. Both Robert and Kimberly agreed to the proposed time. The conversation ended with Matthew confirming the meeting for Wednesday at 10 am. The first message was sent on 10th April 2022 at 09:30:00.",
+                  "GPT4_adjusted": "The conversation was initiated by Matthew in a group, which also includes Robert and Kimberly as participants. Matthew proposed a meeting to discuss the project's progress, to which Robert suggested Wednesday or Thursday as potential days. Kimberly agreed with Wednesday and Matthew suggested 10 am as the meeting time. Both Robert and Kimberly agreed to the proposed time. The conversation ended with Matthew confirming the meeting for Wednesday at 10 am."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Project Proposal Meeting",
+                  "list of participants": [
+                        "Robert",
+                        "Mark",
+                        "Mary"
+                  ],
+                  "first message sending datetime": "23.08.2021 08:45:00"
+            },
+            "dialogue": "Robert: Can we set up a meeting for the new project proposal?\r\nMark: Sure, Robert. Any preferred date and time?\r\nRobert: How about next Tuesday at 10am?\r\nMary: That works for me. How about you, Mark?\r\nMark: I'm good with that too. Let's lock it in.\r\nRobert: Great! See you all next Tuesday at 10am.\r\nMary: Perfect! Looking forward to it.",
+            "summaries": {
+                  "general": "Robert, Mark, and Mary are planning a meeting for their new project proposal. They agree to meet on the following Tuesday at 10 AM.",
+                  "precise": "Robert asks the others if they could set up a meeting to discuss the next project proposal. Mark accepts and asks for the date. Robert then suggests the following Tuesday at 10 AM, and Mary and Mark agree.",
+                  "GPT4_non_adjusted": "In the conversation, Robert initiates a discussion to set up a meeting for a new project proposal. He suggests next Tuesday at 10am for the meeting. Mark and Mary agree with the proposed date and time. The meeting is confirmed for the suggested time and all participants express their anticipation for it. The conversation took place on WhatsApp in a group named \"Project Proposal Meeting\" with Robert, Mark, and Mary as participants. The first message was sent on 23rd August 2021 at 08:45:00.",
+                  "GPT4_adjusted": "In the conversation, Robert initiates a discussion to set up a meeting for a new project proposal. He suggests next Tuesday at 10am for the meeting. Mark and Mary agree with the proposed date and time. The meeting is confirmed for the suggested time and all participants express their anticipation for it. The conversation took place in a group with Robert, Mark, and Mary as participants."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "WhatsApp",
+                  "chat group name": "Operation Gold Heist",
+                  "list of participants": [
+                        "Robert",
+                        "Mark"
+                  ],
+                  "first message sending datetime": "20.11.2022 22:30:00"
+            },
+            "dialogue": "Robert: We're at the location.\r\nMark: Copy that. Remember, stealth is the key here.\r\nRobert: I've got eyes on the target. No signs of security.\r\nMark: Proceed with caution, Robert. Any mistake can cost us big.\r\nRobert: I'm in. Heading to the vault now.\r\nMark: Great. Keep me updated.\r\nRobert: I've reached the vault. It's a biometric lock.\r\nMark: I'll send you the override code. Hold tight.\r\nRobert: Got the code. The vault is open.\r\nMark: Good job. Get the goods and let's wrap this up.\r\nRobert: Goods secured. Heading to the exit now.\r\nMark: I'll meet you at the rendezvous point. Stay safe.\r\nRobert: Roger that.",
+            "summaries": {
+                  "general": "Robert and Mark are communicating to accomplish an operation targeting goods stored in a biometrical vault.",
+                  "precise": "Robert informs Mark of their arrival, and Mark emphasizes the need to remain discreet and cautious. Robert mentions not noticing security and proceeds to the vault. Robert then explains that the vault is biometrically secured, and Mark says he will provide him with a code to bypass it. Robert then notifies Mark of the vault opening success and, later on, that he could get the goods and head to the exit. They finally agree to meet at their rendezvous point.",
+                  "GPT4_non_adjusted": "The conversation takes place between Robert and Mark, two individuals involved in a heist. The chat begins with Robert confirming his arrival at the location of the heist. Mark emphasizes the importance of stealth in their operation. Robert keeps Mark updated with his progress, reporting no signs of security, making his way to the vault, dealing with a biometric lock, and finally securing the goods. Mark supports Robert through each step, providing an override code for the biometric lock and planning their exit strategy. The conversation ends with Mark instructing Robert to meet him at a rendezvous point. This chat is hosted on WhatsApp under the group name \"Operation Gold Heist\" and the first message was sent on 20th November 2022 at 22:30:00.",
+                  "GPT4_adjusted": "The conversation takes place between Robert and Mark, two individuals involved in a heist. The chat begins with Robert confirming his arrival at the location of the heist. Mark emphasizes the importance of stealth in their operation. Robert keeps Mark updated with his progress, reporting no signs of security, making his way to the vault, dealing with a biometric lock, and finally securing the goods. Mark supports Robert through each step, providing an override code for the biometric lock and planning their exit strategy. The conversation ends with Mark instructing Robert to meet him at a rendezvous point."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "WhatsApp",
+                  "chat group name": "Operation Grand Heist",
+                  "list of participants": [
+                        "Michael",
+                        "William",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "17.02.2022 20:00:00"
+            },
+            "dialogue": "Michael: We're in position\r\nWilliam: Great. The vault is on the third floor. You'll need to bypass the security system\r\nMichael: We're on it. Robert is working on the security system now\r\nRobert: Security system is down. Moving towards the vault\r\nWilliam: Perfect. Be careful. Cameras are still active. You need to stay out of their sight\r\nMichael: Understood. We're moving carefully\r\nRobert: We've reached the vault. It's a biometric lock\r\nWilliam: You'll need to use the device I gave you. It should bypass the biometric lock\r\nMichael: We're trying it now\r\nRobert: The device worked. We're in\r\nWilliam: Good. You have 15 minutes before security comes back online. Be quick\r\nMichael: We're on it. Gathering the goods now\r\nRobert: We've got everything. Heading towards the exit\r\nWilliam: Excellent. I'll meet you at the rendezvous point.",
+            "summaries": {
+                  "general": "Michael, William, and Robert communicate during an operation targeting goods kept in a vault.",
+                  "precise": "Michael informs the others that they are ready. William gives the location of the vault, the third floor, and explains they must attack the security system. Michael indicates that Robert is working on it, which is later confirmed by Robert once he could shut it down. William notifies them to stay outside of the cameras' sight. Robert later says they could reach the vault, which is biometrically locked. William tells him to use the bypass device he provided. Robert later confirms that the device did its job and that they started gathering the goods. William indicates they have 15 minutes before the security is active again. Once they got all the goods, Robert notifies William and agree to meet at their rendezvous point.",
+                  "GPT4_non_adjusted": "The conversation between Michael, William, and Robert revolves around a heist operation in progress. The chat starts with Michael confirming that they are in position. William guides them to a vault on the third floor and instructs them to bypass the security system. Robert is successful in deactivating the security system and they move towards the vault. Despite active cameras, they manage to stay undetected. Upon reaching the vault, they encounter a biometric lock. With a device given by William, they manage to bypass the lock and gain access to the vault. They are given a 15-minute window to gather the goods and exit before the security system is reactivated. They manage to gather the goods in time and start heading towards the exit. William confirms that he will meet them at the rendezvous point.",
+                  "GPT4_adjusted": "The conversation between Michael, William, and Robert revolves around a heist operation in progress. The chat starts with Michael confirming that they are in position. William guides them to a vault on the third floor and instructs them to bypass the security system. Robert is successful in deactivating the security system and they move towards the vault. Despite active cameras, they manage to stay undetected. Upon reaching the vault, they encounter a biometric lock. With a device given by William, they manage to bypass the lock and gain access to the vault. They are given a 15-minute window to gather the goods and exit before the security system is reactivated. They manage to gather the goods in time and start heading towards the exit. William confirms that he will meet them at the rendezvous point."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "Telegram",
+                  "chat group name": "HeistChat",
+                  "list of participants": [
+                        "James",
+                        "Richard"
+                  ],
+                  "first message sending datetime": "27.09.2022 22:15:00"
+            },
+            "dialogue": "James: We're in position. Are you ready, Richard?\r\nRichard: Yes, just need a minute to disable the security cameras.\r\nJames: Hurry up, we don't have much time. The guards are going to make their rounds soon.\r\nRichard: Done, cameras are down.\r\nJames: Great, moving in now. Keep an eye out for any unexpected visitors.\r\nRichard: Got it, I'm watching the monitors.\r\nJames: I'm at the vault door. I need the combination.\r\nRichard: The combination is 15-23-34. Be careful, James.\r\nJames: The vault is open, I'm inside.\r\nRichard: Someone's coming, get out of there now!\r\nJames: I'm on my way out. Be ready to drive.\r\nRichard: I'm starting the car. Hurry, James!\r\nJames: I'm out, let's go!",
+            "summaries": {
+                  "general": "James and Richard are communicating during an operation targeting a protected vault.",
+                  "precise": "James asks for Richard's status. Richard says he needs one more minute to stop the cameras, which worries James due to the close start of the next guard patrol. Once Robert informs John of the camera disablement success, John indicates that he is heading to the vault and asks Richard to keep a look for unexpected guards. Once in front of the vault, James asks Richard about its combination, which seems to be 15-23-34. James then notifies that he could open the vault, and when Richard indicates that someone is coming, James tells him he is on his way out. Richard replies that he is starting the car.",
+                  "GPT4_non_adjusted": "The conversation takes place on a Telegram chat group named \"HeistChat\" between two individuals, James and Richard, on September 27, 2022, at 10:15 PM. The discussion is a real-time communication of a heist in progress. James starts by confirming their position and asking Richard if he's ready. Richard responds that he's about to disable the security cameras. As the conversation progresses, James instructs Richard to hurry up as the guards are about to make their rounds. Richard successfully disables the cameras and assures James that he's monitoring the situation. James then moves towards the vault and asks Richard for the combination. After receiving the combination, James successfully enters the vault. However, Richard notices someone approaching on the monitor and warns James, who then leaves the vault and escapes just in time. The conversation ends with Richard starting the car and them successfully evading capture.",
+                  "GPT4_adjusted": "The conversation takes place between two individuals, James and Richard. The discussion is a real-time communication of a heist in progress. James starts by confirming their position and asking Richard if he's ready. Richard responds that he's about to disable the security cameras. As the conversation progresses, James instructs Richard to hurry up as the guards are about to make their rounds. Richard successfully disables the cameras and assures James that he's monitoring the situation. James then moves towards the vault and asks Richard for the combination. After receiving the combination, James successfully enters the vault. However, Richard notices someone approaching on the monitor and warns James, who then leaves the vault and escapes just in time. The conversation ends with Richard starting the car and them successfully evading capture."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "Telegram",
+                  "chat group name": "Operation Midnight",
+                  "list of participants": [
+                        "Paul",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "20.03.2022 21:45:00"
+            },
+            "dialogue": "Paul: We're in position. Over.\r\nRobert: Copy that, Paul. Watch for the guards' rotation.\r\nPaul: Got it. Looks like a 15-minute cycle.\r\nRobert: Good. You remember the layout, right?\r\nPaul: Yes, vault on the east side, security room opposite. Three cameras.\r\nRobert: And the alarm system?\r\nPaul: Cut at 22:00, should give us a 2-minute window.\r\nRobert: Right. We move on your signal.\r\nPaul: On it. Wait for my go.\r\nRobert: Standing by. Be careful, Paul.",
+            "summaries": {
+                  "general": "Paul and Robert are reviewing the details of an operation plan just before starting this operation.",
+                  "precise": "Paul informs Robert that they are ready to go. Robert reminds him to be aware of the guards' rotation, and Paul mentions it looks like a 15-minute cycle. Robert asks Paul about the layout of the building and alarm system to make sure Paul remembers everything. Paul replies that the vault is on the east side, the opposite of the security room, that there are three cameras, and that he should cut the alarm at 10 PM to get a two-minute window. They then agree to begin at Paul's signal.",
+                  "GPT4_non_adjusted": "The conversation is between two individuals, Paul and Robert, who are planning and executing a heist. They are coordinating their actions, discussing the layout of the location, the rotation of the guards, and the timing of disabling the alarm system. Paul seems to be on site, observing and providing real-time information, while Robert provides guidance and awaits Paul's signal to proceed. The chat is taking place on Telegram under the group name \"Operation Midnight\" and began on March 20, 2022, at 21:45:00.",
+                  "GPT4_adjusted": "The conversation is between two individuals, Paul and Robert, who are planning and executing a heist. They are coordinating their actions, discussing the layout of the location, the rotation of the guards, and the timing of disabling the alarm system. Paul seems to be on site, observing and providing real-time information, while Robert provides guidance and awaits Paul's signal to proceed."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "Telegram",
+                  "chat group name": "Operation Nightfall",
+                  "list of participants": [
+                        "David",
+                        "Mark"
+                  ],
+                  "first message sending datetime": "12.03.2022 22:15:30"
+            },
+            "dialogue": "David: In position, ready to go\r\nMark: Copy that, David. Surveillance cams offline in 3..2..1..\r\nDavid: Cams are dark. Moving in\r\nMark: Remember, silent and smooth. We don't want any alarms triggered.\r\nDavid: Got it, Mark. I'm in the vault room.\r\nMark: Excellent. How's the lock looking?\r\nDavid: It's a Sargent & Greenleaf 6730. Won't be a problem.\r\nMark: Great. Keep me posted\r\nDavid: Almost there... And done. We're in.\r\nMark: Good job, David. Pack the goods and get out.",
+            "summaries": {
+                  "general": "David and Mark are communicating during the accomplishment of an operation targeting a vault.",
+                  "precise": "David informs Mark that he is ready, to which Mark replies that the cameras are down. David then indicates he heads to the vault, and Mark reminds him to stay discreet. Once Davide mentions that he is in the vault room, Mark inquires about the lock. David answers that it is easy to bypass, given that it is a Sargent & Greenleaf 6730. David finally notifies Mark that he is in the vault, and Mark asks him to take the goods and leave.",
+                  "GPT4_non_adjusted": "In the conversation, David and Mark are coordinating a heist that is currently underway. They are communicating through a chat group named \"Operation Nightfall\" on Telegram. The conversation begins with David stating he's in position, ready to proceed. Mark then confirms and informs David that he's about to disable the surveillance cameras. After Mark successfully disables the cameras, David moves into the vault room, ensuring to keep the operation quiet so as not to trigger any alarms. Mark checks on the status of the lock on the vault, which David identifies as a Sargent & Greenleaf 6730 and reassures Mark that it won't pose a problem. As the conversation concludes, David manages to open the vault and Mark instructs him to pack the goods and exit the premises.",
+                  "GPT4_adjusted": "In the conversation, David and Mark are coordinating a heist that is currently underway. The conversation begins with David stating he's in position, ready to proceed. Mark then confirms and informs David that he's about to disable the surveillance cameras. After Mark successfully disables the cameras, David moves into the vault room, ensuring to keep the operation quiet so as not to trigger any alarms. Mark checks on the status of the lock on the vault, which David identifies as a Sargent & Greenleaf 6730 and reassures Mark that it won't pose a problem. As the conversation concludes, David manages to open the vault and Mark instructs him to pack the goods and exit the premises."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "WhatsApp",
+                  "chat group name": "Operation Gold Vault",
+                  "list of participants": [
+                        "Thomas",
+                        "Brian",
+                        "Michael",
+                        "Lisa",
+                        "Deborah"
+                  ],
+                  "first message sending datetime": "02.03.2022 22:15:30"
+            },
+            "dialogue": "Thomas: I've managed to disable the security cameras\r\nBrian: Good job, Thomas. Michael, are you in position?\r\nMichael: Yes, I'm waiting outside the vault. Any updates on the guard rotations, Lisa?\r\nLisa: The guards will be changing shifts in about 10 minutes. You will have a window of about 2 minutes.\r\nMichael: Understood. Ready when you are, Brian.\r\nBrian: On my mark, Michael. Waiting for Thomas' confirmation\r\nThomas: I've intercepted the guard communications. They're about to change. Ready when you are, Brian.\r\nBrian: Now, Michael. Go!\r\nMichael: I'm inside the vault. Lots of security boxes here.\r\nDeborah: I've got the blueprints. Third row, fifth box from the right.\r\nMichael: Got it. Heading out now.\r\nBrian: Everyone, exit plan. Remember, stay low, stay quiet.",
+            "summaries": {
+                  "general": "Thomas, Brian, Michael, Lisa, and Deborah communicate during an operation targeting a specific security box stored in a vault.",
+                  "precise": "Thomas explains that he could stop the cameras. Brian then wonders if Michael is in position, who confirms that he is outside of the vault. Michael then inquires Lisa about the patrols, which, according to her, will change in 10 minutes, leaving Michael a 2-minute window. Michael then waits for Brian's signal, and once Thomas mentions the guards are shifting, Brian asks Michael to go. Once in the vault, Michael mentions the high number of security boxes, and Deborah explains he should take the fifth one from the right in the third row. Michael says that he has it and leaves. Brina finally launches the escape plan and reminds everyone to remain discreet.",
+                  "GPT4_non_adjusted": "The conversation takes place among a group of five individuals: Thomas, Brian, Michael, Lisa, and Deborah. It unfolds on a WhatsApp group named \"Operation Gold Vault\" and begins on the 2nd of March, 2022 at 10:15:30 PM. The discussion revolves around a heist currently in progress. Thomas initiates the conversation, confirming that he has successfully disabled the security cameras. Brian, who appears to be the leader, checks in with Michael, who is positioned outside the vault. Lisa provides updates on guard rotations, revealing a 2-minute window during a shift change. Brian commands the group, waiting for Thomas' confirmation about the guard communications before giving Michael the go-ahead to enter the vault. Once inside, Michael communicates the presence of many security boxes, and Deborah guides him to the correct one using blueprints. With the target acquired, Michael begins his exit, and Brian reminds everyone of the exit strategy: stay low and quiet. This conversation showcases the team's coordinated effort during the heist.",
+                  "GPT4_adjusted": "The conversation takes place among a group of five individuals: Thomas, Brian, Michael, Lisa, and Deborah. The discussion revolves around a heist currently in progress. Thomas initiates the conversation, confirming that he has successfully disabled the security cameras. Brian, who appears to be the leader, checks in with Michael, who is positioned outside the vault. Lisa provides updates on guard rotations, revealing a 2-minute window during a shift change. Brian commands the group, waiting for Thomas' confirmation about the guard communications before giving Michael the go-ahead to enter the vault. Once inside, Michael communicates the presence of many security boxes, and Deborah guides him to the correct one using blueprints. With the target acquired, Michael begins his exit, and Brian reminds everyone of the exit strategy: stay low and quiet. This conversation showcases the team's coordinated effort during the heist."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "WhatsApp",
+                  "chat group name": "Operation Grand Heist",
+                  "list of participants": [
+                        "John",
+                        "Robert",
+                        "Mary",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "04.09.2021 22:15:00"
+            },
+            "dialogue": "John: The vault code has changed. Any idea what the new one might be?\r\nRobert: No idea. We'll need to improvise.\r\nMary: I might be able to hack the security system and reset it.\r\nJohn: That would be great, Mary. How long do you need?\r\nMary: Give me about 15 minutes.\r\nRobert: Alright. We'll cover you.\r\nJohn: Michael, keep an eye on the exits. We don't want any surprises.\r\nMichael: Got it, John. Exits are under control.\r\nRobert: Time's running out. How's it going, Mary?\r\nMary: Almost there. Just a few more minutes.\r\nRobert: We don't have a few more minutes. Hurry up!\r\nMary: Got it! The code has been reset.\r\nJohn: Well done, Mary. Let's move, everyone.",
+            "summaries": {
+                  "general": "John, Robert, Mary, and Michael are dealing with a problem during an operation targeting a vault.",
+                  "precise": "John informs the others that the vault has a new code and wonders if anyone has an idea of the new one. Robert mentions that they have to improvise, and Mary proposes to hack the system and reset the code. John inquires about the duration of the process, and Mary asks for 15 minutes. Robert then states they will cover John. John asks Michael to look at the exits, who confirms the order. Later, Robert asks about the hacking status, and Mary needs a few more minutes, which worries Robert. Maty then announces that she could reset it. John finally congratulates her and proceeds.",
+                  "GPT4_non_adjusted": "The conversation involves four individuals: John, Robert, Mary, and Michael. They are apparently in the midst of a heist. John initiates the conversation by informing the group that the vault code they were relying on has changed. Robert acknowledges the problem and suggests they will need to think on their feet. Mary offers a solution by proposing to hack the security system and reset the vault code. John inquires about the time she needs, to which Mary responds that she needs about 15 minutes. Robert gives the go-ahead, promising that they will cover for her. John instructs Michael to monitor the exits to avoid any surprises. Robert, feeling the pressure of time, urges Mary to hurry. Mary manages to reset the code just in time. John commends Mary for her work and urges the team to proceed with their plan. The conversation took place on the messaging app WhatsApp, in a chat group named \"Operation Grand Heist\" and started on the 4th of September 2021 at 22:15:00.",
+                  "GPT4_adjusted": "The conversation involves four individuals: John, Robert, Mary, and Michael. They are apparently in the midst of a heist. John initiates the conversation by informing the group that the vault code they were relying on has changed. Robert acknowledges the problem and suggests they will need to think on their feet. Mary offers a solution by proposing to hack the security system and reset the vault code. John inquires about the time she needs, to which Mary responds that she needs about 15 minutes. Robert gives the go-ahead, promising that they will cover for her. John instructs Michael to monitor the exits to avoid any surprises. Robert, feeling the pressure of time, urges Mary to hurry. Mary manages to reset the code just in time. John commends Mary for her work and urges the team to proceed with their plan."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "WhatsApp",
+                  "chat group name": "Heist Planning",
+                  "list of participants": [
+                        "David",
+                        "Robert",
+                        "Patricia",
+                        "James"
+                  ],
+                  "first message sending datetime": "05.07.2021 22:30:00"
+            },
+            "dialogue": "David: Guys, we're in position. Waiting for your signal.\r\nRobert: Got it, David. I'm nearly ready on my end.\r\nPatricia: I've hacked into the security system. Cameras are offline.\r\nDavid: Excellent work, Patricia. Robert, how's the situation there?\r\nRobert: A little hiccup here, but nothing I can't handle. Need a few more seconds.\r\nJames: Team, be aware of the guards' changing shift in 5 minutes. Timing is crucial.\r\nRobert: Understood, James. I'm ready now, David.\r\nDavid: Okay, team. Let's do this. Patricia, lock the exit doors.\r\nPatricia: Exit doors locked. You're good to go.\r\nDavid: Moving now. Keep an eye out, James.\r\nJames: All clear for now. Hurry, David.\r\nDavid: Package secured. Heading out.\r\nRobert: Great job, David. I'm in the car. Hurry up.\r\nPatricia: Guys, the cameras are back online. Get out now!\r\nDavid: We're out. Smooth as silk. Great job, team.",
+            "summaries": {
+                  "general": "David, Robert, Patricia, and James are communicating about an operation being undertaken and targeting a specific 'package'.",
+                  "precise": "David informs the other that he is ready, and Robert that he nearly is. Patricia notifies them that she hacked and turned off the cameras. David congratulates her and wonders about David's status, who had a problem but already solved it. James intervenes to mention that the guard shift change will happen very soon. Robert and David say they are ready, and David asks Patricia to lock the exits, who confirms it once they are locked. David asks James to monitor the situation, and after receiving the confirmation that everything is okay, David mentions the package is secured. Robert asks David to join the car, and Patricia notifies the cameras are working again. David finally states that they could leave.",
+                  "GPT4_non_adjusted": "The conversation begins with David, who announces his position and awaits a signal from his team. Robert replies, indicating that he is almost ready, and Patricia informs the team that she has successfully hacked into the security system, taking the cameras offline. David commends Patricia's work and checks on Robert's progress. James informs the team about an upcoming shift change for the guards, stressing the importance of timing. Robert signals readiness to David, who then instructs Patricia to lock the exit doors. As David moves to secure the package, James keeps a lookout. After David successfully secures the package, Robert informs him that he's waiting in the getaway car. Patricia alerts the team that the cameras are back online, urging them to leave immediately. David confirms their successful exit, and the team congratulates each other on the job well done.",
+                  "GPT4_adjusted": "The conversation begins with David, who announces his position and awaits a signal from his team. Robert replies, indicating that he is almost ready, and Patricia informs the team that she has successfully hacked into the security system, taking the cameras offline. David commends Patricia's work and checks on Robert's progress. James informs the team about an upcoming shift change for the guards, stressing the importance of timing. Robert signals readiness to David, who then instructs Patricia to lock the exit doors. As David moves to secure the package, James keeps a lookout. After David successfully secures the package, Robert informs him that he's waiting in the getaway car. Patricia alerts the team that the cameras are back online, urging them to leave immediately. David confirms their successful exit, and the team congratulates each other on the job well done."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "WhatsApp",
+                  "chat group name": "Funny Content Group",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "16.09.2021 20:30:00"
+            },
+            "dialogue": "John: Hey Michael, have you seen this latest cat video online?\r\nMichael: No, I haven't John. Send me the link.\r\nJohn: Sure, here you go: www.funnycatvideo.com\r\nMichael: Haha, this is hilarious. That cat thinks it's a dog!\r\nJohn: Right? I've watched it 10 times already.\r\nMichael: I'm going to send this to Robert. He loves cat videos.\r\nJohn: Good idea. He needs a laugh today.\r\nMichael: Sent! Let's see what he thinks of it.\r\nJohn: Keep me posted on his reaction.\r\nMichael: Will do, John. Thanks for sharing this.",
+            "summaries": {
+                  "general": "John and Michael are chatting about a new funny cat video.",
+                  "precise": "John wonders if Michael could see a recent online cat video. Michael replies that he hasn't and asks for a link. John then provides the following one: 'www.funnycatvideo.com'. Michael states that he finds it funny that a cat acts like a dog. John explains he's been watching it many times. Michael decides to send it to Robert, one of their friends. After being asked, Michael confirms that he will keep John in the loop about Robert's reaction.",
+                  "GPT4_non_adjusted": "In this conversation, John and Michael, members of a WhatsApp group named 'Funny Content Group', are discussing a funny cat video that John found online. The conversation begins with John asking Michael if he has seen the latest cat video. Michael hasn't, so John sends him the link. Michael finds the video hilarious, noting that the cat in the video behaves like a dog. He decides to share the video with another friend, Robert, who loves cat videos and could use a laugh. John is interested in hearing Robert's reaction to the video. The conversation took place on the 16th of September, 2021, starting at 20:30:00.",
+                  "GPT4_adjusted": "In this conversation, John and Michael are discussing a funny cat video that John found online. The conversation begins with John asking Michael if he has seen the latest cat video. Michael hasn't, so John sends him the link. Michael finds the video hilarious, noting that the cat in the video behaves like a dog. He decides to share the video with another friend, Robert, who loves cat videos and could use a laugh. John is interested in hearing Robert's reaction to the video."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "WhatsApp",
+                  "chat group name": "Funny Content Sharers",
+                  "list of participants": [
+                        "Paul",
+                        "John"
+                  ],
+                  "first message sending datetime": "15.09.2021 16:45:30"
+            },
+            "dialogue": "Paul: Hey John, have you seen that hilarious cat video I just shared?\r\nJohn: Not yet Paul, let me check.\r\nPaul: It's on our favorite site, 'FunnyFelines'. It's called 'Cat vs. Cucumber'.\r\nJohn: Ah, I see it. Oh wow, that cat jumped so high! \ud83d\ude02\r\nPaul: I know right? \ud83d\ude06 Never thought a cucumber could be so terrifying!\r\nJohn: These cat videos always crack me up. Thanks for sharing, Paul!\r\nPaul: No problem, John. Here's another one: 'The Great Catnip Heist'.\r\nJohn: Oh, I've seen that one. That cat's face when it found the catnip was priceless \ud83d\ude02\r\nPaul: Exactly! It looked so guilty yet so satisfied at the same time!\r\nJohn: These videos are the best, Paul. They always make my day!\r\nPaul: Glad to hear that John. I'll keep them coming!\r\nJohn: Please do, Paul. They are purr-fect! \ud83d\ude02\r\nPaul: Good one, John! \ud83d\ude06",
+            "summaries": {
+                  "general": "Paul and John are discussing funny cat videos found online.",
+                  "precise": "Paul asks if John could see a funny video he just sent. John says that he could not but will, and Paul mentions that it is a video named 'Cat vs Cucumber' he found on 'FunnyFelines'. Once he's seen it, John and Paul joke about the video in which a cat is afraid of a cucumber. John thanks Paul for sharing the video, and Paul provides another one. The second video, which John has already seen, pictures a cat trying catnip. They then have fun with the video, and John says he likes that kind of content. John finally makes the following pun, 'purr-fect'.",
+                  "GPT4_non_adjusted": "The conversation takes place between Paul and John, two friends who enjoy sharing and discussing funny online content. The chat begins with Paul asking John if he has watched a hilarious cat video that he shared on their favorite site, 'FunnyFelines'. John responds that he hasn't seen it yet, then watches it and finds it amusing. They both laugh about the video and continue their conversation, with Paul sharing another funny video and John expressing his appreciation for these humorous moments. They continue to exchange jokes and puns related to the videos, creating a lighthearted and jovial atmosphere throughout their conversation. The chat concludes with John asking Paul to keep sharing such funny content, acknowledging that they always make his day.",
+                  "GPT4_adjusted": "The conversation takes place between Paul and John, two friends who enjoy sharing and discussing funny online content. The chat begins with Paul asking John if he has watched a hilarious cat video that he shared on their favorite site, 'FunnyFelines'. John responds that he hasn't seen it yet, then watches it and finds it amusing. They both laugh about the video and continue their conversation, with Paul sharing another funny video and John expressing his appreciation for these humorous moments. They continue to exchange jokes and puns related to the videos, creating a lighthearted and jovial atmosphere throughout their conversation. The chat concludes with John asking Paul to keep sharing such funny content, acknowledging that they always make his day."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "WhatsApp",
+                  "chat group name": "The Laughing Squad",
+                  "list of participants": [
+                        "James",
+                        "Kimberly",
+                        "Mark"
+                  ],
+                  "first message sending datetime": "01.05.2022 15:45:30"
+            },
+            "dialogue": "James: Hey guys, have you seen the latest cat video on YouTube?\r\nKimberly: No, James. Share the link.\r\nJames: Okay, here it is: www.youtube.com/watch?v=12345\r\nMark: That's hilarious! The cat's reaction is priceless.\r\nKimberly: Oh my goodness! That's too funny! I can't stop laughing.\r\nJames: I know, right? That cat has some serious skills.\r\nMark: It's the perfect mid-week pick-me-up.\r\nKimberly: Definitely! We should create a playlist of funny videos.\r\nJames: Great idea, Kimberly. Let's do it!\r\nMark: I'll start. Here's another funny video: www.youtube.com/watch?v=67890\r\nJames: That's just too good, Mark. This is why I love the internet.",
+            "summaries": {
+                  "general": "James, Kimberly, and Mark are chatting about recent YouTube cat videos and trying to create a playlist of funny videos.",
+                  "precise": "James wonders if the others have seen a recent YouTube cat video. Kimberly then asks him to share a link, and James does it. Mark and Kimberly find the video particularly funny. They then discuss the video, and Kimberly proposes to create a playlist for funny videos. James and Mark agree, and Mark suggests a video to add to the list, which James likes.",
+                  "GPT4_non_adjusted": "In the conversation, James initiates a discussion about a funny cat video he found on YouTube, asking his friends Kimberly and Mark if they have seen it. Kimberly hasn't seen it and asks James to share the link. After watching the video, both Kimberly and Mark find the content hilarious. They comment on the cat's reactions in the video and how it lightens their mood amid a busy week. Kimberly then suggests creating a playlist of such funny videos, to which James agrees. Mark takes the initiative to add another funny video to the proposed playlist, and James appreciates the content, expressing his love for the humorous side of the internet.",
+                  "GPT4_adjusted": "In the conversation, James initiates a discussion about a funny cat video he found on YouTube, asking his friends Kimberly and Mark if they have seen it. Kimberly hasn't seen it and asks James to share the link. After watching the video, both Kimberly and Mark find the content hilarious. They comment on the cat's reactions in the video and how it lightens their mood amid a busy week. Kimberly then suggests creating a playlist of such funny videos, to which James agrees. Mark takes the initiative to add another funny video to the proposed playlist, and James appreciates the content, expressing his love for the humorous side of the internet."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "WhatsApp",
+                  "chat group name": "Funny Content Discussion",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "24.05.2021 19:45:30"
+            },
+            "dialogue": "John: Hey Michael, have you seen that new cat video that's going viral?\r\nMichael: No, I haven't. Is it the one where the cat is doing backflips?\r\nJohn: Yes, that's the one! It's hilarious. I can't stop laughing.\r\nMichael: I'll have to check it out. I could use a good laugh.\r\nJohn: You definitely should. It's the funniest thing I've seen in a while.\r\nMichael: Alright, I'm looking it up now.\r\nJohn: Let me know what you think!\r\nMichael: Oh my gosh, this is hilarious! That cat is more athletic than I am!\r\nJohn: I know, right? I wish I could do backflips like that.\r\nMichael: Same here, John. Same here.",
+            "summaries": {
+                  "general": "John and Michael are chatting about a new viral cat video.",
+                  "precise": "John asks if Michael could see a new viral cat video. Michael asks if this is the video with a cat backfliping. John then replies that yes and that he finds it hilarious. Michael could not see it yet but will, and John encourages him. John also asks Michael to tell him what he thinks of it afterward. Michael then comes back to John, stating that it was funny. They finally joke about the cat's capability to backflip.",
+                  "GPT4_non_adjusted": "In the conversation, John and Michael are discussing a funny online video that's gone viral, featuring a cat doing backflips. The chat starts with John asking Michael if he has seen the video, to which Michael responds that he hasn't but is intrigued to check it out. John insists that he should as it is very funny. Michael eventually looks up the video and finds it hilarious, commenting that the cat in the video is more athletic than him, a sentiment John agrees with. The chat took place on WhatsApp in a group named \"Funny Content Discussion\" on 24th May 2021 at 19:45:30.",
+                  "GPT4_adjusted": "In the conversation, John and Michael are discussing a funny online video that's gone viral, featuring a cat doing backflips. The chat starts with John asking Michael if he has seen the video, to which Michael responds that he hasn't but is intrigued to check it out. John insists that he should as it is very funny. Michael eventually looks up the video and finds it hilarious, commenting that the cat in the video is more athletic than him, a sentiment John agrees with."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "WhatsApp",
+                  "chat group name": "Funny Online Content",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "10.02.2022 17:30:00"
+            },
+            "dialogue": "John: Hey Michael, have you seen the latest episode of 'Bad Jokes Battle' on YouTube?\r\nMichael: No, I haven't. Is it worth it?\r\nJohn: Absolutely! They had a 'puns about bread' segment that had me rolling.\r\nMichael: Oh, sounds fun. I'll check it out.\r\nJohn: Make sure you do, and let me know what you think!\r\nMichael: Sure thing, John.\r\nJohn: By the way, there's this hilarious meme page on Instagram, 'The Comic Strip'.\r\nMichael: I think I've heard of it. They post daily, right?\r\nJohn: Yes, that's the one. Their content is really funny, you should follow them.\r\nMichael: Alright, I'll give it a shot. Thanks for the recommendation, John.\r\nJohn: No problem. Always happy to share a laugh.",
+            "summaries": {
+                  "general": "John and Michael are chatting about a funny YouTube series and an Instagram page posting daily memes.",
+                  "precise": "John asks if Michael could see the last episode of a YouTube series named 'Bad Jokes Battle'. Michael replies that he has not, and John encourages him to watch it after being asked if this is worth it. John also asks Michael for feedback after seeing the episode and wonders if Michael knows 'The Comic Strip' Instagram meme page. Michael says that he doesn't but that he heard they post daily, which is confirmed by John. John finally encourages Michael to try it, and Michael thanks him for the tips.",
+                  "GPT4_non_adjusted": "The conversation is between John and Michael on a WhatsApp group named 'Funny Online Content'. The chat started on 10th February 2022 at 5:30 pm. The discussion revolves around funny online content. John shares his experience of watching the latest episode of 'Bad Jokes Battle' on YouTube, particularly a 'puns about bread' segment that he found hilarious. Michael hasn't seen it yet but promises to check it out. John then recommends an Instagram meme page called 'The Comic Strip' that posts daily funny content. Michael agrees to follow the page on John's recommendation.",
+                  "GPT4_adjusted": "The conversation is between John and Michael. The discussion revolves around funny online content. John shares his experience of watching the latest episode of 'Bad Jokes Battle' on YouTube, particularly a 'puns about bread' segment that he found hilarious. Michael hasn't seen it yet but promises to check it out. John then recommends an Instagram meme page called 'The Comic Strip' that posts daily funny content. Michael agrees to follow the page on John's recommendation."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "WhatsApp",
+                  "chat group name": "Funny Video Squad",
+                  "list of participants": [
+                        "James",
+                        "Michael",
+                        "Robert",
+                        "Matthew",
+                        "Elizabeth"
+                  ],
+                  "first message sending datetime": "01.10.2021 19:30:00"
+            },
+            "dialogue": "James: Hey guys, have you seen the latest cat video on YouTube?\r\nMichael: Not yet, James. Is it another one of those videos with cats being scared of cucumbers?\r\nRobert: Haha, I saw that one. It's super funny. The cat jumped like 3 feet in the air!\r\nJames: No, it's not a cucumber one. It's a cat trying to catch a laser pointer. It's hilarious!\r\nMatthew: I saw that one! The cat keeps jumping and spinning around. It's so funny!\r\nElizabeth: Oh, I need to see this. I could use a good laugh.\r\nMichael: Here's the link: www.youtube.com/watch?v=dQw4w9WgXcQ\r\nRobert: Classic Rickroll, Michael! Nice try.\r\nJames: Haha, good one, Michael.ss\r\nMatthew: Michael, you got us there!\r\nElizabeth: I actually fell for it, Michael. Good one!\r\nMichael: Glad you guys liked it. Always here for the laughs.",
+            "summaries": {
+                  "general": "James, Michael, Robert, Matthew, and Elizabeth are discussing a recent cat YouTube video, and Michael later tries to prank the others with a rickroll video.",
+                  "precise": "James wonders if the others could watch the last YouTube cat video. Michael replies that he hasn't yet and asks if this is a video where a cat is surprised by a cucumber. Robert states that that video was funny, and James explains it is another video where a cat plays with a laser. Matthew says that he saw it and found it funny, and Elizabeth wants to see it. Michael shares a link, and everyone reacts to the fact that it was a rickroll prank.",
+                  "GPT4_non_adjusted": "The conversation takes place among five friends - James, Michael, Robert, Matthew, and Elizabeth in a WhatsApp group named \"Funny Video Squad\". The chat starts with James asking if the others have seen the latest funny cat video on YouTube. Michael responds, asking if it's another video of cats being scared by cucumbers, to which Robert expresses his amusement. James clarifies that it's a video of a cat chasing a laser pointer, and Matthew chimes in, verifying the humor of the video. Elizabeth expresses her interest in watching the video for a good laugh. Michael then shares a link claiming to be the video, but it turns out to be a classic \"Rickroll\", a well-known internet prank involving a bait-and-switch link to Rick Astley's music video for \"Never Gonna Give You Up.\" The group appreciates the humor, including Elizabeth who admits that she fell for the prank. Michael closes the conversation, expressing his gladness for providing a laugh.",
+                  "GPT4_adjusted": "The conversation takes place among five friends - James, Michael, Robert, Matthew, and Elizabeth. The chat starts with James asking if the others have seen the latest funny cat video on YouTube. Michael responds, asking if it's another video of cats being scared by cucumbers, to which Robert expresses his amusement. James clarifies that it's a video of a cat chasing a laser pointer, and Matthew chimes in, verifying the humor of the video. Elizabeth expresses her interest in watching the video for a good laugh. Michael then shares a link claiming to be the video, but it turns out to be a classic \"Rickroll\", a well-known internet prank involving a bait-and-switch link to Rick Astley's music video for \"Never Gonna Give You Up.\" The group appreciates the humor, including Elizabeth who admits that she fell for the prank. Michael closes the conversation, expressing his gladness for providing a laugh."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "WhatsApp",
+                  "chat group name": "Funny Online Content",
+                  "list of participants": [
+                        "James",
+                        "Patricia",
+                        "Robert",
+                        "Elizabeth"
+                  ],
+                  "first message sending datetime": "15.03.2022 12:00:00"
+            },
+            "dialogue": "James: Hey guys, have you seen that video of the dog trying to catch its tail? Hilarious!\r\nPatricia: Haha, James, I watched it yesterday. So funny! The dog seemed so determined.\r\nRobert: Patricia, James, I loved that video too. It's probably the funniest thing I've seen this week.\r\nElizabeth: Oh, Robert, you've got to see the one with the parrot mimicking its owner's phone call. It's even funnier!\r\nJames: Elizabeth, send us the link, please!\r\nElizabeth: Sure James, here you go: www.parrotvideo.com\r\nPatricia: Just watched it, Elizabeth. I can't stop laughing. That parrot is a genius!\r\nRobert: Patricia, Elizabeth, James, I agree. That parrot is the star of the internet today!\r\nJames: Internet is such a funny place. Always something to laugh about.\r\nPatricia: So true, James. Makes our days brighter!",
+            "summaries": {
+                  "general": "James, Patricia, Robert, and Elizabeth are chatting about a dog and a parrot videos.",
+                  "precise": "James asks the others if they saw the video where a dog tries to catch its tail. Patricia and Robert reply they could see it and found it very funny. Elizabeth mentions another video with a parrot mimicking the phone call of its owner and encourages Robert to see it. James asks for the link, and Elizabeth shares it. Patricia and Robert later mention that they saw it and liked it. James finally states that the internet is funny, and Elizabeth agrees.",
+                  "GPT4_non_adjusted": "In the conversation, four friends, James, Patricia, Robert, and Elizabeth, are discussing funny online content in a WhatsApp group named \"Funny Online Content\". James initiates the conversation by mentioning a humorous video of a dog chasing its tail. Patricia and Robert agree, stating that they found the video amusing as well. Elizabeth then introduces another funny video, this one featuring a parrot mimicking its owner's phone call. After sharing the link to the video, both Patricia and Robert express their amusement. The conversation ends with James reflecting on the humorous nature of the internet and Patricia agreeing, stating that such content brightens their days. The conversation started on 15th March 2022 at 12:00:00.",
+                  "GPT4_adjusted": "In the conversation, four friends, James, Patricia, Robert, and Elizabeth, are discussing funny online content. James initiates the conversation by mentioning a humorous video of a dog chasing its tail. Patricia and Robert agree, stating that they found the video amusing as well. Elizabeth then introduces another funny video, this one featuring a parrot mimicking its owner's phone call. After sharing the link to the video, both Patricia and Robert express their amusement. The conversation ends with James reflecting on the humorous nature of the internet and Patricia agreeing, stating that such content brightens their days."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "Telegram",
+                  "chat group name": "Online Fun Hunters",
+                  "list of participants": [
+                        "Matthew",
+                        "Robert",
+                        "Mary",
+                        "David"
+                  ],
+                  "first message sending datetime": "12.07.2021 19:45:00"
+            },
+            "dialogue": "Matthew: Hey guys, have you seen the latest 'Dank Memes' compilation on YouTube?\r\nRobert: No, Matthew. I haven't. But, I have seen the 'Try not to laugh challenge'.\r\nMary: I've seen both! The 'Dank Memes' compilation had me in stitches.\r\nDavid: Mary, you laugh at anything! Let's see who can find the funniest video online.\r\nMatthew: Challenge accepted, David. I'm going to find the funniest content on the web.\r\nRobert: Same here. Let the funniest video hunt begin!\r\nMary: I'm in too! May the funniest person win.\r\nDavid: Just remember, no cheating. The video has to be funny to everyone.\r\nMatthew: Agreed. Let's meet here in an hour with our funniest videos.",
+            "summaries": {
+                  "general": "Matthew, Robert, Mary, and David are discussing a funny online video and later agree to try to find the funniest one.",
+                  "precise": "Matthew asks the others if they could see a recent 'Dank Memes' compilation on YouTube. Robert replies that he could not but saw another funny compilation. Mary says she could see both videos and found the first hilarious. David states that she is easy to amuse and then proposes to find the funniest video, and everyone accepts. According to David, the video must be funny for everyone to count as the funniest video. They finally agree to meet an hour later to see who got the best funny video.",
+                  "GPT4_non_adjusted": "The conversation is between four friends: Matthew, Robert, Mary, and David, taking place on a Telegram group named \"Online Fun Hunters.\" The chat began on 12th July 2021 at 19:45:00. Matthew initiates the conversation by asking his friends if they have seen the latest 'Dank Memes' compilation on YouTube. Robert replies that he hasn't seen it but has watched the 'Try not to laugh challenge'. Mary states that she has seen both, and the 'Dank Memes' compilation was hilarious. Then, David proposes a challenge to find the funniest video online. Matthew and Robert enthusiastically accept the challenge, and Mary joins in too. David sets a rule that the video has to be funny for everyone, and they agree to reconvene in an hour with their chosen videos.",
+                  "GPT4_adjusted": "The conversation is between four friends: Matthew, Robert, Mary, and David. Matthew initiates the conversation by asking his friends if they have seen the latest 'Dank Memes' compilation on YouTube. Robert replies that he hasn't seen it but has watched the 'Try not to laugh challenge'. Mary states that she has seen both, and the 'Dank Memes' compilation was hilarious. Then, David proposes a challenge to find the funniest video online. Matthew and Robert enthusiastically accept the challenge, and Mary joins in too. David sets a rule that the video has to be funny for everyone, and they agree to reconvene in an hour with their chosen videos."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "High Return Investments",
+                  "list of participants": [
+                        "James",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "02.10.2022 18:45:00"
+            },
+            "dialogue": "James: Hey Robert, I came across this fantastic investment opportunity.\r\nRobert: Oh really? Tell me more about it, James.\r\nJames: It's a high return, low risk scheme. You just need to invest $1000 and you will get $5000 back in a week.\r\nRobert: Sounds too good to be true. Are there any hidden charges?\r\nJames: Not at all! There's just a small fee of $100 for paperwork and you're all set.\r\nRobert: I'm interested but I'd like to do some research first.\r\nJames: Sure, but keep in mind the offer is available for a limited time only.\r\nRobert: Alright, I'll let you know.",
+            "summaries": {
+                  "general": "James and Robert are discussing a potential investment opportunity.",
+                  "precise": "James informs Robert that he found an investment opportunity. When Robert asks for more information, James explains that it is the high return and low risk, capable of multiplying the investment by five in the lapse of a week. Robert states it is too good to be true and wonders about hidden charges. James replies that there is a $100 paperwork fee. Robert states that he might be interested but needs to look for more information, and James stresses the limited availability of the offer. Robert finally states that he will keep James in the loop.",
+                  "GPT4_non_adjusted": "The conversation takes place between two individuals, James and Robert, on a WhatsApp group named \"High Return Investments\". James initiates the conversation on the 2nd of October, 2022 at 18:45:00. He presents a seemingly lucrative but suspicious investment opportunity to Robert, promising a high return of $5000 from an initial investment of $1000 within a week. There is also mention of a small $100 fee for paperwork. Robert expresses interest but wisely decides to research further before committing. He is informed by James that the offer is time-limited.",
+                  "GPT4_adjusted": "The conversation takes place between two individuals, James and Robert, on a group. James initiates the conversation. He presents a seemingly lucrative but suspicious investment opportunity to Robert, promising a high return of $5000 from an initial investment of $1000 within a week. There is also mention of a small $100 fee for paperwork. Robert expresses interest but wisely decides to research further before committing. He is informed by James that the offer is time-limited."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Investment Opportunities",
+                  "list of participants": [
+                        "Robert",
+                        "John"
+                  ],
+                  "first message sending datetime": "15.09.2021 18:30:00"
+            },
+            "dialogue": "Robert: Hey John, I've got this interesting investment opportunity for you. It's super exclusive.\r\nJohn: Oh really, Robert? What's it about?\r\nRobert: It's an offshore mining operation. They're looking for investors. Big returns guaranteed.\r\nJohn: That sounds interesting but also risky. Can you provide more details?\r\nRobert: Well, it's in a remote location. But the potential gains are huge. Plus, you\u2019ll get your initial investment back in just a month.\r\nJohn: That's really tempting, but how do they guarantee such high returns?\r\nRobert: They've got some proprietary technology. It's all very hush-hush.\r\nJohn: I'm intrigued, but I need to think about it.\r\nRobert: Of course, John. But remember, the opportunity won't last forever.\r\nJohn: I understand that. I'll get back to you soon, Robert.",
+            "summaries": {
+                  "general": "Robert and John talk about an investment opportunity with an offshore mining operation.",
+                  "precise": "Robert notifies John about an exclusive investment possibility. John asks for more information, and Robert mentions it is an offshore mining operation with high returns. John says that it sounds interesting but risky and asks for more information. Robert explains that it is remote with the high return guaranteed by a new proprietary technology and that the initial investment would be back within a month. John says that he needs to think about it, and Robert stresses the short-period aspect of the offer.",
+                  "GPT4_non_adjusted": "In the conversation, Robert approaches John with an exclusive investment opportunity related to an offshore mining operation. Robert assures John of guaranteed high returns and the return of the initial investment within a month. The operation allegedly uses some proprietary technology which is kept secret. John shows interest but also expresses his concerns about the risks involved. He decides to take some time to think about the investment. The conversation takes place on WhatsApp in a chat group named \"Investment Opportunities\" on September 15, 2021, at 18:30:00.",
+                  "GPT4_adjusted": "In the conversation, Robert approaches John with an exclusive investment opportunity related to an offshore mining operation. Robert assures John of guaranteed high returns and the return of the initial investment within a month. The operation allegedly uses some proprietary technology which is kept secret. John shows interest but also expresses his concerns about the risks involved. He decides to take some time to think about the investment."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "Signal",
+                  "chat group name": "Business Opportunities",
+                  "list of participants": [
+                        "William",
+                        "John"
+                  ],
+                  "first message sending datetime": "20.04.2022 15:30:00"
+            },
+            "dialogue": "William: Hey John, I've got an exciting business opportunity for you.\r\nJohn: Really William? What's it about?\r\nWilliam: It involves investing in a rare gemstone mine in Africa. Low investment, high returns.\r\nJohn: Sounds interesting. How much is the initial investment?\r\nWilliam: Just $10,000. And you'll see returns in just a month.\r\nJohn: That's a lot of money, William. How can you guarantee the returns?\r\nWilliam: John, trust me. I've seen the paperwork and met the mine owner.\r\nJohn: Well, I need to see some proof before I invest such a huge amount.\r\nWilliam: Sure, I'll email you the details.\r\nJohn: Okay, I'll wait for your mail. But I'm not promising anything until I'm fully convinced.",
+            "summaries": {
+                  "general": "William and John are discussing a business opportunity to invest in an African rare gemstone mine.",
+                  "precise": "William informs John of a business opportunity. John asks for more details, and William explains it is an investment in an African gemstone mine with high returns. John then wonders about the initial investment, and William asks for $10'000. It worries John, who inquires about guarantees. William says that he saw the paperwork and met the owner. When John asks for more details, William replies he will send him more information. John finally states that he will not invest anything unless he is sure everything is okay.",
+                  "GPT4_non_adjusted": "In the conversation, William approaches John about a purported business opportunity involving investment in a rare gemstone mine in Africa. He promises high returns for a low investment of $10,000, with the promise of seeing returns within a month. John expresses his interest, but also his concern about the large initial investment. He asks for proof before he makes any commitment. William agrees to provide the details via email. This conversation took place in the \"Business Opportunities\" group on Signal on April 20, 2022, at 15:30:00.",
+                  "GPT4_adjusted": "In the conversation, William approaches John about a purported business opportunity involving investment in a rare gemstone mine in Africa. He promises high returns for a low investment of $10,000, with the promise of seeing returns within a month. John expresses his interest, but also his concern about the large initial investment. He asks for proof before he makes any commitment. William agrees to provide the details via email."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Investment Opportunities",
+                  "list of participants": [
+                        "David",
+                        "Jennifer"
+                  ],
+                  "first message sending datetime": "08.06.2022 16:13:12"
+            },
+            "dialogue": "David: Hey, have you heard about the new investment opportunity?\r\nJennifer: No, what's it about?\r\nDavid: It's a new crypto coin. You can double your investment in no time.\r\nJennifer: Sounds too good to be true.\r\nDavid: Trust me, it's legit. I've already made a huge profit.\r\nJennifer: How do I join?\r\nDavid: Just send me your credit card details. I will handle the rest.\r\nJennifer: Wait, that doesn't sound safe. Why do you need my credit card details?\r\nDavid: It's just a process. Don't worry, your info will be safe with me.\r\nJennifer: I think I need to think about it.\r\nDavid: Sure, but don't take too long. The opportunity won't last forever.\r\nJennifer: I'll let you know, David. Thanks for the info.",
+            "summaries": {
+                  "general": "David and Jennifer are discussing a crypto-currency investment opportunity.",
+                  "precise": "David asks Jennifer if she knows about a new investment possibility. Jennifer asks for more information, and David explains that it is a crypto-currency that can quickly double the investment. Jennifer expresses that she is skeptical, and David states that he already made a profit. Jennifer wonders about the joining process, and David asks her for her credit card information. Jennifer wonders why David would need it and explains that she doesn't find it safe. David replies that it is the process and assures the data will be safe. Jennifer finally states that she needs time to think, and David stresses the short availability of the opportunity.",
+                  "GPT4_non_adjusted": "The conversation between David and Jennifer revolves around a potentially fraudulent investment scheme. David introduces Jennifer to an allegedly lucrative crypto coin investment which promises to double one's investment swiftly. He tries to convince her to participate by revealing his alleged profit. When Jennifer shows interest, David asks for her credit card details, claiming that he needs them for the process. Jennifer expresses her concerns about the safety of sharing such information. David attempts to reassure her, but she decides to contemplate before making a decision. The conversation ends with her promising to get back to David. The chat occurred in the WhatsApp group named \"Investment Opportunities\" on June 8, 2022, starting at 16:13:12.",
+                  "GPT4_adjusted": "The conversation between David and Jennifer revolves around a potentially fraudulent investment scheme. David introduces Jennifer to an allegedly lucrative crypto coin investment which promises to double one's investment swiftly. He tries to convince her to participate by revealing his alleged profit. When Jennifer shows interest, David asks for her credit card details, claiming that he needs them for the process. Jennifer expresses her concerns about the safety of sharing such information. David attempts to reassure her, but she decides to contemplate before making a decision. The conversation ends with her promising to get back to David."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "Telegram",
+                  "chat group name": "Investment Chat",
+                  "list of participants": [
+                        "Robert",
+                        "John"
+                  ],
+                  "first message sending datetime": "15.02.2022 10:45:00"
+            },
+            "dialogue": "Robert: Hey John, have you heard about this new investment opportunity?\r\nJohn: No, what's it about Robert?\r\nRobert: It's this amazing new cryptocurrency. It's supposed to multiply your investment by 10 in just a month.\r\nJohn: That sounds too good to be true. Who's behind it?\r\nRobert: Some finance guru from Europe. He's predicted a lot of the big market moves in the past.\r\nJohn: Hm, I'm not sure Robert. It sounds risky.\r\nRobert: I thought you'd say that. But look, I've already invested and I've seen some returns.\r\nJohn: Really? How much have you made?\r\nRobert: Almost double my investment in just a week!\r\nJohn: I'll need to think about it, Robert. It sounds like a potential scam to me.",
+            "summaries": {
+                  "general": "Robert and John are discussing a crypto-currency-related investment opportunity, potentially a scam.",
+                  "precise": "Robert wonders if John knows about a recent investment opportunity. John asks for more information, and Robert explains that it is crypto-currency related and could multiply the investment by 10 in a month. John is skeptical and asks for information about the owner. Robert says that it is a European finance guru. John replies that it looks risky, and Robert tries to reassure him by saying that he already doubled his investment within a week. John finally states that it could be a scam and that he needs time to decide.",
+                  "GPT4_non_adjusted": "In the conversation, Robert introduces John to a new investment opportunity involving a cryptocurrency that promises to multiply investments by ten within a month. John expresses skepticism and finds the scheme to be too good to be true, questioning the credibility of the person behind it. Robert tries to persuade John by claiming that he has already invested and has seen significant returns, almost doubling his investment in just a week. Despite Robert's claims, John remains suspicious and cautious, considering the investment opportunity as a potential scam.",
+                  "GPT4_adjusted": "In the conversation, Robert introduces John to a new investment opportunity involving a cryptocurrency that promises to multiply investments by ten within a month. John expresses skepticism and finds the scheme to be too good to be true, questioning the credibility of the person behind it. Robert tries to persuade John by claiming that he has already invested and has seen significant returns, almost doubling his investment in just a week. Despite Robert's claims, John remains suspicious and cautious, considering the investment opportunity as a potential scam."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "Telegram",
+                  "chat group name": "Investment Club",
+                  "list of participants": [
+                        "John",
+                        "Robert",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "12.04.2022 10:15:30"
+            },
+            "dialogue": "John: Hey guys, have you heard about that new investment opportunity?\r\nRobert: No, John. What's it about?\r\nJohn: It's this new company offering 200% returns in just a month.\r\nMichael: Sounds sketchy, John. Did you do any research on them?\r\nJohn: Not really. Their website looks professional though.\r\nRobert: John, please don't tell me you're considering this. It's obviously a scam.\r\nMichael: I agree with Robert. John, you should be careful.\r\nJohn: I don't know, guys. It's tempting.\r\nRobert: John, remember the golden rule, if it's too good to be true, then it probably is.\r\nMichael: Yes, and do some serious research before even thinking about investing.",
+            "summaries": {
+                  "general": "John, Robert, and Michael are chatting about an investment opportunity offered by a new company.",
+                  "precise": "John asks if the others know about a new investment opportunity. When Robert asks for more details, John explains that it is a new company, promising to double the investment in a month. Michael asks if John did some research, and John explains that they have a professional-looking website. Robert, supported by Michael, states it is a scam and encourages John not to invest. John finally explains that the offer still tempts him. The others encourage him not to believe what sounds too good and advise him to perform serious research before investing money.",
+                  "GPT4_non_adjusted": "In the conversation, John introduces a new investment opportunity to Robert and Michael, claiming the company offers 200% returns in just a month. Michael and Robert express skepticism, pointing out that the offer seems too good to be true and advising John to conduct thorough research before considering investing. Despite their warnings, John remains tempted by the high potential returns. The conversation takes place in the \"Investment Club\" group on Telegram.",
+                  "GPT4_adjusted": "In the conversation, John introduces a new investment opportunity to Robert and Michael, claiming the company offers 200% returns in just a month. Michael and Robert express skepticism, pointing out that the offer seems too good to be true and advising John to conduct thorough research before considering investing. Despite their warnings, John remains tempted by the high potential returns."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Investment Discussion",
+                  "list of participants": [
+                        "John",
+                        "Robert",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "10.03.2022 14:30:00"
+            },
+            "dialogue": "John: Hey guys, have you heard about this new investment opportunity?\r\nRobert: No, what is it about, John?\r\nJohn: It's about investing in a rare gemstone mining venture, they're promising huge returns.\r\nMichael: Sounds too good to be true, John. We need to be careful.\r\nJohn: I know, but they have a convincing presentation and testimonials.\r\nRobert: John, we should do some research before investing our hard-earned money.\r\nMichael: Agree with Robert, it's better to be safe than sorry.\r\nJohn: You're right guys, let's dig deeper into this.\r\nMichael: I'll look up the company and see if there's any information online.\r\nRobert: I'll check with my contacts in the gemstone industry.\r\nJohn: Thanks guys, let's reconvene tomorrow with what we've found.",
+            "summaries": {
+                  "general": "John, Robert, and Michael are discussing an investment opportunity related to a gemstone mine.",
+                  "precise": "John wonders if the others are aware of a new investment possibility. Robert asks for more details, and John explains that it is an investment in a gemstone mine venture that guarantees high returns. Michael is skeptical, and John tries to convince him by stating that their presentation and testimonials are convincing. Robert and Michael agree that more research is required, which convinces John. Michael will search online, Robert will contact people working with gemstones, and John proposes a meeting the next day to discuss their findings.",
+                  "GPT4_non_adjusted": "The conversation was between three individuals: John, Robert, and Michael. The conversation revolves around a potential investment opportunity in a rare gemstone mining venture that John came across. John shares this opportunity with Robert and Michael, who express their skepticism and caution due to the possibility of it being a scam. They all agree to research further into this investment opportunity to ensure its legitimacy. They plan to share their findings and discuss them the following day. This conversation takes place on a WhatsApp group named \"Investment Discussion\" on the 10th of March, 2022, starting at 2:30 PM.",
+                  "GPT4_adjusted": "The conversation was between three individuals: John, Robert, and Michael. The conversation revolves around a potential investment opportunity in a rare gemstone mining venture that John came across. John shares this opportunity with Robert and Michael, who express their skepticism and caution due to the possibility of it being a scam. They all agree to research further into this investment opportunity to ensure its legitimacy. They plan to share their findings and discuss them the following day."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Investment Opportunities",
+                  "list of participants": [
+                        "Robert",
+                        "Michael",
+                        "Mark"
+                  ],
+                  "first message sending datetime": "15.12.2021 18:30:00"
+            },
+            "dialogue": "Robert: Hey team, I've got a new business opportunity to share.\r\nMichael: Sure Robert, what's it about?\r\nRobert: It's about investing in a rare mineral found only in Antarctica. Returns are projected to be 10 times the investment.\r\nMark: Sounds interesting, but isn't it illegal?\r\nRobert: No, it's not illegal. It's just a new venture that's not well-known yet.\r\nMichael: I've never heard of such a thing. Can you provide more details?\r\nRobert: Sure, I'll send you an email with all the details.\r\nMark: I think we should do some research before investing in this.\r\nMichael: Agreed, Mark. We need to be careful with such opportunities.\r\nRobert: I understand your concern. Let's meet tomorrow to discuss this in detail.",
+            "summaries": {
+                  "general": "Robert, Michael, and Mark are discussing an investment opportunity for a venture gathering minerals in Antarctica.",
+                  "precise": "Robert informs the others of a new business opportunity he heard about. When Michael asks for more details, Robert explains that it is an investment for a rare mineral only available in Antarctica. He precises that the investment could be multiplied by 10. Mark wonders about the legal aspect of the project, and Robert replies that it is legal and simply unknown. Michael then asks for more details, and Robert agrees to send it by email. Mark and Michael then agree that they should perform more before investing money, and Robert suggests meeting the next day to discuss details.",
+                  "GPT4_non_adjusted": "The conversation takes place between three individuals named Robert, Michael, and Mark on a WhatsApp group called \"Investment Opportunities\". The discussion starts with Robert presenting a new business opportunity about investing in a rare mineral found only in Antarctica on 15th December 2021 at 18:30:00. He claims that the returns are projected to be 10 times the investment. Mark expresses skepticism about the legality of such a venture, to which Robert reassures him that it's not illegal, just not widely known. Michael, having never heard of such a thing, asks Robert for more details. Robert offers to send an email with all the details. Mark suggests that they should do some research before investing, to which Michael agrees, highlighting the need to be careful with such opportunities. Robert acknowledges their concerns and proposes a meeting the next day to discuss the venture in detail.",
+                  "GPT4_adjusted": "The conversation takes place between three individuals named Robert, Michael, and Mark. The discussion starts with Robert presenting a new business opportunity about investing in a rare mineral found only in Antarctica. He claims that the returns are projected to be 10 times the investment. Mark expresses skepticism about the legality of such a venture, to which Robert reassures him that it's not illegal, just not widely known. Michael, having never heard of such a thing, asks Robert for more details. Robert offers to send an email with all the details. Mark suggests that they should do some research before investing, to which Michael agrees, highlighting the need to be careful with such opportunities. Robert acknowledges their concerns and proposes a meeting the next day to discuss the venture in detail."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "WhatsApp",
+                  "chat group name": "Soccer Fanatics",
+                  "list of participants": [
+                        "Matthew",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "01.10.2021 20:45:00"
+            },
+            "dialogue": "Matthew: Hey Michael, did you catch the soccer game last night?\r\nMichael: Hey Matthew, yes I did! It was an amazing game, wasn't it?\r\nMatthew: Absolutely! That goal in the 90th minute was epic!\r\nMichael: I know right! I was on the edge of my seat the whole time.\r\nMatthew: Same here! What did you think of the referee's decisions?\r\nMichael: Some were spot on, but I think he missed a few fouls. What about you?\r\nMatthew: I agree. Especially that one in the first half. Could have been a penalty.\r\nMichael: Definitely. Well, looking forward to the next game. Should be exciting!\r\nMatthew: Yes, can't wait! Let's chat again after the next game.",
+            "summaries": {
+                  "general": "Matthew and Michael are chatting about the previous night's soccer game, particularly the last goal and the referee's decisions.",
+                  "precise": "Matthew wonders if Michael could watch the soccer game that took place the previous night. Michael replies that he could and that he found it good. Matthew then mentions the last-minute goal at the 90th and wonders about Michael's opinion of the referee's performance. They both agree that it was okay but that he missed some fools, including a potential penalty during the first part of the game. They finally express their excitement towards the next game and agree to chat again afterward.",
+                  "GPT4_non_adjusted": "The conversation between Matthew and Michael took place on WhatsApp in a group named \"Soccer Fanatics\". The conversation started on 01.10.2021 at 20:45:00. In their conversation, they discussed a soccer game they had both watched the previous night. They exchanged views on the exciting moments of the game, including a goal in the 90th minute. They also discussed the referee's decisions during the match, agreeing that he might have missed a few fouls. They concluded their chat by expressing anticipation for the next game.",
+                  "GPT4_adjusted": "The conversation between Matthew and Michael took place in a chat group. In their conversation, they discussed a soccer game they had both watched the previous night. They exchanged views on the exciting moments of the game, including a goal in the 90th minute. They also discussed the referee's decisions during the match, agreeing that he might have missed a few fouls. They concluded their chat by expressing anticipation for the next game."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "Telegram",
+                  "chat group name": "Soccer Enthusiasts",
+                  "list of participants": [
+                        "John",
+                        "Robert",
+                        "James"
+                  ],
+                  "first message sending datetime": "22.03.2022 14:30:00"
+            },
+            "dialogue": "John: Hey guys, who's up for the soccer game tonight?\r\nRobert: I'm in! Who are we up against?\r\nJohn: It's us against the Golden Eagles. We need to be in top form.\r\nRobert: Definitely. I've heard they've got a new striker.\r\nJames: Yes, he's really good. Scored three goals in the last game.\r\nJohn: That's true. We need a solid defense strategy.\r\nRobert: I agree. Let's focus on blocking their attacks.\r\nJames: And we should also work on our attacks. Let's not underestimate our opponents.\r\nJohn: Great points, guys. Let's meet early to strategize.\r\nRobert: Sounds good. See you guys at the field.\r\nJames: See you there. Let's win this!",
+            "summaries": {
+                  "general": "John, Robert, and James are chatting about their evening soccer game.",
+                  "precise": "John asks the others if they are up for the soccer game taking place that evening. Robert replies that he is and asks who their opponent will be. According to John, it will be the Golden Eagles. Robert states that he heard the Golden Eagles have a new striker, and James replies that it is the case and that he scored three goals during his last match. John states that they need a good defense, and Robert proposes to focus on the defense, but James thinks they should also work on attack. They finally agree to meet early to establish their strategy.",
+                  "GPT4_non_adjusted": "The conversation, taking place on Telegram in the \"Soccer Enthusiasts\" group, begins with John proposing a soccer game. The participants, Robert and James, readily agree. They discuss their opposing team, the Golden Eagles, and mention the threat of their new striker who scored three goals in the last game. John emphasizes the need for a solid defense strategy against their opponents, while Robert and James highlight the importance of focusing on their offensive tactics as well. They agree to meet early to strategize, showing their determination and team spirit ahead of the game. The conversation begins on the 22nd of March, 2022 at 2:30 PM.",
+                  "GPT4_adjusted": "The conversation begins with John proposing a soccer game. The participants, Robert and James, readily agree. They discuss their opposing team, the Golden Eagles, and mention the threat of their new striker who scored three goals in the last game. John emphasizes the need for a solid defense strategy against their opponents, while Robert and James highlight the importance of focusing on their offensive tactics as well. They agree to meet early to strategize, showing their determination and team spirit ahead of the game."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "WhatsApp",
+                  "chat group name": "Game Night Chat",
+                  "list of participants": [
+                        "Robert",
+                        "James",
+                        "Elizabeth"
+                  ],
+                  "first message sending datetime": "15.09.2021 20:30:00"
+            },
+            "dialogue": "Robert: Hey guys, did anyone watch the soccer game last night?\r\nJames: I did, Robert. It was an intense match!\r\nRobert: I know, right? That last-minute goal was breathtaking.\r\nJames: Absolutely, the team's strategy was on point.\r\nElizabeth: I missed it. Who scored the last goal?\r\nRobert: It was Johnson. His performance was fantastic!\r\nJames: Indeed, Johnson's skills really shone through in the match.\r\nElizabeth: Sounds like I missed a great game. I'll have to catch the highlights.\r\nRobert: Definitely, Elizabeth. You'll enjoy it.\r\nJames: I'm looking forward to the next match. Hope it's as thrilling.\r\nRobert: Me too, James. Let's plan to watch it together.\r\nElizabeth: Count me in too!",
+            "summaries": {
+                  "general": "Robert, James, and Elizabeth are chatting about the previous night's soccer game.",
+                  "precise": "Robert asks the others if they could watch the game from the previous night. James could see it and found it intense. Robert also did and emphasizes the last-minute goal. Elizabeth could not see the game and asked who scored that goal. Robert replies that it was Johnson and that he performed well, which is acknowledged by James. Elizabeth is upset she could not see the match and says she will have a look at the highlights. James looks forward to the next game, and Robert proposes to watch it with him. Elizabeth is also up for it.",
+                  "GPT4_non_adjusted": "In the conversation, Robert starts by asking if anyone watched the previous night's soccer game. James replies affirmatively and adds that it was an intense match. Robert agrees and specifically mentions a last-minute goal. Elizabeth, who missed the game, asks who scored the last goal, and Robert informs her it was Johnson. James acknowledges Johnson's skill. Elizabeth expresses regret for missing the game and plans to watch the highlights. James and Robert express their anticipation for the next match and suggest watching it together, a plan Elizabeth is eager to join.",
+                  "GPT4_adjusted": "In the conversation, Robert starts by asking if anyone watched the previous night's soccer game. James replies affirmatively and adds that it was an intense match. Robert agrees and specifically mentions a last-minute goal. Elizabeth, who missed the game, asks who scored the last goal, and Robert informs her it was Johnson. James acknowledges Johnson's skill. Elizabeth expresses regret for missing the game and plans to watch the highlights. James and Robert express their anticipation for the next match and suggest watching it together, a plan Elizabeth is eager to join."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "WhatsApp",
+                  "chat group name": "Soccer & Basketball Fans",
+                  "list of participants": [
+                        "Michael",
+                        "John"
+                  ],
+                  "first message sending datetime": "10.03.2022 19:00:00"
+            },
+            "dialogue": "Michael: Hey, did you catch the soccer game last night?\r\nJohn: Yes, I did. That was a thrilling match!\r\nMichael: Absolutely! That goal in the last minute was epic.\r\nJohn: I know, right? That was some fantastic footwork from the striker.\r\nMichael: And the goalkeeper! He made some unbelievable saves.\r\nJohn: Yes, the goalkeeper was indeed the unsung hero of the match.\r\nMichael: Can't wait for the next game. The team really seems to be in form.\r\nJohn: Definitely. Looking forward to it.\r\nMichael: By the way, are you also following the basketball season?\r\nJohn: Not as closely as soccer, but yes, I do catch a game now and then.\r\nMichael: Great! We should watch the next basketball match together.\r\nJohn: Sounds like a plan, Michael. Let's do it!",
+            "summaries": {
+                  "general": "Michael and John are discussing the previous night's soccer game and the performances of the striker and goalkeeper.",
+                  "precise": "Michael wonders if John could watch the previous night's soccer game. John replies that he could and that he found it thrilling. Michael then mentions a last-minute goal, and John emphasizes the quality of the striker. Michael states he was impressed by the goalkeeper, which is also the case for John. They then both express their excitement towards the next match and start chatting about the basketball season. John could only watch a few games, and Michael suggests they watch the next basketball match together. John accepts.",
+                  "GPT4_non_adjusted": "The conversation takes place between two friends, Michael and John, who are passionate about sports. They mainly discuss a recent soccer match they both watched, highlighting the thrilling moments, such as a last-minute goal and the exceptional performance by the goalkeeper. They express excitement for the next game, indicating that the team they support is in good form. Towards the end of their conversation, they also touch upon basketball, suggesting they should watch a game together. The chat is a friendly and enthusiastic exchange between two sports fans.",
+                  "GPT4_adjusted": "The conversation takes place between two friends, Michael and John, who are passionate about sports. They mainly discuss a recent soccer match they both watched, highlighting the thrilling moments, such as a last-minute goal and the exceptional performance by the goalkeeper. They express excitement for the next game, indicating that the team they support is in good form. Towards the end of their conversation, they also touch upon basketball, suggesting they should watch a game together. The chat is a friendly and enthusiastic exchange between two sports fans."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "Telegram",
+                  "chat group name": "Soccer Fans Chat",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "02.06.2021 19:45:30"
+            },
+            "dialogue": "John: Hey, did you catch the soccer game last night?\r\nMichael: Yeah, I did. It was a thrilling match!\r\nJohn: I know, right? That last-minute goal was insane!\r\nMichael: Absolutely! The goalkeeper had no chance.\r\nJohn: And the way they controlled the game...just brilliant!\r\nMichael: Yes, their strategy was top-notch. The other team was completely outplayed.\r\nJohn: What do you think they could have done better though?\r\nMichael: Hmm, perhaps their defense could have been tighter. They let a few risky passes through.\r\nJohn: True, there's always room for improvement. Looking forward to the next game!\r\nMichael: Me too! It's going to be a great season.",
+            "summaries": {
+                  "general": "John and Michael are discussing the soccer game that took place the previous night, emphasizing the last-minute goal and potential improvements for the losing team.",
+                  "precise": "John asks if Michael could watch the soccer game the previous night. Michael replies that he could and that he found the match thrilling. John agrees and mentions the last-minute goal, and Michael states that it was impossible to stop for the goalkeeper. They then mention how the winning team completely outplayed the other one, and when thinking about the potential improvement, they mention a lack of defense. They then both express their excitement for the next game.",
+                  "GPT4_non_adjusted": "John and Michael, participants in a chat group named \"Soccer Fans Chat\" on Telegram, engaged in a conversation about a recent soccer game they watched on the evening of June 2, 2021. They shared their excitement about the thrilling match and analyzed the teams' performance, discussing aspects like the last-minute goal, the overall strategy, and areas for improvement like the defense. They are both looking forward to the upcoming games in the season.",
+                  "GPT4_adjusted": "John and Michael, participants in a chat group, engaged in a conversation about a recent soccer game they watched. They shared their excitement about the thrilling match and analyzed the teams' performance, discussing aspects like the last-minute goal, the overall strategy, and areas for improvement like the defense. They are both looking forward to the upcoming games in the season."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "WhatsApp",
+                  "chat group name": "Soccer Enthusiasts",
+                  "list of participants": [
+                        "John",
+                        "Michael",
+                        "Robert",
+                        "Daniel",
+                        "James",
+                        "Matthew"
+                  ],
+                  "first message sending datetime": "12.09.2021 17:32:10"
+            },
+            "dialogue": "John: Hey guys, are we still on for the soccer match tonight?\r\nMichael: Yeah, I'm looking forward to it! I heard Messi is in great form.\r\nRobert: Definitely, Messi is a beast. But don't count out Ronaldo just yet.\r\nDaniel: I agree with Robert. Ronaldo has been pretty consistent lately.\r\nJames: It's going to be a thrilling game for sure. I'm rooting for Messi!\r\nMatthew: Same here! But let's not forget the rest of the team. They all contribute.\r\nRobert: True that, Matthew. Soccer is a team sport after all.\r\nJohn: Well said, Robert. Looking forward to seeing you all at the game tonight!\r\nMichael: See you there, John!\r\nJames: Can't wait for the match, see you guys at the stadium!",
+            "summaries": {
+                  "general": "John, Michael, Robert, Daniel, James, and Matthew are talking about the match they will go to watch that evening. They particularly mention the presence of Messi and Ronaldo.",
+                  "precise": "John asks the others if they are still up for the soccer game taking place that evening. Michael replies that he looks forward to it and that Messi is playing great lately. Robert agrees and also mentions Ronaldo. Daniel acknowledges and states that Ronaldo has also been great lately. James says that it will be an insane game and that he is for Messi, to which Matthew replies that he agrees but tells the others to remember there is also the rest of the team. Robert and John agree with Matthew, and John expresses that he looks forward to the game. Michael and James agree and mention they will see each other at the stadium.",
+                  "GPT4_non_adjusted": "The conversation revolves around a group of friends, namely John, Michael, Robert, Daniel, James, and Matthew, discussing a forthcoming soccer match. The conversation initiates with John checking if everyone is still attending the game that night. The discussion then shifts to the performance of two soccer legends, Messi and Ronaldo, with Michael and James rooting for Messi, while Robert and Daniel supporting Ronaldo. Matthew brings up the point that the whole team's performance matters in a soccer game, not just the star players. The conversation concludes with everyone looking forward to seeing each other at the stadium for the match.",
+                  "GPT4_adjusted": "The conversation revolves around a group of friends, namely John, Michael, Robert, Daniel, James, and Matthew, discussing a forthcoming soccer match. The conversation initiates with John checking if everyone is still attending the game that night. The discussion then shifts to the performance of two soccer legends, Messi and Ronaldo, with Michael and James rooting for Messi, while Robert and Daniel supporting Ronaldo. Matthew brings up the point that the whole team's performance matters in a soccer game, not just the star players. The conversation concludes with everyone looking forward to seeing each other at the stadium for the match."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "WhatsApp",
+                  "chat group name": "Sports Night",
+                  "list of participants": [
+                        "Michael",
+                        "David",
+                        "Robert",
+                        "John"
+                  ],
+                  "first message sending datetime": "15.11.2021 18:00:00"
+            },
+            "dialogue": "Michael: Hey guys, are we watching the soccer game tonight?\r\nDavid: I'm in. Who's playing?\r\nRobert: It's Manchester United against Chelsea. Should be a good match.\r\nJohn: I'm more of a basketball guy, but I'll join for the company.\r\nDavid: Great, let's meet up an hour before the game starts.\r\nMichael: Sounds like a plan. We can grab some snacks on the way.\r\nRobert: I'll bring the drinks. See you guys later!\r\nJohn: Looking forward to it. See you!\r\nDavid: Don't forget the team jerseys, guys!\r\nMichael: Of course not. Go Man Utd!\r\nRobert: Chelsea all the way, mate!\r\nJohn: As long as there's popcorn, I'm happy.",
+            "summaries": {
+                  "general": "Michael, David, Robert, and John are planning their evening of soccer watching.",
+                  "precise": "Michael suggests that they all watch the soccer match together that evening. David is motivated and asks which team is playing. Robert explains it is Manchester United against Chelsea and that it should be a nice game. John is not a soccer enthusiast, but will also join to be with them. David proposes meeting an hour before the match, and Michael states they can have a snack on their way. Robert will take care of the drinks, and David reminds everyone to bring their jerseys. Michael finally expresses his support for Manchester and Robert for Chelsea.",
+                  "GPT4_non_adjusted": "In the conversation, four friends: Michael, David, Robert, and John, are planning to watch a soccer match together. The match is between Manchester United and Chelsea. Michael initiates the conversation, asking if the others are interested in watching the game. David agrees and asks who's playing, which Robert answers. John, who prefers basketball, agrees to join for the company. They decide to meet an hour before the game starts, with plans to bring snacks and drinks. David reminds everyone to bring their team jerseys. The playful rivalry between Michael, a Manchester United supporter, and Robert, a Chelsea fan, is evident. John, although not a soccer fan, is excited about joining his friends and looks forward to the popcorn.",
+                  "GPT4_adjusted": "In the conversation, four friends: Michael, David, Robert, and John, are planning to watch a soccer match together. The match is between Manchester United and Chelsea. Michael initiates the conversation, asking if the others are interested in watching the game. David agrees and asks who's playing, which Robert answers. John, who prefers basketball, agrees to join for the company. They decide to meet an hour before the game starts, with plans to bring snacks and drinks. David reminds everyone to bring their team jerseys. The playful rivalry between Michael, a Manchester United supporter, and Robert, a Chelsea fan, is evident. John, although not a soccer fan, is excited about joining his friends and looks forward to the popcorn."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "WhatsApp",
+                  "chat group name": "Soccer Fanatics",
+                  "list of participants": [
+                        "Robert",
+                        "James",
+                        "David",
+                        "William"
+                  ],
+                  "first message sending datetime": "01.10.2022 18:00:00"
+            },
+            "dialogue": "Robert: Hey guys, who's watching the soccer game tonight?\r\nJames: I am! Really looking forward to it!\r\nDavid: Same here. Our team has been doing great this season.\r\nRobert: Absolutely, David. I think we have a good chance of winning.\r\nWilliam: I'm not so sure guys, the opponents are really strong.\r\nJames: Come on, William. Have some faith in our team!\r\nDavid: Exactly, James. Besides, soccer is unpredictable. Anything can happen.\r\nRobert: True that. Let's all meet up and watch the game together.\r\nJames: Sounds like a plan. I'll bring the snacks!\r\nDavid: And I'll bring the drinks. See you guys tonight.\r\nWilliam: Alright, I'm in. See you all tonight!",
+            "summaries": {
+                  "general": "Robert, James, David, and William are discussing the soccer game that will take place that evening and plan to watch the match together.",
+                  "precise": "Robert wonders if anyone will watch the soccer game that night. James and David reply that they will and are looking forward to it. David mentions the good performances of the team they support, and Robert thinks they might win, but William doesn't. James and David try to encourage him to trust the team. Robert agrees and suggests they watch the game together, to which everyone agrees. James will take care of the snacks, while David will handle the drinks.",
+                  "GPT4_non_adjusted": "The conversation is among four friends: Robert, James, David, and William. They are discussing a soccer game that's scheduled for the night. Robert initiates the conversation by asking who's going to watch the game. James and David express their excitement and confidence in their team's performance. William, however, is a bit skeptical about the outcome considering the strength of the opposing team. Despite this, James and David remain optimistic, reiterating that anything can happen in soccer. Robert then suggests they should all meet and watch the game together, to which everyone agrees. James offers to bring snacks, David promises to bring drinks, and William, despite his initial skepticism, agrees to join them. The conversation takes place on WhatsApp in a group named \"Soccer Fanatics\" on October 1, 2022, starting at 6 PM.",
+                  "GPT4_adjusted": "The conversation is among four friends: Robert, James, David, and William. They are discussing a soccer game that's scheduled for the night. Robert initiates the conversation by asking who's going to watch the game. James and David express their excitement and confidence in their team's performance. William, however, is a bit skeptical about the outcome considering the strength of the opposing team. Despite this, James and David remain optimistic, reiterating that anything can happen in soccer. Robert then suggests they should all meet and watch the game together, to which everyone agrees. James offers to bring snacks, David promises to bring drinks, and William, despite his initial skepticism, agrees to join them."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "Signal",
+                  "chat group name": "Drug Manufacturing Discussion",
+                  "list of participants": [
+                        "Robert",
+                        "John"
+                  ],
+                  "first message sending datetime": "21.04.2021 09:30:00"
+            },
+            "dialogue": "Robert: Hi John, I think we've found a new way to streamline the production process.\r\nJohn: That sounds promising, Robert. What's the plan?\r\nRobert: We've discovered a new catalyst that significantly reduces the reaction time.\r\nJohn: That's great news. Any potential risks or side effects we should be aware of?\r\nRobert: We're still studying that aspect, but so far, the results are promising.\r\nJohn: Excellent work, Robert. Let's proceed carefully and make sure we adhere to all safety protocols.\r\nRobert: Absolutely, John. Safety is our top priority.\r\nJohn: Good. I expect a full report by next week.\r\nRobert: Understood, John. You'll have it.\r\nJohn: Thank you, Robert. Let's aim for success.",
+            "summaries": {
+                  "general": "Robert and John are discussing a potential new method to optimize their chemical production.",
+                  "precise": "Robert notifies John about a new process to optimize their production. John asks for more details, and Robert explains that they found a new catalyst that reduces the reaction time. John wonders if there is any associated risk, and Robert explains they are working on it, but they have not found anything yet. John then emphasizes the need to follow safety protocols, and Robert agrees. John finally asks for a report by the following week.",
+                  "GPT4_non_adjusted": "The conversation between Robert and John revolves around improving a drug manufacturing process. Robert initiates the chat by sharing the discovery of a new catalyst that could potentially streamline production by reducing reaction time. John, while welcoming the news, emphasizes the need for understanding the risks or side effects associated with this new method. He asks Robert to proceed with caution, adhering to all safety protocols. Robert agrees, assuring that safety is their priority. John requests a full report by the next week, to which Robert confirms his compliance. The conversation is a professional exchange focused on enhancing efficiency while maintaining safety in their drug manufacturing operation.",
+                  "GPT4_adjusted": "The conversation between Robert and John revolves around improving a drug manufacturing process. Robert initiates the chat by sharing the discovery of a new catalyst that could potentially streamline production by reducing reaction time. John, while welcoming the news, emphasizes the need for understanding the risks or side effects associated with this new method. He asks Robert to proceed with caution, adhering to all safety protocols. Robert agrees, assuring that safety is their priority. John requests a full report by the next week, to which Robert confirms his compliance. The conversation is a professional exchange focused on enhancing efficiency while maintaining safety in their drug manufacturing operation."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "WhatsApp",
+                  "chat group name": "Operation X",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "13.05.2022 14:30:00"
+            },
+            "dialogue": "John: Hey, Michael. Have you managed to secure the ingredients?\r\nMichael: Yes, John. I've managed to get everything we need.\r\nJohn: Good. How about the lab? Is everything set up there?\r\nMichael: Yes, all equipment are in place. We should be able to start production by next week.\r\nJohn: Great. I'll coordinate with the team about the schedule.\r\nMichael: Alright, John. I'll focus on getting the materials ready.\r\nJohn: Make sure everything is discreet, Michael. We can't afford to get caught.\r\nMichael: Don't worry, John. I've been doing this for a long time. We won't get caught.\r\nJohn: Okay. Let's keep everything under wraps. Will check on the progress in a few days.\r\nMichael: Sure, John. I'll keep you posted.",
+            "summaries": {
+                  "general": "John and Michael are discussing details of a production process such as the ingredients, lab equipment, and materials.",
+                  "precise": "John wonders if Michael could get ingredients. Michael says it is the case, and John asks him about the state of the lab. Michael answers that the lab is settled and that the production should start by the following week. John will work on team coordination, and Michael on preparing the materials. John emphasizes the need to remain discreet, and Michael reassures him. They finally agree to update each other in a few days.",
+                  "GPT4_non_adjusted": "The conversation is between two individuals, John and Michael, discussing a drug manufacturing operation. John initiates the conversation, asking if Michael has secured the necessary ingredients for the operation. Michael confirms that he has everything ready. John then inquires about the lab setup, and Michael reassures him that all equipment is in place and they should be able to start production by the following week. John agrees to coordinate with the rest of the team regarding the schedule, while Michael promises to focus on preparing the materials. John emphasizes the need for discretion, and Michael reassures him they won't get caught. The conversation ends with John planning to check on the progress in a few days and Michael agreeing to keep John posted. The conversation took place on WhatsApp in a group named \"Operation X\" and the first message was sent on 13.05.2022 at 14:30:00.",
+                  "GPT4_adjusted": "The conversation is between two individuals, John and Michael, discussing a drug manufacturing operation. John initiates the conversation, asking if Michael has secured the necessary ingredients for the operation. Michael confirms that he has everything ready. John then inquires about the lab setup, and Michael reassures him that all equipment is in place and they should be able to start production by the following week. John agrees to coordinate with the rest of the team regarding the schedule, while Michael promises to focus on preparing the materials. John emphasizes the need for discretion, and Michael reassures him they won't get caught. The conversation ends with John planning to check on the progress in a few days and Michael agreeing to keep John posted."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "WhatsApp",
+                  "chat group name": "Pharma Synthesis",
+                  "list of participants": [
+                        "James",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "15.09.2021 09:15:00"
+            },
+            "dialogue": "James: Hey Michael, how's the operation going?\r\nMichael: Hi James. We're on track. The preliminary synthesis is complete.\r\nJames: Good to hear. What about the purification process?\r\nMichael: We're setting that up now. Should be done by tomorrow.\r\nJames: Excellent. Keep me updated, will you?\r\nMichael: Absolutely, James. Will do.",
+            "summaries": {
+                  "general": "James and Michael are discussing the status of a chemical production operation.",
+                  "precise": "James inquires about the status of the operation, to which Michael explains that the preliminary synthesis is over. When asked about the status of the purification process, Michael states that it is being set up and should be over by the next day. James finally asks Michael to keep him in the loop.",
+                  "GPT4_non_adjusted": "The conversation is between James and Michael, who appear to be discussing a drug manufacturing operation. James initiates the conversation by asking about the progress of the operation. Michael responds that the preliminary synthesis is complete and they are setting up for the purification process, which should be completed by the next day. James requests to be kept updated on the progress. The conversation took place on the WhatsApp platform in a group named 'Pharma Synthesis' on September 15, 2021, at 9:15 am.",
+                  "GPT4_adjusted": "The conversation is between James and Michael, who appear to be discussing a drug manufacturing operation. James initiates the conversation by asking about the progress of the operation. Michael responds that the preliminary synthesis is complete and they are setting up for the purification process, which should be completed by the next day. James requests to be kept updated on the progress."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "Signal",
+                  "chat group name": "Operation Lab",
+                  "list of participants": [
+                        "James",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "25.08.2022 18:45:00"
+            },
+            "dialogue": "James: Hey, have you managed to secure the lab location?\r\nRobert: Yes, I found a spot in the industrial district. It's secluded and perfect for our operation.\r\nJames: Great. What about the raw materials? Any luck with those?\r\nRobert: I have a source but it's a bit risky. They're asking a lot of questions.\r\nJames: We can't afford to raise any suspicion. Maybe we should look elsewhere.\r\nRobert: I agree. I'll start searching immediately.\r\nJames: Good. Remember, we need to be careful every step of the way.\r\nRobert: Understood. I'll make sure everything stays under the radar.",
+            "summaries": {
+                  "general": "James and Robert are discussing the location and materials for a production lab.",
+                  "precise": "James asks if Robert could find a location for a lab. Robert explains that he found a perfect and unfrequented place in the industrial district. James then wonders about the acquisition of raw materials. Robert states that he might have found a provider, but it is risky for their operation as they ask many questions. James directly asks him to try somewhere else to avoid the suspicions. Robert agrees, and James emphasizes again the need to remain careful and unnoticed.",
+                  "GPT4_non_adjusted": "The conversation took place between two individuals, James and Robert, who were discussing a drug manufacturing operation. Their discussion was centered around securing a lab location and sourcing raw materials. The lab was successfully located in a secluded industrial district, while the sourcing of raw materials was proving to be a challenge due to potential suspicion from their current source. Therefore, they agreed to find a new source to avoid any risks. The conversation emphasized the need for utmost caution in their operations.",
+                  "GPT4_adjusted": "The conversation took place between two individuals, James and Robert, who were discussing a drug manufacturing operation. Their discussion was centered around securing a lab location and sourcing raw materials. The lab was successfully located in a secluded industrial district, while the sourcing of raw materials was proving to be a challenge due to potential suspicion from their current source. Therefore, they agreed to find a new source to avoid any risks. The conversation emphasized the need for utmost caution in their operations."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "Telegram",
+                  "chat group name": "Pharmaceutical Project",
+                  "list of participants": [
+                        "James",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "15.09.2021 09:15:32"
+            },
+            "dialogue": "James: Hey Michael, I've been doing some research on that project you mentioned.\r\nMichael: Oh? Which one, James? I've got a lot going on.\r\nJames: The one about the new pharmaceutical. The 'alternative' one.\r\nMichael: Ah, that one. Yes, the manufacturing process is quite complex.\r\nJames: I've found a potential supplier for some of the necessary components.\r\nMichael: Really? That's good news. We'll need to set up a secure delivery method.\r\nJames: I've thought of that. Maybe we can use a private courier service?\r\nMichael: Sounds like a plan. Let's discuss this in more detail tomorrow.\r\nJames: Alright, I'll prepare some more details. Talk to you then.\r\nMichael: Good work, James. Speak soon.",
+            "summaries": {
+                  "general": "James and Michael are discussing an 'alternative' pharmaceutical production project.",
+                  "precise": "James notifies Michael about his research about an 'alternative' pharmaceutical. Michael mentions that the manufacturing process is complex, and James states that he could find a provider for the required components. Michael is satisfied and explains they need a safe component delivery way. James then proposes the use of a private courier service. They finally agree to meet on the next day to discuss details.",
+                  "GPT4_non_adjusted": "The conversation between James and Michael revolves around a clandestine project, presumably a drug manufacturing operation. James initiates the discussion, mentioning that he has been researching the project and has found a potential supplier for some of the necessary components. Michael shows interest and they both agree on the need for a secure delivery method, suggesting the use of a private courier service. They conclude the conversation by planning to discuss the details more extensively the following day. This conversation takes place on Telegram in a chat group named \"Pharmaceutical Project\" on September 15, 2021, at 9:15:32.",
+                  "GPT4_adjusted": "The conversation between James and Michael revolves around a clandestine project, presumably a drug manufacturing operation. James initiates the discussion, mentioning that he has been researching the project and has found a potential supplier for some of the necessary components. Michael shows interest and they both agree on the need for a secure delivery method, suggesting the use of a private courier service. They conclude the conversation by planning to discuss the details more extensively the following day."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "WhatsApp",
+                  "chat group name": "Project X",
+                  "list of participants": [
+                        "Robert",
+                        "John",
+                        "Mary",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "15.06.2021 09:15:00"
+            },
+            "dialogue": "Robert: Hey guys, I've been doing some research on this new project.\r\nJohn: Interesting Robert, what have you found?\r\nRobert: We need a specific lab setup for the drug manufacturing operation.\r\nMary: What kind of setup are we talking about here?\r\nRobert: We'll need to acquire some specialized equipment. A sterilizer, a rotary evaporator, and a high-performance liquid chromatography (HPLC) system.\r\nMichael: Where can we get these?\r\nRobert: I know a supplier who can get us what we need, but it's going to cost.\r\nJohn: How much are we talking about here?\r\nRobert: Around $100,000 for everything.\r\nMary: That's a lot of money. We need to make sure we have a market for this before we invest.\r\nMichael: Agreed. We need to do more research before we proceed.\r\nRobert: I'll look into potential markets and report back.\r\nJohn: Sounds like a plan. Let's reconvene in a week.",
+            "summaries": {
+                  "general": "Robert, John, Mary, and Michael are discussing the details of a drug manufacturing operation.",
+                  "precise": "Robert notifies the others that he did research for their project and needs to set up a specific lab to manufacture drugs. Mary asks for more details, and Robert explains they would need chemistry equipment such as a sterilizer, a rotatory evaporator, and an HPLC. Michael and John wonder about the acquisition of the equipment, and Robert states that he knows a supplier and that it would cost $100'000. Given the importance of the investment, they agree to conduct more research to determine if there is a potential market before buying anything. John finally asks to meet again one week later.",
+                  "GPT4_non_adjusted": "The conversation involves four individuals: Robert, John, Mary, and Michael, discussing a potential drug manufacturing operation. Robert initiates the conversation by revealing his research into the necessary lab setup. He lists the required equipment: a sterilizer, a rotary evaporator, and a high-performance liquid chromatography (HPLC) system, estimating the cost to be around $100,000. Mary and Michael express concern about the significant investment, insisting on the need to research potential markets before moving forward with the purchase. The conversation concludes with Robert agreeing to investigate potential markets and the group deciding to reconvene in a week to discuss their findings and potential next steps.",
+                  "GPT4_adjusted": "The conversation involves four individuals: Robert, John, Mary, and Michael, discussing a potential drug manufacturing operation. Robert initiates the conversation by revealing his research into the necessary lab setup. He lists the required equipment: a sterilizer, a rotary evaporator, and a high-performance liquid chromatography (HPLC) system, estimating the cost to be around $100,000. Mary and Michael express concern about the significant investment, insisting on the need to research potential markets before moving forward with the purchase. The conversation concludes with Robert agreeing to investigate potential markets and the group deciding to reconvene in a week to discuss their findings and potential next steps."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "WhatsApp",
+                  "chat group name": "Drug Production Discussion",
+                  "list of participants": [
+                        "James",
+                        "Robert",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "22.08.2022 11:45:30"
+            },
+            "dialogue": "James: Hey guys, I have a new idea for our operation.\r\nRobert: What's that, James?\r\nJames: We have been using the old method for a long time. I think it's time to upgrade our facilities.\r\nMichael: That sounds like a good idea. But it will cost us a lot, won't it?\r\nJames: Yes, it will. But I believe it will be worth it in the long run.\r\nRobert: Okay, I'm in. Let's discuss this further.\r\nMichael: Agreed. Let's plan a meeting to discuss the details.\r\nJames: Great. I'll set up a meeting for next week.\r\nRobert: Sounds good. Let's make this happen.\r\nMichael: Looking forward to it.",
+            "summaries": {
+                  "general": "James, Robert, and Michael are planning a potential facility upgrade for their operation.",
+                  "precise": "James presents his idea to the others. He would like to upgrade their facilities to use more recent methods for their operation. Michael likes the idea but is worried by the associated cost. James replies that it will cost lots of money but is worth the investment. Robert proposes to discuss it in more depth. They all agree to meet the next week to discuss it in more depth.",
+                  "GPT4_non_adjusted": "In the conversation, James initiates a discussion about upgrading their drug manufacturing operation. He acknowledges the cost implications but believes it will be beneficial in the long run. Both Robert and Michael agree with the idea and decide to plan a meeting to discuss the details. The discussion concludes with James agreeing to set up a meeting for the following week.",
+                  "GPT4_adjusted": "In the conversation, James initiates a discussion about upgrading their drug manufacturing operation. He acknowledges the cost implications but believes it will be beneficial in the long run. Both Robert and Michael agree with the idea and decide to plan a meeting to discuss the details. The discussion concludes with James agreeing to set up a meeting for the following week."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "WhatsApp",
+                  "chat group name": "Business Ventures",
+                  "list of participants": [
+                        "John",
+                        "James",
+                        "Robert",
+                        "David",
+                        "William"
+                  ],
+                  "first message sending datetime": "20.09.2021 10:45:00"
+            },
+            "dialogue": "John: Hey guys, I've got the lab set up\r\nJames: Great John! We'll need the top quality ingredients\r\nRobert: I've got a contact who can get us what we need. Pure stuff\r\nDavid: Perfect. I'll handle distribution. We should be very careful to avoid attention\r\nWilliam: Agreed. I'll work on setting up safe routes for transportation\r\nJohn: We also need to consider packaging. Can't have anything suspicious\r\nJames: I know someone who specializes in that. I'll get in touch\r\nRobert: Fantastic. Let's keep everything low key\r\nDavid: Remember, no names or specifics in any of our communications\r\nWilliam: Understood. We'll use coded language from now on",
+            "summaries": {
+                  "general": "John, James, Robert, David, and William are planning a chemical production and distribution operation.",
+                  "precise": "John informs the others that he could set up the lab. James is satisfied and wonders about a way to get quality ingredients. Robert states that he knows someone who could provide them. On the other hand, David will handle distribution, William will find safe routes for transportation, and James will contact someone who can help handle the packaging while avoiding suspicions. They then remind each other to remain discreet, avoid using names, and speak in coding language.",
+                  "GPT4_non_adjusted": "The conversation involves five individuals: John, James, Robert, David, and William. They are discussing setting up a drug manufacturing operation. John initiates the conversation by informing the others that he has set up the lab. James emphasizes the importance of high-quality ingredients, and Robert confirms he has a contact who can provide them. David takes responsibility for distribution and emphasizes the need for discretion. William agrees and offers to set up safe transportation routes. John brings up the issue of inconspicuous packaging, and James says he knows someone who can help with that. Robert emphasizes the importance of keeping a low profile, and David advises the group to avoid using names or specifics in their communication. William agrees to use coded language from now on. The conversation took place on WhatsApp, in a group named \"Business Ventures\", starting at 10:45:00 on September 20, 2021.",
+                  "GPT4_adjusted": "The conversation involves five individuals: John, James, Robert, David, and William. They are discussing setting up a drug manufacturing operation. John initiates the conversation by informing the others that he has set up the lab. James emphasizes the importance of high-quality ingredients, and Robert confirms he has a contact who can provide them. David takes responsibility for distribution and emphasizes the need for discretion. William agrees and offers to set up safe transportation routes. John brings up the issue of inconspicuous packaging, and James says he knows someone who can help with that. Robert emphasizes the importance of keeping a low profile, and David advises the group to avoid using names or specifics in their communication. William agrees to use coded language from now on."
+            }
+      }
+]

@@ -1,0 +1,14 @@
+sender;content
+Jason;Hey guys, have you heard the new Coldplay album?
+Desiree;Yes, I actually have. I think it's one of their best works yet.
+Katherine;I haven't listened to it yet. Is it really that good?
+Ronda;I'm not much of a Coldplay fan, but I'll give it a listen.
+Mario;I'm with Ronda. Not a fan, but I won't knock it until I try it.
+Jason;That's the spirit, guys! Let's all give it a listen and discuss it next time.
+Desiree;Sounds like a plan. Music discussion night, here we come!
+Katherine;I'm in! I'll listen to it tonight.
+Ronda;Same here. It'll be a new experience for sure.
+Mario;Count me in as well. Let's see if it changes my mind about Coldplay.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Music Lovers Unite;[Jason, Desiree, Katherine, Ronda, Mario];20.09.2021 19:15:30

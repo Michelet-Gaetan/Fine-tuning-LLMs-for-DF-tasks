@@ -1,0 +1,14 @@
+sender;content
+James;Hey Robert, any plans for the weekend?
+Robert;Hey James, not really. Was thinking of going hiking. Interested?
+James;Sounds good. Where were you planning to go?
+Robert;I was thinking of the Blue Ridge Mountains. They say the views are awesome this time of year.
+James;I've heard about it. Should we leave early morning?
+Robert;Yes, that would be perfect. We can catch the sunrise.
+James;Awesome! Let's do it. I'll get the gear ready.
+Robert;Great! Let's meet at my place at 5 am. We can drive from there.
+James;Sounds like a plan. See you then, Robert.
+Robert;See you, James. Looking forward to it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Warriors;[James, Robert];18.12.2021 08:30:00

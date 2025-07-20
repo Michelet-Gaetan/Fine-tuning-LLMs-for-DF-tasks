@@ -1,0 +1,17 @@
+sender,content
+James,"Hey John, what's your plan for this weekend?";
+John,"Hey James, I'm thinking of going hiking. What about you?";
+James,"That sounds great. I was thinking of going to a cooking class this weekend.";
+John,"Oh cool! What type of cuisine?";
+James,"Italian. I've always wanted to learn how to make homemade pasta.";
+John,"That sounds delicious. Let's share our experiences on Monday.";
+James,"Definitely, looking forward to it.";
+John,"Same here. Have a great weekend James!";
+James,"You too, John. Enjoy the hike!"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,Weekend Plans,[James, John],01.10.2021 09:00:00
+
+Description:
+The conversation takes place on Telegram between James and John. They discuss their plans for the upcoming weekend in a chat group named "Weekend Plans". James initiates the conversation, asking John about his weekend plans. John responds that he is considering going hiking. James shares that he plans to attend a cooking class focused on Italian cuisine, particularly homemade pasta. They agree to share their experiences on Monday. The first message was sent on 01.10.2021 at 09:00:00.

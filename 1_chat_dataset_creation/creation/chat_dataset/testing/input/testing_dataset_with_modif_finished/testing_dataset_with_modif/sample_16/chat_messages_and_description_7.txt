@@ -1,0 +1,16 @@
+sender;content
+Chris;Hey guys, have you heard about the upcoming rock concert?
+Kenneth;Yeah, I saw the flyer. It's next week right?
+Greyson;Correct. I think it's going to be awesome. We should all go together.
+Robert;Definitely. It's been a while since we all hung out.
+Chris;Absolutely. Let's book the tickets tomorrow.
+Kenneth;I'll check out the seating arrangements and prices.
+Greyson;Great. Let's meet up for coffee tomorrow to finalize things?
+Robert;Sounds good. Looking forward to it.
+Chris;Alright, see you guys tomorrow.
+Kenneth;See you.
+Greyson;Later guys.
+Robert;Bye.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Concert Squad;[Chris, Kenneth, Greyson, Robert];23.09.2021 18:05:30

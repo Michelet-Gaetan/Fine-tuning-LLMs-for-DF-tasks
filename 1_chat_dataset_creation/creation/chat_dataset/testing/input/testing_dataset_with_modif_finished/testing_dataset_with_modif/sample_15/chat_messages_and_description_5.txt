@@ -1,0 +1,16 @@
+sender;content
+David;Hey Thomas, how are you doing?
+Thomas;Hey David, I am good! How about you?
+David;I am doing well, thanks. I've been thinking about dreams lately.
+Thomas;Oh really? That's interesting. In what way?
+David;I was just wondering if there is a specific reason we dream about certain things.
+Thomas;I think dreams are a reflection of our subconscious mind. They can be influenced by our day-to-day experiences, thoughts, and feelings.
+David;Interesting. Have you ever had a recurring dream?
+Thomas;Yes, I have. It was a strange one where I was flying above a city. 
+David;That sounds fascinating. Do you think it had any specific meaning?
+Thomas;It's hard to say for sure. But I think it might have represented a desire for freedom and exploration.
+David;That's a great interpretation. It's amazing how our minds work, isn't it?
+Thomas;It sure is, David. The human mind is truly fascinating.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Dream Discussion;[David, Thomas];02.04.2021 15:30:00

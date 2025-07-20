@@ -1,0 +1,15 @@
+sender;content
+Robert;Hey guys, who's watching the soccer game tonight?
+James;I am! Really looking forward to it!
+David;Same here. Our team has been doing great this season.
+Robert;Absolutely, David. I think we have a good chance of winning.
+William;I'm not so sure guys, the opponents are really strong.
+James;Come on, William. Have some faith in our team!
+David;Exactly, James. Besides, soccer is unpredictable. Anything can happen.
+Robert;True that. Let's all meet up and watch the game together.
+James;Sounds like a plan. I'll bring the snacks!
+David;And I'll bring the drinks. See you guys tonight.
+William;Alright, I'm in. See you all tonight!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Soccer Fanatics;[Robert, James, David, William];01.10.2022 18:00:00

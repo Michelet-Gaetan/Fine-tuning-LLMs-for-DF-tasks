@@ -1,0 +1,14 @@
+sender;content
+Robert;Hey, have you got the goods?
+Matthew;Yeah, just picked them up. All good to go.
+Robert;Great. When can we make the swap?
+Matthew;How about tomorrow night?
+Robert;No good. Too many eyes around.
+Matthew;Alright, let's do it tonight then.
+Robert;Perfect. Usual spot?
+Matthew;Yeah, usual spot. Be there at 8.
+Robert;Got it. 8pm. Don't be late.
+Matthew;Don't worry. I'll be there.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;The Usual Business;[Robert, Matthew];24.07.2021 14:35:20

@@ -1,0 +1,14 @@
+sender;content
+John;Hey guys, I've got the lab set up
+James;Great John! We'll need the top quality ingredients
+Robert;I've got a contact who can get us what we need. Pure stuff
+David;Perfect. I'll handle distribution. We should be very careful to avoid attention
+William;Agreed. I'll work on setting up safe routes for transportation
+John;We also need to consider packaging. Can't have anything suspicious
+James;I know someone who specializes in that. I'll get in touch
+Robert;Fantastic. Let's keep everything low key
+David;Remember, no names or specifics in any of our communications
+William;Understood. We'll use coded language from now on
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Business Ventures;[John, James, Robert, David, William];20.09.2021 10:45:00

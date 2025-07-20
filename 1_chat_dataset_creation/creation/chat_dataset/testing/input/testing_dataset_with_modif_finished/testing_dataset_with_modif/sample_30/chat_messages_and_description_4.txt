@@ -1,0 +1,16 @@
+sender;content
+Jayden;Hey guys, have you watched the latest episode of 'Stranger Things'?
+Joy;Not yet, Jayden! No spoilers, please. I plan to watch it tonight.
+Jayden;Absolutely, no spoilers! But you're in for a treat.
+Kathleen;I watched it! It's mind-blowing. The storyline is getting intriguing.
+Joy;Now, I can't wait to watch it. Any more recommendations, guys?
+Jayden;Have you guys checked 'The Crown'? It's a great historical drama.
+Kathleen;I love 'The Crown'! The acting and the depiction of the royal family is incredible.
+Joy;I've heard about it but never got around to watching it. I'll add it to my list.
+Jayden;Do that, Joy. You won't regret it. Also, 'Breaking Bad' is a must-watch if you haven't seen it.
+Kathleen;Breaking Bad is legendary. Walter White is one of the most complex characters ever.
+Joy;Alright, 'The Crown' and 'Breaking Bad' added to my list. Thanks for the suggestions, guys!
+Jayden;Anytime, Joy. Happy watching!
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;TV Show Buffs;[Jayden, Joy, Kathleen];24.10.2021 20:15:00

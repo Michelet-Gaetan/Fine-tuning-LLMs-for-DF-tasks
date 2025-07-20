@@ -1,0 +1,16 @@
+sender,content
+Willie, Hi Mary, hope you're doing well.
+Mary, Hey Willie, I'm good. How about you?
+Willie, I'm well, thanks. I was wondering if you've picked up any new hobbies lately.
+Mary, Actually, yes. I've started painting recently. How about you?
+Willie, That's cool. I've always admired people who can paint. I've started gardening.
+Mary, That's interesting. What kind of plants are you growing?
+Willie, Mainly vegetables like tomatoes and cucumbers. It's been really rewarding.
+Mary, Sounds fun. I've been thinking of starting a small herb garden myself.
+Willie, I'd highly recommend it. I can help you get started if you want.
+Mary, That would be great, Willie. Thanks.
+Willie, You're welcome, Mary. Looking forward to it.
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, Hobby Talk, [Willie, Mary], 10.03.2022 17:45:00

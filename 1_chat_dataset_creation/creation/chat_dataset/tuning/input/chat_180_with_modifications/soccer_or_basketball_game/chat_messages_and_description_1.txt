@@ -1,0 +1,15 @@
+sender;content
+James;Hey guys, did you catch the soccer game last night?
+Robert;Yeah, I did. It was quite a match!
+Matthew;I missed it. Who won?
+James;Liverpool. They beat Manchester United 3-1.
+Robert;The game was really intense, especially in the second half.
+Matthew;Sounds like I missed a good one. How did Liverpool manage to win?
+James;Their midfield was really strong. They dominated possession and created lots of chances.
+Robert;Plus, their defense was solid. Manchester United barely got a look in.
+Matthew;Wow, Liverpool seems to be in good form this season.
+James;They are indeed. Their next game is against Chelsea. It's going to be a big one.
+Robert;Can't wait to watch that!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Soccer Fans;[James, Robert, Matthew];20.05.2021 18:23:45

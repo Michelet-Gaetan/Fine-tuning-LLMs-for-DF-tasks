@@ -1,0 +1,12 @@
+sender;content
+Chris;Hey guys, how's everyone doing with their families in this lockdown?
+Kenneth;It's quite a challenge, Chris. Homeschooling the kids is not an easy task.
+Greyson;Tell me about it, Kenneth. I'm running out of ideas to keep the kids entertained.
+Robert;I'm lucky that my kids are all grown up. But, I miss my grandchildren. Can't wait to see them.
+Chris;I feel you, Robert. It's been tough on all of us. Let's hope things get better soon.
+Kenneth;Yeah, let's stay positive. We're all in this together.
+Greyson;Agreed. Let's also plan a virtual get-together for the kids.
+Robert;That sounds like a great idea, Greyson. Let's do it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Family Matters;[Chris, Kenneth, Greyson, Robert];01.06.2020 09:30:00

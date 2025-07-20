@@ -1,0 +1,17 @@
+sender,content
+Reba,"Alright team, we have a new job. The target is the National Museum."
+Nadir,"Sounds risky, Reba. What's the prize?"
+Reba,"A priceless artifact, The Heart of the Ocean. It's worth the risk."
+Ronnie,"I'm in. I can handle the security systems."
+Sheree,"I'll get us the blueprints of the museum."
+Robert,"And I can arrange our getaway vehicle."
+Reba,"Excellent. Everyone knows their role. Let's meet at the usual spot tomorrow to iron out the details."
+Nadir,"I've got a feeling this is going to be a big one."
+Ronnie,"Just another day at the office, Nadir."
+Sheree,"Blueprints are in hand. This place is a maze."
+Robert,"Got us a van. Plain, inconspicuous, just how we like it."
+Reba,"Great work, team. Let's get this done."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"The Unseen Five",["Reba","Nadir","Ronnie","Sheree","Robert"],"20.09.2022 18:30:00"

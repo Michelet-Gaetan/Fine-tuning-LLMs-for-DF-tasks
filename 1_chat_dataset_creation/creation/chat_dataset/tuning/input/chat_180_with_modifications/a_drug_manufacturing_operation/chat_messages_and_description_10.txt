@@ -1,0 +1,14 @@
+sender;content
+Robert;Hey guys, I got the formula for that new drug we've been talking about.
+Christopher;That's great news Robert. How long before we can start production?
+Robert;I'd say give it a couple of weeks. We need to source some ingredients first.
+Elizabeth;I have a reliable supplier for the ingredients. It's going to cost us, though.
+John;Let's not skimp on the cost. Quality is key here.
+Christopher;Agreed. Elizabeth, go ahead and contact your supplier.
+Elizabeth;Alright, I'll get on it right away.
+Robert;Once the ingredients are here, I'll start with the production.
+John;Keep everything under wraps guys. We can't afford to attract attention.
+Christopher;Absolutely, discretion is our top priority.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;New Venture;[Robert, Christopher, John, Elizabeth];07.01.2022 19:45:00

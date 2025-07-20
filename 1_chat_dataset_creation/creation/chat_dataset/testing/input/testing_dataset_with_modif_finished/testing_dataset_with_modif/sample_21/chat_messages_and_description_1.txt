@@ -1,0 +1,14 @@
+sender;content
+Robert;Hey Tiana, how have you been feeling lately?
+Tiana;Hi Robert, I have been feeling a bit under the weather lately.
+Robert;Oh no, what seems to be the problem?
+Tiana;I have been having headaches and feeling really tired.
+Robert;That doesn't sound good. Have you seen a doctor yet?
+Tiana;Not yet, I thought it was just stress from work.
+Robert;It could be, but I think you should get a check-up just to be sure.
+Tiana;You're right, better safe than sorry. I will book an appointment tomorrow.
+Robert;That's a good decision Tiana. Let me know how it goes.
+Tiana;I definitely will. Thanks for your concern, Robert.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Health Matters;[Robert, Tiana];20.06.2022 14:00:00

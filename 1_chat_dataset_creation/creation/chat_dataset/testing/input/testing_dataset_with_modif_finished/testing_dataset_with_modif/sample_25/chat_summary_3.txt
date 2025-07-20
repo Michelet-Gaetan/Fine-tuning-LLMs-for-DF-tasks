@@ -1,0 +1,2 @@
+general;GPT4_non_adjusted
+Rylan and Phyllis are discussing a basketball game.;The conversation was between Rylan and Phyllis on WhatsApp, under the group name 'Sports Chat'. The conversation started on the 8th of April, 2022 at 18:45:30. The discussion was about a basketball game between the Lakers and the Celtics. Rylan was watching the game and shared that it was a close one, with the Lakers leading by three points. Phyllis expressed her support for the Celtics, and both agreed to enjoy the game, despite supporting opposing teams.

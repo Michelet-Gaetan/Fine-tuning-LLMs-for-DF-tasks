@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+James and Mark are discussing preparations for the next day's meeting.;
+
+James asks Mark if he could finish a report for the next day's meeting. Mark answers that he could and will send it. James explains that he's been particularly busy lately, and ask Mark if he needs help for the presentation. Mark answers that everything is good and that he will tell him ih help is required.;
+
+The conversation takes place between two colleagues, James and Mark, on WhatsApp under the group name "Work Project". The conversation begins at 16:45 on 25th June 2021. James initiates the chat by asking Mark about a report for a meeting scheduled for the next day. Mark confirms that he has completed the report and offers to send it to James. James expresses his gratitude, explaining that he's been busy with client calls. Mark shows understanding and assures James that he's got everything under control regarding the presentation, but will get in touch if he needs anything. They end the conversation wishing each other a good evening and agreeing to talk the next day.

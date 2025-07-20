@@ -1,0 +1,16 @@
+sender,content
+"Robert","Hey guys, we need to set up a meeting to discuss the new project."
+"Sarah","Sure Robert, how about next Tuesday at 10 am?"
+"Matthew","That works for me."
+"Robert","Great, Matthew is in. How about you, Sarah?"
+"Sarah","That's fine for me too. Should we book a meeting room?"
+"Robert","Yes, please do. Let's use the one on the second floor."
+"Matthew","Sounds good. I'll bring the necessary documents."
+"Sarah","Perfect. I'll send an email to confirm the appointment."
+"Robert","Great, thanks Sarah. Looking forward to it."
+"Matthew","See you then."
+"Sarah","See you."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+"WhatsApp","Project Discussion",["Robert", "Sarah", "Matthew"],"01.12.2021 09:30:00"

@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+James, Robert, and Michael are organizing a hike in the Appalachian Trail this weekend.;
+
+James proposes the others a hike during the weekend. Robert is intrested and asks for more details. James suggests the Appalachian Trail. Michael is also interested and wonders about the schedule. James proposes Saturday at 8 AM. Michael will take care of the food, and Robert of the drinks.;
+
+The conversation is between three friends: James, Robert, and Michael. They are planning a hiking trip on the Appalachian Trail for the weekend. James proposed the idea and the time of departure, which is set for 8 am. Michael and Robert agreed to the plan, with Michael volunteering to bring the food and Robert offering to bring drinks. The chat took place on WhatsApp in a group called "Weekend Warriors", and the first message was sent on April 20, 2022, at 2:34:27 PM.

@@ -1,0 +1,12 @@
+sender;content
+James;Hey, are you going to the farmer's market today?
+Robert;Yes, I thought I'd check it out. Do you want to join me?
+James;Sounds like a plan. What time?
+Robert;Let's meet at 10:30 am. Is that ok for you?
+James;Perfect. I'll see you then. We can grab a coffee after.
+Robert;Great. Looking forward to it. See you soon.
+James;See you there. Don't forget to bring your reusable bags!
+Robert;Of course, wouldn't dream of forgetting them. See you.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Plans;[James, Robert];24.04.2021 08:30:00

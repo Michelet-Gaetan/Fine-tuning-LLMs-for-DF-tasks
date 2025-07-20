@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John, Michael, Robert, and Michelle are discussing details of a heist plan.
+
+John stresses the need to fine-tune their heist plan. According to Robert and Michael, it might be tight, and they require good exit plan given the important security. John asks Robert to work on the exit plan, and proposes to work with Michael on the security measures in place. Michelle suggests she handles it. They finally agree to meet the next day at their usual time and spot to finalyze the plan. Robert and Michelle also confrims their respective task. 
+
+The conversation takes place in a WhatsApp group named "Operation Gold Mine" among four participants: John, Michael, Robert, and Michelle. The group was created on 23.08.2022 at 18:45:00. The chat begins with John urging the group to finalize the plan for an upcoming fictional heist. Michael confirms that he has checked the place and acknowledges that the security is tight. Robert suggests focusing on an exit strategy due to high security, and John assigns him this task. John and Michael decide to work on disabling the security systems, but Michelle steps in to take over this task, revealing she has been studying the security patterns. They agree to meet the next day to finalize their plans, and Robert takes responsibility for planning escape routes and possible getaways.

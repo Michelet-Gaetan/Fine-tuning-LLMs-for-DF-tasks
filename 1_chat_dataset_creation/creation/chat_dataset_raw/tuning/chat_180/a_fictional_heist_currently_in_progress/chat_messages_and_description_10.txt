@@ -1,0 +1,20 @@
+sender,content
+Robert,"We're in position. Ready to initiate."
+David,"Understood, Robert. Michael, is your team ready?"
+Michael,"Yes, David. We're all set."
+Elizabeth,"I'm at the control center. All systems go."
+David,"Starting the heist in 3...2...1."
+Robert,"We're moving now. Security's tight."
+Michael,"Got it, Robert. We'll create a diversion."
+Elizabeth,"Monitoring their movements. You're clear for now, Robert."
+David,"Keep us updated, Elizabeth."
+Robert,"We're almost at the vault."
+Michael,"Diversion successful. Security's attention is on us."
+Elizabeth,"I see it. Robert, you're clear to proceed."
+David,"Great job, team. Keep it up."
+Robert,"Vault is open. We got the goods."
+David,"Perfect. Time for extraction. Everyone, move out."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Operation Gold Mine",["Robert","David","Michael","Elizabeth"],"15.03.2022 22:34:45"

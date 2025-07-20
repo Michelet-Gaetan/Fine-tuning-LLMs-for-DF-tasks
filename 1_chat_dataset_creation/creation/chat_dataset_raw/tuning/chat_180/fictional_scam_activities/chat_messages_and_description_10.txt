@@ -1,0 +1,16 @@
+sender,content
+James,"Hey guys, I've got a unique investment opportunity for you"
+Robert,"I'm listening, James. What's it about?"
+James,"It's about a new cryptocurrency that's about to explode in value"
+David,"Sounds interesting, but how did you find out about this James?"
+James,"I have a friend who works in the industry. He tipped me off"
+Robert,"I'm a bit skeptical. Cryptocurrency can be risky"
+James,"I understand Robert, but trust me this is a sure thing"
+David,"Can you share some more details James? I'd like to know more"
+James,"Of course David. I'll send you a detailed email"
+Robert,"I'll wait for that email too James. Let's see if this is worth it"
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Crypto Kings",["James","Robert","David"],"20.09.2022 16:30:00"

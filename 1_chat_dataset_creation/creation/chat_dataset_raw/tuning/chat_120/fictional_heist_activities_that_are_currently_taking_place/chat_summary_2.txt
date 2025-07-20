@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+Matthew and James are discussing last details before a heist that night.;
+
+Matthew checks on James if he is ready for this night's operation. James responds that he is, but just wants to do a last check. They then confirm their meeting at 10 PM at the rendezvous point. Matthew reminds James to change clothes and hide the equipment after their heist. James wonders about the escape room, and Mathew notifies him that it changed, explaining he will tell him the new one once they meet.;
+
+In the conversation, Matthew and James discuss their plans for a fictional heist. Matthew, seemingly the leader, confirms with James that he is ready and has all the necessary equipment prepared for the night's operation. Matthew emphasises the importance of precision and no mistakes. He informs James of a meeting point and time, and outlines the protocol to follow after the heist, which includes ditching the equipment and changing clothes to blend in with the crowd. James asks if the escape route is the same, to which Matthew replies that there's been a change and he will brief James at the meeting point. The conversation ends with Matthew advising James to stay sharp, to which James assures him that he always is. The conversation takes place on the messaging application, Telegram, under the group name "Operation Nightfall", with the first message sent on 23.09.2021 at 14:23:45.

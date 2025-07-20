@@ -1,0 +1,2 @@
+general;GPT4_non_adjusted
+Falon and Manel are talking about their respective hobbies, photography and painting.;In the conversation, Falon and Manuel discuss their hobbies. Falon initiates the conversation by asking Manuel about his hobbies. Manuel replies that he loves photography. Falon then reveals her interest in painting, and they both acknowledge their shared love for art. Manuel expresses interest in seeing Falon's work, and she agrees to share some of her paintings with him the next day. The conversation ends with Manuel looking forward to seeing Falon's paintings.

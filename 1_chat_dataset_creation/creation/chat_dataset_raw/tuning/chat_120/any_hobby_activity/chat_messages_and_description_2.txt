@@ -1,0 +1,14 @@
+sender;content
+James;Hey John, have you started that oil painting yet?
+John;Hi James, yeah started it last week. Working on the landscape right now.
+James;That's great! What are you using as a reference?
+John;I'm using a photo I took last summer in the mountains.
+James;Sounds beautiful. Remember, oil painting is about layers. Don't rush.
+John;Absolutely, I'm starting with thin layers and gradually building up.
+James;Good technique. Remember to keep your brushes clean too.
+John;Definitely, I've got a pot of linseed oil for cleaning.
+James;Perfect. Keep me updated on the progress, would love to see it when it's done.
+John;Will do, thanks for the tips James.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Art Enthusiasts;[James, John];15.05.2022 18:30:00

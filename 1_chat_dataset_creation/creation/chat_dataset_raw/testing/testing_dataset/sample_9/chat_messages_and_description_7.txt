@@ -1,0 +1,15 @@
+sender,content
+Amanda, Hi Paulette, have you seen the new season of Stranger Things yet?
+Paulette, Hey Amanda, not yet. Is it good?
+Amanda, It's amazing! I love how they've developed the characters.
+Paulette, That sounds promising. I'll have to catch up soon.
+Amanda, You should! Oh, and have you seen The Witcher?
+Paulette, No, I haven't. Is it worth a watch?
+Amanda, Absolutely! The storyline is so intriguing.
+Paulette, I'll add that to my list too then. Thanks for the recommendations, Amanda.
+Amanda, You're welcome, Paulette! Enjoy your TV time.
+Paulette, Definitely will. Talk to you later, Amanda.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,TV Show Discussions,[Amanda, Paulette],13.10.2021 19:45:00

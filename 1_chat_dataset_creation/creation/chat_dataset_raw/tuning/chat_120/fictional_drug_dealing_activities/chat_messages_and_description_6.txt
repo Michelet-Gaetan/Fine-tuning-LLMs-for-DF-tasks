@@ -1,0 +1,12 @@
+sender;content
+James;Got a new shipment in. You interested?
+Robert;Always. What's the product?
+James;Blue Sky. Top quality stuff.
+Robert;Sounds good. How much for a pound?
+James;10 grand a pound. Non-negotiable.
+Robert;That's steep. But if it's as good as you say, I'm in.
+James;Great. Meet me at the usual spot in an hour.
+Robert;See you then.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Business Ventures;[James, Robert];12.04.2022 09:15:30

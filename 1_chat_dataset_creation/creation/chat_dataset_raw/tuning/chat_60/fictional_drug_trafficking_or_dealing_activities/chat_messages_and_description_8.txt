@@ -1,0 +1,17 @@
+sender,content
+Michael,"We need to discuss the new shipment"
+Robert,"Agreed, when is it due?"
+David,"It's due next week, we have to be ready"
+Michael,"The last one was not properly handled, we can't afford another mistake"
+Robert,"I've reinforced the team, it won't happen again"
+David,"Let's hope so, we're playing with fire here"
+Michael,"We need a detailed plan this time, Robert"
+Robert,"Already working on it"
+David,"Let's meet tomorrow and discuss it in person"
+Michael,"Tomorrow, 8 pm at the usual place"
+David,"See you guys there"
+Robert,"Alright, will be there";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"The Shipyard",["Michael","Robert","David"],"01.05.2022 18:30:00"

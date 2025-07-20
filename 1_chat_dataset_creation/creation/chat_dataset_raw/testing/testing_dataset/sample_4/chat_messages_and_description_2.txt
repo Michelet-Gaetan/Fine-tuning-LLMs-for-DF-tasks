@@ -1,0 +1,16 @@
+sender,content
+Reba,"Hey everyone, I'm thinking of starting a new podcast. Any suggestions on how to get started?";
+Nadir,"That's a great idea Reba! I think you should focus on what you are passionate about. Don't try to chase what's popular, authenticity matters a lot in podcasting.";
+Ronnie,"Absolutely agree with Nadir. Also, invest in good quality equipment from the start. It's crucial for a good listening experience.";
+Sheree,"Definitely! And don't forget about promoting your podcast. Social media can be a good start.";
+Robert,"You should also consider your podcast format. Whether it's going to be interview-based, storytelling, or educational can really shape your content.";
+Reba,"These are all great suggestions! Thank you, everyone. I'll start working on my plan.";
+Nadir,"Glad we could help Reba. Looking forward to your podcast!";
+Ronnie,"Yes, keep us posted Reba. We'll be your first listeners!";
+Sheree,"Absolutely! Can't wait to hear it.";
+Robert,"Good luck Reba! And remember, consistency is key.";
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+Telegram,Podcast Enthusiasts,"['Reba', 'Nadir', 'Ronnie', 'Sheree', 'Robert']","07.10.2021 14:30:00"

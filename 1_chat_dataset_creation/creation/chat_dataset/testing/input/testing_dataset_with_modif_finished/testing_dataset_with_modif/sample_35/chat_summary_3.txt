@@ -1,0 +1,2 @@
+general;GPT4_non_adjusted
+Thomas and Kristopher are discussing different videogames like 'Call of Duty' and 'Fortnite'.;In the conversation, Thomas initiates a discussion with Kristopher about the new Call of Duty game, praising its graphics and gameplay. Kristopher shares that he's been playing Fortnite lately, but Thomas indicates his preference for the realism in Call of Duty. Thomas's positive feedback about the new game prompts Kristopher to consider trying it out, and they plan to play online together once Kristopher gets the game.

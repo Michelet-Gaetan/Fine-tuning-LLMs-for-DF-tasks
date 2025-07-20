@@ -1,0 +1,13 @@
+sender;content
+William;Hi Sheila and Herman, I've started a new health regimen. Do you guys have any tips?
+Sheila;Sure William, I recommend adding more fruits and vegetables to your diet. They contain essential vitamins and minerals.
+Herman;I agree with Sheila. Also, regular exercise is crucial. Even a 30-minute walk can make a difference.
+William;That's a good point, Herman. I've been neglecting exercise lately. What kind of exercises do you guys recommend?
+Sheila;I enjoy yoga. It's a great way to improve flexibility and reduce stress.
+Herman;I prefer weight training. It helps to build strength and muscle mass.
+William;Thanks, guys. I'll definitely try incorporating these into my regimen.
+Sheila;You're welcome, William. Remember, consistency is key!
+Herman;Exactly. And don't forget to drink plenty of water too, William.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Health Tips;[William, Sheila, Herman];15.03.2022 10:30:00

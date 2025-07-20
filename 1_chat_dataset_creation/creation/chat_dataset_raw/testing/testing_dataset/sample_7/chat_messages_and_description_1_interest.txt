@@ -1,0 +1,15 @@
+sender,content
+Eusebia,Hey Azaiah, have you heard about the recent break-ins?;
+Azaiah,Yes, it's all over the news. They're calling it a spree of fictional burglaries. Quite unusual, don't you think?;
+Eusebia,Definitely. It's like something out of a novel. I wonder how they're pulling it off?;
+Azaiah,Seems like they're using some advanced tech. Or maybe it's just clever tricks?;
+Eusebia,Perhaps. But the audacity of it all! It's like they're not even trying to hide.;
+Azaiah,True. It almost seems like they want the attention, or maybe it's a distraction?;
+Eusebia,That's an interesting thought. What do you think they might be distracting us from?;
+Azaiah,Hard to say. But with all this focus on the burglaries, who knows what else is going on?;
+Eusebia,It does make you wonder. Let's keep our eyes open, Azaiah.;
+Azaiah,Agreed, Eusebia. Let's stay vigilant.
+
+-----
+application,chat group name, list of participants,first message sending datetime
+WhatsApp,Fictional Burglaries,["Eusebia", "Azaiah"],01.06.2022 09:15:00

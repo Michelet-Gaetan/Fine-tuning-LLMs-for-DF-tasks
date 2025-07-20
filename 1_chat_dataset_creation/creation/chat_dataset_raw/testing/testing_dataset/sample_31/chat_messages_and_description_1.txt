@@ -1,0 +1,19 @@
+sender;content
+Paul;"Hey Amelia, how are you?"
+Amelia;"I'm good, Paul. How about you?"
+Paul;"I'm fine too. I wanted to talk about our younger siblings."
+Amelia;"Sure, what about them?"
+Paul;"I feel like they are growing up too fast. Don't you think?"
+Amelia;"Yes, I agree. It's like just yesterday they were toddlers."
+Paul;"Exactly! I mean look at Tom, he's already going to high school next year."
+Amelia;"And Sally is entering middle school. Can you believe it?"
+Paul;"It's crazy. We need to spend more time with them."
+Amelia;"Definitely. Maybe we can plan something for the weekend?"
+Paul;"That sounds great. Maybe a picnic or a movie night at home?"
+Amelia;"I love that idea. Let's do it."
+Paul;"Great! I'll start planning. Talk to you later, sis."
+Amelia;"Talk to you later, bro."
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;"Siblings chat";["Paul", "Amelia"];17.09.2021 14:30:00

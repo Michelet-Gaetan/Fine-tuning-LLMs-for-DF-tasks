@@ -1,0 +1,14 @@
+sender;content
+William;Good morning everyone, how are you all doing today?
+Sheila;Hey William! I'm doing great, just starting my day with a cup of coffee. How about you?
+Herman;Morning everyone! Just got back from my morning run.
+William;That's great to hear! I'm just getting ready for work. Herman, you're always so energetic in the morning.
+Sheila;I wish I could be as energetic as Herman in the morning! I'm still struggling to keep my eyes open.
+Herman;Well, it's not easy, but it feels great once you get into the habit. And coffee helps too.
+William;I agree with Herman. A good run and a cup of coffee can do wonders.
+Sheila;Maybe I should give it a try tomorrow. You guys are inspiring.
+Herman;That's the spirit, Sheila! We'll check on you tomorrow morning to make sure you're up and running.
+William;That sounds like a plan. Let's all try to wake up early and start the day with some exercise.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Morning Energy;[William, Sheila, Herman];23.09.2021 07:30:00

@@ -1,0 +1,20 @@
+sender,content
+John,Hey guys, have you seen the latest episode of The Witcher yet?;
+Peter,Oh yes, it was amazing! I loved the battle scenes!;
+Richard,I agree, Peter. The special effects were top notch!;
+Karen,I haven't seen it yet! No spoilers, please!;
+Ashley,I'm with Karen on this one, still need to catch up!;
+John,Okay, no spoilers. But you guys should definitely watch it soon!;
+Peter,I heard the next season is coming out next year. Is that right?;
+Richard,Yes, that's correct! Can't wait for it!;
+Karen,Gosh, I need to hurry up then. So much to watch, so little time!;
+Ashley,Tell me about it, Karen. The list just keeps getting longer!;
+John,Maybe we should have a movie night and watch it together?;
+Peter,That's a great idea, John!;
+Richard,I'm in!;
+Karen,Me too!;
+Ashley,Count me in! It’s a plan then!
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,Entertainment Enthusiasts,["John", "Peter", "Richard", "Karen", "Ashley"],25.12.2021 18:30:00

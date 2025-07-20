@@ -1,0 +1,15 @@
+sender, content
+David, Hey Thomas, I've recently started listening to classical music and I'm loving it;
+Thomas, That's awesome, David! Do you have any favorite composers or pieces yet?;
+David, I've mainly been listening to Beethoven. His Moonlight Sonata is simply beautiful;
+Thomas, I completely agree. Beethoven's work is timeless. I'd also recommend Mozart if you're looking to explore more;
+David, Thanks for the recommendation! I'll check out some of Mozart's works. Do you play any instruments?;
+Thomas, I used to play the piano when I was younger. Nowadays, I just enjoy listening to good music;
+David, That's cool! I've been thinking about learning the guitar. Any tips?;
+Thomas, That's a great choice! Just be patient with yourself and practice regularly. It'll come to you eventually;
+David, Thanks for the advice, Thomas. I'll keep that in mind. 
+
+-----
+
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, Music Lovers, [David, Thomas], 07.02.2022 10:30:00

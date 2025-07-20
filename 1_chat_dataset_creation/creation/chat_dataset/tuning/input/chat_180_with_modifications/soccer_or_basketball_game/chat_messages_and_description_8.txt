@@ -1,0 +1,16 @@
+sender;content
+Michael;Hey guys, are we watching the soccer game tonight?
+David;I'm in. Who's playing?
+Robert;It's Manchester United against Chelsea. Should be a good match.
+John;I'm more of a basketball guy, but I'll join for the company.
+David;Great, let's meet up an hour before the game starts.
+Michael;Sounds like a plan. We can grab some snacks on the way.
+Robert;I'll bring the drinks. See you guys later!
+John;Looking forward to it. See you!
+David;Don't forget the team jerseys, guys!
+Michael;Of course not. Go Man Utd!
+Robert;Chelsea all the way, mate!
+John;As long as there's popcorn, I'm happy.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sports Night;[Michael, David, Robert, John];15.11.2021 18:00:00

@@ -1,0 +1,16 @@
+sender,content
+Robert,Hey Joe, have you watched the new video I shared on our group?
+Joe,No, Robert, I haven't yet. What's it about?
+Robert,It's a tutorial video about video editing. I thought it might be useful for our project.
+Joe,Oh, that sounds interesting. I'll check it out soon.
+Robert,Great! Let me know what you think.
+Joe,Definitely, I'll share my thoughts once I've watched it.
+Robert,Also, if you find any other useful video resources, don't hesitate to share.
+Joe,Sure, Robert. I've been looking into some other online video tutorials as well.
+Robert,That's great! Looking forward to seeing what you find.
+Joe,Alright, Robert. I'll share them in the group once I've watched and vetted them.
+Robert,Perfect, Joe! Let's keep each other updated.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Video Enthusiasts,[Robert, Joe],22.10.2021 14:05:45

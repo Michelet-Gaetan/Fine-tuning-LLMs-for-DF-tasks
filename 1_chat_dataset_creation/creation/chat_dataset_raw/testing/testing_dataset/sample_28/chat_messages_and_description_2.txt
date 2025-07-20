@@ -1,0 +1,18 @@
+sender, content
+William, "Hey guys, have you seen the new concert lineup?";
+Sheila, "No, I haven't, who's playing?";
+Herman, "I heard that The Rolling Stones are headlining!";
+William, "Yes, that's right, Herman! They also have some great supporting bands.";
+Sheila, "Sounds like a concert we shouldn't miss.";
+Herman, "Definitely! Let's get the tickets as soon as they're available.";
+William, "I agree, we should act fast. They're likely to sell out quickly.";
+Sheila, "I'll set a reminder to check for tickets tomorrow morning.";
+Herman, "Great idea, Sheila. I'll do the same.";
+William, "Awesome, let's hope we get good seats!";
+Sheila, "Fingers crossed. It's going to be a fun night!";
+Herman, "Absolutely, can't wait to see The Rolling Stones live!";
+William, "Same here, it's going to be epic.";
+
+-----
+application, chat group name, list of participants, first message sending datetime
+Telegram, Concert Planning, ['William', 'Sheila', 'Herman'], 01.04.2022 18:00:00

@@ -1,0 +1,15 @@
+sender,content
+John,"Hey guys, what's the plan for this weekend?";
+Robert,"I was thinking we could go hiking in the mountains.";
+Michael,"That sounds great! I've been wanting to get some exercise.";
+Robert,"Perfect! Let's meet up on Saturday morning then?";
+John,"Sounds good to me. What should we bring?";
+Robert,"Just some water, snacks, and good hiking shoes should be enough.";
+Michael,"Awesome. Looking forward to it!";
+John,"Me too, it's been a while since our last hike.";
+Robert,"Agreed. This weekend is going to be fun.";
+Michael,"Definitely! Can't wait to catch up with you guys.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Weekend Warriors",["John", "Robert", "Michael"],"15.04.2022 19:30:00"

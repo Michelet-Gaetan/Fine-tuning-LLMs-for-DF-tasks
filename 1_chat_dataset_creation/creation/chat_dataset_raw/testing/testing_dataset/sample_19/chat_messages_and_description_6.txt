@@ -1,0 +1,15 @@
+sender,content
+Falon,Hey Manuel! Have you heard about the upcoming concert next weekend?
+Manuel,Hi Falon! No, I haven't. Who's performing?
+Falon,It's Coldplay. They're back on tour and our city is one of their stops.
+Manuel,Wow! That sounds amazing. I'm a huge fan of their music.
+Falon,Me too! Would you be interested in going to the concert with me?
+Manuel,Definitely! Let's do it. Where can we buy the tickets?
+Falon,We can get them online. I'll send you the link.
+Manuel,Thanks Falon. I'll check it out and let you know.
+Falon,Sounds good. Let's hope we can get good seats.
+Manuel,Agreed. Looking forward to it.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Concert Plan,[Falon, Manuel],07.09.2022 16:45:30

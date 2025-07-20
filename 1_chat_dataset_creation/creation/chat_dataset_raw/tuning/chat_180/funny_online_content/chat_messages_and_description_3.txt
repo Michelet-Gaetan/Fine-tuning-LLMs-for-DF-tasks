@@ -1,0 +1,18 @@
+sender,content
+Paul,"Hey John, have you seen that hilarious cat video I just shared?";
+John,"Not yet Paul, let me check.";
+Paul,"It's on our favorite site, 'FunnyFelines'. It's called 'Cat vs. Cucumber'.";
+John,"Ah, I see it. Oh wow, that cat jumped so high! 😂";
+Paul,"I know right? 😆 Never thought a cucumber could be so terrifying!";
+John,"These cat videos always crack me up. Thanks for sharing, Paul!";
+Paul,"No problem, John. Here's another one: 'The Great Catnip Heist'.";
+John,"Oh, I've seen that one. That cat's face when it found the catnip was priceless 😂";
+Paul,"Exactly! It looked so guilty yet so satisfied at the same time!";
+John,"These videos are the best, Paul. They always make my day!";
+Paul,"Glad to hear that John. I'll keep them coming!";
+John,"Please do, Paul. They are purr-fect! 😂";
+Paul,"Good one, John! 😆";
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Funny Content Sharers;[Paul, John];15.09.2021 16:45:30

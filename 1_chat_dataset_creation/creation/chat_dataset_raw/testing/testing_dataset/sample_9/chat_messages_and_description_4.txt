@@ -1,0 +1,18 @@
+sender, content
+Amanda, Hey Paulette! Have you watched the latest season of The Crown yet?;
+Paulette, Hi Amanda! No, not yet. Is it any good?;
+Amanda, Oh it's brilliant! The portrayal of Princess Diana is just amazing.;
+Paulette, Oh wow, I'll have to check it out then!;
+Amanda, You definitely should. Do you have any show recommendations for me?;
+Paulette, Hmm, have you tried watching The Queen's Gambit? It's not exactly a historical drama, but it's really entertaining.;
+Amanda, No, I haven't. I'll add it to my watch list. Thanks!;
+Paulette, No problem! Let me know what you think once you've watched it.;
+Amanda, Sure thing. By the way, have you heard of the new movie "Tenet"?;
+Paulette, Yes, I've heard of it but not watched it. Is it worth watching?;
+Amanda, It's a bit complicated but if you love Nolan's movies, you'll enjoy it.;
+Paulette, I do enjoy his movies. I'll give it a go then. Thanks, Amanda!;
+Amanda, You're welcome! Enjoy your movie night, Paulette!
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, Entertainment Chat, ["Amanda", "Paulette"], 10.01.2021 18:30:00

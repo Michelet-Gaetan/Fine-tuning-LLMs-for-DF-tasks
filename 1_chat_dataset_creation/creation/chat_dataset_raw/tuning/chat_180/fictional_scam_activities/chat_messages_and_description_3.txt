@@ -1,0 +1,16 @@
+sender,content
+Robert,Hey John, I've got this interesting investment opportunity for you. It's super exclusive.
+John,Oh really, Robert? What's it about?
+Robert,It's an offshore mining operation. They're looking for investors. Big returns guaranteed.
+John,That sounds interesting but also risky. Can you provide more details?
+Robert,Well, it's in a remote location. But the potential gains are huge. Plus, you’ll get your initial investment back in just a month.
+John,That's really tempting, but how do they guarantee such high returns?
+Robert,They've got some proprietary technology. It's all very hush-hush.
+John,I'm intrigued, but I need to think about it.
+Robert,Of course, John. But remember, the opportunity won't last forever.
+John,I understand that. I'll get back to you soon, Robert.
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Investment Opportunities,[Robert,John],15.09.2021 18:30:00

@@ -1,0 +1,15 @@
+sender,content
+Meredith,"Good morning everyone, just a reminder that our project deadline is coming up next week."
+Roy,"Thanks for the reminder Meredith, I'm almost done with my part."
+Steven,"I'm also on track. Should be able to finish by this week."
+Meredith,"Great! Let's aim to have everything ready for review by Friday."
+Steven,"Sounds good. I'll send my part for review as soon as I'm done."
+Roy,"I'll do the same. Let's aim for a smooth submission."
+Meredith,"Perfect. Also, we need to prepare the presentation. Who wants to take the lead on that?"
+Steven,"I can do that. I'll start working on it after finishing my part."
+Roy,"I can provide the data and figures for the presentation."
+Meredith,"Excellent! Let's reconvene on Friday to review everything."
+
+-----
+application,chat group name, list of participants,first message sending datetime
+WhatsApp,"Project Deadline", ["Meredith", "Roy", "Steven"], "20.05.2022 09:00:00"

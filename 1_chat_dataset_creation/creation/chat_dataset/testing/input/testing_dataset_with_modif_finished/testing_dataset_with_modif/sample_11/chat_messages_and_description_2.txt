@@ -1,0 +1,14 @@
+sender;content
+Nicholas;Hey Scharron, have you seen the latest episode of Breaking Bad?
+Scharron;Hi Nicholas, yes I did. The episode was mind-blowing, wasn't it?
+Nicholas;Absolutely, I never expected Walt to take such a drastic step.
+Scharron;True, the character development is really interesting in this series.
+Nicholas;I agree. This is why I prefer Breaking Bad over other series.
+Scharron;I can see your point, but have you ever watched Game of Thrones? The plot twists are amazing.
+Nicholas;I haven't yet, but I've heard a lot about it. I will definitely give it a try.
+Scharron;You should, Nicholas. It's really worth it.
+Nicholas;I will definitely watch it soon. Thanks for the recommendation, Scharron.
+Scharron;No problem, Nicholas. Let's discuss it once you've seen a few episodes.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;TV Show Discussion;[Nicholas, Scharron];22.09.2022 18:30:00

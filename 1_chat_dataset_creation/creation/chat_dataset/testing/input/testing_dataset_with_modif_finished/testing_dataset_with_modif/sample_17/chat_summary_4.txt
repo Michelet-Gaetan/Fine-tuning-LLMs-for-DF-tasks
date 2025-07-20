@@ -1,0 +1,2 @@
+general;GPT4_non_adjusted
+Helen and Karen are discussing the previous night's football game.;In the conversation generated, Helen and Karen are discussing a recent football match they both watched. They chat about the intensity of the game, a surprise last-minute goal, and their shared relief and happiness about their preferred team's victory. They conclude their conversation by expressing anticipation for the next match and hoping that their team maintains their performance.

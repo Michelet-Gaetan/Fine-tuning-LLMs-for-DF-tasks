@@ -1,0 +1,15 @@
+sender, content
+Mason, "Hey guys, have you checked the weather forecast for tomorrow?";
+Glen, "I just did, Mason. It says it's going to be rainy all day.";
+Evelyn, "Really? I thought it was supposed to be sunny.";
+Mason, "Well, different weather sites are showing different forecasts.";
+Glen, "That's true. But I checked on the National Weather Service's website.";
+Evelyn, "I see, I checked on Weather.com. Maybe we should look at a few more sources to be sure.";
+Mason, "Good idea, Evelyn. I'll check on AccuWeather.";
+Glen, "And I'll check on the Weather Channel's site.";
+Evelyn, "Let's regroup in an hour with our findings.";
+Mason, "Sounds like a plan. Talk to you guys in a bit.";
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, "Weather Discussion", ["Mason", "Glen", "Evelyn"], "15.04.2022 09:30:00"

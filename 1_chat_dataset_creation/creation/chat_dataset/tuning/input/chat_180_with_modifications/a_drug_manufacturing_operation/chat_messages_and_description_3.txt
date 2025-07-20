@@ -1,0 +1,14 @@
+sender;content
+John;Hey, Michael. Have you managed to secure the ingredients?
+Michael;Yes, John. I've managed to get everything we need.
+John;Good. How about the lab? Is everything set up there?
+Michael;Yes, all equipment are in place. We should be able to start production by next week.
+John;Great. I'll coordinate with the team about the schedule.
+Michael;Alright, John. I'll focus on getting the materials ready.
+John;Make sure everything is discreet, Michael. We can't afford to get caught.
+Michael;Don't worry, John. I've been doing this for a long time. We won't get caught.
+John;Okay. Let's keep everything under wraps. Will check on the progress in a few days.
+Michael;Sure, John. I'll keep you posted.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Operation X;[John, Michael];13.05.2022 14:30:00

@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John and Michael are chatting about the hobby of train modeling.;
+
+John wonders if Michael could start hi train model. Michael answers that yes, but also that it is more complicated than expected. Hi explains he bought a starter kit, and followed the instructions as well as watching youtube videos. John asks him about his progress, and Michael responds that he could build part of it, but that he is still working on the landscape. John requests Michael to provide update on his progress, to which Michael responds that he hopes to have it done by the following weekend.;
+
+In this conversation, John and Michael are discussing Michael's new hobby: assembling a model train set. John initiates the discussion, asking if Michael has begun working on it. Michael affirms and shares his initial experience with the hobby, stating it's more complex than he anticipated. He mentions that he bought a starter kit, which comes with everything needed for a basic setup, including instructions. However, he also utilized YouTube tutorials for additional guidance. John shows interest in Michael's progress and encourages him to share updates. Michael plans to complete his project by the next weekend. They had this conversation on a WhatsApp chat group named "Hobby Talk" on March 2, 2022, at 10:45 AM.

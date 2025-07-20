@@ -1,0 +1,14 @@
+sender;content
+Joseph;Hi guys, have you read any good books lately?
+Elizabeth;Hey Joseph, I just finished 'Educated' by Tara Westover. It's a memoir about a woman who grows up in a strict and abusive household in rural Idaho but eventually goes on to earn a PhD from Cambridge.
+Justin;Sounds intense Elizabeth. I've been reading 'The Silent Patient'. It's a psychological thriller about a woman who refuses to speak after allegedly murdering her husband.
+Joseph;I've heard about 'The Silent Patient', Justin. It's supposed to have a great twist at the end.
+Elizabeth;Oh, that sounds interesting, Justin. I might check it out after I'm done with my current read.
+Justin;You should, Elizabeth. It's a page-turner.
+Joseph;I'm looking for something a bit lighter. Any recommendations?
+Elizabeth;How about 'Eleanor Oliphant is Completely Fine'? It's a heartwarming story about friendship and self-discovery.
+Justin;Or 'A Man Called Ove'. It's a funny and touching book about a grumpy old man who finds his world turned upside down when a chatty family moves in next door.
+Joseph;Thank you, guys. I'll look into these books.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Book Lovers Unite;[Joseph, Elizabeth, Justin];02.09.2021 16:30:00

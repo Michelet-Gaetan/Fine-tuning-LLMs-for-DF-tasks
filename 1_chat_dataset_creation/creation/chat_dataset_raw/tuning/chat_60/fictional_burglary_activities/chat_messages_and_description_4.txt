@@ -1,0 +1,15 @@
+sender,content
+James,"Hey Brian, I just finished reading this crime novel. The heist was amazing."
+Brian,"Oh really? What was it about?"
+James,"A group of thieves planned to rob a museum. The way they bypassed the security systems was ingenious."
+Brian,"Sounds thrilling. What was their strategy?"
+James,"They created a diversion to distract the guards, while another member slipped in through the ventilation system."
+Brian,"And they managed to get away with it?"
+James,"Yes, but only temporarily. Their plan was flawless, but they didn't account for the relentless detective on their trail."
+Brian,"Interesting. I'll have to check out that book."
+James,"Definitely. It was a great read."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Book Club",[James, Brian],"21.03.2022 14:30:00"

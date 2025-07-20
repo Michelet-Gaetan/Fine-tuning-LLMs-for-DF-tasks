@@ -1,0 +1,14 @@
+sender;content
+Trinity;Hi Glenda, how have you been feeling lately?
+Glenda;Hi Trinity, not so great. I've been feeling really tired and I've had a headache for a few days.
+Trinity;Oh, I'm sorry to hear that. Have you seen a doctor?
+Glenda;No, I haven't. I thought it was just a regular headache.
+Trinity;It might be, but if it's been going on for a few days, it's better to get it checked. You might be dehydrated or it could be a symptom of something else.
+Glenda;You're right. I'll make an appointment with my doctor.
+Trinity;Great. And make sure you're drinking enough water and eating healthy. That can also make a difference.
+Glenda;Definitely. I'll try to improve my diet and water intake.
+Trinity;That's good to hear. Let me know what the doctor says, okay?
+Glenda;Sure, I will. Thanks for your concern, Trinity.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Health Chat;[Trinity, Glenda];01.10.2021 10:30:00

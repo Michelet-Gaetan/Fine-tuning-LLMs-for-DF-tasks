@@ -1,0 +1,16 @@
+sender,content
+"Michael","Guys, we got a shipment coming in tonight."
+"Robert","What's the cargo?"
+"Michael","The usual. 50 lbs."
+"James","Are we sure of the quality?"
+"Michael","It's the best. Same supplier."
+"Robert","What time's the drop?"
+"Michael","Midnight. Dock 9."
+"James","I'll arrange the transport."
+"Robert","I'll take care of distribution."
+"Michael","Good. Let's keep it clean and quiet, guys."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+"WhatsApp","Underground Kings","Michael, Robert, James","02.03.2022 10:30:00"

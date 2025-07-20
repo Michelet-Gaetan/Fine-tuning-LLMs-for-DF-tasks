@@ -1,0 +1,11 @@
+sender,content
+John,"Hi everyone, I was thinking about Plato's theory of forms today. What does everyone think about it?";
+Peter,"I've always found it fascinating. The idea that the physical world isn't the 'real' world is a mind-bending concept.";
+Richard,"It's an interesting theory for sure, but I've always preferred Aristotle's more tangible, empirical approach.";
+Karen,"I think both have their merits. Plato's idealism is a good counterpoint to Aristotle's materialism.";
+Ashley,"I agree with Karen. Both theories offer different perspectives on the nature of reality. They can coexist.";
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Philosophy Discussion Group","['John', 'Peter', 'Richard', 'Karen', 'Ashley']","10.09.2021 19:30:00"

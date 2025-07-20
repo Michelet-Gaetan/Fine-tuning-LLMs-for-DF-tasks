@@ -1,0 +1,15 @@
+sender,content
+Robert,"Hey team, I've got a new business opportunity to share."
+Michael,"Sure Robert, what's it about?"
+Robert,"It's about investing in a rare mineral found only in Antarctica. Returns are projected to be 10 times the investment."
+Mark,"Sounds interesting, but isn't it illegal?"
+Robert,"No, it's not illegal. It's just a new venture that's not well-known yet."
+Michael,"I've never heard of such a thing. Can you provide more details?"
+Robert,"Sure, I'll send you an email with all the details."
+Mark,"I think we should do some research before investing in this."
+Michael,"Agreed, Mark. We need to be careful with such opportunities."
+Robert,"I understand your concern. Let's meet tomorrow to discuss this in detail."
+
+-----
+application,chat group name, list of participants, first message sending datetime
+WhatsApp,"Investment Opportunities", ["Robert", "Michael", "Mark"], "15.12.2021 18:30:00"

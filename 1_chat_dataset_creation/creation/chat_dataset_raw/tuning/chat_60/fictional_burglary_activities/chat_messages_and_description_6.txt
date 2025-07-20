@@ -1,0 +1,17 @@
+sender,content
+James,"Hey, have you watched that movie 'The Italian Job'?"
+Robert,"Yeah, why do you ask?"
+James,"I was thinking, how would it be if someone actually tried to pull off something like that in reality?"
+Robert,"Interesting thought, but you do realise it's a movie, right?"
+James,"Of course I do. But just hypothetically, how would it go?"
+Robert,"Well, first things first, they would need a well-coordinated team."
+James,"Right. And each would need to have a specific set of skills."
+Robert,"Exactly. Like a safecracker, tech guy, distraction team, etc."
+James,"And they would need a solid plan, down to the smallest detail."
+Robert,"True. And they’d need to study their target closely."
+James,"Wouldn't it be easier to just hire someone to do it?"
+Robert,"Maybe. But where's the fun in that? Plus, it's illegal."
+James,"Fair point. It was just a thought anyway."
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Movie buffs",[James,Robert],"05.05.2021 20:45:00"

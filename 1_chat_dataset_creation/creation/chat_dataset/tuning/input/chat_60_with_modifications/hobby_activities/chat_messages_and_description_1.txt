@@ -1,0 +1,12 @@
+sender;content
+James;Hey Robert, have you tried any new hobbies lately?
+Robert;Hello James, yes! I've recently taken up bird watching. It's surprisingly calming.
+James;Bird watching? That sounds interesting. Do you need any special equipment for that?
+Robert;Yes, a good pair of binoculars is a must. Also, a field guide to help identify different bird species can be very helpful.
+James;I see. I'll look into it. I've been looking for a new hobby myself.
+Robert;You should definitely give it a try. It's a great way to connect with nature.
+James;I think I might. Thanks for the suggestion, Robert!
+Robert;No problem, James. Let me know if you need any tips to get started.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Hobby Talk;[James, Robert];01.09.2021 10:15:20

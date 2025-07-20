@@ -1,0 +1,15 @@
+sender,content
+Joseph,"Hey, I've got a new shipment coming in"
+Elizabeth,"That's great news Joseph. When can we expect it?"
+Joseph,"It should be by tomorrow night"
+Justin,"Are we talking about the same high-quality stuff?"
+Joseph,"Yes Justin, the same one. We need to ensure everything goes smoothly"
+Elizabeth,"I have the perfect location for the drop-off. It's secluded and safe"
+Justin,"Elizabeth, let's discuss the location details privately"
+Joseph,"Good idea Justin. We all need to be careful"
+Elizabeth,"Absolutely, safety first"
+Joseph,"I'll update you both once the shipment is near"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Business Ventures",["Joseph", "Elizabeth", "Justin"],"01.06.2022 18:30:00"

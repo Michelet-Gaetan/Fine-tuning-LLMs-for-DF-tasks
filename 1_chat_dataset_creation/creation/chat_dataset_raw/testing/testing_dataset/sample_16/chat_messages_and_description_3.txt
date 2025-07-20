@@ -1,0 +1,17 @@
+sender, content
+Chris, "Hey guys, have you heard about the recent Mars Rover landing?";
+Kenneth, "Yes, I saw it on the news. The Perseverance Rover, right?";
+Greyson, "That's correct, Kenneth. It's really impressive how far we've come in space exploration.";
+Robert, "I agree, Greyson. It's fascinating to think about what we might discover next.";
+Chris, "It's also a testament to human ingenuity and perseverance. No pun intended!";
+Kenneth, "Haha good one, Chris. But yes, it's truly inspiring.";
+Greyson, "Did you guys know that the rover will also be looking for signs of past microbial life?";
+Robert, "Really? That's amazing. Imagine if we found evidence of life on Mars.";
+Chris, "That would be a game-changer. It would make us rethink our place in the universe.";
+Kenneth, "Indeed. It's an exciting time to be alive!";
+Greyson, "Absolutely. Let's keep our fingers crossed for some groundbreaking discoveries.";
+Robert, "Definitely. Looking forward to hearing more about the mission.";
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, "News Discussion Group", ["Chris", "Kenneth", "Greyson", "Robert"], 18.02.2021 08:30:00

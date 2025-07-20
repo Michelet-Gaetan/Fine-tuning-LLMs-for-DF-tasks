@@ -1,0 +1,17 @@
+sender;content
+Joshua;Hey Renea, are you up for a bit of a mental exercise?
+Renea;Hey Joshua. Sure, what's up?
+Joshua;Ever watch those heist movies where they break into a high-security vault?
+Renea;Yeah, I've seen a few. Why do you ask?
+Joshua;Just for fun, how do you think you would go about it if it was a fictional scenario?
+Renea;Hmm, I'd probably start by studying the security system in depth.
+Joshua;Right, and how would you bypass the cameras?
+Renea;Maybe hack into the system and loop the feed?
+Joshua;Good idea, and what about the laser security?
+Renea;I'd use smoke or dust to reveal them, then carefully navigate through.
+Joshua;Lastly, how would you open the vault?
+Renea;I'd have to figure out the lock mechanism. Might even need a safe-cracker.
+Joshua;Interesting. Thanks for indulging me, Renea.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Heist Scenario;[Joshua, Renea];10.05.2022 13:45:00

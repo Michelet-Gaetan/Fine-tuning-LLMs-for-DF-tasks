@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John, Robert, and Jennifer are discussing the moving of a product and planning a new meeting.;
+
+John epmhasizes the need to move their product as quickly as possibe. Robert agrees, and Jennifer explains that she might have a contact that could help. The others agree with the proposition, but highlight the need to be careful. They then decide to meet at the same time the week after, and Jennifer says that she will keep them in the loop.;
+
+The conversation revolves around three individuals named John, Robert, and Jennifer, who are discussing the urgent need to distribute their illicit product due to increasing pressure from law enforcement. Jennifer offers a solution by suggesting a contact who might be able to assist. John commands Jennifer to reach out to her contact while Robert emphasizes the need for caution to avoid leaving any trace of their activities. They agree to meet again at the same time the following week to discuss further plans. Jennifer confirms that she will update the group soon about her progress.

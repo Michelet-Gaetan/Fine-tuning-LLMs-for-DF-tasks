@@ -1,0 +1,20 @@
+sender,content
+James,"We need to discuss the plan for the upcoming operation.";
+Robert,"Agreed. We need a solid strategy.";
+James,"I've got a blueprint of the target location.";
+Robert,"That's helpful. What about the security measures?";
+James,"There are CCTV cameras and several guards.";
+Robert,"We need to be careful then. What's our entry point?";
+James,"I believe the west entrance is the least guarded.";
+Robert,"Sounds plausible. What about the exit strategy?";
+James,"We'll use the service exit at the back.";
+Robert,"We need a clean getaway vehicle.";
+James,"I know a guy who can get us an untraceable car.";
+Robert,"Good. Let's meet up and discuss this in person.";
+James,"Agreed. We'll iron out the details.";
+Robert,"See you tomorrow then.";
+James,"See you tomorrow, Robert."
+
+-----
+application,chat group name, list of participants, first message sending datetime
+Telegram,Heist Plans, [James, Robert], 10.06.2021 19:30:00

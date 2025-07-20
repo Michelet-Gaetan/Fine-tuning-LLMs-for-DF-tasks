@@ -1,0 +1,14 @@
+sender;content
+Kenneth;Hey guys, have you seen the recent development about the Mars Rover?
+Rebecca;Yes, Kenneth. It's fascinating how much we're able to explore now!
+Evelyn;I know right! The images it's sending back are simply amazing.
+Kenneth;It's like we're on the brink of some revolutionary discoveries.
+Rebecca;I wonder what implications this could have for future space travel.
+Evelyn;Definitely. But I also hope we don't forget about taking care of our own planet while we're exploring others.
+Kenneth;That's a good point, Evelyn. It's all a matter of balance.
+Rebecca;Well said, both of you. I think this is a conversation that needs to be had on a larger scale.
+Evelyn;Agree. It's a topic that combines science, ethics, environmentalism... so complex.
+Kenneth;Let's all keep ourselves updated on this. It's interesting to see where it goes.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Current News Discussion;[Kenneth, Rebecca, Evelyn];01.06.2022 10:45:00

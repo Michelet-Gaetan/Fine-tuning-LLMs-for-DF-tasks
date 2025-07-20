@@ -1,0 +1,20 @@
+sender,content
+James,"Good morning everyone, hope you all are doing well";
+Michael,"Good morning James, all good here. Just about to take the dog for a walk";
+Jennifer,"Morning guys, just getting the kids ready for school";
+Robert,"Morning, just having my coffee before I start work for the day";
+James,"Sounds like everyone's day is off to a good start";
+Michael,"Yeah, it's a beautiful day outside. Perfect for a dog walk";
+Jennifer,"I wish I could say the same. It's chaos here with the kids";
+Robert,"Hang in there Jennifer, you're doing a great job";
+James,"Agreed, parenting is no easy task. Hats off to you";
+Jennifer,"Thanks guys, that means a lot";
+Michael,"Anytime Jennifer. After all, we're all in this together";
+James,"Absolutely. Have a great day everyone";
+Robert,"You too James, and everyone else as well";
+Jennifer,"Have a great day guys";
+Michael,"You too Jennifer. Enjoy your day everyone".
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Daily Catch-Up",["James", "Michael", "Jennifer", "Robert"],"10.05.2022 08:00:00"

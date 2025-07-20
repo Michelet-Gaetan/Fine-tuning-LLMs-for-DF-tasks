@@ -1,0 +1,12 @@
+sender;content
+James;Hey, have you managed to secure the lab location?
+Robert;Yes, I found a spot in the industrial district. It's secluded and perfect for our operation.
+James;Great. What about the raw materials? Any luck with those?
+Robert;I have a source but it's a bit risky. They're asking a lot of questions.
+James;We can't afford to raise any suspicion. Maybe we should look elsewhere.
+Robert;I agree. I'll start searching immediately.
+James;Good. Remember, we need to be careful every step of the way.
+Robert;Understood. I'll make sure everything stays under the radar.
+-----
+application;chat group name;list of participants;first message sending datetime
+Signal;Operation Lab;[James, Robert];25.08.2022 18:45:00

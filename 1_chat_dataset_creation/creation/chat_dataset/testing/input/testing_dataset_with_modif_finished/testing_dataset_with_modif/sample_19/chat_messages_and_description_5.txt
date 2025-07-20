@@ -1,0 +1,18 @@
+sender;content
+Falon;Hi Manuel, have you read the new book by J.K. Rowling?
+Manuel;Hello Falon, no I haven't. Is it worth reading?
+Falon;Absolutely! It's a fantastic read. I couldn't put it down.
+Manuel;That sounds intriguing. What's the book about?
+Falon;It's a mystery novel with a touch of magic, just like her Harry Potter series but for adults.
+Manuel;Sounds interesting. I loved the Harry Potter series. I'll definitely check it out.
+Falon;Great! Let me know how you find it.
+Manuel;Will do. By the way, have you read 'To Kill a Mockingbird'?
+Falon;Yes, I have. It's a classic. I love how it addresses complex issues through the eyes of a child.
+Manuel;Exactly! It's one of my all-time favorite books.
+Falon;Mine too. It's beautifully written.
+Manuel;I couldn't agree more. Any other book recommendations?
+Falon;Sure, if you're into historical fiction, 'The Book Thief' is a must-read.
+Manuel;Thanks for the recommendation, Falon. I'll add it to my list.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Book Club;[Falon, Manuel];12.04.2021 10:30:00

@@ -1,0 +1,15 @@
+sender;content
+James;Hey everyone, I just got a new drone for aerial photography.
+Robert;That sounds awesome James! What type of drone did you get?
+James;I bought a DJI Mavic Pro. It's compact and has a great camera.
+Elizabeth;I've been considering getting into drone photography. How difficult is it to learn?
+James;It's not too difficult Elizabeth. I could give you some tips if you're interested.
+Robert;I would love to see some of the photos you've taken James.
+James;Sure Robert, I'll share some in the group later today.
+Elizabeth;I'd appreciate that James. I might get a drone myself after seeing those photos.
+Robert;It's a great hobby to get into. I've been doing it for a few years now.
+James;I agree Robert. It's also a great way to see the world from a different perspective.
+Elizabeth;Sounds exciting. I can't wait to see your photos James.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Drone Enthusiasts;[James, Robert, Elizabeth];05.10.2021 18:30:00

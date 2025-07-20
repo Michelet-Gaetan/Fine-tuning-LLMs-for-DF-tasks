@@ -1,0 +1,14 @@
+sender,content
+John,Hey guys, are we still on for the soccer match tonight?
+Michael,Yeah, I'm looking forward to it! I heard Messi is in great form.
+Robert,Definitely, Messi is a beast. But don't count out Ronaldo just yet.
+Daniel,I agree with Robert. Ronaldo has been pretty consistent lately.
+James,It's going to be a thrilling game for sure. I'm rooting for Messi!
+Matthew,Same here! But let's not forget the rest of the team. They all contribute.
+Robert,True that, Matthew. Soccer is a team sport after all.
+John,Well said, Robert. Looking forward to seeing you all at the game tonight!
+Michael,See you there, John!
+James,Can't wait for the match, see you guys at the stadium!
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp, Soccer Enthusiasts, [John, Michael, Robert, Daniel, James, Matthew], 12.09.2021 17:32:10

@@ -1,0 +1,14 @@
+sender;content
+Brandon;Hey guys, I just finished reading 'To Kill a Mockingbird'. What a fantastic book!
+Marvin;I agree, Brandon. I read it a few years back and it's still one of my favorites.
+Kea;I haven't read that one yet. Would you recommend it?
+Brandon;Absolutely, Kea. It's a classic. The themes of racial inequality and loss of innocence are as relevant today as they were when the book was written.
+Joshua;I'm more into sci-fi. Has anyone read 'Dune' by Frank Herbert?
+Marvin;I have, Joshua. It's a stunning piece of work. The world-building is incredible.
+Kea;I think I'll add both 'To Kill a Mockingbird' and 'Dune' to my reading list.
+Brandon;Good choices, Kea. Let's all share a book we recommend next time.
+Joshua;Sounds like a plan. I'll come prepared.
+Marvin;Me too. Looking forward to it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Book Lovers Club;[Brandon, Marvin, Kea, Joshua];22.07.2021 16:30:00

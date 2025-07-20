@@ -1,0 +1,13 @@
+sender;content
+Matthew;Hey Mark, have you tried painting miniatures before?
+Mark;Hey Matthew, no I haven't. It sounds interesting though. Is it a hobby of yours?
+Matthew;Yes, it is. I find it very calming and it helps me improve my focus.
+Mark;That sounds really beneficial. What kind of miniatures do you paint?
+Matthew;I usually paint fantasy miniatures. They have a lot of intricate details which makes it a fun challenge.
+Mark;Wow, that's cool. Do you have any tips for a beginner like me?
+Matthew;Sure, start with simpler models. And invest in good quality brushes. It makes a huge difference.
+Mark;Great, I'll keep that in mind. Thanks for the tips Matthew.
+Matthew;You're welcome Mark. Let me know if you decide to try it out.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Hobby Chat;[Matthew, Mark];13.12.2021 18:45:00

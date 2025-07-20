@@ -1,0 +1,12 @@
+sender;content
+James;Everything is ready for tonight, are you in?
+Robert;Of course, what time are we meeting?
+James;We meet at the usual spot at 11pm.
+Robert;Got it. Have we got the map of the location?
+James;Yes, I got it from our insider today. It's in the hideout.
+Robert;Perfect. Are the tools ready?
+James;Yes, we're all set. Just ensure you wear something inconspicuous.
+Robert;Don't worry, I got it covered. See you tonight.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Operation Night Shadow;[James, Robert];07.04.2022 16:30:00

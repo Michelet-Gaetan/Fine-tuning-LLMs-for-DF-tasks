@@ -1,0 +1,15 @@
+sender,content
+Helen,Hey Karen, how are you?
+Karen,I'm good, Helen. How about you?
+Helen,I'm doing well. Did you watch the football match last night?
+Karen,Yes, I did. It was such an intense game!
+Helen,I agree. The last-minute goal was a total surprise.
+Karen,Definitely! I thought we were going into overtime.
+Helen,Me too. I'm glad our team won though.
+Karen,Same here. Looking forward to the next match!
+Helen,Yes, hopefully, they keep up the good work.
+Karen,Fingers crossed!
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Sport Enthusiasts,['Helen', 'Karen'],18.07.2021 16:20:00

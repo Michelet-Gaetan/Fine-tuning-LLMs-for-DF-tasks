@@ -1,0 +1,17 @@
+sender;content
+Brody;Hey guys, have you seen the latest episode of 'The Crown'?
+Eric;No, not yet. But I've heard it's really good!
+John;I've seen it! I think this might be the best season yet.
+Brody;I agree, John. The acting and storytelling are just top-notch.
+Eric;You guys are making me so curious. I'm definitely watching it tonight.
+John;You won't regret it, Eric!
+Brody;And what about 'Stranger Things'? The new season is about to start.
+Eric;Oh, I can't wait for that! The trailer looks promising.
+John;I must admit, I couldn't get into 'Stranger Things'. Maybe I should give it another try.
+Brody;Yes, you should, John! It's a great show.
+Eric;Maybe we should organize a watch party for the new season's premiere.
+John;That sounds like a great idea, Eric!
+Brody;I'm in! Let's do it.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;TV Show Discussion;[Brody, Eric, John];10.02.2022 19:30:00

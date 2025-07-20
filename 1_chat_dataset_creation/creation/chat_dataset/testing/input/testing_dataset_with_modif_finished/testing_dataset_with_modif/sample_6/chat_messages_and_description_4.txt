@@ -1,0 +1,15 @@
+sender;content
+Jason;So what do you guys think about existentialism?
+Desiree;Well, I find it quite intriguing. It's all about finding self and personal meaning in life.
+Katherine;I agree with Desiree, but it also feels like a lonely philosophy. It relies so heavily on the individual.
+Ronda;But isn't that the point, Katherine? To highlight the importance of individual choice in a seemingly indifferent universe.
+Mario;I see your points, but I lean more towards Absurdism. Life is meaningless and it's up to us to create our own purpose.
+Jason;That's interesting, Mario. But doesn't that sound similar to Existentialism?
+Mario;They're similar, but Absurdism is more about embracing the absurdity of life rather than seeking personal meaning.
+Katherine;I can see why you'd think that way, Mario. It's definitely a unique perspective.
+Desiree;Regardless of our philosophical inclinations, I think it's beautiful how we can interpret and find our own meanings in life.
+Ronda;Absolutely, Desiree. That's the beauty of philosophy, isn't it? It allows us to explore different perspectives and possibilities.
+Jason;Well said, everyone. This was a great discussion.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Philosophical Minds;[Jason, Desiree, Katherine, Ronda, Mario];01.09.2021 19:30:00

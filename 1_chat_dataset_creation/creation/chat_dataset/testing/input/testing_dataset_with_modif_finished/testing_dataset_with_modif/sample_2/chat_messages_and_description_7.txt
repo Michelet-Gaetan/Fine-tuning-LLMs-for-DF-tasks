@@ -1,0 +1,14 @@
+sender;content
+John;Hey guys, remember our high school years?
+Peter;Of course, John. Those were some of the best years of my life.
+Richard;I agree. I miss the football games and the pep rallies.
+Karen;And the school plays! We had so much fun in drama club.
+Ashley;I remember the science fairs. We always had a blast creating those projects.
+John;Yeah, I think we all learned a lot during those years.
+Peter;Definitely. It's amazing how much we've all grown since then.
+Richard;I'd love to go back and relive some of those moments.
+Karen;Maybe we could organize a reunion?
+Ashley;That's a great idea, Karen. Let's do it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;High School Memories;[John, Peter, Richard, Karen, Ashley];01.08.2021 18:30:00

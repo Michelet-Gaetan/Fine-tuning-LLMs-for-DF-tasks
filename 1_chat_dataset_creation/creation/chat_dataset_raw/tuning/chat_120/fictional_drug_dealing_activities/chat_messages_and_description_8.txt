@@ -1,0 +1,19 @@
+sender;content
+Michael;What's the status of the new shipment?
+John;It's on its way, should be here by tomorrow evening.
+William;Alright, keep an eye on it, we can't afford any slip-ups.
+Michael;Don't worry, everything's under control.
+John;Got it, William. We're on top of it.
+Robert;Just checked in with our contacts. They confirmed the shipment is moving as planned.
+Michael;Good to hear, Robert. Keep us posted.
+John;Will do, Michael.
+William;Remember, we need to keep this operation smooth and quiet.
+Robert;Understood, William. No mistakes.
+Michael;We're all on the same page here. Let's make this happen.
+John;Agreed. We've got this.
+William;That's what I like to hear. Let's check in tomorrow morning.
+Michael;Sounds good. See you guys.
+Robert;Goodnight.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Operation Silent Night;[Michael, John, William, Robert];15.09.2021 22:13:47

@@ -1,0 +1,18 @@
+sender,content
+Thomas,"I've managed to disable the security cameras"
+Brian,"Good job, Thomas. Michael, are you in position?"
+Michael,"Yes, I'm waiting outside the vault. Any updates on the guard rotations, Lisa?"
+Lisa,"The guards will be changing shifts in about 10 minutes. You will have a window of about 2 minutes."
+Michael,"Understood. Ready when you are, Brian."
+Brian,"On my mark, Michael. Waiting for Thomas' confirmation"
+Thomas,"I've intercepted the guard communications. They're about to change. Ready when you are, Brian."
+Brian,"Now, Michael. Go!"
+Michael,"I'm inside the vault. Lots of security boxes here."
+Deborah,"I've got the blueprints. Third row, fifth box from the right."
+Michael,"Got it. Heading out now."
+Brian,"Everyone, exit plan. Remember, stay low, stay quiet."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Operation Gold Vault",["Thomas", "Brian", "Michael", "Lisa", "Deborah"],"02.03.2022 22:15:30"

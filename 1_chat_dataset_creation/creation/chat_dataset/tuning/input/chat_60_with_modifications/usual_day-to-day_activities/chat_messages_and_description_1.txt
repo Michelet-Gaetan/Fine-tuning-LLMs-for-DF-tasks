@@ -1,0 +1,14 @@
+sender;content
+James;Morning, John. How's it going?
+John;Hi James. Just about to leave for work. Running a bit late today.
+James;Ah, don't worry about it. We've all been there.
+John;Yeah, I suppose. How about you? What's your day looking like?
+James;Just finished making breakfast. Planning on going for a run later.
+John;Sounds good. I should really start exercising more.
+James;It's never too late to start, John. I could give you some tips if you like.
+John;That would be great, James. Let's talk about it later. Got to dash now.
+James;No problem, John. Have a good day at work!
+John;Thanks, James. Have a good run.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Day-to-Day Chat;[James, John];12.04.2022 07:30:00

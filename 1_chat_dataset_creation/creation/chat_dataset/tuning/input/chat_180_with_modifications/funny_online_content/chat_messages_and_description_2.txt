@@ -1,0 +1,14 @@
+sender;content
+John;Hey Michael, have you seen this latest cat video online?
+Michael;No, I haven't John. Send me the link.
+John;Sure, here you go: www.funnycatvideo.com
+Michael;Haha, this is hilarious. That cat thinks it's a dog!
+John;Right? I've watched it 10 times already.
+Michael;I'm going to send this to Robert. He loves cat videos.
+John;Good idea. He needs a laugh today.
+Michael;Sent! Let's see what he thinks of it.
+John;Keep me posted on his reaction.
+Michael;Will do, John. Thanks for sharing this.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Funny Content Group;[John, Michael];16.09.2021 20:30:00

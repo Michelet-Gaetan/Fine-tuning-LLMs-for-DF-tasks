@@ -1,0 +1,17 @@
+sender;content
+John;Hey, Michael. Got time for a chat?
+Michael;Sure, John. What's up?
+John;I've got a plan for a heist. Interested?
+Michael;Sure, I'm game. What's the plan?
+John;It involves a priceless artifact. The 'Eye of the Sphinx'.
+Michael;Sounds intriguing. Where is it?
+John;In a high-security museum. We'll need a team.
+Michael;Who are you thinking?
+John;I was thinking of involving Richard and Jessica.
+Michael;Sounds good. What's their role?
+John;Richard is good with tech. Jessica is great with diversion tactics.
+Michael;Sounds like a plan, John. Let's do this.
+John;Great! Let's start planning.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Fictional Heist Planning;[John, Michael];18.05.2022 20:13:45

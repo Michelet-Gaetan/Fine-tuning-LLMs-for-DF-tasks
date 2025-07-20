@@ -1,0 +1,15 @@
+sender,content
+John,"Hi everyone, have you read any good books lately?";
+Peter,"I've just finished 'The Silent Patient'. A great psychological thriller!";
+Richard,"I'm currently reading 'Educated' by Tara Westover. It's an amazing memoir.";
+Karen,"I recently read 'Becoming' by Michelle Obama. It was truly inspiring.";
+Ashley,"I've just started 'Where the Crawdads Sing'. It's been on my list for a while now.";
+John,"'The Silent Patient' sounds interesting, Peter. What's it about?";
+Peter,"It's about a woman who becomes a mute after allegedly killing her husband, and her therapist's efforts to unravel the mystery.";
+Richard,"I've heard good things about 'Where the Crawdads Sing', Ashley. Let us know how it is.";
+Karen,"I also want to read 'Educated'. Richard, maybe we can discuss it when you're done?";
+Ashley,"Definitely, Richard. And 'Becoming' is next on my list, Karen!"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Book Club",["John", "Peter", "Richard", "Karen", "Ashley"],"07.09.2021 19:30:00"

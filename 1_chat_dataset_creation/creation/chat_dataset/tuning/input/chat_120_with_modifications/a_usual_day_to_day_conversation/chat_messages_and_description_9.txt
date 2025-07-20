@@ -1,0 +1,12 @@
+sender;content
+David;Hey guys, how's everyone doing today?
+Jennifer;I'm doing great, just finished my morning workout. How about you, David?
+David;I'm good, Jennifer. Just about to start my work day. What's your plan for today, Mark?
+Mark;I'll probably spend my day working on the project. How about you, David?
+David;Probably the same as you, Mark. Just got a bunch of deadlines to meet.
+Jennifer;Deadlines are the worst. But let's get through it, guys!
+Mark;Agreed, Jennifer. Let's crush it!
+David;Absolutely. Let's get this bread, team.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Work Friends;[David, Jennifer, Mark];26.10.2021 09:00:00

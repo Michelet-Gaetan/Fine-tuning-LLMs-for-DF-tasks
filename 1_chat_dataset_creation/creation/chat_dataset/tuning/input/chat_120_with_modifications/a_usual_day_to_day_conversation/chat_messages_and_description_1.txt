@@ -1,0 +1,13 @@
+sender;content
+John;Good morning, have you had your breakfast yet?
+Robert;Hey John, just had my coffee. What about you?
+John;I'm making some pancakes. Want to join?
+Robert;Sounds tempting, but I have a meeting in half an hour.
+John;Alright then, maybe some other time.
+Robert;Definitely! Let's plan for a breakfast meetup this weekend.
+John;Sounds like a plan! See you then.
+Robert;Looking forward to it. Have a great day, John.
+John;You too Robert, catch up later.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Morning Coffee;[John, Robert];04.09.2022 08:30:00

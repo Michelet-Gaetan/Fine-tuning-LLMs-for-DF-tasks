@@ -1,0 +1,18 @@
+sender,content
+John,"We need to create a solid plan"
+Michael,"Agreed, John. We can't go in without a clear strategy"
+David,"I'm on it. I've been studying the layout of the place"
+John,"David, focus on the security systems"
+David,"Understood, John"
+Robert,"And we need to make sure we have a solid alibi"
+James,"I can handle that, Robert"
+Michael,"Good, James. We also need a getaway car"
+John,"I've got the perfect car for this"
+Robert,"Great, John. Let's meet tomorrow to finalise the plan"
+David,"Sounds good to me"
+Michael,"Me too. Let's do this"
+
+-----
+
+application,chat group name, list of participants, first message sending datetime
+Telegram,Heist Planning,[John, Michael, David, Robert, James],22.06.2022 15:45:00

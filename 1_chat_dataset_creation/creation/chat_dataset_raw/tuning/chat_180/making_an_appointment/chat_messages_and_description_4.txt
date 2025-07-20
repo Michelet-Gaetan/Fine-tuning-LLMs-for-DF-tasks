@@ -1,0 +1,16 @@
+sender,content
+David,Hey Karen, are you available for a meeting next week?;
+Karen,Sure David, what day are you thinking of?;
+David,How about Monday, at 10am?;
+Karen,I'm afraid I have another meeting at that time. Can we do it in the afternoon instead?;
+David,That works for me. How about 2pm?;
+Karen,Perfect! Let's lock that in. Where will the meeting be held?;
+David,It's going to be in the conference room on the 4th floor.;
+Karen,Great, see you then.;
+David,See you Karen. I'll send you a calendar invite shortly.;
+Karen,Thanks David. Looking forward to our meeting.
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Work Meeting,[David, Karen],01.09.2022 09:30:00

@@ -1,0 +1,16 @@
+sender, content
+Mason, "Hey guys, have you ever noticed the sibling rivalry between us?";
+Glen, "Haha, definitely. Remember when we used to compete on who gets to eat the last slice of pizza?";
+Evelyn, "Oh, I always won that one. Mason, you were always the peacemaker though.";
+Mason, "Yeah, I guess I just hated seeing us fight. Plus, more pizza for you, Evelyn.";
+Glen, "Mason, you were always the mature one. Remember when Evelyn locked herself in her room because I broke her doll by accident?";
+Evelyn, "Oh, don't remind me! I was so mad at you, Glen.";
+Mason, "And remember how I managed to pick the lock and get you two to make up?";
+Glen, "Yeah, that was legendary. You always knew how to handle situations.";
+Evelyn, "Even though we fought, I wouldn't change our childhood for anything. I love you guys.";
+Mason, "We love you too, Evelyn. Sibling rivalry or not, we'll always be there for each other.";
+
+-----
+
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, "Sibling Talks", ["Mason", "Glen", "Evelyn"], 21.02.2022 15:45:00

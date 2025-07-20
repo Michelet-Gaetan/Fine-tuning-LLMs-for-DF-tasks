@@ -1,0 +1,17 @@
+sender,content
+Eusebia,"Hi Azaiah, hope you're doing well."
+Azaiah,"Hello Eusebia, I'm good. Thank you. How can I assist you today?"
+Eusebia,"I wanted to discuss the new project we are working on. I'm struggling a bit with the initial stages."
+Azaiah,"Of course, Eusebia. Can you tell me exactly where you're facing issues?"
+Eusebia,"I am having trouble understanding the client's requirement. It's a bit complex."
+Azaiah,"I understand. Let's break it down together. We can start by identifying the main goals the client wants to achieve."
+Eusebia,"That sounds like a good idea. The main goal, as I understand it, is to revamp their existing website and make it more user-friendly."
+Azaiah,"That's a great start. Now, we need to figure out what 'user-friendly' means to them. Have they provided any specifics?"
+Eusebia,"Yes, they mentioned they want a simple, clean design with easy navigation."
+Azaiah,"Perfect. Let's start working on a design outline based on this. I'll assist you throughout the process."
+Eusebia,"Thank you, Azaiah. Your guidance is truly appreciated."
+Azaiah,"No problem, Eusebia. We're a team and we're in this together."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,Work Discussion,[Eusebia, Azaiah],05.05.2022 10:30:00

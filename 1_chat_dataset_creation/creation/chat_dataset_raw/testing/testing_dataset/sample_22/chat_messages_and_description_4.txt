@@ -1,0 +1,11 @@
+sender,content
+Kenneth,"Hi guys, have you watched the latest episode of 'The Crown' yet?";
+Rebecca,"Hey Kenneth, yeah I have. I think the character development this season is really interesting!";
+Evelyn,"I haven't seen it yet. No spoilers, please!";
+Kenneth,"Sure thing, Evelyn. But you should catch up soon. It's getting really good.";
+Rebecca,"Definitely! And once you're done, Evelyn, we should all discuss it!";
+Evelyn,"Sounds like a plan. I'll try to watch it this weekend."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,TV Show Lovers,"['Kenneth', 'Rebecca', 'Evelyn']",02.06.2021 18:30:00

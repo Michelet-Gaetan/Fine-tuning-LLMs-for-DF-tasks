@@ -1,0 +1,10 @@
+sender;content
+James;Hey Michael, how's the operation going?
+Michael;Hi James. We're on track. The preliminary synthesis is complete.
+James;Good to hear. What about the purification process?
+Michael;We're setting that up now. Should be done by tomorrow.
+James;Excellent. Keep me updated, will you?
+Michael;Absolutely, James. Will do.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Pharma Synthesis;[James, Michael];15.09.2021 09:15:00

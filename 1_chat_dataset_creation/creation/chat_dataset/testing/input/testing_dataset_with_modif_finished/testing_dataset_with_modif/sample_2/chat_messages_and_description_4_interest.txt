@@ -1,0 +1,19 @@
+sender;content
+John;Hey guys, I think we have a situation.
+Peter;What's up, John?
+John;I believe we have a mole in our operations.
+Richard;How can you be so sure, John?
+John;Some of our shipments have been intercepted recently. This can't be a coincidence.
+Peter;We need to figure this out before things get out of hand.
+Karen;I agree with Peter. We should investigate this matter.
+Ashley;I have a few contacts who might be able to help us.
+Richard;Let's proceed with that then, Ashley.
+John;We should also be careful about what we discuss here.
+Peter;Agreed. Let's use code words for sensitive topics from now on.
+Karen;Good idea, Peter. Let's keep this under wraps until we figure out what's going on.
+Ashley;I'll start reaching out to my contacts.
+John;Keep us posted, Ashley.
+Richard;Let's tread carefully, everyone.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Operation Undercover;[John, Peter, Richard, Karen, Ashley];01.09.2021 19:30:00

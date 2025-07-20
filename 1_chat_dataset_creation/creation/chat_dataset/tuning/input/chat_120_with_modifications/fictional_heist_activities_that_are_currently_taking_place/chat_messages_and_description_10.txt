@@ -1,0 +1,16 @@
+sender;content
+Paul;Guys, the plan is a go. We move tonight.
+Matthew;Got it, Paul. Final check on gear?
+David;I've got the blueprints, and the tech is all set.
+Michael;Let's not forget the escape route. I've secured the van.
+Paul;Good work, Michael. Remember, timing is everything.
+Matthew;Right, we have a tight window. No room for error.
+David;I've double-checked all the systems. We're as ready as we'll be.
+Michael;I've driven the route a dozen times. I know it by heart.
+Paul;Excellent. We meet at the rendezvous point in three hours.
+Matthew;See you there, boss.
+David;Ready and waiting.
+Michael;Let's do this.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Heist Planners;[Paul, Matthew, David, Michael];12.04.2022 16:00:00

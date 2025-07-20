@@ -1,0 +1,16 @@
+sender,content
+David,"Hey guys, have you tried drone photography?";
+Michael,"No, David. But that sounds exciting. How do we get started?";
+David,"First, we need to get a drone with a high-quality camera. Then we need to learn how to operate it.";
+Jennifer,"I have a drone! We used it last summer at the beach. It has a great camera.";
+Robert,"That's amazing Jennifer. Can we use it for our hobby activities?";
+Jennifer,"Sure, why not! We can meet this weekend and try it out.";
+Michael,"Sounds like a plan. Let's do it!";
+David,"Perfect, let's meet at the park, more space to fly the drone.";
+Robert,"Good idea, David. See you guys on Saturday!";
+Jennifer,"Can't wait! See you guys.";
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Hobby Enthusiasts",['David','Michael','Jennifer','Robert'],"12.09.2021 17:45:00"

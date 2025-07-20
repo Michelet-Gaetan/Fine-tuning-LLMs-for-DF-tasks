@@ -1,0 +1,16 @@
+sender;content
+James;We need to plan this carefully, guys.
+Robert;Agreed, James. We need a detailed blueprint of the place.
+Michael;I can take care of that. Got a contact who can provide it.
+John;Michael, ensure it's recent. We can't afford outdated info.
+David;While you guys do that, I'll start researching the security system.
+William;Good call, David. We need to know what we're dealing with.
+James;Remember, no violence. We're not thugs, we're professionals.
+Robert;Absolutely, James. Stealth is our best weapon.
+Michael;Blueprints are secured. They'll be with us by tomorrow.
+John;Great job, Michael. Let's meet tomorrow then, to discuss the plan.
+David;Sounds good. I'll bring what I find on the security systems.
+William;See you all tomorrow then. Let's make this a clean job.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;The Professional Job;[James, Robert, Michael, John, David, William];12.04.2022 20:01:15

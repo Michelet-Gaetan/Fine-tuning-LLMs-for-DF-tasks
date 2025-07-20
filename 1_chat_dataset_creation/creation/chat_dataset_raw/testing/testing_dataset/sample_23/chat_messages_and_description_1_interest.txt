@@ -1,0 +1,14 @@
+sender, content
+Sarah, Hi Geraldine, do you have any plans for the weekend?;
+Geraldine, Hey Sarah, not really. I'm thinking of catching up on some reading. You?;
+Sarah, I was thinking about going for a hike. Would you like to join?;
+Geraldine, That sounds fun. Where are you planning to go?;
+Sarah, I'm planning to go to the local park. They have some good trails there.;
+Geraldine, Oh, I've heard about those. I'm in!;
+Sarah, Great! Let's meet at 9 am on Saturday then?;
+Geraldine, Perfect! See you then, Sarah.;
+Sarah, Looking forward to it, Geraldine. Have a good week until then!
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, Weekend Plans, ['Sarah', 'Geraldine'], 01.04.2022 16:30:00

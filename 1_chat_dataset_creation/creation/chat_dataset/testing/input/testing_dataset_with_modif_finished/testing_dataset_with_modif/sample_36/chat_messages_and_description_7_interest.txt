@@ -1,0 +1,16 @@
+sender;content
+Victoria;Hey guys, we need to set up an appointment for our group project.
+Kamrin;Sounds good to me. What day were you thinking, Victoria?
+Victoria;How about next Wednesday at 3PM?
+Juandiego;I can't make it that day, I have a dentist appointment. Can we do Thursday instead?
+Victoria;That works for me. Kamrin, Jacqueline, does Thursday work for you?
+Kamrin;I'm free all day Thursday, so that works for me.
+Jacqueline;I have a meeting until 4PM on Thursday, but I can join you after that.
+Victoria;That's settled then. Let's meet on Thursday at 4:30 PM. Is everyone okay with that?
+Kamrin;Sounds good to me.
+Juandiego;Works for me too.
+Jacqueline;I'm in. See you guys on Thursday.
+Victoria;Great. Looking forward to it. Let's make sure we come prepared.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Group Project Meeting;[Victoria, Kamrin, Juandiego, Jacqueline];15.02.2022 08:00:00

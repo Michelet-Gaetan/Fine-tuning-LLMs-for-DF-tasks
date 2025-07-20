@@ -1,0 +1,14 @@
+sender;content
+Falon;Hi Manuel, how are you doing today?
+Manuel;Hi Falon, I'm doing great, thank you. How about you?
+Falon;I'm good too. I was wondering, do you have any hobbies?
+Manuel;Yes, I do. I love photography. It's my passion. How about you?
+Falon;That's amazing! I love painting. I guess we both love art in different forms.
+Manuel;Yes, indeed. Do you have any of your paintings to share?
+Falon;Sure, I'd love to share some of my work with you.
+Manuel;That sounds great. I'd love to see your work.
+Falon;I'll send some pictures to you tomorrow.
+Manuel;Looking forward to it, Falon.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Hobby Talk;[Falon, Manuel];07.09.2021 18:30:00

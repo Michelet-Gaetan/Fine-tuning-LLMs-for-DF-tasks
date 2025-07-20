@@ -1,0 +1,17 @@
+sender,content
+John,The vault code has changed. Any idea what the new one might be?
+Robert,No idea. We'll need to improvise.
+Mary,I might be able to hack the security system and reset it.
+John,That would be great, Mary. How long do you need?
+Mary,Give me about 15 minutes.
+Robert,Alright. We'll cover you. 
+John,Michael, keep an eye on the exits. We don't want any surprises.
+Michael,Got it, John. Exits are under control.
+Robert,Time's running out. How's it going, Mary?
+Mary,Almost there. Just a few more minutes.
+Robert,We don't have a few more minutes. Hurry up!
+Mary,Got it! The code has been reset. 
+John,Well done, Mary. Let's move, everyone.
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Operation Grand Heist,[John, Robert, Mary, Michael],04.09.2021 22:15:00

@@ -1,0 +1,17 @@
+sender;content
+Rylan;Hi Phyllis, have you read 'The Alchemist' by Paulo Coelho?
+Phyllis;Hello Rylan, yes, I have. It's such an inspiring book. Did you enjoy it too?
+Rylan;Absolutely, I loved it. It gave me a new perspective on life. Have you read any other books by Coelho?
+Phyllis;Yes, I have also read 'Brida' and 'Eleven Minutes'. Both are great books.
+Rylan;I haven't read 'Brida' yet. Would you recommend it?
+Phyllis;Yes, I would definitely recommend it. It's a beautifully written novel about self-discovery.
+Rylan;That sounds interesting. I'll add it to my reading list. By the way, have you read any books by Haruki Murakami?
+Phyllis;Yes, I've read 'Kafka on the Shore'. It's quite thought-provoking.
+Rylan;I agree. Murakami has a unique storytelling style. I recently finished 'Norwegian Wood'.
+Phyllis;Oh, that's on my reading list. Did you enjoy it?
+Rylan;Yes, it was a great read. I think you'll enjoy it too.
+Phyllis;Great, I'll move it up on my reading list. Thanks for the recommendation, Rylan.
+Rylan;You're welcome, Phyllis. Always happy to talk about books.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Book Lovers;[Rylan, Phyllis];01.04.2022 15:30:00

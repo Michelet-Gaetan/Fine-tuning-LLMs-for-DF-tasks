@@ -1,0 +1,16 @@
+sender,content
+Kenneth,Good morning, Rebecca and Evelyn. How's your day going so far?;
+Rebecca,Hi Kenneth! I just came back from a morning run. Feeling refreshed!;
+Evelyn,Morning guys! Just finished preparing breakfast for the kids.;
+Kenneth,That's great, Rebecca! And Evelyn, what did you make for the kids?;
+Evelyn,Pancakes and scrambled eggs. They love it.;
+Kenneth,Sounds delicious! I have been working since early morning. Need a coffee break now.;
+Rebecca,Oh, take a break Kenneth. I am planning to do some gardening now.;
+Evelyn,Rebecca, that sounds like fun. I'll be working from home today.;
+Kenneth,Me too, Evelyn. Let's catch up in the evening guys?;
+Rebecca,Sure Kenneth. We can do a video call.;
+Evelyn,Great idea! Let's do it.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Day to Day Activities,[Kenneth, Rebecca, Evelyn],05.04.2022 07:30:00

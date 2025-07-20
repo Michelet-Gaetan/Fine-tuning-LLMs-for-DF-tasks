@@ -1,0 +1,14 @@
+sender;content
+Robert;Hey, you got the stuff?
+Mark;Yeah, I got it. Are we still meeting at the usual place?
+Robert;No, let's switch it up. Meet me at the park.
+Mark;The park? Isn't that a bit risky?
+Robert;It's fine. We'll blend in with the dog walkers.
+Mark;Alright, I trust you. What time?
+Robert;Same as always. 8 PM. And remember, don't be late.
+Mark;I got it, 8 PM. And don't worry, I won't be late.
+Robert;Good, see you then.
+Mark;See you.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Business Talks;[Robert, Mark];01.01.2022 14:23:45

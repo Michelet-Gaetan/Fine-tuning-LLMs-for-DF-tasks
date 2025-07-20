@@ -1,0 +1,14 @@
+sender,content
+Falon,Hey Manuel! How's your weekend going so far?;
+Manuel,Hi Falon! It's been pretty good. I went for a hike in the morning. How about you?;
+Falon,That sounds fun! I've been chilling at home, watching some series. Any plans for Sunday?;
+Manuel,Yes, I plan to visit a museum. Do you have any recommendations?;
+Falon,You should check out the art museum downtown. They have a new exhibition.;
+Manuel,That sounds interesting. Will definitely check it out. Thanks, Falon!;
+Falon,No problem! Enjoy your visit. Let's catch up next week.;
+Manuel,Sure, sounds like a plan. Have a great weekend, Falon!;
+Falon,You too, Manuel!
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Weekend Chats,[Falon, Manuel],21.06.2022 10:12:30

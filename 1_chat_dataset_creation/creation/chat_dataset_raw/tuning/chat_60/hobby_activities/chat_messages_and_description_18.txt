@@ -1,0 +1,14 @@
+sender,content
+James,"Hey guys, I've started a new hobby."
+Robert,"Oh really, James? What is it?"
+James,"I've gotten into bird watching. It's really relaxing."
+Betty,"That sounds interesting, James. I've always loved animals."
+Michael,"I prefer more active hobbies. Like running or playing sports."
+James,"That's cool, Michael. Different strokes for different folks."
+Robert,"I've been thinking about picking up a hobby. Maybe I'll try bird watching."
+Betty,"You should, Robert! We can join James in his bird watching adventures."
+James,"That sounds like a plan. We can make a day of it."
+Michael,"Maybe I'll join you guys. It could be a good change of pace from my normal routine.";
+----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Hobby Chat",["James", "Robert", "Betty", "Michael"],"01.05.2022 16:15:32"

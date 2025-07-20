@@ -1,0 +1,15 @@
+sender, content
+John, "Hey guys, have you seen the latest Marvel movie?";
+Peter, "No, I haven't. Is it good?";
+Richard, "I saw it, it's amazing! They have introduced a new superhero.";
+Karen, "I love Marvel movies! I'm planning to see it this weekend.";
+Ashley, "Same here, Karen. Maybe we can go together.";
+John, "Sounds like a plan. It's definitely worth watching.";
+Peter, "Great, I'll watch it too then.";
+Richard, "You won't regret it, Peter.";
+Karen, "Let's all discuss it after we've watched it.";
+Ashley, "That's a great idea, Karen. Looking forward to it."
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, "Movie Buffs", ["John", "Peter", "Richard", "Karen", "Ashley"], "20.04.2022 18:45:00"

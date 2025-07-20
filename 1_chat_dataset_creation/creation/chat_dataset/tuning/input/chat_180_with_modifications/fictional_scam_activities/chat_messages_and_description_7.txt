@@ -1,0 +1,14 @@
+sender;content
+John;Hey guys, have you heard about that new investment opportunity?
+Robert;No, John. What's it about?
+John;It's this new company offering 200% returns in just a month.
+Michael;Sounds sketchy, John. Did you do any research on them?
+John;Not really. Their website looks professional though.
+Robert;John, please don't tell me you're considering this. It's obviously a scam.
+Michael;I agree with Robert. John, you should be careful.
+John;I don't know, guys. It's tempting.
+Robert;John, remember the golden rule, if it's too good to be true, then it probably is.
+Michael;Yes, and do some serious research before even thinking about investing.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Investment Club;[John, Robert, Michael];12.04.2022 10:15:30

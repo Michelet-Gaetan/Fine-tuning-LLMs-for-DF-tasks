@@ -1,0 +1,15 @@
+sender;content
+Amanda;Got the package, Paulette?
+Paulette;Yeah, just picked it up. Quality seems good this time.
+Amanda;Nice. Same spot for the drop-off tomorrow?
+Paulette;You got it. Usual time?
+Amanda;Make it 3 PM. We need to avoid the heat.
+Paulette;Works for me. How many units we talking?
+Amanda;10 this round. And keep an eye out, I heard there's some new heat in the area.
+Paulette;Already on it. Got a guy keeping watch.
+Amanda;Perfect. Let's keep this smooth. We can't afford any slip-ups now.
+Paulette;Agreed. Stay sharp, Amanda.
+Amanda;Always. See you tomorrow.
+-----
+application;chat group name;list of participants;first message sending datetime
+Signal;Business;[Amanda, Paulette];25.08.2024 14:23:47

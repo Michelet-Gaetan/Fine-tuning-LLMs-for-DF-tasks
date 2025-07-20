@@ -1,0 +1,20 @@
+sender,content
+John,"Planning a heist, are we?"
+Robert,"Just a fictional one, John. Nothing to worry about."
+John,"Alright, let's say we're robbing the Louvre. First step?"
+Robert,"Infiltration. We need to understand the layout, security, and any potential weaknesses."
+John,"Sounds like a job for Michael. He's good with schematics."
+Robert,"Agreed. Michael, can you handle that?"
+Michael,"On it, boss. I'll get the blueprints and start studying them ASAP."
+John,"Next, we need a diversion. Something to draw the guards away."
+Robert,"That's where Mary comes in. She's an expert in diversion tactics."
+Mary,"Consider it done. I'll need some time to craft a believable scenario."
+John,"Time is one thing we have. Let's plan this right."
+Robert,"Exactly. Let's meet again tomorrow with updates. Michael, Mary, you know what to do."
+Michael,"Understood, boss. I'll get to work right away."
+Mary,"Same here. I won't let you down."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+"Telegram","Fictional Heist Planning",['John', 'Robert', 'Michael', 'Mary'],"21.08.2021 14:30:00"

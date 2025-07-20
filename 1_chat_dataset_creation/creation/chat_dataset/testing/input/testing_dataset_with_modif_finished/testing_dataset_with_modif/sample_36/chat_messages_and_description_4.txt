@@ -1,0 +1,16 @@
+sender;content
+Victoria;Hey guys, have you seen the new Marvel movie yet?
+Kamrin;Not yet Victoria, planning to watch it this weekend.
+Juandiego;I watched it last night. It's really good!
+Jacqueline;No spoilers, Juandiego!
+Juandiego;Don't worry Jacqueline, my lips are sealed.
+Victoria;I'm thinking of seeing it tomorrow. Anyone wants to join?
+Jacqueline;I'm in, Victoria. Let's go!
+Kamrin;Sorry guys, I have plans tomorrow. Maybe next time.
+Juandiego;I wouldn't mind watching it again. Count me in.
+Victoria;Great! So Jacqueline and Juandiego, see you tomorrow!
+Jacqueline;Looking forward to it!
+Juandiego;Same here!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Movie Buffs;[Victoria, Kamrin, Juandiego, Jacqueline];20.05.2022 18:30:00

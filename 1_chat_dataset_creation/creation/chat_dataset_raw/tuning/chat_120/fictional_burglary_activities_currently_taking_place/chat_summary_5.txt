@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+James and Robert are discussing an operation taking place that evening.;
+
+James asks Robert if everything is ready for that night. Robert answers that it is the case, and wonders about the meeting time. James states that they will meet at their usual spot at 11 PM. To answer Robert;s questions, James explains that he could get a map of the location thanks to an insider, and that every tools are ready. He also asks Robert to wear non suspicious clothes.; 
+
+The conversation is between two individuals, James and Robert, who are discussing plans for a fictional burglary operation. They confirm their meeting time, location, and discuss the availability of a map and necessary tools. They also emphasize the need for inconspicuous attire. The conversation takes place on the Telegram application, in a group named 'Operation Night Shadow', and the first message was sent on April 7, 2022, at 4:30 pm.

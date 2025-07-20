@@ -1,0 +1,19 @@
+sender,content
+Michael, We're in position; 
+William, Great. The vault is on the third floor. You'll need to bypass the security system;
+Michael, We're on it. Robert is working on the security system now;
+Robert, Security system is down. Moving towards the vault;
+William, Perfect. Be careful. Cameras are still active. You need to stay out of their sight;
+Michael, Understood. We're moving carefully;
+Robert, We've reached the vault. It's a biometric lock;
+William, You'll need to use the device I gave you. It should bypass the biometric lock;
+Michael, We're trying it now;
+Robert, The device worked. We're in;
+William, Good. You have 15 minutes before security comes back online. Be quick;
+Michael, We're on it. Gathering the goods now;
+Robert, We've got everything. Heading towards the exit;
+William, Excellent. I'll meet you at the rendezvous point.
+
+-----
+application,chat group name, list of participants, first message sending datetime
+WhatsApp,Operation Grand Heist, [Michael, William, Robert], 17.02.2022 20:00:00

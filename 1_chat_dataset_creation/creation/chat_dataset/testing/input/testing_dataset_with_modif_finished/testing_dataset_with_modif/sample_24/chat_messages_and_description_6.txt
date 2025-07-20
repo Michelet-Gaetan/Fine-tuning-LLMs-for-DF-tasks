@@ -1,0 +1,14 @@
+sender;content
+Meredith;Hey guys! Did you catch the latest episode of 'The Crown'?
+Roy;Hi Meredith! Yes, I did. I think it's one of the best so far. The acting was superb.
+Steven;I agree with Roy. The detailing was also remarkable. They've really tried to keep things historically accurate.
+Meredith;Yeah, I was reading about that. It's interesting how they've managed to capture the essence of the era.
+Steven;True. But have you guys seen 'Breaking Bad'? It's a different genre but the storytelling is brilliant.
+Roy;I've heard about it but never got around to watching it. Would you recommend it, Steven?
+Steven;Absolutely! It's a must-watch. The character development is unlike any other show.
+Meredith;I'll add it to my list then. I've been looking for a new series to start.
+Roy;Same here. Thanks for the recommendation, Steven!
+Steven;You're welcome, guys! Let me know what you think once you've seen a few episodes.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;TV Show Discussion;[Meredith, Roy, Steven];18.04.2021 20:15:30

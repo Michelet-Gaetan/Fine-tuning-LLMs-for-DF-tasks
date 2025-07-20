@@ -1,0 +1,17 @@
+sender,content
+Kenneth,"Hey guys, have you seen the latest episode of 'The Crown' on Netflix?";
+Rebecca,"Hi Kenneth, yes I watched it last night. So much drama! Evelyn, have you seen it yet?";
+Evelyn,"I haven't gotten around to it yet. No spoilers, please!";
+Kenneth,"No worries, Evelyn. We'll keep it spoiler-free. But you definitely need to catch up soon!";
+Rebecca,"Absolutely, Evelyn. The performances this season are top-notch. They've really outdone themselves.";
+Evelyn,"Sounds exciting! I'll make sure to start watching it this weekend.";
+Kenneth,"Great! We can discuss it more once you've seen it. In other news, have you guys heard about the new Star Wars series in development?";
+Rebecca,"Yes, I read about it. It's supposed to be set in a completely different timeline, right?";
+Evelyn,"That's right. I'm really looking forward to seeing a new side of the Star Wars universe.";
+Kenneth,"Me too, it's about time they explored other aspects. I'm quite excited about it.";
+Rebecca,"I'm cautiously optimistic. Let's hope they do a good job with it.";
+Evelyn,"Agreed. But for now, I'm off to start 'The Crown'. Talk to you guys later!";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Entertainment Enthusiasts",['Kenneth', 'Rebecca', 'Evelyn'],"10.02.2022 18:30:00"

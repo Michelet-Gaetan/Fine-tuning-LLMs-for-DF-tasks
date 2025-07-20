@@ -1,0 +1,18 @@
+sender;content
+James;Hey guys, I'm planning a hiking trip this weekend. Anyone interested?
+Robert;Sounds fun! Count me in.
+John;I'd love to but I have to work this weekend. Maybe next time.
+Michael;I'm in. Where are we going?
+James;I was thinking about the National Park. It's a moderate trail and the weather looks promising.
+Robert;Great, let's do it. What should we bring?
+James;Usual stuff. Hiking boots, water, snacks, and maybe a light jacket. It might get chilly.
+Michael;Sounds good to me. What time are we meeting?
+James;Let's meet at the park entrance at 8am. We can start early to avoid the crowd.
+Robert;Perfect. Looking forward to it.
+James;Me too. Let's have a great adventure!
+Michael;See you guys on Saturday.
+Robert;See you.
+James;See you.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Hikers;[James, Robert, John, Michael];13.01.2022 18:35:00

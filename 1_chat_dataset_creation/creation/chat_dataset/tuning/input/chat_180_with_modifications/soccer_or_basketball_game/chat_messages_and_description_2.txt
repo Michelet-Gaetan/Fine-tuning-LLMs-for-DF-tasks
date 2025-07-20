@@ -1,0 +1,13 @@
+sender;content
+Matthew;Hey Michael, did you catch the soccer game last night?
+Michael;Hey Matthew, yes I did! It was an amazing game, wasn't it?
+Matthew;Absolutely! That goal in the 90th minute was epic!
+Michael;I know right! I was on the edge of my seat the whole time.
+Matthew;Same here! What did you think of the referee's decisions?
+Michael;Some were spot on, but I think he missed a few fouls. What about you?
+Matthew;I agree. Especially that one in the first half. Could have been a penalty.
+Michael;Definitely. Well, looking forward to the next game. Should be exciting!
+Matthew;Yes, can't wait! Let's chat again after the next game.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Soccer Fanatics;[Matthew, Michael];01.10.2021 20:45:00

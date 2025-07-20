@@ -1,0 +1,16 @@
+sender;content
+Michael;Hey Richard, there's been a new development in our fiction.
+Richard;Really, Michael? What's up?
+Michael;I've stumbled across a mansion. Seems like it's ripe for a fictional burglary activity.
+Richard;Interesting. Who lives there in our story?
+Michael;An old billionaire, Thomas. He's got a huge art collection.
+Richard;Intriguing. What's our plan then?
+Michael;I was thinking we could create a character who's an expert at bypassing security systems.
+Richard;Sounds good. Let's also add a master locksmith to our crew.
+Michael;Perfect, Richard. We could also use someone who's good with escape routes.
+Richard;Agreed. Maybe someone who knows the city like the back of his hand.
+Michael;Let's discuss this further tomorrow. I've got a few more ideas.
+Richard;Sounds like a plan, Michael. I'll brainstorm some ideas too.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Fictional Burglary Plotting;[Michael, Richard];12.04.2022 18:23:45

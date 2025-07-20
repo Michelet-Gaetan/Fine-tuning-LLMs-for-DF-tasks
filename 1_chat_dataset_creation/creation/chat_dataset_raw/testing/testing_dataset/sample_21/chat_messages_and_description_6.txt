@@ -1,0 +1,20 @@
+sender,content
+Robert,Hey Tiana, how's the college application process going?
+Tiana,Hey Robert! It's going alright. Just sorting through various colleges.
+Robert,That's cool. Any favorites yet?
+Tiana,Well, I've been looking at Stanford and Harvard so far.
+Robert,Wow, those are great choices! What major are you considering?
+Tiana,I'm thinking about computer science. But I also love biochemistry.
+Robert,That's interesting. You know, you can always do a double major or choose one as a minor.
+Tiana,Yeah, that's true. Just trying to figure out what would be the best fit for me.
+Robert,You'll figure it out. What about the deadlines? Are they coming up soon?
+Tiana,Yes, they are. I'm working on my essays now.
+Robert,If you need any help or someone to proofread, let me know!
+Tiana,Thanks, Robert! I might take you up on that.
+Robert,No problem, Tiana. Good luck with everything!
+Tiana,Thanks, Robert! I'll keep you updated.
+Robert,Sure, looking forward to it!
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,College Application Discussion,[Robert, Tiana],24.11.2021 10:15:30

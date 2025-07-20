@@ -1,0 +1,14 @@
+sender;content
+Rylan;Hey Phyllis, how's it going?
+Phyllis;Hi Rylan! I'm doing well, thanks. How about you?
+Rylan;I'm good, thanks. I was just watching the basketball game. It's a close one.
+Phyllis;Oh, which teams are playing?
+Rylan;The Lakers and the Celtics. It's a classic rivalry.
+Phyllis;That sounds exciting! Who's leading?
+Rylan;The Lakers are up by 3 points right now, but there's still plenty of time left.
+Phyllis;I'm rooting for the Celtics. They have a great team this season.
+Rylan;They do indeed. But I'm a Lakers fan, so we're on opposite sides for this one!
+Phyllis;May the best team win then!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sports Chat;[Rylan, Phyllis];08.04.2022 18:45:30

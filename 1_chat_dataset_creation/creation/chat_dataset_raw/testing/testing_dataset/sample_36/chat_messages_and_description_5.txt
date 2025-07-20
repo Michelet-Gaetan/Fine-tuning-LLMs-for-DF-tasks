@@ -1,0 +1,14 @@
+sender,content
+Victoria,"Hey guys, any plans for the weekend?";
+Kamrin,"I was thinking about going hiking. Anyone wants to join?";
+Juandiego,"I'm up for it! Haven't been hiking for a while now.";
+Jacqueline,"That sounds fun, count me in!";
+Victoria,"Great! Let's meet at the park at 10 am on Saturday.";
+Kamrin,"Sounds like a plan. See you all on Saturday!";
+Juandiego,"Looking forward to it. See you guys!";
+Jacqueline,"Can't wait. It's going to be fun!";
+Victoria,"Perfect. Let's bring some snacks and drinks as well. See you all on Saturday.";
+
+-----
+application,chat group name, list of participants, first message sending datetime
+WhatsApp,"Weekend Warriors",["Victoria", "Kamrin", "Juandiego", "Jacqueline"],"07.05.2022 18:30:00"

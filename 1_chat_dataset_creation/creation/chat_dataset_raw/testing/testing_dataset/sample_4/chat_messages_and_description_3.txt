@@ -1,0 +1,19 @@
+sender,content
+Reba,"Hi everyone, I just finished reading 'The Alchemist'. Has anyone else read it?";
+Nadir,"Yes, I have. I found it quite enlightening. What did you think, Reba?";
+Reba,"I loved it! It really made me think about my personal journey and goals.";
+Ronnie,"I haven't read it yet, but I've heard a lot of good things. Would you recommend it, Reba?";
+Reba,"Absolutely, Ronnie! I think it's a must-read.";
+Sheree,"I've read it too and I can second that. It's a great book.";
+Robert,"I'm not much of a reader, but you guys are making me want to pick it up!";
+Nadir,"You should, Robert. It's quite a short read but very profound.";
+Ronnie,"I'll definitely add it to my reading list then!";
+Sheree,"Same here, Ronnie. It's been a while since I read a good book.";
+Reba,"That's great to hear, guys! I can't wait to hear your thoughts on it.";
+Robert,"Alright, I'm convinced. I'll buy it this weekend.";
+Nadir,"Looking forward to our next book discussion then!";
+Ronnie,"Me too! Thanks for the recommendation, Reba and Nadir.";
+Reba,"You're welcome, Ronnie! Happy reading everyone!";
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Book Club",["Reba", "Nadir", "Ronnie", "Sheree", "Robert"],"20.09.2021 18:30:00"

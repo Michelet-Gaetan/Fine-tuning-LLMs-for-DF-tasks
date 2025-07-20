@@ -1,0 +1,14 @@
+sender;content
+Robert;Hey Joe, have you seen the latest news about the climate change report?
+Joe;No, I haven't. What does it say?
+Robert;Well, it seems things are worse than we thought. The report states that human activities are unequivocally causing global warming.
+Joe;That's concerning. What can we do about it?
+Robert;The report suggests that significant changes need to be made in how we produce and consume energy. Also, we need to do a better job of managing our natural resources.
+Joe;I guess we all have a part to play then.
+Robert;Exactly, it's not just about government policies, but individual actions matter too.
+Joe;I'll definitely look into it more. Thanks for sharing, Robert.
+Robert;No problem, Joe. It's important that we all stay informed.
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Current News Discussion;[Robert, Joe];15.08.2021 09:45:00

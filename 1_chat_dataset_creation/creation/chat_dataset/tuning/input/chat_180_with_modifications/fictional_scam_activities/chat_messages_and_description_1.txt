@@ -1,0 +1,14 @@
+sender;content
+John;Hey, Robert. Have you heard about the new investment opportunity?
+Robert;No, John. What's it about?
+John;It's a fast-return investment. You put in $1000, and you get $5000 back in just two days.
+Robert;That sounds too good to be true. How does it work?
+John;It's a secret algorithm that trades on the stock market. It's guaranteed to win.
+Robert;Who is behind this?
+John;A group of elite Wall Street traders. They're looking to help out the little guy.
+Robert;So how do I get started?
+John;Just send me the $1000, and I'll set everything up for you.
+Robert;I'll think about it, John.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Investment Talk;[John, Robert];15.04.2021 09:15:30

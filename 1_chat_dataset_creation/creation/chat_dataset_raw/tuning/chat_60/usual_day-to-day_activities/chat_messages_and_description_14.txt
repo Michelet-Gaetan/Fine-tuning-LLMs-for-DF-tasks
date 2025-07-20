@@ -1,0 +1,13 @@
+sender,content
+James,Good morning, David.
+David,Hey James. How are you today?
+James,Doing well, thank you. Just finished my morning workout. You?
+David,I'm good too. Just started with my work.
+James,That's nice. What's on your agenda today?
+David,Have a couple of meetings and a project deadline. What about you?
+James,I have a presentation in the afternoon. Other than that, it's mostly paperwork today.
+David,Good luck with that. Have a good day, James.
+James,You too, David. Catch you later.
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp, Daily Chat, [James, David], 10.11.2022 08:30:00

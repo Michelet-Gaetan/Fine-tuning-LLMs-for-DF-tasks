@@ -1,0 +1,19 @@
+sender,content
+Jaiden,Hey guys, anyone else listen to the new episode of "The Daily" this morning?
+Cindy,Not yet Jaiden. Was it interesting?
+Jaiden,Definitely! They had a really good discussion on the impact of technology on society.
+Tre,Oh, that sounds intriguing. I'll have to check it out.
+John,Is it available on all podcast platforms?
+Jaiden,Yes John, it's on Spotify, Apple Podcasts, and even their website.
+Cindy,I'll definitely give it a listen then.
+Tre,Maybe we should start our own podcast, guys.
+John,That's not a bad idea Tre. What would we talk about though?
+Jaiden,We could discuss our favorite podcasts and what we learned from them.
+Cindy,Or we could talk about different topics each week, like a book club but for podcasts.
+Tre,I love that idea Cindy.
+John,Let's do it. I'm in.
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+Telegram,Podcast Pals,[Jaiden, Cindy, Tre, John],18.05.2022 08:30:00

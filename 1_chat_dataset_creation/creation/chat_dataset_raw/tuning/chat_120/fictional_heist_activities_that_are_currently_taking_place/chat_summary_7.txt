@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John, Michael, Robert, David, William, and Richard are discussing a plan for a bank robbery.;
+
+John stresse the need to discuss the plan for their heist. Robert got the blueprints of the bank, David worked on a way to disarm the alarms, and William has contacts with people that can help finding cars for the escape plan. When Richard worries about the guards routine, Michael answers that he knows someone that could help better understand the guards patrols. John states that once they are all set, they can chose a date, and David remembres their rule of no hurting people. John finally proposes to meet again three days after.;
+
+The conversation takes place among six individuals named John, Michael, Robert, David, William, and Richard in a chat group named "Heist Planning" on the application Telegram. The first message was sent on 15th March 2023 at 18:45:00. The discussion is centered around planning a bank heist. They discuss the various aspects of the operation, including obtaining blueprints, disabling the alarm system, understanding the security guard routines, and planning an escape strategy. They agree on the principle that no one should get hurt during the operation. They decide to meet again in three days to finalize their plans, emphasizing the need to lay low once they secure the money.

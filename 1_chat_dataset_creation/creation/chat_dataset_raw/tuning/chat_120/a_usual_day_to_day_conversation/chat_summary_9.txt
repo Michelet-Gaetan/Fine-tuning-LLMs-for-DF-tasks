@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+David, Jennifer, and Mark are chatting about their upcoming day.;
+
+David asks eeryone how they are doing. Jennifer responds she just finished her workout, and returns the question. David will start working, and they then discuss their plan for the day. Mark will be working on a project, and David might do the same after finishing his work for other deadlines. They finally all support and encourage each other.;
+
+The conversation takes place among three individuals, David, Jennifer, and Mark, in a WhatsApp group named "Work Friends". It begins at 9:00 AM on 26th October 2021. David initiates the conversation by inquiring about everyone's day. Jennifer responds that she has just finished her morning workout, while Mark mentions that he will be working on a project. David reveals that he also has work-related tasks to attend to. Jennifer sympathizes with the pressures of meeting deadlines, encouraging everyone to persevere. Mark agrees with her sentiment, motivating the group to perform their best. In response, David expresses his agreement and enthusiasm to tackle the day's work.

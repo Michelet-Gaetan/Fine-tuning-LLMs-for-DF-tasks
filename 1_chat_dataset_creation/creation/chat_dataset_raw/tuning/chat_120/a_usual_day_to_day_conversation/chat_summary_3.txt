@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John and Robert are chatting about John's upcoming day.;
+
+John asks Robert how he is. Robert answers that everything is good, and when he asks the question back, John mentions an important meeting during the upcoming day. It is about a new project that will be launched, and John it stresses John. Robert supports and reassures John, who thanks Robert for that.;
+
+In the conversation, John and Robert, two colleagues, are having a casual early morning chat on WhatsApp. The discussion starts with John greeting Robert and asking how he is. Robert responds positively, mentioning that he is preparing for work and reciprocates the question. John reveals that he has a big meeting about a new project at work and expresses his nervousness. Robert encourages John, asserting their team spirit, and asks to be kept informed about the meeting. The conversation ends with both wishing each other a good day at work. The chat, named "Work Chat", took place on the 10th of April, 2021, starting at 7:30 AM.

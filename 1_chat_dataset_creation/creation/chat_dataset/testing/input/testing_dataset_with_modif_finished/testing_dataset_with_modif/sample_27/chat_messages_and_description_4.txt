@@ -1,0 +1,12 @@
+sender;content
+Tracy;Hey Jon, have you tried the new Call of Duty game yet?
+Jon;No, not yet Tracy. Is it any good?
+Tracy;It's amazing. The graphics and gameplay are top-notch!
+Jon;That sounds great. I've been playing the latest Assassin's Creed. The storyline is intriguing.
+Tracy;Oh, I've heard about that. The historical settings always draw me in.
+Jon;Yeah, it's one of the best aspects of the game. Want to have a game night this weekend?
+Tracy;Sounds like a plan! I'll bring Call of Duty and you set up Assassin's Creed?
+Jon;Deal! Looking forward to it Tracy.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Game Chat;[Tracy, Jon];28.08.2021 16:20:35

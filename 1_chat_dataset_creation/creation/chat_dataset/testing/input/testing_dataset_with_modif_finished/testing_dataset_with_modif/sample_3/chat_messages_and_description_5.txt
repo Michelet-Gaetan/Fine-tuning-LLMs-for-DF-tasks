@@ -1,0 +1,14 @@
+sender;content
+Clara;Hey Carlton, how are you?
+Carlton;Hey Clara, I'm doing well. Just a bit stressed about exams.
+Clara;I can relate, these end of year exams are really nerve-wracking.
+Carlton;Yeah, especially the physics exam. I am really struggling with that subject.
+Clara;Have you tried revising with some online resources? There are some good YouTube channels that explain the concepts really well.
+Carlton;I haven't tried that yet. Could you recommend some channels?
+Clara;Sure, I'll send you some links. Also, we could study together if you want.
+Carlton;That would be great. Thanks a lot, Clara.
+Clara;No problem, Carlton. We can get through this together.
+Carlton;I appreciate it, Clara. You're a lifesaver.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;High School Stress;[Clara, Carlton];01.12.2022 16:30:00

@@ -1,0 +1,17 @@
+sender;content
+Matthew;Hey James, are you set for the job tonight?
+James;Yes Matthew, I've got all the equipment ready. Just need to run a final check.
+Matthew;Good. Remember, we cannot afford to make any mistakes.
+James;I understand, Matthew. This is not my first rodeo.
+Matthew;Alright. The plan is to meet at the rendezvous point at 2200 hours. Be there.
+James;Roger that.
+Matthew;After the heist, remember to ditch the equipment and change your clothes. We need to blend in with the crowd.
+James;Got it. Is the escape route still the same?
+Matthew;No, slight change. I will brief you at the meeting point.
+James;Understood, Matthew. Will be there.
+Matthew;Stay sharp, James.
+James;Always am, Matthew. See you tonight.
+Matthew;See you.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Operation Nightfall;[Matthew, James];23.09.2021 14:23:45

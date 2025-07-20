@@ -1,0 +1,13 @@
+sender;content
+James;Good morning, Robert! How's your day going so far?
+Robert;Hi James, it's going well. Just getting started with work. How about you?
+James;I'm good too, just finished my breakfast and planning to hit the gym soon.
+Robert;That sounds like a great start to the day. What's your workout plan?
+James;Planning to do some cardio and then a bit of weight training. Trying to stay fit and healthy!
+Robert;That's really good, James. I've been thinking of joining a gym too. Any recommendations?
+James;Sure, there's this place called 'FitNest' near our office. They have great equipment and trainers. You should definitely check it out.
+Robert;Thanks for the recommendation, James! I'll surely check it out.
+James;No problem, Robert! Let me know if you need any more information.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Day to Day Chat;[James, Robert];23.03.2022 08:30:00

@@ -1,0 +1,14 @@
+sender;content
+James;Hey Robert, what's the plan for this weekend?
+Robert;Hi James, I was thinking of going hiking. Are you up for it?
+James;Sounds like a great idea. Where are we headed?
+Robert;I was thinking the Boulder Ridge Trail. It's supposed to be beautiful this time of year.
+James;Sounds perfect. What time do we leave?
+Robert;How about 7am? We can beat the crowd.
+James;Sounds good. I'll bring some snacks.
+Robert;Great, I'll bring the drinks.
+James;Looking forward to it, buddy.
+Robert;Same here. See you tomorrow.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Hiking;[James, Robert];16.04.2022 10:30:00

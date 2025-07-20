@@ -1,0 +1,13 @@
+sender,content
+Jaiden, "Anyone else notice how hot it's been this week?"
+Cindy, "Yes! It's been unbearable. My AC has been running nonstop."
+Tre, "I actually love the heat. It's perfect for my morning runs."
+John, "I'm more of a cool weather guy myself. The heat just drains me."
+Jaiden, "I heard it's supposed to cool down by the weekend."
+Cindy, "That would be a relief. I can't handle another scorcher."
+Tre, "Well, I'm hoping for at least one more hot day. Perfect beach weather."
+John, "Just remember to stay hydrated, everyone. It's easy to forget in this heat."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp, Weather Chat, ['Jaiden', 'Cindy', 'Tre', 'John'], 13.08.2021 10:00:00

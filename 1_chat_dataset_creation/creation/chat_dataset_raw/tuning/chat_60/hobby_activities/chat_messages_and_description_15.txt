@@ -1,0 +1,13 @@
+sender,content
+John,"Hey Robert, have you been keeping up with your painting hobby?"
+Robert,"Hey John, yes I've been painting a lot recently. Just finished a landscape piece."
+John,"That's cool, Robert. I'd love to see it sometime."
+Robert,"Sure John, I'll bring it next time we meet. What about your guitar lessons?"
+John,"They're going well, Robert. I'm learning to play 'Stairway to Heaven' now."
+Robert,"That's a classic, John! Looking forward to hearing you play it."
+John,"Definitely, Robert. It's a deal, your painting for my guitar performance."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Hobby Chat",[John, Robert],"15.09.2021 18:30:00"

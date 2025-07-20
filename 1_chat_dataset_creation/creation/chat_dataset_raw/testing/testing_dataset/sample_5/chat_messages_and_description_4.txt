@@ -1,0 +1,19 @@
+sender, content
+Joshua, "Hey Renea, have you seen the lineup for the upcoming concert?";
+Renea, "No, I haven't. Who's performing?";
+Joshua, "It's a mix of different genres. The headliners are Imagine Dragons and Post Malone.";
+Renea, "That sounds great. I love Post Malone!";
+Joshua, "Me too! They also have a couple of local bands that are really good.";
+Renea, "I'm intrigued. When is it?";
+Joshua, "It's next Saturday. Are you free?";
+Renea, "Yeah, I don't have any plans. Where's the concert?";
+Joshua, "It's at the city park. They've got a huge stage set up.";
+Renea, "That sounds amazing. Do you know how much the tickets are?";
+Joshua, "I think they're around $50. Would you like me to get us a pair?";
+Renea, "Yes, please. That would be awesome.";
+Joshua, "Great, I'll get them today. Looking forward to it!";
+Renea, "Me too. Thanks, Joshua."
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, "Concert Chat", ["Joshua", "Renea"], 10.03.2022 14:03:45

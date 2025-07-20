@@ -1,0 +1,14 @@
+sender;content
+Paul;Hey Amelia, how's your new puppy doing?
+Amelia;Hi Paul, she's doing great. We named her Bella.
+Paul;That's a cute name. How are you finding the experience of training her?
+Amelia;It's not easy, but it's rewarding. She's slowly learning commands.
+Paul;That's good to hear. I'm thinking of getting a cat, any advice?
+Amelia;Oh, that's exciting! Cats are more independent, but make sure to give them plenty of attention too.
+Paul;I'll keep that in mind. How about feeding, is it different from dogs?
+Amelia;Yes, they have different dietary needs. I would recommend doing some research or asking a vet.
+Paul;Will do. Thanks for the advice, Amelia.
+Amelia;No problem, Paul. I'm sure you'll be a great cat owner.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Pet Owners Chat;[Paul, Amelia];24.06.2021 15:30:00

@@ -1,0 +1,18 @@
+sender;content
+Nicholas;Hey Scharron, what's your favorite sport?
+Scharron;Hey Nicholas! I really like basketball. How about you?
+Nicholas;I'm more into soccer actually. 
+Scharron;That's cool! Do you play or just watch?
+Nicholas;I play occasionally, but mostly watch. 
+Scharron;I used to play basketball in college.
+Nicholas;Oh really? That's impressive. 
+Scharron;Yeah, it was a great experience.
+Nicholas;I bet it was. Do you still play now?
+Scharron;Not as much as I'd like to, but I try to keep up with it.
+Nicholas;That's nice. It's important to keep doing what you love.
+Scharron;Absolutely. Maybe we can play a game sometime!
+Nicholas;That sounds like a great idea!
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sports Chat;[Nicholas, Scharron];21.05.2021 16:00:00

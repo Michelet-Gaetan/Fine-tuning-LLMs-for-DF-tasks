@@ -1,0 +1,15 @@
+sender,content
+John,"We have a new shipment coming in, be ready."
+Michael,"Got it, John. Any specific instructions this time?"
+John,"Yes, double-check everything. We can't afford any slip-ups."
+Robert,"I'll get the team ready, John. We're on it."
+John,"Good, Robert. And remember, no loose ends."
+Michael,"Understood, John. Everything will go smoothly."
+Robert,"I'll make sure the team is aware, John."
+John,"I'll be there to supervise. Let's get this done."
+Michael,"See you there, John."
+Robert,"We won't let you down, John."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,The Operation,[John, Michael, Robert],12.09.2022 14:20:00

@@ -1,0 +1,244 @@
+[
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Appointment Booking",
+                  "list of participants": [
+                        "Matthew",
+                        "Sandra"
+                  ],
+                  "first message sending datetime": "15.03.2022 09:15:30"
+            },
+            "dialogue": "Matthew: Hi Sandra, I need to schedule an appointment.\r\nSandra: Sure Matthew, what day are you thinking about?\r\nMatthew: I was thinking about next Tuesday, is that possible?\r\nSandra: I'm afraid Tuesday is fully booked. Would Wednesday work for you?\r\nMatthew: Yes, that's fine. What time slots do you have available?\r\nSandra: I have slots at 10 am, 2 pm, and 4 pm. Which one suits you best?\r\nMatthew: The 2 pm slot works best for me.\r\nSandra: Great! I have booked you in for next Wednesday at 2 pm. See you then.\r\nMatthew: Thank you Sandra, see you then.\r\nSandra: You're welcome Matthew. If anything changes, let me know.",
+            "summaries": {
+                  "general": "Matthew and Sandra are trying to schedule an appointment.",
+                  "precise": "Matthew notifies Sandra that he would need an appointment. Sandra asks Matthew's thoughts on the date, and he replies that he thought of the following Tuesday. Sandra states that Tuesday is complete and proposes Wednesday. Matthew accepts and asks for time slots available. Sandra proposes different ones, and Matthew picks 2 PM. Sandra confirms the booking, and Matthew thanks her. She finally asks Matthew to contact her if there is a change.",
+                  "GPT4_non_adjusted": "In this conversation, Matthew initiates the chat by expressing his need to schedule an appointment. Sandra, responding, asks for his preferred day. Matthew suggests Tuesday, but Sandra informs him that Tuesday is fully booked and offers Wednesday as an alternative. Matthew agrees to this and asks about the available time slots. Sandra provides three options, and Matthew chooses the 2 pm slot. Sandra confirms this appointment, and they agree to notify each other if there are any changes. This conversation takes place in a WhatsApp group named \"Appointment Booking\", between Matthew and Sandra, starting on the 15th of March, 2022 at 9:15:30 AM.",
+                  "GPT4_adjusted": "In this conversation, Matthew initiates the chat by expressing his need to schedule an appointment. Sandra, responding, asks for his preferred day. Matthew suggests Tuesday, but Sandra informs him that Tuesday is fully booked and offers Wednesday as an alternative. Matthew agrees to this and asks about the available time slots. Sandra provides three options, and Matthew chooses the 2 pm slot. Sandra confirms this appointment, and they agree to notify each other if there are any changes."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "making_an_appointment",
+                  "application": "WhatsApp",
+                  "chat group name": "Project Discussion",
+                  "list of participants": [
+                        "Robert",
+                        "Sarah",
+                        "Matthew"
+                  ],
+                  "first message sending datetime": "01.12.2021 09:30:00"
+            },
+            "dialogue": "Robert: Hey guys, we need to set up a meeting to discuss the new project.\r\nSarah: Sure Robert, how about next Tuesday at 10 am?\r\nMatthew: That works for me.\r\nRobert: Great, Matthew is in. How about you, Sarah?\r\nSarah: That's fine for me too. Should we book a meeting room?\r\nRobert: Yes, please do. Let's use the one on the second floor.\r\nMatthew: Sounds good. I'll bring the necessary documents.\r\nSarah: Perfect. I'll send an email to confirm the appointment.\r\nRobert: Great, thanks Sarah. Looking forward to it.\r\nMatthew: See you then.\r\nSarah: See you.",
+            "summaries": {
+                  "general": "Robert, Sarah, and Matthew are setting up a meeting for their next project. They agree to meet the following Tuesday at 10 AM in the 2nd-floor meeting room. Sarah will book the room and send an email to confirm the meeting, while Matthew will bring the necessary documents.",
+                  "precise": "Robert tells the others they need a meeting to discuss their new project. Sarah agrees and suggests doing it the following Tuesday at 10 AM. Matthew and Robert both agree. Sarah wonders if they should book a room, and Robert asks her to book the 2nd-floor meeting room. Matthew then states that he will bring the required documents, and Sarah says she will send a confirmation email for the meeting.",
+                  "GPT4_non_adjusted": "In the conversation, Robert initiates the chat by suggesting a need to set up a meeting to discuss a new project. Sarah suggests a time and date, which is agreed upon by Robert and Matthew. Sarah then proposes to book a meeting room, and Robert suggests using one on the second floor. Matthew offers to bring necessary documents for the meeting. Sarah confirms that she will send an email to finalize the appointment, and the conversation ends with the agreement to meet as planned. The conversation took place on WhatsApp in a chat group named \"Project Discussion\" and involved three participants, Robert, Sarah, and Matthew. The first message was sent on 1st December 2021 at 09:30:00.",
+                  "GPT4_adjusted": "In the conversation, Robert initiates the chat by suggesting a need to set up a meeting to discuss a new project. Sarah suggests a time and date, which is agreed upon by Robert and Matthew. Sarah then proposes to book a meeting room, and Robert suggests using one on the second floor. Matthew offers to bring necessary documents for the meeting. Sarah confirms that she will send an email to finalize the appointment, and the conversation ends with the agreement to meet as planned. The conversation involved three participants, Robert, Sarah, and Matthew."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "Telegram",
+                  "chat group name": "Operation Gold Rush",
+                  "list of participants": [
+                        "John",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "21.04.2022 22:15:00"
+            },
+            "dialogue": "John: We're approaching the target\r\nRobert: Good, remember to stay low\r\nJohn: Got it, disabling the alarm now\r\nRobert: Be quick, we don't have much time\r\nJohn: Alarm is off, moving to the vault\r\nRobert: I'm in the getaway car, hurry up\r\nJohn: Vault is open, grabbing the goods\r\nRobert: I see the police, you have to be quick\r\nJohn: Almost done, just a bit more\r\nRobert: They're getting closer, hurry up\r\nJohn: Got everything, exiting now\r\nRobert: I see you, get in the car",
+            "summaries": {
+                  "general": "John and Robert communicate during an operation targeting goods stored in a vault.",
+                  "precise": "John informs Robert that he approaches their target, and Robert asks him to remain stealthy. John later says he could deactivate the alarm and is moving to the vault. After John mentions opening it, he states that he is starting to take the goods. Meanwhile, Robert is waiting in a getaway car and then stresses the need for John to be fast by mentioning the arrival of the police. John finally notifies Robert that he is exiting the place, and Robert asks John to join him in the car.",
+                  "GPT4_non_adjusted": "The conversation is a real-time communication between two individuals, John and Robert, who are in the midst of executing a heist. The chat takes place on Telegram under the group name \"Operation Gold Rush\". The conversation begins on the 21st of April, 2022 at 10:15 PM. John is the one infiltrating the target location while Robert is waiting in the getaway car. They communicate their actions and status to each other. The conversation starts with John approaching the target and ends with them successfully escaping after the heist. The conversation also conveys a sense of urgency, especially when Robert spots the police and urges John to hurry up.",
+                  "GPT4_adjusted": "The conversation is a real-time communication between two individuals, John and Robert, who are in the midst of executing a heist. John is the one infiltrating the target location while Robert is waiting in the getaway car. They communicate their actions and status to each other. The conversation starts with John approaching the target and ends with them successfully escaping after the heist. The conversation also conveys a sense of urgency, especially when Robert spots the police and urges John to hurry up."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_fictional_heist_currently_in_progress",
+                  "application": "Telegram",
+                  "chat group name": "Operation Gold Mine",
+                  "list of participants": [
+                        "Robert",
+                        "David",
+                        "Michael",
+                        "Elizabeth"
+                  ],
+                  "first message sending datetime": "15.03.2022 22:34:45"
+            },
+            "dialogue": "Robert: We're in position. Ready to initiate.\r\nDavid: Understood, Robert. Michael, is your team ready?\r\nMichael: Yes, David. We're all set.\r\nElizabeth: I'm at the control center. All systems go.\r\nDavid: Starting the heist in 3...2...1.\r\nRobert: We're moving now. Security's tight.\r\nMichael: Got it, Robert. We'll create a diversion.\r\nElizabeth: Monitoring their movements. You're clear for now, Robert.\r\nDavid: Keep us updated, Elizabeth.\r\nRobert: We're almost at the vault.\r\nMichael: Diversion successful. Security's attention is on us.\r\nElizabeth: I see it. Robert, you're clear to proceed.\r\nDavid: Great job, team. Keep it up.\r\nRobert: Vault is open. We got the goods.\r\nDavid: Perfect. Time for extraction. Everyone, move out.",
+            "summaries": {
+                  "general": "Robert, David, Michael, and Elizabeth communicate during a heist targeting a vault.",
+                  "precise": "Robert informs the others that he is ready. David confirms the reception of the message and inquires about Michael's team status. Michael indicates that he is ready, and Elizabeth that she is at the control center. David then launches the heist, Robert starts moving, Michael prepares to create a diversion, and Elizabeth monitors the guards. Robert later mentions its arrival at the vault, and Michael explains that the diversion worked. After being told by Elizabeth, Robert proceeds and gets the vault opened.  David finally calls the retreat for everyone.",
+                  "GPT4_non_adjusted": "The conversation involves four individuals: Robert, David, Michael, and Elizabeth, who are apparently in the middle of a heist, as evident from their chat on the Telegram group \"Operation Gold Mine\". The discussion started at 22:34:45 on 15.03.2022. Robert initiates the conversation, confirming that his team is in position. David, who seems to be the leader, asks for confirmation from Michael, who also affirms their readiness. Elizabeth is operating from a control center and gives a green signal for the operation. David then officially starts the heist. Robert then updates on their movement towards the vault and highlights the tight security. To assist, Michael's team creates a diversion, which successfully diverts the attention of the security. Elizabeth monitors their movements and keeps the team updated on the security's position. Robert confirms reaching the vault and securing the \"goods\". David, satisfied with the progress, announces it's time for extraction and instructs everyone to move out.",
+                  "GPT4_adjusted": "The conversation involves four individuals: Robert, David, Michael, and Elizabeth, who are apparently in the middle of a heist. Robert initiates the conversation, confirming that his team is in position. David, who seems to be the leader, asks for confirmation from Michael, who also affirms their readiness. Elizabeth is operating from a control center and gives a green signal for the operation. David then officially starts the heist. Robert then updates on their movement towards the vault and highlights the tight security. To assist, Michael's team creates a diversion, which successfully diverts the attention of the security. Elizabeth monitors their movements and keeps the team updated on the security's position. Robert confirms reaching the vault and securing the \"goods\". David, satisfied with the progress, announces it's time for extraction and instructs everyone to move out."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "WhatsApp",
+                  "chat group name": "Funny Online Content",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "27.07.2022 19:45:30"
+            },
+            "dialogue": "John: Hey Michael, have you seen the latest meme trend on Twitter?\r\nMichael: No, what's it about?\r\nJohn: It's this hilarious trend where people are photoshopping famous monuments wearing masks. The Eiffel Tower looks like it's about to rob a bank!\r\nMichael: That sounds hilarious, I have to check that out.\r\nJohn: There's also one where they made the Statue of Liberty look like she's about to perform surgery!\r\nMichael: I can't imagine that, send me some pics.\r\nJohn: Sure, I'll send you a few. They're ridiculously funny.\r\nMichael: Can't wait to see them. I could use a good laugh.\r\nJohn: Here they go. It's hard to pick my favorite!\r\nMichael: These are brilliant, thanks for sharing!\r\nJohn: You're welcome, glad you liked them.",
+            "summaries": {
+                  "general": "John and Michael are chatting about a new Twitter trend where people modify pictures of famous monuments to make them wear masks.",
+                  "precise": "John asks if Michael saw the last Twitter meme trend. Michael asks for more details, and John explains it consists of modifying monument pictures and adding masks. John provides examples with the Eiffel Tower looking like a robber and the Statue of Liberty looking like a surgeon. Michael finds it funny and asks for pictures, which John provides. They finally agree that it is hilarious and have a good laugh.",
+                  "GPT4_non_adjusted": "The conversation takes place between two individuals, John and Michael, in a WhatsApp group named \"Funny Online Content\". The chat starts on 27th July 2022 at 19:45:30. John initiates the discussion by asking Michael if he has seen the latest meme trend on Twitter, which involves photoshopping masks onto famous monuments. John shares that the images are quite hilarious, with the Eiffel Tower appearing to be on the verge of robbing a bank and the Statue of Liberty looking like she's about to perform surgery. Michael finds the description amusing and requests John to send him some pictures. John sends the images and Michael finds them brilliantly funny.",
+                  "GPT4_adjusted": "The conversation takes place between two individuals, John and Michael. John initiates the discussion by asking Michael if he has seen the latest meme trend on Twitter, which involves photoshopping masks onto famous monuments. John shares that the images are quite hilarious, with the Eiffel Tower appearing to be on the verge of robbing a bank and the Statue of Liberty looking like she's about to perform surgery. Michael finds the description amusing and requests John to send him some pictures. John sends the images and Michael finds them brilliantly funny."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "funny_online_content",
+                  "application": "Telegram",
+                  "chat group name": "Funny Content Sharers",
+                  "list of participants": [
+                        "Michael",
+                        "John",
+                        "Patricia",
+                        "Robert",
+                        "Jennifer"
+                  ],
+                  "first message sending datetime": "10.03.2022 19:30:00"
+            },
+            "dialogue": "Michael: Have you guys seen that new cat video on YouTube? I was laughing for hours!\r\nJohn: Oh, the one where the cat keeps falling into the box? Hilarious!\r\nPatricia: Yes! I watched it yesterday. I couldn't stop laughing either!\r\nRobert: I sent that video to my sister and she almost choked on her coffee laughing!\r\nJennifer: I need to find that video. I could use a good laugh.\r\nJohn: I'll send the link in the group. Get ready to laugh your socks off!\r\nPatricia: Fair warning, don't watch it while drinking or eating!\r\nMichael: Too late for that warning, Patricia. I almost spilled my coffee all over my keyboard!\r\nRobert: Haha, I told you guys, it's dangerously funny!\r\nJennifer: Just watched it. Can confirm, it's hilarious. Thanks for the link, John!",
+            "summaries": {
+                  "general": "Michael, John, Patricia, Robert, and Jennifer are chatting about a recent funny cat video.",
+                  "precise": "Michael asks the others if they could see the recent cat video on YouTube. John, Patricia, and Robert could see it and found it hilarious. Robert even sent it to his sister, who nearly choked on it laughing. Jennifer explains that she has not seen the video but would like to, and John says he will provide the link. Patricia advises not to drink while watching the video, but Michael says it is too late. Robert even states it is dangerously funny. Jessica finally confirms it and thanks John for the link sharing.",
+                  "GPT4_non_adjusted": "The conversation takes place in a Telegram group named \"Funny Content Sharers\" between five participants: Michael, John, Patricia, Robert, and Jennifer. The conversation started on 10th of March 2022 at 7:30 PM. The topic of the conversation is a funny cat video on YouTube. Michael initiates the conversation by mentioning the video, which he found hilarious. John and Patricia agree, having seen and enjoyed the video themselves. Robert shares that he found the video so funny he sent it to his sister, who almost choked on her coffee while laughing. Jennifer, who hasn't seen the video, expresses a desire to watch it. John offers to send the link in the group, warning everyone of its hilarious content. Patricia advises against watching the video while eating or drinking, but it's too late for Michael, who almost spills his coffee. Robert reiterates the video's humor, and Jennifer confirms its hilarity after watching it.",
+                  "GPT4_adjusted": "The conversation takes place between five participants: Michael, John, Patricia, Robert, and Jennifer. The topic of the conversation is a funny cat video on YouTube. Michael initiates the conversation by mentioning the video, which he found hilarious. John and Patricia agree, having seen and enjoyed the video themselves. Robert shares that he found the video so funny he sent it to his sister, who almost choked on her coffee while laughing. Jennifer, who hasn't seen the video, expresses a desire to watch it. John offers to send the link in the group, warning everyone of its hilarious content. Patricia advises against watching the video while eating or drinking, but it's too late for Michael, who almost spills his coffee. Robert reiterates the video's humor, and Jennifer confirms its hilarity after watching it."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Investment Talk",
+                  "list of participants": [
+                        "John",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "15.04.2021 09:15:30"
+            },
+            "dialogue": "John: Hey, Robert. Have you heard about the new investment opportunity?\r\nRobert: No, John. What's it about?\r\nJohn: It's a fast-return investment. You put in $1000, and you get $5000 back in just two days.\r\nRobert: That sounds too good to be true. How does it work?\r\nJohn: It's a secret algorithm that trades on the stock market. It's guaranteed to win.\r\nRobert: Who is behind this?\r\nJohn: A group of elite Wall Street traders. They're looking to help out the little guy.\r\nRobert: So how do I get started?\r\nJohn: Just send me the $1000, and I'll set everything up for you.\r\nRobert: I'll think about it, John.",
+            "summaries": {
+                  "general": "John is proposing a new investment opportunity to Robert.",
+                  "precise": "John informs Robert of a new investment opportunity. Robert asks for more details, and John explains it can multiply your investment by 5 in two days using a secret algorithm developed by the best Wall Street traders and that the win is guaranteed. Robert states that it is too good to be true but asks about the process, to which John replies to wire him a thousand dollars and that he will handle the rest. Robert finally says that he will give it a thought.",
+                  "GPT4_non_adjusted": " In the conversation, John approaches Robert about a new investment opportunity. John describes it as a fast-return scheme, where a $1000 investment could yield $5000 in just two days. He attributes this to a secret algorithm that trades on the stock market and is supposedly guaranteed to win. John claims that a group of elite Wall Street traders are behind this scheme, aiming to help the average person. To get started, Robert would need to send $1000 to John. Robert responds that he will think about it.",
+                  "GPT4_adjusted": "In the conversation, John approaches Robert about a new investment opportunity. John describes it as a fast-return scheme, where a $1000 investment could yield $5000 in just two days. He attributes this to a secret algorithm that trades on the stock market and is supposedly guaranteed to win. John claims that a group of elite Wall Street traders are behind this scheme, aiming to help the average person. To get started, Robert would need to send $1000 to John. Robert responds that he will think about it."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_scam_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Crypto Kings",
+                  "list of participants": [
+                        "James",
+                        "Robert",
+                        "David"
+                  ],
+                  "first message sending datetime": "20.09.2022 16:30:00"
+            },
+            "dialogue": "James: Hey guys, I've got a unique investment opportunity for you\r\nRobert: I'm listening, James. What's it about?\r\nJames: It's about a new cryptocurrency that's about to explode in value\r\nDavid: Sounds interesting, but how did you find out about this James?\r\nJames: I have a friend who works in the industry. He tipped me off\r\nRobert: I'm a bit skeptical. Cryptocurrency can be risky\r\nJames: I understand Robert, but trust me this is a sure thing\r\nDavid: Can you share some more details James? I'd like to know more\r\nJames: Of course David. I'll send you a detailed email\r\nRobert: I'll wait for that email too James. Let's see if this is worth it",
+            "summaries": {
+                  "general": "James, Robert, and David are chatting about an investment opportunity related to crypto-currency.",
+                  "precise": "James notifies the others that he has a unique investment opportunity. Robert then asks for more details, and James explains that it is a crypto-currency that will soon take value. David wonders about James' sources, and James replies that he has a friend working in the crypto industry. Robert expresses his skepticism, and James tries to reassure him, stating that it is safe. David asks for even more information, and James says he will send them by email. Robert finally states that he will decide after receiving the details.",
+                  "GPT4_non_adjusted": "The conversation took place on WhatsApp in a group named \"Crypto Kings\", consisting of three participants: James, Robert, and David. James initiated the conversation on 20th September 2022 at 16:30:00, bringing up a unique investment opportunity related to a new cryptocurrency about to increase in value. Robert expressed initial interest but also skepticism due to the risky nature of cryptocurrency. David also showed interest and requested more details. James agreed to send a detailed email to both Robert and David to provide more information about this investment opportunity.",
+                  "GPT4_adjusted": "The conversation consists of three participants: James, Robert, and David. James initiated the conversation, bringing up a unique investment opportunity related to a new cryptocurrency about to increase in value. Robert expressed initial interest but also skepticism due to the risky nature of cryptocurrency. David also showed interest and requested more details. James agreed to send a detailed email to both Robert and David to provide more information about this investment opportunity."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "WhatsApp",
+                  "chat group name": "Soccer Fans",
+                  "list of participants": [
+                        "James",
+                        "Robert",
+                        "Matthew"
+                  ],
+                  "first message sending datetime": "20.05.2021 18:23:45"
+            },
+            "dialogue": "James: Hey guys, did you catch the soccer game last night?\r\nRobert: Yeah, I did. It was quite a match!\r\nMatthew: I missed it. Who won?\r\nJames: Liverpool. They beat Manchester United 3-1.\r\nRobert: The game was really intense, especially in the second half.\r\nMatthew: Sounds like I missed a good one. How did Liverpool manage to win?\r\nJames: Their midfield was really strong. They dominated possession and created lots of chances.\r\nRobert: Plus, their defense was solid. Manchester United barely got a look in.\r\nMatthew: Wow, Liverpool seems to be in good form this season.\r\nJames: They are indeed. Their next game is against Chelsea. It's going to be a big one.\r\nRobert: Can't wait to watch that!",
+            "summaries": {
+                  "general": "James, Robert, and Matthew are discussing the soccer game from the previous night.",
+                  "precise": "James asks the other if they could watch the previous night's soccer game. Robert replied that it was a nice match, and Matthew explained that he could not, asking which team won. James answers that Liverpool won against Manchester United 3-1, and Robert emphasizes the intensity of the match. Matthew then wonders how Liverpool could win, and James and Robert explain that they had good midfield and defense players. James finally states that the following game against Chelsea will be nice, and Robert says he looks forward to watching it.",
+                  "GPT4_non_adjusted": "The conversation takes place between James, Robert, and Matthew who are part of a WhatsApp group named \"Soccer Fans\". The conversation starts on 20th May 2021 at 18:23:45. The topic of their discussion is a recent soccer match that Liverpool won against Manchester United with a scoreline of 3-1. James and Robert watched the match and they describe it as intense, with Liverpool's midfield and defense playing exceptionally well. Matthew missed the match but shows interest in the details provided by his friends. The chat ends with anticipation for the next Liverpool game against Chelsea.",
+                  "GPT4_adjusted": "The conversation takes place between James, Robert, and Matthew. The topic of their discussion is a recent soccer match that Liverpool won against Manchester United with a scoreline of 3-1. James and Robert watched the match and they describe it as intense, with Liverpool's midfield and defense playing exceptionally well. Matthew missed the match but shows interest in the details provided by his friends. The chat ends with anticipation for the next Liverpool game against Chelsea."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "soccer_or_basketball_game",
+                  "application": "WhatsApp",
+                  "chat group name": "Soccer Enthusiasts",
+                  "list of participants": [
+                        "Robert",
+                        "William",
+                        "Jennifer",
+                        "Thomas",
+                        "Brian",
+                        "Anthony"
+                  ],
+                  "first message sending datetime": "22.07.2021 18:00:00"
+            },
+            "dialogue": "Robert: Hey guys, are we all set for the soccer game tonight?\r\nWilliam: Absolutely, Robert. I've got the snacks and drinks ready.\r\nJennifer: I'll be there too. I hope our team wins this time.\r\nThomas: Yes, Jennifer. I hope so too. We've been practicing a lot.\r\nRobert: That's the spirit, team! Let's gear up for the game.\r\nBrian: I've heard the opposing team has a strong defense.\r\nAnthony: Yes, Brian. But we have a strong attack. We can win this.\r\nRobert: Exactly, Anthony. Let's keep our spirits high.\r\nJennifer: Looking forward to the game. See you all there!",
+            "summaries": {
+                  "general": "Robert, William, Jennifer, Thomas, Brian, and Anthony are planning the last details for the soccer game that evening.",
+                  "precise": "Roberts wonders if the others are ready for the soccer game that night. William answers that he is and says he already has the snacks and drinks. The same applies to Jennifer, who hopes their team will win. Thomas replies that he also hopes they will win and states they've practiced a lot. Robert then encourages everyone, and Brian mentions that the opponent has a good defense. Anthony agrees but recalls their great attack. Robert encourages them one final time, and Jennifer expresses her excitement towards the game.",
+                  "GPT4_non_adjusted": "The conversation takes place among six participants: Robert, William, Jennifer, Thomas, Brian, and Anthony in a WhatsApp group called \"Soccer Enthusiasts\". The discussion revolves around a soccer game that is scheduled for the evening. The participants discuss their preparations for the game, talk about the opposing team, and express hope and determination for their team's victory. The conversation starts on 22.07.2021 at 18:00:00.",
+                  "GPT4_adjusted": "The conversation takes place among six participants: Robert, William, Jennifer, Thomas, Brian, and Anthon. The discussion revolves around a soccer game that is scheduled for the evening. The participants discuss their preparations for the game, talk about the opposing team, and express hope and determination for their team's victory."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "Telegram",
+                  "chat group name": "Project Alpha",
+                  "list of participants": [
+                        "Robert",
+                        "John"
+                  ],
+                  "first message sending datetime": "23.03.2021 10:05:30"
+            },
+            "dialogue": "Robert: Hey John, how's the new project?\r\nJohn: Hello Robert, it's going well. We're almost ready for the first stage.\r\nRobert: Excellent, what's the timeline we're looking at?\r\nJohn: We should be ready to start production in about two weeks.\r\nRobert: Great, keep me updated on the progress. Any challenges so far?\r\nJohn: There are a few minor issues but nothing we can't handle. The team is working round the clock.\r\nRobert: Good to hear. Let's keep everything smooth and low-key, as always.\r\nJohn: Absolutely, Robert. We're on top of it.\r\nRobert: Alright John, let's touch base again next week. Keep up the good work.\r\nJohn: Will do, Robert. Talk to you soon.",
+            "summaries": {
+                  "general": "Robert and John are discussing a production operation starting two weeks later.",
+                  "precise": "Robert inquires about the state of a project. John answers that it is soon ready for stage 1 and that the production should start approximately two weeks later. Robert asks if the team encountered challenges, and John reassures him, stating they met some but could fix them independently. Robert reminds him to keep the operation smooth and discreet. They finally agree to talk again the next week.",
+                  "GPT4_non_adjusted": "The conversation, which occurred on Telegram in a group called \"Project Alpha\" between Robert and John on March 23, 2021 at 10:05:30, was centered around a drug manufacturing operation. Robert initiates the conversation, asking John about the progress of a new project. John responds that they're almost ready for the first stage and that the production should start in about two weeks. Robert asks about any challenges they may be facing, to which John assures him that they're handling a few minor issues effectively. Robert emphasizes the need to keep the operation smooth and low-key, and they agree to touch base the following week.",
+                  "GPT4_adjusted": "The conversation between Robert and John was centered around a drug manufacturing operation. Robert initiates the conversation, asking John about the progress of a new project. John responds that they're almost ready for the first stage and that the production should start in about two weeks. Robert asks about any challenges they may be facing, to which John assures him that they're handling a few minor issues effectively. Robert emphasizes the need to keep the operation smooth and low-key, and they agree to touch base the following week."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "a_drug_manufacturing_operation",
+                  "application": "Telegram",
+                  "chat group name": "New Venture",
+                  "list of participants": [
+                        "Robert",
+                        "Christopher",
+                        "John",
+                        "Elizabeth"
+                  ],
+                  "first message sending datetime": "07.01.2022 19:45:00"
+            },
+            "dialogue": "Robert: Hey guys, I got the formula for that new drug we've been talking about.\r\nChristopher: That's great news Robert. How long before we can start production?\r\nRobert: I'd say give it a couple of weeks. We need to source some ingredients first.\r\nElizabeth: I have a reliable supplier for the ingredients. It's going to cost us, though.\r\nJohn: Let's not skimp on the cost. Quality is key here.\r\nChristopher: Agreed. Elizabeth, go ahead and contact your supplier.\r\nElizabeth: Alright, I'll get on it right away.\r\nRobert: Once the ingredients are here, I'll start with the production.\r\nJohn: Keep everything under wraps guys. We can't afford to attract attention.\r\nChristopher: Absolutely, discretion is our top priority.",
+            "summaries": {
+                  "general": "Robert, Christopher, John, and Elizabeth are discussing the details of a drug production operation, particularly the ingredient acquisition.",
+                  "precise": "Robert informs the others that he could get the formula for a new drug they discussed. Christopher is glad to hear it and wonders about the production start. Robert replies that ingredients are required first, and Elizabeth mentions she knows a supplier that could provide them, but not for free. John states that quality is important, and Christopher agrees, asking Elizabeth to contact her supplier. Robert states that the production will start when the ingredients arrive. John and Christopher finally emphasize the need to remain discreet.",
+                  "GPT4_non_adjusted": "The conversation takes place within a Telegram group chat named \"New Venture,\" which consists of four participants: Robert, Christopher, John, and Elizabeth. The chat begins on the 7th of January, 2022 at 7:45 PM. The dialogue starts with Robert informing the group that he has obtained the formula for a new drug they plan to produce. Christopher responds by asking when they can start production, to which Robert replies they need a couple of weeks to source the ingredients. Elizabeth then informs the group that she knows a reliable supplier for the ingredients, but it will be costly. John emphasizes the importance of quality over cost and gives Elizabeth the green light to contact her supplier. Robert states that once the ingredients arrive, he will begin production. John then reminds everyone to keep the operation discreet to avoid attracting any unwanted attention, a sentiment Christopher echoes.",
+                  "GPT4_adjusted": "The conversation takes place within a group chat which consists of four participants: Robert, Christopher, John, and Elizabeth. The dialogue starts with Robert informing the group that he has obtained the formula for a new drug they plan to produce. Christopher responds by asking when they can start production, to which Robert replies they need a couple of weeks to source the ingredients. Elizabeth then informs the group that she knows a reliable supplier for the ingredients, but it will be costly. John emphasizes the importance of quality over cost and gives Elizabeth the green light to contact her supplier. Robert states that once the ingredients arrive, he will begin production. John then reminds everyone to keep the operation discreet to avoid attracting any unwanted attention, a sentiment Christopher echoes."
+            }
+      }
+]

@@ -1,0 +1,13 @@
+sender;content
+David;Hey Thomas, I got an interesting offer for you.
+Thomas;Really? What's that about?
+David;I got a mail from a Prince in Nigeria. He's offering a huge reward for helping him transfer his inheritance.
+Thomas;Haha, that sounds like a classic scam, David.
+David;Yeah, I know. But it's tempting, isn't it? Imagine if it was real.
+Thomas;No way, it's a well-known scam. Don't even think about it.
+David;Just kidding, Thomas. I'm not that naive. But it's fascinating how these scams still exist.
+Thomas;I agree, it's because some people still fall for them. Always remember, if something seems too good to be true, it probably is.
+David;Wise words, Thomas. Thanks for the reminder.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Scam Discussion;[David, Thomas];12.04.2022 10:15:30

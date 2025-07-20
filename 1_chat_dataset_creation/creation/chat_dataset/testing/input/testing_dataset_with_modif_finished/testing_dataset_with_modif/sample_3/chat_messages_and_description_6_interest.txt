@@ -1,0 +1,15 @@
+sender;content
+Clara;Hey Carlton, got a minute to discuss our next move?
+Carlton;Sure, Clara. What's on your mind?
+Clara;I've been thinking about the museum heist. We need to plan carefully.
+Carlton;Agreed. Let's start with the security. Any idea what we're dealing with?
+Clara;They have motion detectors and laser security grids. But, I have a contact who can help us disable it.
+Carlton;Sounds promising. What about the guards and surveillance cameras?
+Clara;There are four guards on rotation and cameras at every corner. We might need a distraction.
+Carlton;I might know just the guy for that. Can we trust your contact though?
+Clara;Absolutely. She's a pro. But we need to act fast, they're switching security companies soon.
+Carlton;Alright, let's get everyone together tomorrow and lay out the plan.
+Clara;Sounds like a plan, Carlton. See you tomorrow.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;The Artful Dodgers;[Clara, Carlton];15.10.2022 18:45:30

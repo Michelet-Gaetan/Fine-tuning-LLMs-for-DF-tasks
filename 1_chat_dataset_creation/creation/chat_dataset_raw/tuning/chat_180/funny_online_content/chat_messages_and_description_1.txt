@@ -1,0 +1,16 @@
+sender,content
+John,"Hey Michael, have you seen the latest meme trend on Twitter?";
+Michael,"No, what's it about?";
+John,"It's this hilarious trend where people are photoshopping famous monuments wearing masks. The Eiffel Tower looks like it's about to rob a bank!";
+Michael,"That sounds hilarious, I have to check that out.";
+John,"There's also one where they made the Statue of Liberty look like she's about to perform surgery!";
+Michael,"I can't imagine that, send me some pics.";
+John,"Sure, I'll send you a few. They're ridiculously funny.";
+Michael,"Can't wait to see them. I could use a good laugh.";
+John,"Here they go. It's hard to pick my favorite!";
+Michael,"These are brilliant, thanks for sharing!";
+John,"You're welcome, glad you liked them.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Funny Online Content,[John, Michael],27.07.2022 19:45:30

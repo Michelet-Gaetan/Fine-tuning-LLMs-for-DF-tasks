@@ -1,0 +1,14 @@
+sender,content
+Matthew,"Hey guys, have you seen the latest 'Dank Memes' compilation on YouTube?";
+Robert,"No, Matthew. I haven't. But, I have seen the 'Try not to laugh challenge'.";
+Mary,"I've seen both! The 'Dank Memes' compilation had me in stitches.";
+David,"Mary, you laugh at anything! Let's see who can find the funniest video online.";
+Matthew,"Challenge accepted, David. I'm going to find the funniest content on the web.";
+Robert,"Same here. Let the funniest video hunt begin!";
+Mary,"I'm in too! May the funniest person win.";
+David,"Just remember, no cheating. The video has to be funny to everyone.";
+Matthew,"Agreed. Let's meet here in an hour with our funniest videos.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Online Fun Hunters",['Matthew', 'Robert', 'Mary', 'David'],"12.07.2021 19:45:00"

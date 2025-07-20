@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+Michael and James are organizing a freesby game at the park.;
+
+Michael asks James if he already is at the park. James answers that yes, and that he found a goos spot near the lake eventhough the park is crowded. Michael is bringing a frisbee and snacks, and sunscreen, but James reminds him to also bring water.; 
+
+The conversation is between two friends, Michael and James, who are planning to meet at a park for a frisbee game. They are communicating through a WhatsApp group named "Weekend Frisbee Club". The conversation begins with Michael asking James if he has already reached the park, to which James replies affirmatively and mentions that he found a good spot near the lake. Michael then informs James that he is bringing frisbees and snacks, and James reminds him to bring water bottles as well. Michael assures him that he has the water bottles, and has also brought sunscreen due to the sunny weather. The conversation ends with James looking forward to meeting Michael, and Michael affirming that he will be there soon. The conversation started on the 20th of August, 2022 at 10:45:30.

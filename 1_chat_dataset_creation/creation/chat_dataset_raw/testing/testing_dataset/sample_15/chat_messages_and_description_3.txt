@@ -1,0 +1,16 @@
+sender; content
+David; Hey Thomas, have you seen the latest Marvel movie?
+Thomas; No, not yet. I've been meaning to catch up on them though. Is it any good?
+David; Yeah, it's quite good. I think you'd like it. It's a bit different from the previous ones.
+Thomas; Oh, in what way?
+David; Well, it's a bit darker and more serious. But still has that classic Marvel humor.
+Thomas; Sounds interesting. I'll definitely check it out. Thanks for the recommendation.
+David; No problem. Let me know what you think when you see it.
+Thomas; Sure, I'll do that. By the way, have you seen the new Star Wars movie?
+David; Yes, I have. Didn't quite like it though.
+Thomas; Really? I thought it was pretty good.
+David; To each their own, I guess.
+
+-----
+application; chat group name; list of participants; first message sending datetime
+WhatsApp; Movie Buffs; David, Thomas; 24.05.2021 17:30:00

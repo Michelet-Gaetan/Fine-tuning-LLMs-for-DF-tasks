@@ -1,0 +1,15 @@
+sender,content
+"James","Hey John, have you been painting lately?"
+"John","Hi James, yes, I've been working on a landscape painting. How about you?"
+"James","That sounds great! I've been getting into model train building."
+"John","That's interesting. How did you get started with that?"
+"James","I used to love trains as a kid. I recently found a kit and thought I'd give it a try."
+"John","I'd love to see your progress sometime."
+"James","Sure thing, I'll share some pictures next time."
+"John","Looking forward to it. And I'll share my painting when it's done."
+"James","Can't wait to see your masterpiece, John."
+"John","Thanks, James. It's always nice to share hobbies with friends."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+"WhatsApp","Hobby Chat",["James","John"],"20.04.2022 18:30:00"

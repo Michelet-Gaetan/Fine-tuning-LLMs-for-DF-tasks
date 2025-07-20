@@ -1,0 +1,15 @@
+sender,content
+Helen,"Hey Karen, how's your brother doing?";
+Karen,"Hey Helen, he's doing well. Just started a new job.";
+Helen,"Oh that's great! How is he finding it?";
+Karen,"He's enjoying it so far. It's a big change from his old job, but he's adapting.";
+Helen,"That's good to hear. And what about your sister?";
+Karen,"She's good too, thanks for asking. She just moved to a new city for her studies.";
+Helen,"Your siblings seem to be doing really well. You must be proud.";
+Karen,"Yes, I am. They've worked hard to get where they are.";
+Helen,"I can imagine. My siblings are also a big part of my life.";
+Karen,"It's always nice to have siblings to share your life with, isn't it?"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Friends Chat,[Helen, Karen],"14.05.2022 10:30:00"

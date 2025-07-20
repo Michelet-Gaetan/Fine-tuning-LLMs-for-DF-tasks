@@ -1,0 +1,14 @@
+sender;content
+John;Hey everyone, how's it going?
+Richard;Hi John, doing great. How about you?
+John;I'm good. Just working on this new project. It's a bit challenging.
+Mary;What's the project about, John?
+John;It's about integrating AI in our current system.
+Richard;That sounds interesting. Can we be of any help?
+John;Definitely. I'll share more details in our next meeting.
+Mary;Looking forward to it. Let's smash this project!
+Richard;Absolutely, Mary. John, count us in.
+John;Thanks guys. Really appreciate the support.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Work Team;[John, Richard, Mary];15.11.2021 09:15:30

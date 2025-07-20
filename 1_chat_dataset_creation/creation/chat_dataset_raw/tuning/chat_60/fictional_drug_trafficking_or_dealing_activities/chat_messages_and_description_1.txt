@@ -1,0 +1,15 @@
+sender,content
+"James","Hey David, got the new shipment?"
+"David","Yeah, just arrived yesterday. Quality is top-notch as usual."
+"James","Good to hear. We need to keep our reputation intact."
+"David","I know, right. What's the plan now?"
+"James","Same as always. Discreet and quick."
+"David","Got it. We'll start the process tonight."
+"James","Perfect. Update me once it's done."
+"David","Sure thing, boss."
+"James","And remember David, we can't afford any mistakes."
+"David","Understood, James. We've got this."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+"WhatsApp","Business Matters","[James, David]","02.03.2022 14:45:00"

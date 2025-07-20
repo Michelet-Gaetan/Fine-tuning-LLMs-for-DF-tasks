@@ -1,0 +1,14 @@
+sender;content
+Parker;Hey guys, do you ever feel like being the eldest sibling is tough?
+April;Definitely! Always having to set an example and being responsible for the younger ones.
+Alexander;Funny, as the middle child, I feel like I'm always overlooked!
+Teegan;I can't relate at all, being an only child.
+Kim;As the youngest, I feel like I'm always treated like a baby.
+Parker;I guess it's tough no matter where you fall in the sibling order.
+April;Yeah, but at the end of the day, I wouldn't trade my siblings for anything.
+Alexander;Same here. They can be annoying, but I love them.
+Teegan;I always wished I had a sibling growing up.
+Kim;Well, we are kind of like a family here, aren't we?
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sibling Talks;[Parker, April, Alexander, Teegan, Kim];22.05.2022 20:15:00

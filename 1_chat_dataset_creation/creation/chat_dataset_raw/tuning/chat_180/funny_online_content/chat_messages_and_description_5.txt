@@ -1,0 +1,15 @@
+sender,content
+John,"Hey Michael, have you seen that new cat video that's going viral?";
+Michael,"No, I haven't. Is it the one where the cat is doing backflips?";
+John,"Yes, that's the one! It's hilarious. I can't stop laughing.";
+Michael,"I'll have to check it out. I could use a good laugh.";
+John,"You definitely should. It's the funniest thing I've seen in a while.";
+Michael,"Alright, I'm looking it up now.";
+John,"Let me know what you think!";
+Michael,"Oh my gosh, this is hilarious! That cat is more athletic than I am!";
+John,"I know, right? I wish I could do backflips like that.";
+Michael,"Same here, John. Same here.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Funny Content Discussion,[John, Michael],24.05.2021 19:45:30

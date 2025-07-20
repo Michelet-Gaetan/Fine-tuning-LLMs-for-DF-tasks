@@ -1,0 +1,14 @@
+sender;content
+Jason;Hey team, I've been thinking about our next target. What do you all think about the old mansion on Main Street?
+Desiree;Sounds promising, Jason. But isn't it rumored to be haunted?
+Katherine;That's just a myth, Desiree. I think it could be a good idea. We need to plan carefully though.
+Ronda;I agree with Katherine. We need to ensure we have all exit points covered.
+Mario;I can handle the security systems. But we need someone on the lookout too.
+Jason;Good point, Mario. Desiree, could you handle that?
+Desiree;Sure, Jason. I'll keep an eye out for any unexpected surprises.
+Katherine;Let's meet tomorrow to discuss the plan in detail.
+Ronda;Works for me. Let's keep everything low-key as usual.
+Mario;Agreed. See you all tomorrow.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;The Unseen Hand;[Jason, Desiree, Katherine, Ronda, Mario];01.03.2022 19:30:00

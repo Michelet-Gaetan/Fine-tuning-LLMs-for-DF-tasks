@@ -1,0 +1,15 @@
+sender, content
+John, Hey guys, have you all registered for next semester?
+Peter, I have. I'm taking 3 computer science courses.
+Richard, I'm still deciding between two philosophy courses. 
+Karen, I've registered, but I'm still on the waitlist for one of my classes.
+Ashley, I haven't yet. I've been so busy with exams.
+John, Ashley, you should do it soon. The classes get filled up pretty quickly.
+Peter, Yeah, Ashley. Plus you can always change later if you need to.
+Richard, That's true. I did that last semester.
+Karen, Same here. It's better to secure your spot first.
+Ashley, You guys are right. I'll do it tonight. Thanks.
+
+-----
+application; chat group name; list of participants; first message sending datetime
+WhatsApp; College Friends; [John, Peter, Richard, Karen, Ashley]; 12.05.2022 18:00:00

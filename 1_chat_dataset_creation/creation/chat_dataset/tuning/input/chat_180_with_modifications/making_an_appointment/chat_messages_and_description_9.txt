@@ -1,0 +1,11 @@
+sender;content
+Robert;Can we set up a meeting for the new project proposal?
+Mark;Sure, Robert. Any preferred date and time?
+Robert;How about next Tuesday at 10am?
+Mary;That works for me. How about you, Mark?
+Mark;I'm good with that too. Let's lock it in.
+Robert;Great! See you all next Tuesday at 10am.
+Mary;Perfect! Looking forward to it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Project Proposal Meeting;[Robert, Mark, Mary];23.08.2021 08:45:00

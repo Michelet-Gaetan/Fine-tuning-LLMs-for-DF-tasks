@@ -1,0 +1,12 @@
+sender,content
+"James","Good morning, Robert. Did you manage to finish the report for today's meeting?";
+"Robert","Morning, James. Yes, I did. I just need to do a final check before sending it to you.";
+"James","Great! I'll be waiting for it. By the way, did you manage to contact the supplier about the delayed shipment?";
+"Robert","Yes, I did. They apologized for the delay and promised to expedite the shipment. It should arrive by tomorrow.";
+"James","Excellent! That's a relief. We should be able to meet the project deadline then.";
+"Robert","Yes, we should. I'll send you the report shortly. Have a good day, James.";
+"James","You too, Robert. Speak to you later.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+"WhatsApp","Daily Updates",["James","Robert"],"05.04.2022 08:15:30"

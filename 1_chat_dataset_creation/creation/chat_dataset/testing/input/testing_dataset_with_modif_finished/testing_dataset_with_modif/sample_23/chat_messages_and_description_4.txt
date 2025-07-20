@@ -1,0 +1,14 @@
+sender;content
+Sarah;Hey Geraldine, what are your plans for the weekend?
+Geraldine;Hey Sarah, I'm planning to go for a hike. What about you?
+Sarah;That sounds fun! I'm thinking of going to the beach.
+Geraldine;Oh! I wish I could join you. But I've been planning this hike for a while now.
+Sarah;Maybe next time then. Enjoy your hike!
+Geraldine;Thanks, Sarah. I hope you have a great time at the beach.
+Sarah;Thank you Geraldine. Let's catch up next week and share our experiences.
+Geraldine;That's a great idea, Sarah. Looking forward to it!
+Sarah;Me too, Geraldine. Have a great weekend!
+Geraldine;You too, Sarah. Take care.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Plans;[Sarah, Geraldine];15.04.2022 10:20:30

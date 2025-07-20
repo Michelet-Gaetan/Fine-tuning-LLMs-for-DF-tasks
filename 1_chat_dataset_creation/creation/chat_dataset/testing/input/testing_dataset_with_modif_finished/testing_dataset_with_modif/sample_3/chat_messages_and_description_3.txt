@@ -1,0 +1,16 @@
+sender;content
+Clara;Hey Carlton, have you heard the new album from The Weeknd?
+Carlton;Yes, Clara. I just finished listening to it. It's pretty amazing, don't you think?
+Clara;Absolutely! I especially loved the track "Save Your Tears". The lyrics are so deep.
+Carlton;I couldn't agree more. But I'm also really into "Blinding Lights". The beat is so catchy.
+Clara;True that. I've been playing it on repeat. What do you think about the overall theme of the album?
+Carlton;It seems to me that it's about heartbreak and recovery, with a touch of his usual dark style.
+Clara;Yes, I also think it's a bit darker than his previous work. But I like it, it's different.
+Carlton;Definitely. It's always refreshing when artists try something new and it works.
+Clara;Right. By the way, do you have any other music recommendations?
+Carlton;If you're into The Weeknd, you might also like Frank Ocean. His music has a similar vibe.
+Clara;Thanks, Carlton! I'll check him out.
+Carlton;No problem, Clara. Enjoy!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Music Lovers;[Clara, Carlton];15.04.2021 10:15:00

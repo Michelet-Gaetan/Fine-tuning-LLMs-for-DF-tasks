@@ -1,0 +1,15 @@
+sender;content
+Thomas;Hey Kristopher, have you tried out the new Call of Duty?
+Kristopher;Not yet, Thomas. Is it any good?
+Thomas;I think it's amazing! The graphics and gameplay are much better.
+Kristopher;Sounds good. I've been playing a lot of Fortnite recently.
+Thomas;I've never really got into Fortnite. I prefer the realism in Call of Duty.
+Kristopher;Fair enough. Each to their own I guess.
+Thomas;Exactly. So, are you planning on trying the new Call of Duty?
+Kristopher;I think I will, especially after hearing your thoughts about it.
+Thomas;Awesome! Let me know when you do. We could play online together.
+Kristopher;Sounds like a plan, Thomas. I'll give it a go this weekend.
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Gamers United;[Thomas, Kristopher];20.02.2022 17:30:00

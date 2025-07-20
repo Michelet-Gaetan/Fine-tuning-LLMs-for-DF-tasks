@@ -1,0 +1,16 @@
+sender;content
+Jayden;Hey guys, have you read any good books recently?
+Joy;Hey Jayden, I've been reading 'The Silent Patient'. It's a psychological thriller and it's really good!
+Kathleen;I've been reading a lot of non-fiction. I just finished 'Educated' by Tara Westover.
+Jayden;Oh, I've heard about 'Educated'. It's about a woman who grows up in a strict and abusive household but eventually goes to college, right?
+Kathleen;Yes, that's the one. It's a very powerful story about the importance of education and the lengths one can go to achieve it.
+Joy;That sounds interesting. I'll add it to my list. Jayden, any recommendations from you?
+Jayden;Sure, if you're into fantasy, I'd recommend 'The Name of the Wind'. It's the first book in a trilogy.
+Joy;I love fantasy! I'll definitely check it out. Kathleen, any other books you'd recommend?
+Kathleen;If you're interested in history, 'Sapiens' is a great read. It's about the history of humankind.
+Jayden;Sounds intriguing. I'll add it to my list. Thanks for the recommendations, guys.
+Joy;No problem, happy reading!
+Kathleen;Same to you both. Looking forward to our next book chat!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Book Club;[Jayden, Joy, Kathleen];01.06.2021 20:15:30

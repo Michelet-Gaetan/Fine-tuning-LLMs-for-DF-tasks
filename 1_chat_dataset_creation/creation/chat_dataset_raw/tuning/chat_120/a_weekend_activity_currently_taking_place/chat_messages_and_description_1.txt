@@ -1,0 +1,12 @@
+sender;content
+Michael;Hey, are we still going for the hike this weekend?
+Robert;Yes, we are. The weather is going to be perfect for it. 
+Michael;Great. What time are we meeting up?
+Robert;How about we meet at 8:00 AM at the trailhead? 
+Michael;That sounds good. I'll bring some snacks for us. 
+Robert;Perfect. I'll bring the water bottles and map. 
+Michael;I'm looking forward to it. See you tomorrow. 
+Robert;Same here. See you tomorrow. 
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Hiking Weekend;[Michael, Robert];12.06.2021 15:00:00

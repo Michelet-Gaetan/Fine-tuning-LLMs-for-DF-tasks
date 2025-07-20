@@ -1,0 +1,10 @@
+sender;content
+Brody;Hey guys, did you watch the game last night?
+Eric;Yes, it was quite the match. The final score was unexpected.
+John;I agree. I thought they would lose after the first half.
+Brody;That last-minute goal was a game-changer.
+Eric;Absolutely, it completely turned the tables.
+John;I'm excited to see how the season will progress.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sport Enthusiasts;[Brody, Eric, John];25.08.2021 10:00:00

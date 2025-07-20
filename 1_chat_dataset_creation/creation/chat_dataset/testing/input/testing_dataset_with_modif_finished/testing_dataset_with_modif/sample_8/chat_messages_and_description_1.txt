@@ -1,0 +1,13 @@
+sender;content
+Ashton;Hey guys, did you watch the game last night?
+Ryan;Yeah, it was intense. Can't believe they scored in the last minute.
+Linda;I missed it. Who won?
+Ryan;The Lakers. LeBron was on fire!
+Lavern;I need to start following basketball more closely. I always miss the good games.
+Ashton;We should all go watch a game together sometime.
+Linda;That sounds fun. I'm in!
+Ryan;Me too. Let's plan it.
+Lavern;I'm game. Let's do it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sports Chat;[Ashton, Ryan, Linda, Lavern];20.11.2021 18:30:00

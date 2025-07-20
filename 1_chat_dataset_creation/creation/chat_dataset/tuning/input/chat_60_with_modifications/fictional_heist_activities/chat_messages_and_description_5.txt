@@ -1,0 +1,12 @@
+sender;content
+Michael;We need to get the blueprints of the vault
+John;Sure, I can get that. But we'll need an insider for the security codes
+Michael;I've someone in mind. But he's risky. Can we trust him?
+John;We've no choice. It's the only way
+Michael;Alright, I'll contact him. Meanwhile, you get the blueprints
+John;Deal. Let's meet tomorrow with what we've
+Michael;See you at the usual place. And remember, no traces
+John;Understood. See you tomorrow
+-----
+application;chat group name;list of participants;first message sending datetime
+Signal;Plan B;[Michael, John];24.09.2022 18:45:00

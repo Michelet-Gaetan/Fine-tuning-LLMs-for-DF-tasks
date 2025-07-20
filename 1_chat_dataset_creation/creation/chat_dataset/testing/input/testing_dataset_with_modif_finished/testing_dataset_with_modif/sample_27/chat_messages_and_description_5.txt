@@ -1,0 +1,11 @@
+sender;content
+Tracy;Hey Jon, any plans for the weekend?
+Jon;No major plans Tracy. Maybe a movie. What about you?
+Tracy;I'm thinking of going hiking this weekend.
+Jon;Wow, that sounds fun. Where to?
+Tracy;I'm thinking about the new trail that opened up at Green Park.
+Jon;That sounds exciting. Do take pictures and share them. Have fun!
+Tracy;Definitely will. Thanks, Jon. You enjoy your movie.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Chat;[Tracy, Jon];02.12.2021 10:15:30

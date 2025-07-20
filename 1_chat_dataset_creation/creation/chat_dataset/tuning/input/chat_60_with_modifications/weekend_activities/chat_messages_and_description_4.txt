@@ -1,0 +1,13 @@
+sender;content
+Robert;Hi John, any plans for the weekend?
+John;Hey Robert! Yes, I am thinking about going for a hike. How about you?
+Robert;That sounds great! I was planning to try out a new recipe and do some reading. Which trail are you planning to hike?
+John;I'm considering the Blue Ridge Mountain trail.
+Robert;That's a beautiful trail. I have been there a couple of times. Make sure to carry enough water.
+John;Thanks for the tip, Robert. What book are you planning to read?
+Robert;I got 'The Alchemist' by Paulo Coelho. Heard a lot about it.
+John;It's an excellent read. Enjoy your weekend, Robert!
+Robert;You too, John. Enjoy your hike and cooking!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Plans;[Robert, John];23.03.2022 10:15:30

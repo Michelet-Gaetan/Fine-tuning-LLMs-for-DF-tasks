@@ -1,0 +1,14 @@
+sender;content
+Jayden;Hey guys, what's the plan for this weekend?
+Joy;I was thinking we could go hiking.
+Kathleen;That sounds great! I heard the weather is supposed to be nice.
+Jayden;Perfect. Let's meet at the trailhead at 8am?
+Joy;Sounds good to me.
+Kathleen;Me too. I'll bring some snacks.
+Jayden;Great, I'll pack a first aid kit just in case.
+Joy;Good idea. I'll bring water.
+Kathleen;Looking forward to it. See you both tomorrow!
+Jayden;See you tomorrow!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Hiking Plan;[Jayden, Joy, Kathleen];08.04.2022 18:30:00

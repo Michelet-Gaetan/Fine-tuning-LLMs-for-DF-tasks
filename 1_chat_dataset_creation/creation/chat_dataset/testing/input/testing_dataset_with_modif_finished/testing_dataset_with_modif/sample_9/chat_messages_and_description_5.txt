@@ -1,0 +1,12 @@
+sender;content
+Amanda;Hi Paulette, have you ever pondered about the concept of existence? What it truly means to exist?
+Paulette;Hello Amanda, that's a deep question. I think existence is subjective. It's different for every individual based on their perception.
+Amanda;That's an interesting viewpoint. What about the idea of reality? Do you think our reality is constructed by our minds or is it an independent entity?
+Paulette;I lean towards the concept of constructed reality. Our experiences and perceptions shape our reality.
+Amanda;So, would you say our thoughts and consciousness shape the reality around us?
+Paulette;Yes, I believe so. But at the same time, I think there are certain objective truths or realities that exist beyond our perceptions.
+Amanda;It's fascinating to think about, isn't it? How our minds can potentially shape the world around us.
+Paulette;Definitely, it's an intriguing subject. Philosophy really makes you question the world and your place in it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Philosophy Chat;[Amanda, Paulette];01.05.2022 19:30:00

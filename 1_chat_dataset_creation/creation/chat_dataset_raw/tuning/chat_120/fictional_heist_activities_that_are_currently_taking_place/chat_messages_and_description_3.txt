@@ -1,0 +1,19 @@
+sender;content
+John;We got the blueprints, over
+Robert;Copy that, John. Are you sure these are the latest ones?
+John;Affirmative, Robert. Cross-checked with city records
+Robert;Good. We can't afford any missteps
+John;Next step is to check the security system. William's on it
+Robert;Let him know we need it done by tomorrow. Time is key
+John;Understood. Anything else, boss?
+Robert;Ensure everyone knows their roles. We move in three days
+John;Three days it is. Let's make it count
+Robert;Yes, we will. Remember, no violence. We're professionals, not thugs
+John;Agreed. We're not here to hurt anyone
+Robert;Meet tomorrow at 10. We'll go over everything again
+John;10 it is. See you then
+Robert;Over and out, John
+John;Over and out, Robert
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Operation Bluebird;[John, Robert];28.09.2023 08:15:00

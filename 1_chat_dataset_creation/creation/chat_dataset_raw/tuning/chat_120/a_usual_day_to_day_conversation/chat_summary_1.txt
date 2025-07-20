@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+John and Robert are discussing their current day and planning a breakfast together during the weekend.;
+
+John wonders if Robert already had breakfast. Robert answers that he just had his coffee. When being asked the same question, John answers he is making pancakes and proposes Robert to join. Robert declines because he has a meeting, but he suggests to have a breakfast together the next weekend. Finally, John agrees.;
+
+Sure, the conversation is between two individuals, John and Robert. They are discussing their morning routines, specifically breakfast. John is making pancakes and invites Robert to join him. However, Robert is unable to join because he has a meeting in half an hour. They propose a plan to have breakfast together over the weekend. The conversation ends on a positive note, with both looking forward to their meetup. The conversation takes place over WhatsApp in a chat group named "Morning Coffee". The first message was sent by John on 4th September 2022 at 8:30 AM.

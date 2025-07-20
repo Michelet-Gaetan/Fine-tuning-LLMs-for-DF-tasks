@@ -1,0 +1,17 @@
+sender,content
+Robert,"Hey guys, did anyone watch the soccer game last night?";
+James,"I did, Robert. It was an intense match!";
+Robert,"I know, right? That last-minute goal was breathtaking.";
+James,"Absolutely, the team's strategy was on point.";
+Elizabeth,"I missed it. Who scored the last goal?";
+Robert,"It was Johnson. His performance was fantastic!";
+James,"Indeed, Johnson's skills really shone through in the match.";
+Elizabeth,"Sounds like I missed a great game. I'll have to catch the highlights.";
+Robert,"Definitely, Elizabeth. You'll enjoy it.";
+James,"I'm looking forward to the next match. Hope it's as thrilling.";
+Robert,"Me too, James. Let's plan to watch it together.";
+Elizabeth,"Count me in too!";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Game Night Chat,"[Robert, James, Elizabeth]",15.09.2021 20:30:00

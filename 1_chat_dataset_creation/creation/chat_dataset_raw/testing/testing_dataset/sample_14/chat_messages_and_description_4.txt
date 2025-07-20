@@ -1,0 +1,14 @@
+sender,content
+Brody,"Hey guys, I'm thinking of getting a new pet. Any suggestions?";
+Eric,"What about a dog, Brody? They're loyal and great companions.";
+John,"True, but they require a lot of care and time. How about a cat, Brody? They're more independent.";
+Brody,"I do like cats. But I'm also considering something a little more unconventional. Like a reptile.";
+Eric,"A reptile could be cool! Maybe a bearded dragon or a gecko?";
+John,"Reptiles are definitely unique pets. But remember they also have specific needs, like regulated temperatures.";
+Brody,"Yeah, I'll have to do some research. Thanks for the suggestions, guys.";
+Eric,"No problem, Brody. Let us know what you decide!";
+John,"Yeah, good luck with your decision, Brody!"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Pet Lovers,'Brody, Eric, John',12.06.2021 15:45:30

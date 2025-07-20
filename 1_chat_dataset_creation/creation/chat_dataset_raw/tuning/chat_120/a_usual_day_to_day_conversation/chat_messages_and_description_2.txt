@@ -1,0 +1,12 @@
+sender;content
+James;Hey Mark, did you finish that report for the meeting tomorrow?
+Mark;Yes James, I finished it last night. I'll send it over to you shortly.
+James;Great, thanks Mark. I've been tied up all day with client calls.
+Mark;No problem at all James. I understand how busy things can get.
+James;I appreciate your understanding. Do you need anything from my end for the presentation?
+Mark;No, I think I've got everything covered. But I'll let you know if something comes up.
+James;Sounds good. Have a great evening, Mark.
+Mark;You too, James. Talk to you tomorrow.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Work Project;[James, Mark];25.06.2021 16:45:00

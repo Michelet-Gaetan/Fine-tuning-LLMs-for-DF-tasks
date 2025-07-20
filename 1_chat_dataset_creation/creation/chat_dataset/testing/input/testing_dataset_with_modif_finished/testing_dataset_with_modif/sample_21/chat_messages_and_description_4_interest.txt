@@ -1,0 +1,15 @@
+sender;content
+Robert;Good morning, Tiana. How are you today?
+Tiana;Morning Robert, I'm good, just getting ready for work. How about you?
+Robert;I'm doing well, thank you. Just had my morning coffee and about to start working.
+Tiana;That's good. What's on the agenda today?
+Robert;I have a few meetings and need to finish a report. How about you?
+Tiana;I need to complete a project and then get to some email backlog. It's going to be a busy day.
+Robert;Sounds like it. Remember to take breaks when you need them.
+Tiana;I will. You do the same, Robert. We often forget to take care of ourselves in the hustle.
+Robert;You're absolutely right, Tiana. Let's promise to look after ourselves better.
+Tiana;Deal. Have a productive day, Robert.
+Robert;You too, Tiana. Catch you later.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Work Chat;[Robert, Tiana];23.03.2022 08:30:00

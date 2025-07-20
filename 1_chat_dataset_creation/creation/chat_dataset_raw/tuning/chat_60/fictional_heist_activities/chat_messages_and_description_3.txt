@@ -1,0 +1,15 @@
+sender,content
+James,"Just got word of a possible target. High value, high risk."
+Michael,"I'm in. What are we looking at?"
+James,"A private collection. Art, jewels, all secured in a private estate."
+Robert,"Sounds like we're going to need a plan. Michael, any ideas?"
+Michael,"I think we need inside information. Someone on the inside to give us a layout."
+John,"I can get us that. I know a guy."
+James,"Okay, we meet tomorrow to discuss the plan. Be prepared."
+Robert,"We also need a contingency plan, in case things go south."
+John,"Agreed. We need to cover all our bases."
+Michael,"Let's do this. Tomorrow, we start planning."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"The Heist Crew",[James, Michael, Robert, John],"14.03.2022 16:25:34"

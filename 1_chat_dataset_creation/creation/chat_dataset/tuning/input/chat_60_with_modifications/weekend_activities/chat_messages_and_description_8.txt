@@ -1,0 +1,15 @@
+sender;content
+James;Hey everyone, any plans for the weekend?
+Robert;I was thinking about a hike. How about you, Michael?
+Michael;Sounds good to me. I can bring some snacks.
+Patricia;I'd love to join. I can drive us there.
+Robert;Great! Patricia, can you pick us up at 9AM on Saturday?
+Patricia;Sure, see you then.
+James;Awesome! Let's prepare for an adventurous weekend!
+Michael;Looking forward to it!
+Robert;Don't forget to bring your hiking boots.
+James;And water bottles too. Stay hydrated.
+Patricia;Got it all noted down. Excited for the weekend!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Hikers;[James, Robert, Michael, Patricia];23.09.2021 18:30:00

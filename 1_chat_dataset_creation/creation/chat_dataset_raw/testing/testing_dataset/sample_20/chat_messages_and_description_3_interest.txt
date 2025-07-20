@@ -1,0 +1,13 @@
+sender,content
+Brandon,"Hey guys, have you picked up any new hobbies lately?";
+Marvin,"I've actually started painting miniatures, it's been a pretty relaxing way to spend my evenings.";
+Kea,"That's cool, Marvin! I've been trying to improve my photography skills.";
+Joshua,"Oh, nice! I've been learning how to play the guitar.";
+Brandon,"That's awesome! We should all share our progress sometime.";
+Marvin,"Sounds good to me. I can share some pictures of the miniatures I've painted.";
+Kea,"I'd be happy to share some of my photographs.";
+Joshua,"And I can play a song for you guys when I get a bit better.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Hobby Chat",["Brandon", "Marvin", "Kea", "Joshua"],"25.06.2021 18:45:00"

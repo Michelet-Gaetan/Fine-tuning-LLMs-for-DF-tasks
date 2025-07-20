@@ -1,0 +1,14 @@
+sender,content
+Victoria,"Hey everyone, just got a new puppy. Any advice for a first-time pet owner?";
+Kamrin,"That's great, Victoria! One piece of advice is to make sure you're patient. Puppies can be a handful, but they're worth it.";
+Juandiego,"Definitely invest in some chew toys. Your furniture will thank you later.";
+Jacqueline,"Don't forget about puppy training classes. They can be really helpful for both you and your new pet.";
+Kamrin,"Also, make sure to get your puppy vaccinated and regularly checked by a vet.";
+Victoria,"Thanks everyone. This is really helpful. I'll make sure to keep all of this in mind.";
+Juandiego,"You're welcome, Victoria. Enjoy your new puppy!";
+Jacqueline,"Yes, and don't hesitate to reach out if you have any other questions. We're here to help.";
+Kamrin,"Absolutely. We're all pet owners here, so we can share our experiences."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Pet Lovers Group","['Victoria', 'Kamrin', 'Juandiego', 'Jacqueline']","12.05.2021 14:30:00"

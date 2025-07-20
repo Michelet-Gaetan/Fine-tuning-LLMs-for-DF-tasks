@@ -1,0 +1,13 @@
+sender;content
+Trinity;Good morning, Glenda. Hope you're doing well.
+Glenda;Good morning, Trinity! I'm doing well, thank you. How about you?
+Trinity;I'm good, thanks for asking. I wanted to discuss the new project we've been assigned.
+Glenda;Sure, Trinity. What's up?
+Trinity;I was going through the project brief and I think we need to schedule a meeting with the team to discuss the execution plan.
+Glenda;I agree. We need to have a clear understanding and plan before we start. How about tomorrow at 10 AM?
+Trinity;Sounds perfect. I'll send out the calendar invite.
+Glenda;Great! In the meantime, I'll go through the project brief again. If I have any questions or suggestions, I'll email you.
+Trinity;That sounds like a plan. Thank you, Glenda.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Work Discussion;[Trinity, Glenda];15.04.2022 09:00:00

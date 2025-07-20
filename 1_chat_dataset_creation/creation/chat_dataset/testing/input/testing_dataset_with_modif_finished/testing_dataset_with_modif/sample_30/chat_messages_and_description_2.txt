@@ -1,0 +1,13 @@
+sender;content
+Jayden;Hey, have you guys ever been to Bella's Italian Bistro?
+Joy;Oh yes, I have been there. Their pasta is amazing!
+Kathleen;I haven't been there yet, but I've heard a lot about it.
+Jayden;Their lasagna is to die for. And the ambiance is perfect for a cozy evening.
+Joy;Yes, the ambiance is indeed quite nice. But I also really liked their tiramisu.
+Kathleen;Sounds great. How about we go there next weekend?
+Jayden;That sounds like a plan! Saturday?
+Joy;Saturday works for me. Kathleen?
+Kathleen;Sure, Saturday it is. Looking forward to it!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Foodie Buddies;[Jayden, Joy, Kathleen];02.05.2022 18:30:00

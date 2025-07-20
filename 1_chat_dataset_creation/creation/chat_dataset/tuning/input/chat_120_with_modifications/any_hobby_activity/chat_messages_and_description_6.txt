@@ -1,0 +1,16 @@
+sender;content
+James;Hey Robert, have you ever tried model train building?
+Robert;Hi James, no I haven't. Is it your hobby?
+James;Yes, it's really fascinating. You get to build miniature landscapes and run a train through it.
+Robert;Sounds interesting. What do you need to get started?
+James;Well, you'd first need a model train set. You can get one online or at a hobby shop.
+Robert;And what about the landscape?
+James;You can build it with various materials. I use foam and paint to create hills, tunnels, and such.
+Robert;I'd love to give it a try. Where do you usually buy your supplies?
+James;I get most of my stuff from 'Hobby Crafters'. They have a great selection and good prices.
+Robert;Thanks for the info James. I'll check it out.
+James;No problem Robert. Let me know if you need any help getting started.
+Robert;Will do. Thanks again, James.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Hobby Talk;[James, Robert];17.02.2022 14:25:30

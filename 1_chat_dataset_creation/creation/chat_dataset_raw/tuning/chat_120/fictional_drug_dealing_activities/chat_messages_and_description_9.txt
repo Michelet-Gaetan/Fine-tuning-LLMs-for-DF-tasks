@@ -1,0 +1,13 @@
+sender;content
+John;We've got to move the product quickly
+Robert;Agreed, the heat is on us
+Jennifer;I have a contact, he might be able to help
+John;Good, get in touch with him
+Robert;We need to be careful, no loose ends
+Jennifer;Understood, I'll handle it
+John;Next meeting, same time next week. Stay safe
+Robert;Affirmative
+Jennifer;Will update you guys soon
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;The Shadow Network;[John, Robert, Jennifer];12.06.2021 19:03:45

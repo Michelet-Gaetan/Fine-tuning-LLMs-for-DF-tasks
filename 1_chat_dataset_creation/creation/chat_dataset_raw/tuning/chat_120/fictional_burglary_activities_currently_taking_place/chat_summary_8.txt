@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+Robert, Michael, James, and Thomas are disussing a plan to rob a vault.;
+
+Robert notifies the others that he could obtain the map of the building. On the other hand, Michael suggests to go by night time to stay discrete, and James states that he found someone to disarm the alarm. They then discuss the timing. According to Thomas guards rotate every 30 mins. Michael then explains that they only have 15 min so that they have time to escape. James is worried given the location of the valuables, inside a vault. They finally agree to meet the next day to fine-tune their plan.;
+
+The conversation is a discussion between four individuals named Robert, Michael, James, and Thomas. They are planning a fictional burglary, discussing various aspects such as the building layout, the timing, disabling the alarms, and dealing with the security guards. The conversation emphasizes the need for precision and avoiding mistakes. The group also mentions a vault, suggesting the target of their burglary. They agree to meet the next day to finalize their plan.

@@ -1,0 +1,17 @@
+sender;content
+Falon;Hey Manuel, have you heard the new album of Coldplay?
+Manuel;Hey Falon, yes I did. I think it's really good, especially the song "Coloratura".
+Falon;I agree, "Coloratura" is my favorite too. I also loved their collaboration with BTS.
+Manuel;Yes, that was quite unexpected. But the song "My Universe" turned out to be a great blend of two different styles.
+Falon;Exactly. It's like a perfect fusion of pop and rock. What other genres do you listen to?
+Manuel;I'm a big fan of jazz and blues. Recently, I've been listening to a lot of Miles Davis.
+Falon;Oh, Miles Davis is a legend. I personally love "So What". It's such a classic.
+Manuel;Yes, "So What" is a masterpiece. Do you play any instruments?
+Falon;I'm learning to play the guitar. I hope to play like Eric Clapton one day.
+Manuel;That's cool. Keep practicing and you'll get there. Speaking of Clapton, have you heard his song "Tears in Heaven"?
+Falon;Yes, it's a beautiful song. It always makes me emotional.
+Manuel;Same here. It's one of those songs that touches your soul.
+Falon;I totally agree. Music has such a powerful impact on our emotions.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Music Enthusiasts;[Falon, Manuel];01.10.2021 16:20:00

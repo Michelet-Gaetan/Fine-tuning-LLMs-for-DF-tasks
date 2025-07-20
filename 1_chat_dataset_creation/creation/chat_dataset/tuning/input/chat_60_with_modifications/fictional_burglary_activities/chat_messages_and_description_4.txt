@@ -1,0 +1,14 @@
+sender;content
+John;Hey guys, have you heard about the new security system at the museum?
+Matthew;No, what about it?
+John;Heard they got some new tech, might be a tough one to crack.
+Robert;Well, it's not the first time we've faced something like this.
+Matthew;That's true. We just need to study the system.
+John;Agreed. Let's start planning.
+Robert;Sounds good. Let's meet up tomorrow to discuss it.
+John;Tomorrow at 8?
+Matthew;Works for me.
+Robert;Me too, see you guys then.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Masterminds;[John, Matthew, Robert];17.04.2022 19:45:30

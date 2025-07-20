@@ -1,0 +1,14 @@
+sender;content
+Michael;Hello everyone, I was thinking we should have a meeting to discuss the upcoming project. What do you think?
+John;I agree, Michael. We need to sort out a few things before we proceed.
+Elizabeth;That sounds like a good idea. When are we thinking?
+Michael;How about next Monday at 10am?
+John;I'm free at that time.
+Elizabeth;I have a prior engagement at that time. Can we do it in the afternoon?
+Michael;Sure, how about 2pm?
+John;That works for me.
+Elizabeth;Perfect. 2pm it is.
+Michael;Great. I'll send out a calendar invite. See you then.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Project Discussion Group;[Michael, John, Elizabeth];23.04.2022 09:15:00

@@ -1,0 +1,18 @@
+sender;content
+Mae;Brent, we're on. Are you in position?
+Brent;Affirmative, Mae. The security is tight, but I've made it past the initial checkpoints.
+Mae;Good, we can't afford any mistakes. Keep me updated.
+Brent;Understood. I'm heading to the control room now.
+Mae;Perfect. I'm making my way to the vault.
+Brent;I'm in the control room. Disabling the security systems now.
+Mae;Great. I'm at the vault. Waiting for your signal.
+Brent;Security systems disabled. You're good to go.
+Mae;Vault door opening. I'm in.
+Brent;Security is picking up some disturbance. I suggest you hurry.
+Mae;Got what we came for. Heading out now.
+Brent;Security is on high alert. I'll create a diversion.
+Mae;Thanks, Brent. Meet at the rendezvous point.
+Brent;Affirmative. See you there, Mae.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Heist Planning;[Mae, Brent];15.12.2021 21:30:00

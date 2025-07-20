@@ -1,0 +1,14 @@
+sender;content
+Robert;Hey John, have you heard about this new investment opportunity?
+John;No, what's it about Robert?
+Robert;It's this amazing new cryptocurrency. It's supposed to multiply your investment by 10 in just a month.
+John;That sounds too good to be true. Who's behind it?
+Robert;Some finance guru from Europe. He's predicted a lot of the big market moves in the past.
+John;Hm, I'm not sure Robert. It sounds risky.
+Robert;I thought you'd say that. But look, I've already invested and I've seen some returns.
+John;Really? How much have you made?
+Robert;Almost double my investment in just a week!
+John;I'll need to think about it, Robert. It sounds like a potential scam to me.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Investment Chat;[Robert, John];15.02.2022 10:45:00

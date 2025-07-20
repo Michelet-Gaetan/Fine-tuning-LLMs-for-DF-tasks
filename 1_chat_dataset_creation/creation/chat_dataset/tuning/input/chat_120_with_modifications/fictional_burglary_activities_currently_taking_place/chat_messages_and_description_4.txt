@@ -1,0 +1,11 @@
+sender;content
+John;Hey, did anyone check out that mansion on Oak Street?
+Robert;Yes, John. Looks promising. Quiet neighborhood, wealthy owners.
+Jessica;I agree with Robert. Also, it seems like the owners are away for a couple of weeks.
+Daniel;But we need to be cautious. There's a security system installed.
+Mary;I know someone who can help us bypass it.
+Thomas;Good, Mary. Let's plan things out carefully.
+John;Agree with Thomas. Let's meet tonight to discuss this further.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Oak Street Operation;[John, Robert, Jessica, Daniel, Mary, Thomas];18.04.2022 08:45:23

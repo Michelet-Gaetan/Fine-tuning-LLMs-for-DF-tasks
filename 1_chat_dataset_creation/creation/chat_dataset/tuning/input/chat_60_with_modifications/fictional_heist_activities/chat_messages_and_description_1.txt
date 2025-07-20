@@ -1,0 +1,16 @@
+sender;content
+Robert;Alright, we need a plan for the heist.
+James;I've got a blueprint of the place. It's a highly secure vault.
+Robert;Great. We need to know where the security cameras and guards are.
+James;Already on it. I've marked their locations on the blueprint.
+Robert;Perfect. Now we need a way to disable them.
+James;I've got a friend who's good with tech. He can help us.
+Robert;Get him on board. We also need a fast car for the escape.
+James;I know a guy who owns a high-speed sports car. I'll talk to him.
+Robert;We should also have a backup plan in case something goes wrong.
+James;I agree. We can have a second car ready at a different location.
+Robert;Sounds like a plan. Let's meet tomorrow to finalize everything.
+James;Alright. See you then.
+-----
+application;chat group name;list of participants;first message sending datetime
+Signal;The Heist Plan;[Robert, James];01.02.2022 21:15:30

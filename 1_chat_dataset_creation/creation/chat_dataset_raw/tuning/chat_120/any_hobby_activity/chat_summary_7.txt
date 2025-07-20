@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+James, Robert, Mary, and David are chatting of the model rocketry hobby.;
+
+James asks the others if they ever tried model rocketry. Robert has not and might try, but Mary and David have. James asks Mary for beginner tips, and she simply suggets to start with a beginner kit and follow the instructions. David also proposes help to James and Robert if they needs some.;
+
+In the conversation, James initiates a discussion about model rocketry as a hobby within a WhatsApp group named "Hobby Enthusiasts". Robert shows interest but admits he hasn't tried it yet. Mary, who has experience with model rocketry, suggests beginners to start with a kit. David, who's been into the hobby for years, offers his help to James and Robert. Both are grateful and look forward to starting their journey into model rocketry. The conversation took place on 12th April 2022, starting at 6:30 PM.

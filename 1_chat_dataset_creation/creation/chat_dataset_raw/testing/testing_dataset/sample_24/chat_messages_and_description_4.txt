@@ -1,0 +1,14 @@
+sender, content
+Meredith, "Hey guys, have you seen the latest video on the 'Tech Guru' channel?";
+Roy, "Not yet, Meredith. Is it worth watching?";
+Steven, "I saw it this morning. It's about the impact of AI on video editing. Quite fascinating.";
+Meredith, "Exactly, Steven! The way AI can enhance video quality and do complex edits is mind-blowing.";
+Roy, "Sounds interesting. I'll definitely give it a watch.";
+Steven, "Meredith, do you have any other recommendations?";
+Meredith, "Sure, there's another channel 'Science Today' that posted a video about virtual reality. You guys might find it interesting.";
+Roy, "Great! Thanks for the recommendations, Meredith.";
+Steven, "Yes, thanks Meredith. I'll check that out too."
+
+-----
+application; chat group name; list of participants; first message sending datetime
+WhatsApp; Online Video Enthusiasts; ['Meredith', 'Roy', 'Steven']; 20.09.2021 10:15:00

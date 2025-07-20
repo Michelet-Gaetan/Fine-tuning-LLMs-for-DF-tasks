@@ -1,0 +1,16 @@
+sender;content
+Eusebia;Hey Azaiah, have you heard about the upcoming concert in town?
+Azaiah;No, I haven't. Who's performing?
+Eusebia;It's the rock band, The Rolling Stones.
+Azaiah;Oh wow, I am a huge fan of them. When is the concert?
+Eusebia;It's on the 25th of next month.
+Azaiah;That's perfect. I am free that day. Where can I get the tickets?
+Eusebia;They are selling them online. I can send you the link.
+Azaiah;Please do, and thanks for the info!
+Eusebia;You're welcome. It's going to be a blast!
+Azaiah;I can't wait. Let's plan to go together.
+Eusebia;Sounds like a plan. See you at the concert, Azaiah.
+Azaiah;Definitely, see you there, Eusebia.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Concert Chat;[Eusebia, Azaiah];20.04.2022 15:30:00

@@ -1,0 +1,17 @@
+sender,content
+Meredith,"Hey guys, have you heard the new album from The Weeknd?"
+Roy,"Not yet, is it any good?"
+Meredith,"I think it's fantastic. Very different from his previous work though."
+Steven,"I'm more of a classic rock guy. The Weeknd isn't really my cup of tea."
+Roy,"You should give it a try, Steven. It's always good to explore new genres."
+Steven,"Maybe I will. Any specific song you guys recommend?"
+Meredith,"I really love 'Save Your Tears'. It has a catchy tune."
+Roy,"I second that. Also, 'Blinding Lights' is a great track as well."
+Steven,"Okay, I'll check out those songs and let you guys know what I think."
+Meredith,"Great! Looking forward to your thoughts, Steven."
+Roy,"Same here. It's always interesting to hear different perspectives on music."
+Steven,"Sure thing. Let's chat about this again next week."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Music Lovers",[Meredith, Roy, Steven],"15.03.2022 20:15:30"

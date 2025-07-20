@@ -1,0 +1,16 @@
+sender,content
+Parker,"Hey guys, have you started looking into your college applications yet?"
+April,"Yeah, I'm so overwhelmed. There are so many options."
+Alexander,"I've narrowed down my choices to a few universities. Now, it's all about writing the perfect application."
+Teegan,"I'm stuck on the essay part. How do you even begin to write about 'a significant experience in your life?'"
+Kim,"Maybe start by brainstorming some key moments that had a big impact on you, Teegan."
+Parker,"That's a good idea, Kim. And remember, it doesn't have to be something huge. It could be something small that changed your perspective."
+April,"I'm also struggling with financial aid. The forms are so confusing."
+Alexander,"I can help with that, April. I've been through it with my older sister."
+Teegan,"That would be great, Alexander. Maybe we can all meet up this weekend to work on our applications together."
+Kim,"That sounds like a plan. Let's do it."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"College Applications",[Parker, April, Alexander, Teegan, Kim],"10.09.2021 18:15:00"

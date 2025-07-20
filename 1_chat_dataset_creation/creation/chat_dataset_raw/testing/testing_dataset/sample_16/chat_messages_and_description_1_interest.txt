@@ -1,0 +1,19 @@
+sender, content
+Chris, Guys, I've been thinking about a way we could make some quick cash.
+Kenneth, Not another one of your get-rich-quick schemes, Chris.
+Chris, No, hear me out. This is different.
+Greyson, Alright, I'm intrigued. What is it?
+Chris, We could set up a fake lottery. All we need is an email list and a convincing story.
+Robert, Sounds risky. What if we get caught?
+Kenneth, And where would we get an email list?
+Greyson, I know a guy who could get us that. 
+Robert, Still, isn't this illegal?
+Chris, Only if we get caught.
+Kenneth, I'm out. This sounds too risky.
+Greyson, I'm with Kenneth. It's not worth it.
+Robert, Agreed. Chris, maybe it's time for some honest work.
+Chris, Alright, I get it. I'll think of something else.
+
+-----
+application, chat group name, list of participants, first message sending datetime
+WhatsApp, Quick Cash Ideas, ['Chris', 'Kenneth', 'Greyson', 'Robert'], 20.03.2022 18:20:30

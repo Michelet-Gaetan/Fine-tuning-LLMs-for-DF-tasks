@@ -1,0 +1,18 @@
+sender,content
+Ashton,"Hi guys, have you picked up any new hobbies during the quarantine?";
+Ryan,"I've actually started baking. Never thought I'd enjoy it this much!";
+Linda,"That's awesome, Ryan! I've been doing a lot of gardening. It's so therapeutic.";
+Ashton,"I've heard a lot about gardening being therapeutic. Maybe I should try it too.";
+Lavern,"Well, I've been doing a lot of reading. Anyone has any book suggestions?";
+Ryan,"If you're into mystery, I recommend 'The Silent Patient'. It's really gripping.";
+Linda,"I'm more into biographies. Recently read 'Becoming' by Michelle Obama. Highly recommend it.";
+Ashton,"I've been learning guitar. If anyone's interested, I can share some learning resources.";
+Lavern,"That'd be great Ashton! I've always wanted to learn a musical instrument.";
+Ryan,"Same here. Please share the resources, Ashton.";
+Linda,"Looking forward to it Ashton. And Ryan, do share some of your baking recipes!";
+Ashton,"Sure thing. Will share the guitar resources soon.";
+Lavern,"Thanks Ashton. This chat has been really helpful. Let's do this more often.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Hobby Talk",["Ashton", "Ryan", "Linda", "Lavern"],"20.05.2021 15:30:00"

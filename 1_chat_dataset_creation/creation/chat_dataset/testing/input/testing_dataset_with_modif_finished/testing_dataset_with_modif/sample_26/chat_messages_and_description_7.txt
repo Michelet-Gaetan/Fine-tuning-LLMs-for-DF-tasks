@@ -1,0 +1,17 @@
+sender;content
+Jaiden;Hey guys, just wondering, what's everyone's major?
+Cindy;I'm studying Computer Science. How about you Jaiden?
+Jaiden;I'm in Business Administration. Tre, John, what about you guys?
+Tre;I'm majoring in Psychology.
+John;I'm in the same boat as Cindy, Computer Science.
+Cindy;That's cool John! We should study together sometime.
+John;Definitely, Cindy. It would be great to have a study partner.
+Tre;Jaiden, what made you choose Business Administration?
+Jaiden;I've always been interested in running my own business someday. So I thought this would be the best path.
+Cindy;That sounds like a great plan, Jaiden.
+John;I agree. It's important to follow our passions.
+Tre;Absolutely. We're all on our individual paths, but it's nice we can share the journey.
+Jaiden;Couldn't agree more, guys. Let's all do our best!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;College Chat;[Jaiden, Cindy, Tre, John];15.04.2022 10:30:00

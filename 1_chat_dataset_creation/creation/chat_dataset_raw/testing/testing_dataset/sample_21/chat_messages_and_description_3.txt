@@ -1,0 +1,14 @@
+sender;content
+Robert;Hey Tiana, have you seen the latest news about the Mars Rover?
+Tiana;No, I haven't yet. What's up?
+Robert;Apparently, it has discovered some intriguing rock formations that could potentially indicate past life on Mars.
+Tiana;Wow, that's fascinating! I'll have to look into it more. Thanks for sharing, Robert!
+Robert;No problem, Tiana. I thought you'd find it interesting given your interest in space exploration.
+Tiana;Absolutely! I'm always amazed by the new things we're discovering about our universe.
+Robert;Same here. It's a great time to be alive and witness these incredible advancements.
+Tiana;Definitely! I can't wait to see what they'll discover next on Mars.
+Robert;Me too, I hope they'll keep us updated.
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Current News Discussion;[Robert, Tiana];15.02.2022 14:30:00

@@ -1,0 +1,16 @@
+sender,content
+Paul,Hey Amelia, have you seen the new episode of Stranger Things?
+Amelia,Hi Paul, no I haven't. Is it good?
+Paul,It's amazing! The plot twist was totally unexpected.
+Amelia,Wow! Now I'm intrigued. No spoilers, please!
+Paul,Trust me, you'll love it. Have you been keeping up with other shows?
+Amelia,I've been watching The Crown lately. It's quite interesting.
+Paul,Oh yeah? I've heard good things about it. Worth a watch?
+Amelia,Definitely! The performances are top notch.
+Paul,I'll definitely check it out then. Any other recommendations?
+Amelia,If you're into thrillers, you should definitely watch Money Heist.
+Paul,Thanks! I'll add that to my list.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,TV Talk,[Paul, Amelia],20.09.2021 18:45:00

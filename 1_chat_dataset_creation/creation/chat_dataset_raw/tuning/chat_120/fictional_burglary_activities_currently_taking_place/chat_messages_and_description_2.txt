@@ -1,0 +1,14 @@
+sender,content
+"Michael","Hey James, I heard about a huge fictional burglary spree happening in our city."
+"James","Yeah, I've heard about it too. Seems like it's straight out of a crime novel."
+"Michael","Exactly. They say the burglar has a unique way of getting in and out without being noticed."
+"James","I've heard that too. Apparently, they're using some kind of advanced tech or something."
+"Michael","That's correct. They're supposedly using lock-picking tools that are almost silent."
+"James","Wow, that's scary. But it's also fascinating in a way."
+"Michael","Totally agree. It's like we're living in a storybook."
+"James","Let's hope the cops catch this guy soon though."
+"Michael","Indeed. It's exciting to talk about, but it's a different story being a victim."
+"James","Right. Here's hoping they catch this fictional burglar soon."
+-----
+application,chat group name,list of participants,first message sending datetime
+"WhatsApp","Fictional Crimes Chat","[Michael, James]","01.12.2022 10:30:00"

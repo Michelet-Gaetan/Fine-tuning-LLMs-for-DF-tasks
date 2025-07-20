@@ -1,0 +1,14 @@
+sender,content
+Robert,"Hey guys, I've found something interesting."
+Anthony,"What is it, Robert?"
+Robert,"There's been a series of fictional burglaries in town."
+David,"Fictional? You mean like in a book or movie?"
+Robert,"Exactly. It's like someone's reenacting scenes from famous crime novels."
+Anthony,"That's bizarre. Any idea who's behind it?"
+Robert,"No clue yet. I thought we could look into it."
+David,"Sounds like a plan. Count me in."
+Anthony,"Me too. Let's solve this mystery."
+Robert,"Great. Let's meet up tomorrow to discuss our plan of action.";
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Mystery Solvers",["Robert", "Anthony", "David"],"22.08.2021 16:30:45"

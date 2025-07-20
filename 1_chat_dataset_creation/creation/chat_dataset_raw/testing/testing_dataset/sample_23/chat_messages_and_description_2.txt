@@ -1,0 +1,13 @@
+sender,content
+Sarah,Hey Geraldine, have you been keeping up with the Olympics?
+Geraldine,Yes, I have Sarah! I'm really enjoying the swimming events. How about you?
+Sarah,I've been glued to the athletics! The 100m sprint was incredible!
+Geraldine,It was, wasn't it? I also loved the gymnastics. Simone Biles is amazing.
+Sarah,She really is. Have you seen any of the football games?
+Geraldine,I watched a couple. The skill level is unbelievable!
+Sarah,It certainly is. I can't wait for the next Olympics.
+Geraldine,Me neither! It's going to be a long wait but worth it.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Sports Chatter,[Sarah, Geraldine],20.08.2021 18:30:00

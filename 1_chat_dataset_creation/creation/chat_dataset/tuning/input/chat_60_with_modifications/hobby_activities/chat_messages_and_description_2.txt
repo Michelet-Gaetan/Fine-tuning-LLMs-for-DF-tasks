@@ -1,0 +1,12 @@
+sender;content
+Mary;Hey, have you ever tried painting as a hobby?
+Jennifer;Hi Mary, yes, I have tried it a few times. It's relaxing.
+Mary;That's great! Do you have any specific type of painting you prefer?
+Jennifer;I usually prefer watercolor painting. It's quite challenging but fun.
+Mary;Wow, watercolor painting sounds interesting. Could you share some tips with me?
+Jennifer;Sure, I would suggest starting with simple shapes and gradually moving to complex ones. Also, mix colors on the palette, not on the paper.
+Mary;That's quite helpful, thank you Jennifer.
+Jennifer;You're welcome, Mary. And remember, practice is key.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Hobby Chat;[Mary, Jennifer];01.07.2021 18:30:00

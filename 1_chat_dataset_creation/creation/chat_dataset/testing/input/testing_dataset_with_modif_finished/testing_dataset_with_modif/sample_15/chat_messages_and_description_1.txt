@@ -1,0 +1,14 @@
+sender;content
+David;Hi Thomas, are you up for a trip to Italy this summer?
+Thomas;Hey David, That sounds interesting. What cities are we considering?
+David;I was thinking Rome, Venice, and maybe Florence. What do you think?
+Thomas;That sounds great. But I'd like to add Milan to the list.
+David;Sure, Milan sounds good too. We should probably start planning.
+Thomas;Agreed. I can look into accommodation and travel within Italy.
+David;Great, I'll take care of the flights and itinerary then.
+Thomas;Sounds like a plan. Let's start working on this soon.
+David;Absolutely, we should meet over the weekend to finalize everything.
+Thomas;Perfect, see you then.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Italy Summer Trip;[David, Thomas];15.03.2022 10:15:30

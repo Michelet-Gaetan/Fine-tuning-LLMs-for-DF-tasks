@@ -1,0 +1,14 @@
+sender;content
+Helen;Hi Karen, how's the weather over there?
+Karen;Hi Helen! It's a bit chilly, but clear skies. How about where you are?
+Helen;It's actually quite warm here, sunny with a few clouds.
+Karen;Oh, that sounds lovely. I miss the sunshine.
+Helen;I can imagine. How's the forecast looking for the rest of the week?
+Karen;It's supposed to be a bit warmer, but still mostly cloudy. No rain though, which is good.
+Helen;That's definitely a silver lining. It's supposed to be sunny all week here.
+Karen;Lucky you! I'll have to visit sometime.
+Helen;You're always welcome! Let's hope for good weather when you do.
+Karen;That would be great. Fingers crossed.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weather Chat;[Helen, Karen];12.05.2022 11:02:45

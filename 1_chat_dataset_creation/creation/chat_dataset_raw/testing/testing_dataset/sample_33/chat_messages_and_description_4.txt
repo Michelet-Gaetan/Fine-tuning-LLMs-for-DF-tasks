@@ -1,0 +1,17 @@
+sender;content
+Robert;"Hi Joe, how are you doing?"
+Joe;"Hey Robert, I'm doing good. How about you?"
+Robert;"I'm fine. I was just thinking about our family reunion coming up."
+Joe;"Yes, it's going to be great seeing everyone again. It's been too long."
+Robert;"Exactly. Do you remember the last one we had?"
+Joe;"Yeah, I remember. It was a lot of fun. The kids had a blast."
+Robert;"That's true. How is your family doing?"
+Joe;"They are all doing fine. The kids are growing up so fast."
+Robert;"That's great to hear. How's your wife doing?"
+Joe;"She's doing well. She's busy with work but she's looking forward to the reunion."
+Robert;"That's good to hear. My wife is also excited about the reunion."
+Joe;"It's going to be a great time. I can't wait."
+
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Family reunion chat;[Robert, Joe];01.04.2022 15:30:00

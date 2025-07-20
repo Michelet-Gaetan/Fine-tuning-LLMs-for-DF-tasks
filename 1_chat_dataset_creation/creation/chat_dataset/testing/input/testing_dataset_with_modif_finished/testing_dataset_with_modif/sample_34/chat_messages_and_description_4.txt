@@ -1,0 +1,14 @@
+sender;content
+Adam;Hey guys, have you been following the NFL season?
+Shelby;Yeah, been rooting for the Chiefs all the way!
+Kyle;Haha, good luck with that, Shelby. I'm all for the Buccaneers this year.
+Leon;You guys are all about football, huh? I've been following the NBA more closely.
+Jessica;That's cool, Leon. Who's your favorite team?
+Leon;Definitely the Lakers. They've been doing great this season.
+Jessica;Nice. I've been trying to keep up with both NFL and NBA, but it's a lot.
+Adam;Agreed, Jessica. It's hard to keep track of everything.
+Shelby;Well, it's all part of the fun. Keeps us engaged, right?
+Kyle;Absolutely. Can't wait for the next games.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sport Enthusiasts;[Adam, Shelby, Kyle, Leon, Jessica];15.02.2022 18:45:00

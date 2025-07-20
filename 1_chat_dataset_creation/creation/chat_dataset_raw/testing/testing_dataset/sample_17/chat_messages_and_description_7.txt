@@ -1,0 +1,19 @@
+sender,content
+Helen,Hey Karen, how's the college search going?
+Karen,Hi Helen, it's a bit overwhelming, to be honest. There are so many options!
+Helen,I know right! It's hard to decide which one is the best fit.
+Karen,Exactly. I'm looking at the course offerings, faculty, location, everything.
+Helen,Have you visited any campuses yet?
+Karen,Not yet. I'm planning to visit a few next month.
+Helen,That's a good idea. It will give you a feel of the environment.
+Karen,Yeah, I hope so. I'm also trying to understand the financial aspects.
+Helen,That's important too. You might want to look at scholarship options.
+Karen,Definitely. I'm also looking at student loan options just in case.
+Helen,Do you need any help? I can share some resources.
+Karen,That would be great, Helen. I appreciate it.
+Helen,No problem, Karen. We're in this together.
+Karen,Thanks, Helen. I really appreciate your support.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,College Discussions,[Helen, Karen],15.08.2021 10:15:00

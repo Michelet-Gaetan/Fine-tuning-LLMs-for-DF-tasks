@@ -1,0 +1,14 @@
+sender;content
+Eusebia;Azaiah, do you have the blueprints for the estate?
+Azaiah;Got them. Just went over them—security’s tight, but we’ve handled worse.
+Eusebia;Good. What about the cameras? Are they on a separate circuit?
+Azaiah;Yes, but there’s a blind spot near the back entrance. We’ll need to time it perfectly.
+Eusebia;Perfect. And the guard rotation? Any changes since last time?
+Azaiah;One guard added at midnight, but they’re still understaffed. Shouldn’t be a problem.
+Eusebia;Alright, then. We move in at 01:30. Make sure to disable the alarms first.
+Azaiah;Already planned. I’ll take care of the alarms. You handle the vault.
+Eusebia;Understood. See you at the rendezvous point afterward. Don’t be late.
+Azaiah;Wouldn’t dream of it. Let’s get this done cleanly.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Operation Nightfall;[Eusebia, Azaiah];27.08.2024 22:15:43

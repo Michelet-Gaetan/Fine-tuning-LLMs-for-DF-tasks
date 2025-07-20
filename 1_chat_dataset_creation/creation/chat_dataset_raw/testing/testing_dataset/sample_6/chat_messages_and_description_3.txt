@@ -1,0 +1,20 @@
+sender,content
+Jason,"Hey guys, I just finished reading 'The Alchemist'. Absolutely loved it!"
+Desiree,"Oh, I love Paulo Coelho's work! Have you read 'Brida' yet, Jason?"
+Katherine,"I have heard a lot about 'The Alchemist', but never got around to reading it. What's it about, Jason?"
+Jason,"It's about a young shepherd named Santiago who embarks on a journey to find a worldly treasure. But, along the way, he discovers himself."
+Ronda,"Sounds interesting. I might give it a read."
+Mario,"I prefer non-fiction. Currently reading 'Sapiens' by Yuval Noah Harari. It's mind-blowing!"
+Desiree,"I've heard great things about 'Sapiens', Mario. What's it about?"
+Mario,"It's about the history of humankind, right from the evolution of Homo Sapiens to the present day. It presents some thought-provoking perspectives."
+Katherine,"Wow, that sounds intriguing, Mario. I'll add it to my reading list."
+Ronda,"I'm into mystery novels. Just started with 'The Girl with the Dragon Tattoo'."
+Jason,"That's a great book, Ronda. You're in for a treat!"
+Desiree,"I'll have to check that out too. So many books, so little time!"
+Katherine,"Tell me about it, Desiree. My reading list keeps growing!"
+Jason,"Haha, same here. Well, happy reading everyone!"
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,'Book Club',['Jason', 'Desiree', 'Katherine', 'Ronda', 'Mario'],'15.02.2022 19:30:00'

@@ -1,0 +1,15 @@
+sender,content
+Falon,Hey Manuel, how's your day going?
+Manuel,Hey Falon, it's been good! How about yours?
+Falon,I'm doing well, thanks! I was wondering, what are your hobbies?
+Manuel,Well, I have a few. I love reading, hiking, and lately, I've been getting into photography. How about you?
+Falon,That's cool! I love painting and gardening. I've been thinking of trying photography as well.
+Manuel,That's great! Photography is really interesting. I can share some tips if you want.
+Falon,That would be awesome, Manuel. I'd really appreciate that!
+Manuel,No problem, Falon. Let's plan a day when we can go out and practice some shots.
+Falon,That sounds like a plan, Manuel. Looking forward to it!
+Manuel,Me too, Falon. It's going to be fun.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Hobby Chat,[Falon, Manuel],01.08.2022 15:30:00

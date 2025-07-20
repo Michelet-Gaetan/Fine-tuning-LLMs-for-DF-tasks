@@ -1,0 +1,15 @@
+sender,content;
+Kenneth,Hey guys, have you checked out the new podcast by Malcolm Gladwell?;
+Rebecca,Hi Kenneth, not yet. What's it about?;
+Kenneth,It's called "Revisionist History". It's about events in the past that have been misunderstood or overlooked. It's quite interesting.;
+Evelyn,Oh, that sounds like something I would enjoy. I love history.;
+Kenneth,You should definitely check it out then, Evelyn. And you too, Rebecca. I think you'll both like it.;
+Rebecca,I'll certainly give it a listen. Thanks for the recommendation, Kenneth!;
+Evelyn,Adding it to my list now. Thanks, Kenneth!;
+Kenneth,You're welcome! Let me know what you think once you've listened to it.;
+Rebecca,Will do!;
+Evelyn,Same here!
+
+-----
+application,chat group name,list of participants,first message sending datetime;
+WhatsApp,Podcast Discussion,[Kenneth, Rebecca, Evelyn],05.06.2021 18:30:00

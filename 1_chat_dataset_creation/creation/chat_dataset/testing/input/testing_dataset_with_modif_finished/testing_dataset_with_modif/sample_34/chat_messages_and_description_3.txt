@@ -1,0 +1,16 @@
+sender;content
+Adam;Hey guys, I'm thinking of getting a pet.
+Shelby;That's great, Adam! Any ideas on what pet you'd like to get?
+Adam;I'm not sure. I was considering a dog.
+Kyle;Dogs are great companions, Adam. What breed are you thinking of?
+Adam;A Golden Retriever, maybe. They seem friendly.
+Leon;Golden Retrievers are definitely friendly. But they need a lot of exercise.
+Jessica;That's true, Leon. And they also need a lot of space.
+Shelby;Maybe a cat would be more suitable, Adam? They're easier to take care of.
+Kyle;But cats can be quite aloof, Shelby. They're not as affectionate as dogs.
+Jessica;That's a stereotype, Kyle. My cat is very affectionate.
+Leon;Maybe we should let Adam decide. It's his pet, after all.
+Adam;You guys have given me a lot to think about. Thanks!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Pet Lovers Club;[Adam, Shelby, Kyle, Leon, Jessica];15.09.2022 19:45:00

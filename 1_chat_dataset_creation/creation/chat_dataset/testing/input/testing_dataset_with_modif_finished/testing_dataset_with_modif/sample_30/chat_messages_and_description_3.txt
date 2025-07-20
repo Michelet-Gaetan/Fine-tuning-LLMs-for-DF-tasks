@@ -1,0 +1,13 @@
+sender;content
+Jayden;Hey guys, have you started applying for colleges yet?
+Joy;No, I'm still deciding between a few. How about you, Kathleen?
+Kathleen;Same here, Joy. There are so many options, it's overwhelming.
+Jayden;I know right! I'm leaning towards a smaller college, less stress I guess.
+Joy;That's a good point, Jayden. But what about the opportunities at larger colleges?
+Kathleen;I think both have their pros and cons. It ultimately depends on what you want from your college experience.
+Jayden;True. I'm looking for a balance between academics and social life.
+Joy;That makes sense. I guess it's important to consider all factors before making a decision.
+Kathleen;Absolutely. Let's take our time and make the right choice.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;College Decisions;[Jayden, Joy, Kathleen];30.09.2021 16:45:30

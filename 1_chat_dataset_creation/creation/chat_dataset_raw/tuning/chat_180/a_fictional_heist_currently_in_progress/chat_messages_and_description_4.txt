@@ -1,0 +1,19 @@
+sender,content
+James,"We're in position. Are you ready, Richard?"
+Richard,"Yes, just need a minute to disable the security cameras."
+James,"Hurry up, we don't have much time. The guards are going to make their rounds soon."
+Richard,"Done, cameras are down."
+James,"Great, moving in now. Keep an eye out for any unexpected visitors."
+Richard,"Got it, I'm watching the monitors."
+James,"I'm at the vault door. I need the combination."
+Richard,"The combination is 15-23-34. Be careful, James."
+James,"The vault is open, I'm inside."
+Richard,"Someone's coming, get out of there now!"
+James,"I'm on my way out. Be ready to drive."
+Richard,"I'm starting the car. Hurry, James!"
+James,"I'm out, let's go!"
+Richard,"We're clear, nice work James."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,"HeistChat",["James", "Richard"],"27.09.2022 22:15:00"

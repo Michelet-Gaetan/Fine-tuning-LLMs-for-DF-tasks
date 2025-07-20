@@ -1,0 +1,14 @@
+sender;content
+James;Hey Robert, got a new shipment?
+Robert;Yeah, just came in. Top quality stuff.
+James;Great. Any chance I can get a peek at the goods?
+Robert;Sure, but it's gonna cost you.
+James;I'm good for it, you know that.
+Robert;Alright then. Meet me at the usual spot.
+James;See you there.
+Robert;Don't bring anyone with you.
+James;Never do. It's just business.
+Robert;That's what I like to hear. See you soon.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Underground Business;[James, Robert];12.04.2021 20:15:00

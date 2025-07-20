@@ -1,0 +1,15 @@
+sender;content
+Parker;Hey guys, have you seen the latest video on PewDiePie's channel?
+April;Not yet, Parker. Is it worth watching?
+Parker;Definitely, April! It's hilarious, he played a new game and his reactions are priceless.
+Alexander;I saw it too, Parker. Made my day.
+Teegan;I'm not really into gaming videos. I prefer educational ones.
+Kim;Teegan, have you checked out Khan Academy's channel? They have some really good educational videos.
+Teegan;Thanks, Kim. I'll check it out.
+April;I prefer watching cooking videos. I love Tasty's channel.
+Alexander;Oh, April. I love Tasty too. Their recipes are simple and delicious.
+Kim;I'm more into music videos. Vevo's channel is my favorite.
+Parker;It's interesting to see how we all have different preferences in online videos.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Video Enthusiasts;[Parker, April, Alexander, Teegan, Kim];22.09.2022 16:30:00

@@ -1,0 +1,12 @@
+sender;content
+Robert;Hey Tiana, have you listened to the new album by The Weeknd?
+Tiana;Hi Robert, yes I have. It's totally different from his previous works.
+Robert;I agree. It seems like he's experimenting with a new sound. Did you have a favorite track?
+Tiana;I think "Save Your Tears" was pretty good. What about you?
+Robert;I quite liked "Blinding Lights". It has a catchy tune.
+Tiana;That's true. It's one of those songs that you can't get out of your head.
+Robert;Do you think this album will win any awards?
+Tiana;It's hard to say. The competition is tough this year. But I think he might win a few.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Music Discussion;[Robert, Tiana];15.04.2021 19:30:00

@@ -1,0 +1,15 @@
+sender,content
+John,"Good morning, everyone. What's the plan for today?";
+David,"Hi John. I was thinking of going for a run and then do some grocery shopping. Anyone wants to join?";
+Robert,"Hey guys. I can't join for the run, but I can help with the groceries later.";
+Michael,"Morning! I'll join for the run, David. And Robert, maybe we can meet at the supermarket afterwards?";
+David,"Perfect. Let's meet at the park in 30 minutes then, Michael.";
+Michael,"Sounds good, see you then.";
+John,"I have some work to do in the morning, but I'll join you guys at the supermarket later.";
+Robert,"Great, John. Let's meet at the supermarket at 11:30.";
+John,"Okay, see you guys there.";
+David,"Alright, Michael and I are off for our run. Catch you guys later.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Daily Activities",["John","David","Robert","Michael"],"22.09.2022 08:00:00"

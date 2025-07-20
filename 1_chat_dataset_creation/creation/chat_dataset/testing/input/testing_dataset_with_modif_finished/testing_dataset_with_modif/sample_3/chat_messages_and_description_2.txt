@@ -1,0 +1,12 @@
+sender;content
+Clara;Hey Carlton, have you read 'To Kill a Mockingbird' yet?
+Carlton;Hey Clara! Yes, I finished it last night. It was an incredibly moving read.
+Clara;I'm glad you enjoyed it. What did you think of Scout as a character?
+Carlton;I thought Scout was a brilliant character. She provided an innocent and unique perspective to the racial tension in the story.
+Clara;Exactly! Her innocence made the events even more poignant. Now, what about '1984'? Have you started that?
+Carlton;Not yet, but it's next on my list. I've heard it's quite a thought-provoking book.
+Clara;It certainly is. Looking forward to hearing your thoughts on it. Happy reading!
+Carlton;Thanks, Clara! I'll let you know once I've finished it.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Book Club;[Clara, Carlton];24.05.2022 10:15:30

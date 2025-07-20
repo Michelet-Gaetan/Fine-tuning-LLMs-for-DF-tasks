@@ -1,0 +1,14 @@
+sender;content
+Parker;Guys, I think we need to discuss the new formula for the product
+April;Absolutely. We've been getting feedback that the quality isn't as high as it used to be
+Alexander;That's a big issue. Any problem with the ingredients?
+Teegan;As far as I can tell, the ingredients are fine. The issue might be in the process
+Kim;I agree with Teegan. It's not the what, it's the how. We should revisit our process
+Parker;That's a good point, Kim. We need to ensure we're not cutting corners
+April;We also need to think about security. The last thing we want is for this operation to get busted
+Alexander;I've got contacts that can help with securing the operation
+Teegan;Let's focus on the process first, then we'll sort out security
+Kim;Agreed. One thing at a time.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Operation Alpha;[Parker, April, Alexander, Teegan, Kim];24.08.2021 14:30:00

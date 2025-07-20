@@ -1,0 +1,7 @@
+general;precise;GPT4
+
+James, Robert, Michael, John, David, and William are planning an operation in a mansion.;
+
+James stresses the need to have a solid plan, due to the guarding measures in place. Robert agrees and they all start planning the operation. For the time, Michael suggests 2 AM, which is the guards shift schedule. According to David, the security system is Zeta 3000, which is hard to hack, and Robert states that he knows someone called Snake that might be able to handle it. They finally agree to meet on the next day at the same time to discuss their plan again.;
+
+The conversation involves a group of individuals planning a fictional burglary of a mansion. They discuss the heavy security and the need for a well-structured plan. They identify a potential window of opportunity at 2 AM when the security shifts change and discuss the mansion's alarm system, the Zeta 3000, which is difficult but not impossible to crack. They consider bringing in a specialist to help with the alarm system, and agree to meet again the next day to discuss further. The chat takes place on Telegram in a group named "Heist Masters", and the first message was sent on 10th August 2022 at 21:30:00. The participants in the chat are James, Robert, Michael, John, David, and William.

@@ -1,0 +1,14 @@
+sender;content
+John;Good Morning, Robert. How are you today?
+Robert;Good Morning, John. I'm doing well, thanks. Just getting ready for work. How about you?
+John;Same here. Got a big meeting today.
+Robert;Oh, really? What's it about?
+John;It's about the new project we're launching soon. A bit nervous, to be honest.
+Robert;You'll do great, John. You always do.
+John;Thanks, Robert. I appreciate your support.
+Robert;No problem, John. We're a team, after all. Let me know how it goes.
+John;Will do. Have a good day at work, Robert.
+Robert;You too, John. Good luck with your meeting.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Work Chat;[John, Robert];10.04.2021 07:30:00

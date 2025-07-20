@@ -1,0 +1,17 @@
+sender,content
+James,"Hey Richard, are you in town?"
+Richard,"Yes James, just landed. What's up?"
+James,"Got a new shipment. Need to move it quickly."
+Richard,"Alright. What are we talking about?"
+James,"Something special. Blue Sky."
+Richard,"The one from the southwest?"
+James,"Exactly. Got a buyer?"
+Richard,"Might have. Need to check. How much are we talking about?"
+James,"Enough to get us both an early retirement."
+Richard,"Sounds risky, but count me in. I'll get back to you with a buyer."
+James,"Good. Remember, discretion is key."
+Richard,"Always has been, always will be. Talk later."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Blue Sky",[James, Richard],27.02.2022 15:45:30

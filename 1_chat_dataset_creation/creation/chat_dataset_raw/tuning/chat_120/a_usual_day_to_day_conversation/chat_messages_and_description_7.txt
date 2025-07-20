@@ -1,0 +1,14 @@
+sender;content
+Robert;Good morning, everyone.
+Jennifer;Morning Robert, how are you today?
+Robert;I'm good Jennifer. Thanks for asking. How about you?
+Jennifer;I'm doing well too. Thanks Robert.
+William;Hi guys, I just woke up.
+Robert;Good morning, William.
+Jennifer;Morning William. What's your plan for today?
+William;I'm thinking about going for a run. How about you guys?
+Robert;I have to work, unfortunately.
+Jennifer;I'm planning to read a new book I just bought.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Daily chat group;[Robert, Jennifer, William];10.09.2021 07:45:00

@@ -1,0 +1,13 @@
+sender,content
+Eusebia,"Hey Azaiah, how are you finding your college experience so far?";
+Azaiah,"Hi Eusebia, it's been a mix of emotions. There's a lot of studying, but I'm enjoying my course and the social life.";
+Eusebia,"That's great to hear! What's been the most challenging part for you?";
+Azaiah,"I think the most challenging part has been managing my time effectively. There's so much to do and so little time.";
+Eusebia,"I can definitely relate to that. Do you have any tips on how to handle it?";
+Azaiah,"I try to make a schedule every week and stick to it. It helps to keep track of assignments and exams.";
+Eusebia,"That's a good strategy. I'll try it out. Thanks, Azaiah.";
+Azaiah,"No problem, Eusebia. Happy to help.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"College Discussions",["Eusebia", "Azaiah"],"20.09.2021 10:30:00"

@@ -1,0 +1,14 @@
+sender;content
+Nicholas;Hey Scharron, how are you doing?
+Scharron;Hi Nicholas, I'm doing well. How about you?
+Nicholas;I'm good too. Been wondering how the kids are doing.
+Scharron;They're all fine. Growing up so fast. The eldest just started middle school.
+Nicholas;Wow, time flies. How are they coping with the new environment?
+Scharron;They're adjusting well. It's a bit challenging but they're managing.
+Nicholas;That's good to hear. And how's your husband?
+Scharron;He's doing well. Busy with work as always.
+Nicholas;Send my regards to him. We should plan a family get together soon.
+Scharron;That sounds like a great idea. The kids would love that.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Family Chat;[Nicholas, Scharron];20.04.2022 16:30:00

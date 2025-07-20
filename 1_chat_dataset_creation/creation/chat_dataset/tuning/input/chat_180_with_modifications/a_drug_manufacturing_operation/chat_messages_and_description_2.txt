@@ -1,0 +1,14 @@
+sender;content
+Robert;Hi John, I think we've found a new way to streamline the production process.
+John;That sounds promising, Robert. What's the plan?
+Robert;We've discovered a new catalyst that significantly reduces the reaction time.
+John;That's great news. Any potential risks or side effects we should be aware of?
+Robert;We're still studying that aspect, but so far, the results are promising.
+John;Excellent work, Robert. Let's proceed carefully and make sure we adhere to all safety protocols.
+Robert;Absolutely, John. Safety is our top priority.
+John;Good. I expect a full report by next week.
+Robert;Understood, John. You'll have it.
+John;Thank you, Robert. Let's aim for success.
+-----
+application;chat group name;list of participants;first message sending datetime
+Signal;Drug Manufacturing Discussion;[Robert, John];21.04.2021 09:30:00

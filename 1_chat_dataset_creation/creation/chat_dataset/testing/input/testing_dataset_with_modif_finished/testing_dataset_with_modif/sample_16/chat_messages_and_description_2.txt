@@ -1,0 +1,13 @@
+sender;content
+Chris;Hey guys, have you heard the new album from Coldplay?
+Kenneth;Yeah, I gave it a listen. It's a bit different from their usual style. I'm not sure if I like it yet.
+Greyson;Really? I think it's their best work yet. I love the experimentation they've done.
+Robert;I have to agree with Kenneth, I'm not a big fan of the new direction. I miss the old Coldplay.
+Chris;That's fair. What about you, Greyson? Any new music recommendations?
+Greyson;I've been really into a band called Tame Impala recently. They have a unique sound that I think you guys might like.
+Kenneth;I'll give them a listen, Greyson. Thanks for the suggestion.
+Robert;Same here. Always open to new music.
+Chris;Great, let's all check them out and discuss in our next chat!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Music Enthusiasts;[Chris, Kenneth, Greyson, Robert];20.04.2021 17:30:00

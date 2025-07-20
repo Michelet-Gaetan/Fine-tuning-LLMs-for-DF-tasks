@@ -1,0 +1,14 @@
+sender;content
+John;Hey Michael, have you started with your model train set yet?
+Michael;Yes John, I just started last weekend. It's more complex than I thought.
+John;I can imagine. I've seen some really intricate ones at the hobby store.
+Michael;I bought a starter kit. It has everything I need for a basic setup.
+John;That's a good start. Did it come with instructions?
+Michael;Yes, it did. But I also watched some YouTube tutorials for extra help.
+John;YouTube is indeed a great help. How far along are you?
+Michael;I've set up the tracks and the train. Now working on the surrounding landscape.
+John;Sounds like fun. Keep me posted on your progress.
+Michael;Sure will. I hope to have it completed by next weekend.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Hobby Talk;[John, Michael];02.03.2022 10:45:00

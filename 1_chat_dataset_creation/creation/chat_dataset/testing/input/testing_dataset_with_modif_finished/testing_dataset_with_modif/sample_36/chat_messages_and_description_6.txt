@@ -1,0 +1,13 @@
+sender;content
+Victoria;Hey guys, what do you think about the last basketball match?
+Kamrin;I think it was quite intense, the last quarter especially!
+Juandiego;Agreed Kamrin, the fourth quarter was a nail-biter!
+Jacqueline;I was on the edge of my seat the whole time. The final shot was just wow!
+Victoria;Absolutely, I couldn't believe how close it was. The team really pulled together for that win.
+Kamrin;Definitely, the team dynamics this season are really impressive!
+Juandiego;Yes, and the new coach seems to have a great strategy. The improvement is noticeable.
+Jacqueline;I'm excited to see how they perform in the next game. The opponents are tough, but I believe in our team!
+Victoria;I agree Jacqueline, it's going to be a tough game but I'm confident we can win.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sport Fanatics;[Victoria, Kamrin, Juandiego, Jacqueline];20.08.2021 18:30:00

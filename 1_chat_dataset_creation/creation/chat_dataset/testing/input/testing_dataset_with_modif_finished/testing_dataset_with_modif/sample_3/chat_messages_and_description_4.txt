@@ -1,0 +1,16 @@
+sender;content
+Clara;Hey Carlton, have you seen the recent news about the Mars Rover?
+Carlton;Yes, Clara! It's fascinating. They've just recently collected a sample from the Martian surface.
+Clara;Yeah, I read about it. It's such a milestone in space exploration, isn't it?
+Carlton;Definitely. It's mind-blowing to think that we're now able to collect samples from another planet.
+Clara;I know, right? And the fact that we might discover signs of past microbial life on Mars!
+Carlton;It's a huge leap towards answering the age-old question: Are we alone in the universe?
+Clara;Exactly! It's both exciting and a bit scary at the same time.
+Carlton;I agree. But it's definitely more exciting. The universe is full of possibilities.
+Clara;I can't wait to see what they'll discover next.
+Carlton;Me too. These are exciting times we're living in.
+Clara;Definitely. Let's keep each other posted on any new updates!
+Carlton;Deal. It's always fun discussing these things with you, Clara.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;News Discussion;[Clara, Carlton];10.09.2021 10:30:00

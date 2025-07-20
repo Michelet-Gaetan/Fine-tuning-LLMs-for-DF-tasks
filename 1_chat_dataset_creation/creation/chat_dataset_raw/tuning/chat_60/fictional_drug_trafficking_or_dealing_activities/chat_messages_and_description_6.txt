@@ -1,0 +1,14 @@
+sender,content
+Michael,"Hey John, you got the stuff?"
+John,"Yes, just got it today."
+Michael,"Good. Where should we meet?"
+John,"Our usual spot, the park by the river."
+Michael,"Perfect. Make sure you're not followed."
+John,"Always careful, Mike. You know me."
+Michael,"Alright, see you there."
+John,"See you."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,The Usual Business,[Michael, John],15.06.2021 18:45:00

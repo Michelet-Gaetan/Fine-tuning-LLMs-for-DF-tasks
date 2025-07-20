@@ -1,0 +1,12 @@
+sender,content
+Michael,"Hey Robert, got a new shipment?"
+Robert,"Yeah, got it last night. Same quality?"
+Michael,"Top notch as always. When can we meet?"
+Robert,"Tomorrow night, at the usual place. Around 8?"
+Michael,"Sounds good. Be ready with the package."
+Robert,"Already on it, mate. See you tomorrow."
+Michael,"Great, see you."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Business Talk",["Michael","Robert"],"12.07.2021 10:15:30"

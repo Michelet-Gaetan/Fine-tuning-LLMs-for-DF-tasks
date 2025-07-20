@@ -1,0 +1,13 @@
+sender;content
+James;Good morning, Robert! How are you today?
+Robert;Hey James! I'm good, just got up. What about you?
+James;I'm doing well, thanks. Just having my morning coffee.
+Robert;That sounds great. What's the plan for the day?
+James;Just the usual. Going to work, maybe hit the gym later. You?
+Robert;Same here. But I think I'll skip the gym today.
+James;Well, it's important to take rest days too. Have a good day, Robert!
+Robert;You too, James! Catch up later.
+James;Sure thing, Robert. Have a nice day.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Day to Day Chat;[James, Robert];16.06.2021 08:30:00

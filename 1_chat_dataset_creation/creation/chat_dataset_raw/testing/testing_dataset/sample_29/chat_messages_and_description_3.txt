@@ -1,0 +1,15 @@
+sender,content
+Willie,"Hey Mary, have you heard the latest album by The Weeknd?"
+Mary,"Hey Willie, yes I did. I think it's pretty cool. What about you?"
+Willie,"I totally agree, it's different but I like it. Any particular track you like?"
+Mary,"Hmm, I really like 'Save Your Tears'. It's catchy."
+Willie,"Yeah, that's a good one! I also like 'Blinding Lights'."
+Mary,"Oh, definitely! That's a classic. It's been on the radio nonstop."
+Willie,"True, it's been quite popular. Do you play any instruments, by the way?"
+Mary,"Yes, I play the piano. I'm trying to learn 'Blinding Lights' on it."
+Willie,"That's awesome! Would love to hear it once you've mastered it."
+Mary,"Sure thing, Willie. I'll let you know when I'm ready."
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Music Discussion",['Willie', 'Mary'],"01.05.2022 14:30:00"

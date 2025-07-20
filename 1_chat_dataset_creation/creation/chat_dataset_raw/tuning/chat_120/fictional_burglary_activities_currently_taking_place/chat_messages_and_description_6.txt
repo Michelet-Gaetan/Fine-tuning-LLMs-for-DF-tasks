@@ -1,0 +1,13 @@
+sender,content
+Robert,Hey James, you heard about the break-ins happening in the neighborhood?
+James,Yeah Robert, it's been all over the news. Seems like it's happening more frequently.
+Robert,Exactly, it's getting pretty concerning. Do you think it's someone we know?
+James,Hard to say, Robert. But it does seem to be someone who knows the area well.
+Robert,Agreed. Let's keep an eye out for any suspicious activities.
+James,Definitely. We should also remind our neighbors to be vigilant.
+Robert,Good idea, James. Let's do that tomorrow during the community meet-up.
+James,That's a plan. We need to ensure everyone's safety.
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Neighborhood Watch,[Robert, James],13.09.2021 09:12:45

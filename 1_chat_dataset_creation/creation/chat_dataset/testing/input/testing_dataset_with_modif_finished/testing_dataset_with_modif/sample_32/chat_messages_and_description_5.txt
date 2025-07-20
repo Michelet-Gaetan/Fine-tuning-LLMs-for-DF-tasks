@@ -1,0 +1,14 @@
+sender;content
+Mason;Hey guys, had the strangest dream last night.
+Glen;Really? What was it about, Mason?
+Mason;I was floating in space, surrounded by stars. It was incredibly peaceful.
+Evelyn;That's so interesting, Mason! Dreams about space often represent a desire for freedom and escape.
+Glen;I usually dream about ordinary stuff, like work or home. Not nearly as exciting.
+Mason;Glen, even ordinary dreams can have interesting interpretations.
+Evelyn;Mason's right, Glen. For example, dreaming about work often means you're dedicated and ambitious.
+Glen;That's a comforting interpretation, Evelyn! I'll think about it next time.
+Mason;Let's all share our dreams more often. It's fascinating to hear different experiences and interpretations.
+Evelyn;Agreed, Mason. It's a plan.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Dream Discussion;[Mason, Glen, Evelyn];15.03.2022 20:45:00

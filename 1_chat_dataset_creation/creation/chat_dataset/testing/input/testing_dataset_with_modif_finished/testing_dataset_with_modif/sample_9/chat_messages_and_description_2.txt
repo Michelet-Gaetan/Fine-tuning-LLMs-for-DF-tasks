@@ -1,0 +1,17 @@
+sender;content
+Amanda;Hi Paulette, I am planning a trip and could use some advice.
+Paulette;Sure Amanda, I would love to help. Where are you planning to go?
+Amanda;I was thinking about Europe. Maybe France or Italy.
+Paulette;Oh, both are great choices! Do you prefer cities or countryside?
+Amanda;I think a bit of both. I love history, but I also enjoy relaxing in nature.
+Paulette;Then I would recommend Italy. You can visit Rome and Florence for the history and Tuscany for the beautiful countryside.
+Amanda;That sounds perfect. Do you have any hotel recommendations?
+Paulette;In Rome, Hotel Hassler is a great option. In Florence, check out the St. Regis, and in Tuscany, Castello Banfi il Borgo is beautiful.
+Amanda;Thanks Paulette, I will check them out. Any must-see sights or activities?
+Paulette;In Rome, the Colosseum and Vatican are must-sees. Florence is famous for its art galleries, and in Tuscany, you can go wine tasting.
+Amanda;Sounds amazing. I can't wait!
+Paulette;You're going to have a great time. Don't forget to try the local cuisine!
+Amanda;I won't! Thanks for all your help, Paulette.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Travel Plans;[Amanda, Paulette];01.03.2022 09:30:00

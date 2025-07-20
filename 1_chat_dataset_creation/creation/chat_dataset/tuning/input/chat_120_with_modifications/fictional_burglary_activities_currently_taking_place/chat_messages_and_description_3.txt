@@ -1,0 +1,14 @@
+sender;content
+James;We need to plan this carefully. The mansion is heavily guarded.
+Robert;Agreed. We need a solid plan. Any ideas?
+Michael;I've heard the security shifts change at 2 AM. That might be our window.
+John;Good intel, Michael. We should also consider the alarm system.
+David;I've been researching. The mansion uses the Zeta 3000 system. It's tough but not impossible to crack.
+William;We should probably get a specialist for that.
+Robert;I know a guy who might be able to help, goes by the name 'Snake'.
+James;That's a start. Let's meet tomorrow, same time, and discuss further.
+Michael;Sounds like a plan. Let's do this, guys.
+John;Alright. Stay safe, everyone.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Heist Masters;[James, Robert, Michael, John, David, William];10.08.2022 21:30:00

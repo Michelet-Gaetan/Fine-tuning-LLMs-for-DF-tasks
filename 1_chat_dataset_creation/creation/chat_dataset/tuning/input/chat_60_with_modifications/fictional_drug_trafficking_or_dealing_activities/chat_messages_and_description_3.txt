@@ -1,0 +1,11 @@
+sender;content
+John;Hey, Michael. Got a new shipment?
+Michael;Yeah, John. Just came in this morning.
+John;Good. Our usual spot?
+Michael;Exactly, but we need to be careful, John. Heat's on.
+John;Got it. Let's keep it low-key.
+Michael;Absolutely, John. See you there.
+John;See you, Michael. Stay safe.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Business Affairs;[John, Michael];10.08.2021 09:15:27

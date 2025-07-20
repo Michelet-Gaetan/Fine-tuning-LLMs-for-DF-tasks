@@ -1,0 +1,15 @@
+sender;content
+Reba;Hey guys, I've been thinking about our next group adventure. Any thoughts?
+Nadir;Great idea, Reba! I think we should visit somewhere exotic.
+Ronnie;What about a safari trip to Africa? I've heard it's a unique experience.
+Sheree;That sounds awesome, Ronnie. But we also need to consider the budget.
+Robert;How about backpacking across Europe? It's affordable and we can explore different cultures.
+Reba;I love the idea, Robert! We could start from Spain and make our way to Greece.
+Nadir;Sounds like a plan! We should make a list of must-visit places and things to do.
+Ronnie;Absolutely, Nadir. Also, we need to check the best time to visit these countries.
+Sheree;Yes, and let's not forget about food. We must try local cuisines in each country.
+Robert;Agreed, Sheree. I can't wait to try some authentic pizza in Italy.
+Reba;Sounds like we have a plan, guys. Let's start preparing for our European adventure.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Travel Buddies;[Reba, Nadir, Ronnie, Sheree, Robert];15.02.2022 10:30:00

@@ -1,0 +1,16 @@
+sender;content
+Chris;Hey guys, have you seen the latest Marvel movie?
+Kenneth;No, not yet. Is it worth watching?
+Chris;Definitely! It's filled with action and the storyline is great!
+Greyson;I agree with Chris. It's a must-watch movie. Marvel never disappoints.
+Robert;I've seen it. And yes, it's fantastic. The visual effects are superb!
+Kenneth;Okay, you guys convinced me. I'll watch it this weekend.
+Greyson;You won't regret it, Kenneth.
+Robert;By the way, do you guys have any other movie recommendations?
+Chris;I recently watched a movie called 'Inception'. It's a bit old but it's really good.
+Kenneth;Inception is a masterpiece! One of my all-time favorites.
+Greyson;I second that. Inception is a classic. Definitely worth a rewatch.
+Robert;I've never watched it, but I'll definitely give it a go. Thanks for the recommendation, guys.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Movie Buffs;[Chris, Kenneth, Greyson, Robert];20.05.2022 18:30:00

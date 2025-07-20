@@ -1,0 +1,19 @@
+sender;content
+David;Guys, we're in position. Waiting for your signal.
+Robert;Got it, David. I'm nearly ready on my end.
+Patricia;I've hacked into the security system. Cameras are offline.
+David;Excellent work, Patricia. Robert, how's the situation there?
+Robert;A little hiccup here, but nothing I can't handle. Need a few more seconds.
+James;Team, be aware of the guards' changing shift in 5 minutes. Timing is crucial.
+Robert;Understood, James. I'm ready now, David.
+David;Okay, team. Let's do this. Patricia, lock the exit doors.
+Patricia;Exit doors locked. You're good to go.
+David;Moving now. Keep an eye out, James.
+James;All clear for now. Hurry, David.
+David;Package secured. Heading out.
+Robert;Great job, David. I'm in the car. Hurry up.
+Patricia;Guys, the cameras are back online. Get out now!
+David;We're out. Smooth as silk. Great job, team.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Heist Planning;[David, Robert, Patricia, James];05.07.2021 22:30:00

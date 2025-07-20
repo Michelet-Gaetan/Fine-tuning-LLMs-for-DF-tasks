@@ -1,0 +1,16 @@
+sender,content
+John,"Hey Michael, have you seen the latest episode of 'Bad Jokes Battle' on YouTube?";
+Michael,"No, I haven't. Is it worth it?";
+John,"Absolutely! They had a 'puns about bread' segment that had me rolling.";
+Michael,"Oh, sounds fun. I'll check it out.";
+John,"Make sure you do, and let me know what you think!";
+Michael,"Sure thing, John.";
+John,"By the way, there's this hilarious meme page on Instagram, 'The Comic Strip'.";
+Michael,"I think I've heard of it. They post daily, right?";
+John,"Yes, that's the one. Their content is really funny, you should follow them.";
+Michael,"Alright, I'll give it a shot. Thanks for the recommendation, John.";
+John,"No problem. Always happy to share a laugh.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Funny Online Content,[John, Michael],"10.02.2022 17:30:00"

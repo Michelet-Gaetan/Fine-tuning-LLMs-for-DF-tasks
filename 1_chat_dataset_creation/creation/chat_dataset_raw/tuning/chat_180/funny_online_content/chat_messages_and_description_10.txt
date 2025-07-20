@@ -1,0 +1,15 @@
+sender,content
+Michael,"Have you guys seen that new cat video on YouTube? I was laughing for hours!";
+John,"Oh, the one where the cat keeps falling into the box? Hilarious!";
+Patricia,"Yes! I watched it yesterday. I couldn't stop laughing either!";
+Robert,"I sent that video to my sister and she almost choked on her coffee laughing!";
+Jennifer,"I need to find that video. I could use a good laugh.";
+John,"I'll send the link in the group. Get ready to laugh your socks off!";
+Patricia,"Fair warning, don't watch it while drinking or eating!";
+Michael,"Too late for that warning, Patricia. I almost spilled my coffee all over my keyboard!";
+Robert,"Haha, I told you guys, it's dangerously funny!";
+Jennifer,"Just watched it. Can confirm, it's hilarious. Thanks for the link, John!"
+
+-----
+application,chat group name,list of participants,first message sending datetime
+Telegram,Funny Content Sharers,"[Michael, John, Patricia, Robert, Jennifer]",10.03.2022 19:30:00

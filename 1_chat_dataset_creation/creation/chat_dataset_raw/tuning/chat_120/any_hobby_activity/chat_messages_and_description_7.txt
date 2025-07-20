@@ -1,0 +1,14 @@
+sender;content
+James;Hey guys, have any of you tried model rocketry?
+Robert;I've always wanted to, but never got around to it. Seems like a cool hobby.
+Mary;I have! Built a couple with my kids. It's a lot of fun.
+James;That's awesome, Mary! Any tips for beginners?
+Mary;Start with a beginner kit. It comes with all the parts and instructions, so it's a great way to learn.
+Robert;Sounds like a good idea. I'll look into it.
+David;I've been into model rocketry for years. Happy to help if you guys have questions.
+James;Thanks, David. I'll definitely reach out once I get my kit.
+Robert;Same here. Thanks, David.
+David;No problem. Looking forward to seeing your rockets!
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Hobby Enthusiasts;[James, Robert, Mary, David];12.04.2022 18:30:00

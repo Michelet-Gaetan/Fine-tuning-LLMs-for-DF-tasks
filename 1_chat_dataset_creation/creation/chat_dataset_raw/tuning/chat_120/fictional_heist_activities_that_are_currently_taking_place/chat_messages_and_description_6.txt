@@ -1,0 +1,15 @@
+sender;content
+James;Hey, Robert. Got the blueprints for the bank?
+Robert;Sure do, James. Got them from our insider.
+James;Good. We need to plan carefully. Timing is everything.
+Robert;Agreed. I've been studying the patrol patterns, too.
+James;Great. We need to bypass the security system.
+Robert;I've got a guy who can handle that. His name is Kevin.
+James;Kevin? Haven't heard of him. Is he reliable?
+Robert;Absolutely. He's the best in the business.
+James;Alright. Let's meet up and discuss the details.
+Robert;Sounds good. See you at the usual spot.
+James;Perfect. Let's get this heist going.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Heist Planning;[James, Robert];10.05.2022 15:20:00

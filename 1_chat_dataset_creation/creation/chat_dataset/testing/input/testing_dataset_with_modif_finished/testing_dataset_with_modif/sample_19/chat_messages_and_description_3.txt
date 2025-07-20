@@ -1,0 +1,18 @@
+sender;content
+Falon;Hey Manuel, have you seen the latest episode of 'The Witcher' yet?
+Manuel;Hi Falon! Yes, I just finished watching it. It was thrilling!
+Falon;I know, right? The plot twists were unexpected!
+Manuel;Absolutely, especially the character development of Geralt. I am really impressed.
+Falon;Me too! I can't wait for the next episode. Do you have any other series to recommend?
+Manuel;Yes, I just started watching 'Stranger Things'. It's really good so far.
+Falon;I've heard a lot about it. What's it about?
+Manuel;It's a sci-fi horror series. It's about a group of kids in a small town who encounter supernatural phenomena.
+Falon;Sounds intriguing! I'll definitely check it out. Thanks for the suggestion!
+Manuel;No problem! Let me know what you think about it.
+Falon;Sure, I will. By the way, are you going to the concert next week?
+Manuel;Yes, I am. I'm really excited to see the band live.
+Falon;Me too! It's going to be a blast. See you there then!
+Manuel;Definitely! See you there, Falon.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Entertainment Chat;[Falon, Manuel];20.12.2021 18:45:00

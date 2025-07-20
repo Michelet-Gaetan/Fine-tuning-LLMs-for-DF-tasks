@@ -1,0 +1,16 @@
+sender,content
+Helen,Hey Karen, have you read any good books lately?;
+Karen,Yes, Helen. I just finished reading "The Silent Patient". It was an amazing psychological thriller!;
+Helen,Oh, I've heard about that one. It's by Alex Michaelides, right?;
+Karen,Yes, that's the one. I couldn't put it down, the plot twists were so unexpected!;
+Helen,That sounds like a book I would enjoy. I love thrillers with unexpected plot twists.;
+Karen,Then you should definitely give it a try. What are you currently reading?;
+Helen,I'm reading "Educated" by Tara Westover. It's a memoir and it's really gripping!;
+Karen,Oh, I read that last year. It's an incredibly inspiring story.;
+Helen,It really is. Tara's journey is so powerful and moving.;
+Karen,Let's make a book club! We can share and discuss books we've read.;
+Helen,That's a great idea Karen! I'm in. Let's do it.;
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,Book Lovers,Helen and Karen,15.07.2022 17:30:00

@@ -1,0 +1,13 @@
+sender;content
+Jon;Good morning, Tracy! How are you today?
+Tracy;Good morning, Jon! I'm doing well, thank you. How about you?
+Jon;I'm good too. Heading to work in a bit. What are your plans for the day?
+Tracy;Just the usual. I have a few meetings and then I'm planning on going to the gym after work.
+Jon;That sounds like a productive day. What time is your first meeting?
+Tracy;It's at 10:00 AM. Need to prepare for that now. 
+Jon;Good luck with your meeting! Catch you later.
+Tracy;Thanks, Jon! Have a great day at work. We'll talk later.
+Jon;You too, Tracy! Take care.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Day to Day Chat;[Jon, Tracy];01.03.2022 07:30:00

@@ -1,0 +1,15 @@
+sender;content
+John;Hey guys, have you heard about this new investment opportunity?
+Robert;No, what is it about, John?
+John;It's about investing in a rare gemstone mining venture, they're promising huge returns.
+Michael;Sounds too good to be true, John. We need to be careful.
+John;I know, but they have a convincing presentation and testimonials.
+Robert;John, we should do some research before investing our hard-earned money.
+Michael;Agree with Robert, it's better to be safe than sorry.
+John;You're right guys, let's dig deeper into this.
+Michael;I'll look up the company and see if there's any information online.
+Robert;I'll check with my contacts in the gemstone industry.
+John;Thanks guys, let's reconvene tomorrow with what we've found.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Investment Discussion;[John, Robert, Michael];10.03.2022 14:30:00

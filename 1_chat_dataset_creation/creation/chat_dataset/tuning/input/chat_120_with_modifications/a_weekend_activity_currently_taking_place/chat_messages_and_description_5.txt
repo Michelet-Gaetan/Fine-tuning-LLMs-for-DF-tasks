@@ -1,0 +1,13 @@
+sender;content
+James;Hey Robert, are you up for a hike this weekend?
+Robert;Sure James, sounds like a great idea. Where are we headed?
+James;I was thinking about the new trail at the National Park. What do you think?
+Robert;Oh, I've heard about that one. Sounds challenging but fun. What time should we meet?
+James;Let's meet at 7:30 am. We can have breakfast on our way there.
+Robert;7:30 am sounds good. I will bring some sandwiches and drinks.
+James;Perfect! Don't forget your hiking boots and a jacket. It might be chilly.
+Robert;Got it. Looking forward to it. See you on Saturday.
+James;See you Robert. Excited about our adventure.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Hike;[James, Robert];12.10.2021 15:45:20

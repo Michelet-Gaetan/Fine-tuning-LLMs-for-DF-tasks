@@ -1,0 +1,16 @@
+sender;content
+James;Hey guys, anyone up for a hike this weekend?
+Robert;Sounds good to me. Where do you suggest?
+James;I was thinking about the old trail up to Crystal Peak.
+Mary;That's a bit steep for me guys.
+John;We could take the new trail. It's longer, but less steep.
+James;That's a great idea John. What do you think Robert?
+Robert;I'm fine with either. Let's go with the new trail for Mary's sake.
+Mary;Thanks guys! I appreciate it.
+James;No problem Mary. So it's decided then. We meet at the trailhead at 8am on Saturday.
+Robert;See you all on Saturday.
+John;Looking forward to it.
+Mary;Me too. Thanks again guys.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Weekend Warriors;[James, Robert, John, Mary];15.10.2021 18:30:00

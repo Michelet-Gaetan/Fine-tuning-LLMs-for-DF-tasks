@@ -1,0 +1,14 @@
+sender,content
+Michael,"Hey John, have you tried any new hobbies lately?"
+John,"Hey Michael, I've recently started learning how to play the guitar. What about you?"
+Michael,"That's cool! I've been getting into hiking. The views from the top are just amazing."
+John,"Hiking sounds interesting. I might give it a try one of these days. How often do you do it?"
+Michael,"I try to go hiking every weekend. It's a great way to unwind and get some exercise."
+John,"Sounds good! Maybe you can give me some tips when I decide to start."
+Michael,"Absolutely! I'd be more than happy to help."
+John,"Thanks, Michael. I'll definitely reach out when I'm ready."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,"Hobby Talk",["Michael", "John"],"05.05.2021 18:30:00"

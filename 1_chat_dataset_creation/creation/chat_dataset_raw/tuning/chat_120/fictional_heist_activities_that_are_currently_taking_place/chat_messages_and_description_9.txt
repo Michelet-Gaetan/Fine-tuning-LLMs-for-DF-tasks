@@ -1,0 +1,14 @@
+sender;content
+John;We need to finalize the plan for the heist.
+Michael;Agreed. I've scoped out the place, looks pretty tight.
+Robert;We need to have a solid exit strategy. The security is high.
+John;Robert, you focus on the exit. Michael, let's work on disabling the security systems.
+Michelle;I can handle the security systems. I've been studying their patterns.
+John;Perfect, Michelle. Let's meet tomorrow to finalize everything.
+Michael;Tomorrow at the usual spot then?
+John;Yes, same time, same place.
+Robert;I'll start looking at escape routes and possible getaways.
+Michelle;I'll make sure the security systems won't be a problem.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Operation Gold Mine;[John, Michael, Robert, Michelle];23.08.2022 18:45:00

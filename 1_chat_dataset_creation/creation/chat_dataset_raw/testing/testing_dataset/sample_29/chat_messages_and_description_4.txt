@@ -1,0 +1,14 @@
+sender,content
+Willie,"Hi Mary, have you ever pondered over the concept of existentialism?";
+Mary,"Hi Willie, indeed. It's quite an intriguing concept. It's the idea that individuals are free and responsible for their own choices and actions, right?";
+Willie,"Exactly, Mary. It emphasizes individual freedom, choice, and subjectivity.";
+Mary,"But don't you think it can lead to a sense of isolation or despair, considering the emphasis on individual freedom and the lack of external forces?";
+Willie,"That's a valid point, Mary. However, it also gives the individual the freedom to define their own purpose in life.";
+Mary,"True, Willie. It's a matter of perspective, I suppose. A balance between individual freedom and understanding the consequences of our choices.";
+Willie,"Well said, Mary. I think that's the crux of existentialism - understanding that freedom comes with responsibility.";
+Mary,"Indeed, Willie. It's a fascinating topic to ponder on."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+Telegram,"Philosophy Chat",["Willie", "Mary"],"01.01.2022 10:00:00"

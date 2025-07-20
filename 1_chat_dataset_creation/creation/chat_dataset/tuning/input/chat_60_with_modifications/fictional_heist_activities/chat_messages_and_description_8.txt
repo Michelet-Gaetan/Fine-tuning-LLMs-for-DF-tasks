@@ -1,0 +1,14 @@
+sender;content
+Michael;We need to plan this carefully.
+William;Agreed, Michael. The security is top-notch.
+John;I've got a contact who could help with the security systems.
+David;That's great, John. We'll need every edge we can get.
+Paul;We'll also need a getaway driver.
+Michael;I know a guy, best in the business.
+John;Perfect, let's meet tomorrow to finalize everything.
+William;Tomorrow at 8pm works for me.
+David;Same here, see you guys then.
+Paul;Alright, see you guys tomorrow.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Heist Masters;[Michael, William, John, David, Paul];12.04.2022 21:30:00

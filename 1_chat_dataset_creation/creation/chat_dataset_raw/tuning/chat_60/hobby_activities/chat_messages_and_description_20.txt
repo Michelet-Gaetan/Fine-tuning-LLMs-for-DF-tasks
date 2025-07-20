@@ -1,0 +1,17 @@
+sender,content
+"Robert","Hey guys, anyone up for a hiking trip this weekend?"
+"Mary","Sounds good to me. Any specific place in mind, Robert?"
+"Robert","I was thinking about the Pine Ridge trails. It's a great spot for bird watching too."
+"Daniel","I'm in! I'll bring my camera and binoculars."
+"Patricia","Same here. I've always wanted to go bird watching."
+"James","I'm not much into bird watching, but I love hiking. Count me in!"
+"Robert","Great! Let's meet at 7am at our usual spot."
+"Mary","Perfect! Looking forward to it."
+"Daniel","Same here. See you guys on Saturday."
+"Patricia","Can't wait! See you guys then."
+"James","See you Saturday."
+
+-----
+
+application,chat group name,list of participants,first message sending datetime
+"Telegram","Weekend Hiking Group",["Robert", "Mary", "Daniel", "Patricia", "James"],"20.09.2021 18:30:00"

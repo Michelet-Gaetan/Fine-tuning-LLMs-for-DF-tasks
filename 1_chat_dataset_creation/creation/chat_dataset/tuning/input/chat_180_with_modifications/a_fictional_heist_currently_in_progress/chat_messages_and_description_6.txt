@@ -1,0 +1,14 @@
+sender;content
+David;In position, ready to go
+Mark;Copy that, David. Surveillance cams offline in 3..2..1..
+David;Cams are dark. Moving in
+Mark;Remember, silent and smooth. We don't want any alarms triggered.
+David;Got it, Mark. I'm in the vault room.
+Mark;Excellent. How's the lock looking?
+David;It's a Sargent & Greenleaf 6730. Won't be a problem.
+Mark;Great. Keep me posted
+David;Almost there... And done. We're in.
+Mark;Good job, David. Pack the goods and get out.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Operation Nightfall;[David, Mark];12.03.2022 22:15:30

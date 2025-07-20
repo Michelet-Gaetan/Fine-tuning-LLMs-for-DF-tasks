@@ -1,0 +1,18 @@
+sender, content
+Chris, "Hey guys, any plans for the weekend?"; 
+Kenneth, "I'm thinking of going hiking. Weather's perfect."; 
+Greyson, "That sounds like fun. I might join you."; 
+Robert, "I have a family gathering on Saturday. Maybe Sunday?"; 
+Chris, "Sunday works for me. Kenneth, what about you?"; 
+Kenneth, "Sure, Sunday's good. Let's plan for it."; 
+Greyson, "Awesome! Looking forward to it."; 
+Robert, "Great. We'll figure out the details tomorrow."; 
+Chris, "Sounds good. Have a good night, guys."; 
+Kenneth, "You too. See you all on Sunday."; 
+Greyson, "Goodnight, everyone."; 
+Robert, "Night, guys. Excited for Sunday.";
+
+-----
+
+application, chat group name, list of participants, first message sending datetime 
+WhatsApp, "Weekend Warriors", ['Chris', 'Kenneth', 'Greyson', 'Robert'], 03.06.2022 19:30:00

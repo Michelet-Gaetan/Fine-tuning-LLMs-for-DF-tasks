@@ -1,0 +1,14 @@
+sender;content
+Reba;Hey guys, have you tried the new update of 'Breath of the Wild' yet?
+Nadir;Not yet, Reba. I've been hooked on 'Among Us'. Anyone else playing?
+Ronnie;I am, Nadir! It's a great game for strategy. We should get a group together for it.
+Sheree;Count me in! I love 'Among Us'. I usually play on the 'Polus' map.
+Robert;Same here. It's great fun. Let's set up a time this weekend?
+Nadir;Sounds like a plan. I'll set up a group chat for us to coordinate.
+Reba;Great! Looking forward to it.
+Ronnie;Me too. It's been a while since we had a group game.
+Sheree;Can't wait! See you guys in the game.
+Robert;Sounds good. See you guys then.
+-----
+application;chat group name;list of participants;first message sending datetime
+Telegram;Gaming Group;[Reba, Nadir, Ronnie, Sheree, Robert];25.09.2021 19:45:00

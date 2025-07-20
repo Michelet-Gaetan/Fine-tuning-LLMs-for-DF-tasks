@@ -1,0 +1,15 @@
+sender;content
+Joseph;Hey guys, do you remember when we used to fight over the remote control?
+Elizabeth;Oh yes, those were the days. Justin, you always wanted to watch cartoons.
+Justin;And you, Liz, always wanted to watch those boring documentaries!
+Joseph;And now, look at us. We all have our own TVs, but we miss those fights.
+Elizabeth;Indeed, Joe. It's the fights and bickering that actually brought us closer as siblings.
+Justin;True, Liz. Now, we may have our own TVs, but we've also got our own lives. I miss you guys.
+Joseph;Well, we should plan a reunion soon. And this time, we’ll let Justin have the remote control.
+Elizabeth;Sounds like a plan, Joe! Justin, you better not make us watch cartoons all day.
+Justin;Deal! But only if you promise not to make us watch any documentaries, Liz.
+
+-----
+
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Sibling Memories;Joseph, Elizabeth, Justin;15.08.2021 20:30:00

@@ -1,0 +1,13 @@
+sender,content
+Clara,"Hey Carlton, have you started watching the new season of 'Stranger Things' yet?";
+Carlton,"Not yet, Clara. I've been busy with work. Is it any good?";
+Clara,"I think it's amazing! The plot seems more intense this time. You should really start watching it.";
+Carlton,"I've heard mixed reviews about it. Some say it's not as good as the previous seasons.";
+Clara,"Well, I think it's subjective. I personally loved it. There are some unexpected twists that make it more interesting.";
+Carlton,"Alright, you've convinced me. I'll start watching it this weekend.";
+Clara,"Great! We can discuss the episodes once you've seen them.";
+Carlton,"Sounds good. I'll get back to you once I start watching.";
+
+-----
+application,chat group name,list of participants,first message sending datetime
+WhatsApp,'TV Show Discussion',['Clara', 'Carlton'],'23.09.2021 16:05:00'

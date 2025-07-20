@@ -1,0 +1,12 @@
+sender;content
+Michael;Hey guys, has anyone tried the new camera Canon just released?
+David;Yes, I did! The EOS R5 is a really impressive model.
+Jennifer;I've been considering it. How's the image quality, David?
+David;It's fantastic, Jennifer. The 45 megapixels sensor is totally worth it.
+Robert;I was reading about its video capabilities. Isn't it supposed to be a game-changer?
+David;Absolutely, Robert. It can record 8K video, which is quite exceptional.
+Michael;Sounds great. I think I'll have to upgrade my gear.
+Jennifer;Same here. Thanks for the insight, David.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Photography Enthusiasts;[Michael, David, Jennifer, Robert];13.03.2022 19:30:00

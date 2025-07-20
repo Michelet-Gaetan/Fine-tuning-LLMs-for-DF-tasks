@@ -1,0 +1,13 @@
+sender;content
+Robert;Hey John, have you ever tried bird watching?
+John;Hi Robert, No, I haven't tried it, but it sounds interesting. What got you into it?
+Robert;Well, I've always loved nature and the outdoors. One day, I just picked up some binoculars and started noticing the variety of birds around me. It's really calming and fascinating.
+John;That does sound calming. What kind of equipment would I need to get started?
+Robert;Most importantly, you'd need a good pair of binoculars. A field guide to birds might also be helpful. And of course, patience.
+John;I think I can manage that. Any specific locations you'd recommend for a beginner?
+Robert;Local parks and nature reserves are great places to start. You'd be surprised at the variety of birds you can find close to home.
+John;Sounds great, Robert. I'll give it a try this weekend.
+Robert;That's great, John! I'm sure you'll enjoy it. Don't hesitate to reach out if you have any questions.
+-----
+application;chat group name;list of participants;first message sending datetime
+WhatsApp;Hobby Chat;[Robert, John];01.05.2022 10:30:00
