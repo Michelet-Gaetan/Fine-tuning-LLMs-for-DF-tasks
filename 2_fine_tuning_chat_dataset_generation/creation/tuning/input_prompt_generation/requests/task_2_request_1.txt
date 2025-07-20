@@ -1,0 +1,3 @@
+
+Please, provide a short summary of each topic discussed in this conversation. Also, mention the datetime of the first and last messages sending for each topic! Use the following format for each topic: "From {datetime first message} to {datetime last message}: \n\t {short summary of the topic discussed}". No introduction is required, just directly provide the short summaries.
+

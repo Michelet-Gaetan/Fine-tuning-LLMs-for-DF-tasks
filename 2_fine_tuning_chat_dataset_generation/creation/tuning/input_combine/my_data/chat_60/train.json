@@ -1,0 +1,921 @@
+[
+      {
+            "metadata": {
+                  "directory name": "fictional_burglary_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Heist Planning",
+                  "list of participants": [
+                        "James",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "06.03.2022 10:25:30"
+            },
+            "dialogue": "James: Hey, you got the details for our next mission?\r\nRobert: Yeah, got them from the boss. It's a mansion in the outskirts.\r\nJames: A mansion, huh? Fancy. Any idea about the security?\r\nRobert: The usual stuff. CCTV, alarms, guards. We'll need to be careful.\r\nJames: And the valuables?\r\nRobert: Lots. Artwork, jewels, cash. It's a goldmine.\r\nJames: We'll need a solid plan then. Let's meet up and discuss.\r\nRobert: Agreed. Tomorrow, our usual spot?\r\nJames: Sounds good. See you then, mate.",
+            "summaries": {
+                  "general": "James and Robert are discussing details of a potential burglary in a mansion.",
+                  "precise": "James asks Robert for details about their next operation. Robert answers that the target is a mansion. According to him, there are various valuable objects to steal, but also different security measures in place. They agree to meet at their usual spot and discuss a plan the next day.",
+                  "GPT4_non_adjusted": "The conversation is between two individuals, James and Robert, who are planning a burglary. They are discussing their \"next mission\" which involves a mansion on the outskirts. They touch on the security measures in place including CCTV, alarms, and guards. They also mention the valuables they expect to find such as artwork, jewels, and cash. They agree to meet up to further discuss and plan their activity. The conversation takes place on WhatsApp in a chat group named \"Heist Planning\", starting from 06.03.2022 at 10:25:30.",
+                  "GPT4_adjusted": "The conversation is between two individuals, James and Robert, who are planning a burglary. They are discussing their \"next mission\" which involves a mansion on the outskirts. They touch on the security measures in place including CCTV, alarms, and guards. They also mention the valuables they expect to find such as artwork, jewels, and cash. They agree to meet up to further discuss and plan their activity."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_burglary_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "The Fictional Job",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "15.09.2021 20:30:00"
+            },
+            "dialogue": "John: Hey Michael, are you in?\r\nMichael: Yeah John, what's up?\r\nJohn: Got a potential job.\r\nMichael: Oh? Tell me more.\r\nJohn: It's a mansion, out in the countryside. Plenty of valuables.\r\nMichael: How's the security?\r\nJohn: Pretty tight. Guards, cameras, the works.\r\nMichael: We'll need a plan then.\r\nJohn: Indeed. Are you in?\r\nMichael: Count me in, John. Let's get to work.",
+            "summaries": {
+                  "general": "John and Michael are discussing a potential burglary targeting a mansion in the countryside.",
+                  "precise": "John proposes a job to Michael. It consists of the burglary of a mansion in the countryside. According to him, there are plenty of valuable objects to loot, but security is important. Michael accepts the job and stresses the need for a plan.",
+                  "GPT4_non_adjusted": "The conversation is a discussion between two individuals, John and Michael, on a messaging platform. The topic revolves around a burglary job. John initiates the conversation, proposing a potential job involving a mansion in the countryside with plenty of valuables. Michael shows interest and asks about the security, learning that it is well-secured with guards and cameras. Despite the challenge, Michael agrees to be a part of the plan, indicating they will need to strategize due to the high level of security.",
+                  "GPT4_adjusted": "The conversation is a discussion between two individuals, John and Michael. The topic revolves around a burglary job. John initiates the conversation, proposing a potential job involving a mansion in the countryside with plenty of valuables. Michael shows interest and asks about the security, learning that it is well-secured with guards and cameras. Despite the challenge, Michael agrees to be a part of the plan, indicating they will need to strategize due to the high level of security."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_burglary_activities",
+                  "application": "Telegram",
+                  "chat group name": "Masterminds",
+                  "list of participants": [
+                        "John",
+                        "Matthew",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "17.04.2022 19:45:30"
+            },
+            "dialogue": "John: Hey guys, have you heard about the new security system at the museum?\r\nMatthew: No, what about it?\r\nJohn: Heard they got some new tech, might be a tough one to crack.\r\nRobert: Well, it's not the first time we've faced something like this.\r\nMatthew: That's true. We just need to study the system.\r\nJohn: Agreed. Let's start planning.\r\nRobert: Sounds good. Let's meet up tomorrow to discuss it.\r\nJohn: Tomorrow at 8?\r\nMatthew: Works for me.\r\nRobert: Me too, see you guys then.",
+            "summaries": {
+                  "general": "John, Matthew, and Robert are talking about the new security system of a museum, which they were potentially planning to rob.",
+                  "precise": "John is concerned by the new security system of a museum, given that it might be difficult to crack. Robert and Matthew reassure him, explaining that they already faced such a situation and simply need to study it. They then set up a meeting the next day at 8 to discuss their plan.",
+                  "GPT4_non_adjusted": "The conversation involves three individuals named John, Matthew, and Robert. It takes place on a Telegram chat group named \"Masterminds\". The discussion starts with John mentioning a new security system at the museum, which seems to be of interest to them for their burglary activities. Matthew and Robert agree that it's a challenge they've faced before and that they just need to understand the system to overcome it. They agree to meet up the following day to plan their next steps. The conversation kicks off on the 17th of April, 2022 at 19:45:30.",
+                  "GPT4_adjusted": "The conversation involves three individuals named John, Matthew, and Robert. The discussion starts with John mentioning a new security system at the museum, which seems to be of interest to them for their burglary activities. Matthew and Robert agree that it's a challenge they've faced before and that they just need to understand the system to overcome it. They agree to meet up the following day to plan their next steps."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_burglary_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Burglary Plan",
+                  "list of participants": [
+                        "Robert",
+                        "John"
+                  ],
+                  "first message sending datetime": "01.04.2022 10:30:00"
+            },
+            "dialogue": "Robert: Hey, did you find a good spot yet for our operation?\r\nJohn: Yes, I've found the perfect spot. It's a mansion in the city center.\r\nRobert: Sounds great. What's the security like?\r\nJohn: From what I've observed, there's a guard at the main entrance, CCTV cameras around the property, and an alarm system.\r\nRobert: We'll need to plan carefully then. Have you started working on a strategy?\r\nJohn: I've started brainstorming some ideas. We'll definitely need a good disguise and we'll need to figure out how to disable the alarm system.\r\nRobert: Agreed. We should also have a contingency plan in case things go wrong.\r\nJohn: Absolutely. I'll start working on these plans and share them with you soon.\r\nRobert: Perfect. Let's meet up tomorrow to discuss this further.\r\nJohn: Sounds good. I'll bring the blueprints of the mansion with me.",
+            "summaries": {
+                  "general": "Robert and John are discussing a plan for an operation targeting a mansion in the city center.",
+                  "precise": "Robert asks John if he could find a target for their operation. John answers that he found a mansion in the city center, equipped with different security systems such as cameras, alarms, and guards. He also explains that he started thinking of a plan, but they would need to find disguises and disarm the alarms. Robert stresses the need for a plan B if something goes wrong. They both agree to meet on the next day to discuss the plan in more detail, and John states that he will bring blueprints of the location.",
+                  "GPT4_non_adjusted": "The conversation is between Robert and John, who are discussing a burglary plan. They discuss a potential location for their operation, which is a mansion in the city center. John has observed the security measures in place at the mansion, including a guard, CCTV cameras, and an alarm system. Robert suggests the need for careful planning and a contingency plan. John agrees and proposes to start working on these plans. They plan to meet the next day to discuss further, with John bringing the blueprints of the mansion. The conversation takes place on WhatsApp in a chat group named \"Burglary Plan\" on April 1, 2022, at 10:30 am.",
+                  "GPT4_adjusted": "The conversation is between Robert and John, who are discussing a burglary plan. They discuss a potential location for their operation, which is a mansion in the city center. John has observed the security measures in place at the mansion, including a guard, CCTV cameras, and an alarm system. Robert suggests the need for careful planning and a contingency plan. John agrees and proposes to start working on these plans. They plan to meet the next day to discuss further, with John bringing the blueprints of the mansion."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_burglary_activities",
+                  "application": "Telegram",
+                  "chat group name": "The Professional Job",
+                  "list of participants": [
+                        "James",
+                        "Robert",
+                        "Michael",
+                        "John",
+                        "David",
+                        "William"
+                  ],
+                  "first message sending datetime": "12.04.2022 20:01:15"
+            },
+            "dialogue": "James: We need to plan this carefully, guys.\r\nRobert: Agreed, James. We need a detailed blueprint of the place.\r\nMichael: I can take care of that. Got a contact who can provide it.\r\nJohn: Michael, ensure it's recent. We can't afford outdated info.\r\nDavid: While you guys do that, I'll start researching the security system.\r\nWilliam: Good call, David. We need to know what we're dealing with.\r\nJames: Remember, no violence. We're not thugs, we're professionals.\r\nRobert: Absolutely, James. Stealth is our best weapon.\r\nMichael: Blueprints are secured. They'll be with us by tomorrow.\r\nJohn: Great job, Michael. Let's meet tomorrow then, to discuss the plan.\r\nDavid: Sounds good. I'll bring what I find on the security systems.\r\nWilliam: See you all tomorrow then. Let's make this a clean job.",
+            "summaries": {
+                  "general": "James, Robert, Michael, John, David, and William are discussing their next operation, potentially a heist or a robbery.",
+                  "precise": "James stresses the need for a solid plan. Robert agrees and wonders about the blueprint. Michael states that he can manage it. David proposes to gather information about the security system in the meantime, and James and Robert stress the importance of using stealth instead of violence. Later on, Michael announces that he got the blueprint. They finally agree to meet on the next day to discuss the plan and bring the information they could gather.",
+                  "GPT4_non_adjusted": "The conversation revolves around the meticulous planning of a burglary by a group of six individuals: James, Robert, Michael, John, David, and William. James initiates the chat emphasizing the need for careful planning. Robert suggests the necessity of a detailed blueprint, to which Michael takes responsibility for acquiring. John stresses the importance of the blueprint being updated. Concurrently, David suggests researching the security system, a task he volunteers to undertake. William appreciates David's proactive approach. James, leading the group, insists on maintaining professionalism and avoiding violence. Robert backs James' statement, emphasizing stealth. Michael confirms the acquisition of the blueprints and schedules a meeting for the next day. John commends Michael's work and agrees to the planned meeting. David confirms his participation and promises to bring his findings on the security systems. William concludes the conversation, agreeing to the meeting and expressing hope for a clean job.",
+                  "GPT4_adjusted": "The conversation revolves around the meticulous planning of a burglary by a group of six individuals: James, Robert, Michael, John, David, and William. James initiates the chat emphasizing the need for careful planning. Robert suggests the necessity of a detailed blueprint, to which Michael takes responsibility for acquiring. John stresses the importance of the blueprint being updated. Concurrently, David suggests researching the security system, a task he volunteers to undertake. William appreciates David's proactive approach. James, leading the group, insists on maintaining professionalism and avoiding violence. Robert backs James' statement, emphasizing stealth. Michael confirms the acquisition of the blueprints and schedules a meeting for the next day. John commends Michael's work and agrees to the planned meeting. David confirms his participation and promises to bring his findings on the security systems. William concludes the conversation, agreeing to the meeting and expressing hope for a clean job."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_burglary_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "The Heist",
+                  "list of participants": [
+                        "John",
+                        "Robert",
+                        "James",
+                        "William"
+                  ],
+                  "first message sending datetime": "24.03.2022 16:45:00"
+            },
+            "dialogue": "John: So, we're really going through with this, huh?\r\nRobert: Looks like it. Got the blueprints ready?\r\nJames: Right here. The safe is in the basement.\r\nWilliam: That's a tight spot. We need a good plan.\r\nRobert: Let's not rush things. We have time.\r\nJohn: Agreed. Everyone needs to know their part.\r\nJames: I'll get the tools. We need to be silent and quick.\r\nWilliam: I can distract the guards. Used to be one, remember?\r\nRobert: Perfect. John, you're with James. I'll be the lookout.\r\nJohn: Sounds like a plan. Let's meet tomorrow to finalize everything.",
+            "summaries": {
+                  "general": "John, Robert, James, and William are discussing a plan to rob a vault.",
+                  "precise": "John wonders if they are going to run their operation. Robert says that yes, and James states that he got the blueprints of the target, with the safe being located in the basement. William stresses the need for a plan. James will take care of gathering the tools, and William can handle the distraction of the guards. John finally proposes to meet on the next day to finalize the plan.",
+                  "GPT4_non_adjusted": "The conversation involves four individuals: John, Robert, James, and William. They are discussing a planned burglary. The conversation begins with John confirming their intent to proceed with the plan. Robert affirms this and asks if the blueprints, which James has, are ready. The safe they plan to rob is located in the basement, a tricky location according to William. They all agree on the need for a well-thought-out plan and the importance of everyone knowing their roles. James volunteers to gather the necessary tools for a silent and quick operation while William offers to distract the guards, leveraging his past experience as a guard. Robert assigns roles, making himself the lookout, and pairs John with James. John agrees with the plan and suggests a meeting the next day to finalize everything.",
+                  "GPT4_adjusted": "The conversation involves four individuals: John, Robert, James, and William. They are discussing a planned burglary. The conversation begins with John confirming their intent to proceed with the plan. Robert affirms this and asks if the blueprints, which James has, are ready. The safe they plan to rob is located in the basement, a tricky location according to William. They all agree on the need for a well-thought-out plan and the importance of everyone knowing their roles. James volunteers to gather the necessary tools for a silent and quick operation while William offers to distract the guards, leveraging his past experience as a guard. Robert assigns roles, making himself the lookout, and pairs John with James. John agrees with the plan and suggests a meeting the next day to finalize everything."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_drug_trafficking_or_dealing_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Night Shipment",
+                  "list of participants": [
+                        "Robert",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "02.03.2022 20:45:00"
+            },
+            "dialogue": "Robert: Hey, do we have the shipment ready for tonight?\r\nMichael: Yes, everything is in order. Just checking the final details now.\r\nRobert: Great. Remember, we can't afford any mistakes.\r\nMichael: I know, I know. Relax, we've done this a hundred times.\r\nRobert: Not like this, we haven\u2019t. This is the biggest shipment we\u2019ve ever handled.\r\nMichael: And we're ready for it. Trust me.\r\nRobert: I do, just keep an eye out for anything unusual.\r\nMichael: Will do. I'll let you know if anything changes.\r\nRobert: Good. We\u2019re in this together, remember that.\r\nMichael: I know. We've got this, Robert.",
+            "summaries": {
+                  "general": "Robert and Michael discuss the handling of a shipment, potentially its transportation.",
+                  "precise": "Robert asks Michael if the shipment is ready for that night. Michael answers that he is checking the last details. Robert is worried about the size of the shipment, which is, according to him, the biggest they've ever handled. Michael tries to reassure him.",
+                  "GPT4_non_adjusted": "The conversation is between two individuals, Robert and Michael. They are discussing a large shipment that is set to occur later that night. Robert initiates the conversation by confirming if the shipment is ready. Michael assures him that everything is prepared and urges Robert to relax, emphasizing that they have done this many times. However, Robert insists on the seriousness of this particular shipment, stating it is their biggest one yet. He advises Michael to be vigilant for any unusual activities. Michael agrees and reassures Robert that they are in control of the situation. The conversation takes place on a WhatsApp group named \"Night Shipment\" on March 2, 2022, at 20:45:00.",
+                  "GPT4_adjusted": "The conversation is between two individuals, Robert and Michael. They are discussing a large shipment that is set to occur later that night. Robert initiates the conversation by confirming if the shipment is ready. Michael assures him that everything is prepared and urges Robert to relax, emphasizing that they have done this many times. However, Robert insists on the seriousness of this particular shipment, stating it is their biggest one yet. He advises Michael to be vigilant for any unusual activities. Michael agrees and reassures Robert that they are in control of the situation."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_drug_trafficking_or_dealing_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Business Affairs",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "10.08.2021 09:15:27"
+            },
+            "dialogue": "John: Hey, Michael. Got a new shipment?\r\nMichael: Yeah, John. Just came in this morning.\r\nJohn: Good. Our usual spot?\r\nMichael: Exactly, but we need to be careful, John. Heat's on.\r\nJohn: Got it. Let's keep it low-key.\r\nMichael: Absolutely, John. See you there.\r\nJohn: See you, Michael. Stay safe.",
+            "summaries": {
+                  "general": "John and Michael are discussing the arrival of a new shipment during the morning of that day.",
+                  "precise": "John inquires about the arrival of a new shipment. Michael answers that it arrived in the morning, at their usual spot. Michael finally asks John to be extra careful.",
+                  "GPT4_non_adjusted": "The conversation is between two individuals, John and Michael, discussing a new shipment presumably related to drug trafficking. Their conversation reveals that they have a usual spot for their activities, but they need to be cautious because law enforcement is active. The chat took place on WhatsApp in a group named \"Business Affairs\" and it started with John's message on 10.08.2021 at 09:15:27.",
+                  "GPT4_adjusted": "The conversation is between two individuals, John and Michael, discussing a new shipment presumably related to drug trafficking. Their conversation reveals that they have a usual spot for their activities, but they need to be cautious because law enforcement is active."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_drug_trafficking_or_dealing_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Business Talk",
+                  "list of participants": [
+                        "Michael",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "12.07.2021 10:15:30"
+            },
+            "dialogue": "Michael: Hey Robert, got a new shipment?\r\nRobert: Yeah, got it last night. Same quality?\r\nMichael: Top notch as always. When can we meet?\r\nRobert: Tomorrow night, at the usual place. Around 8?\r\nMichael: Sounds good. Be ready with the package.\r\nRobert: Already on it, mate. See you tomorrow.\r\nMichael: Great, see you.",
+            "summaries": {
+                  "general": "Michael and Robert discuss the reception and quality of a new shipment and plan a meeting for the next day.",
+                  "precise": "Michael asks Robert if he got a new shipment. Roberts replies that yes and wonders about its quality. Michael confirms it is good quality and asks Rober for a meeting. They both agree to meet the next day around 8 PM at the usual place.",
+                  "GPT4_non_adjusted": "The conversation is a cryptic chat between two individuals, Michael and Robert, regarding an illicit trade. Michael initiates the conversation, asking Robert about a 'new shipment', a veiled reference to a batch of illegal drugs. Robert confirms the arrival of this shipment and assures Michael of its high quality. They then arrange to meet the next night to exchange the shipment. The conversation ends with Robert assuring Michael that he will be ready with the package for their meeting. The conversation took place on WhatsApp in a group named \"Business Talk\" on the 12th of July, 2021 at 10:15:30.",
+                  "GPT4_adjusted": "The conversation is a cryptic chat between two individuals, Michael and Robert, regarding an illicit trade. Michael initiates the conversation, asking Robert about a 'new shipment', a veiled reference to a batch of illegal drugs. Robert confirms the arrival of this shipment and assures Michael of its high quality. They then arrange to meet the next night to exchange the shipment. The conversation ends with Robert assuring Michael that he will be ready with the package for their meeting."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_drug_trafficking_or_dealing_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Blue Sky",
+                  "list of participants": [
+                        "James",
+                        "Richard"
+                  ],
+                  "first message sending datetime": "27.02.2022 15:45:30"
+            },
+            "dialogue": "James: Hey Richard, are you in town?\r\nRichard: Yes James, just landed. What's up?\r\nJames: Got a new shipment. Need to move it quickly.\r\nRichard: Alright. What are we talking about?\r\nJames: Something special. Blue Sky.\r\nRichard: The one from the southwest?\r\nJames: Exactly. Got a buyer?\r\nRichard: Might have. Need to check. How much are we talking about?\r\nJames: Enough to get us both an early retirement.\r\nRichard: Sounds risky, but count me in. I'll get back to you with a buyer.\r\nJames: Good. Remember, discretion is key.\r\nRichard: Always has been, always will be. Talk later.",
+            "summaries": {
+                  "general": "James and Richard are discussing a new shipment of \"Blue Sky\". James wants to move it quickly and asks Richard if he has a buyer.",
+                  "precise": "James informs Richard about a new shipment he received, some \"Blue Sky\" from the southwest, according to him. James wants to move it quickly and asks Richard if he has a buyer. Richard answers that he might have and will get back to James when he has one.",
+                  "GPT4_non_adjusted": "In the conversation, James and Richard, two individuals presumably involved in illegal drug trafficking, discussed a new shipment that James has received. The shipment is of a fictional drug called \"Blue Sky\", which is apparently valuable enough to allow both of them to retire early. Richard expressed some concern about the risk involved, but agreed to find a buyer. They emphasized the need for discretion in their dealings. This conversation took place in a WhatsApp group named \"Blue Sky\" on February 27, 2022, at 3:45:30 PM.",
+                  "GPT4_adjusted": "In the conversation, James and Richard, two individuals presumably involved in illegal drug trafficking, discussed a new shipment that James has received. The shipment is of a fictional drug called \"Blue Sky\", which is apparently valuable enough to allow both of them to retire early. Richard expressed some concern about the risk involved, but agreed to find a buyer. They emphasized the need for discretion in their dealings."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_drug_trafficking_or_dealing_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "The Usual Business",
+                  "list of participants": [
+                        "Michael",
+                        "John"
+                  ],
+                  "first message sending datetime": "15.06.2021 18:45:00"
+            },
+            "dialogue": "Michael: Hey John, you got the stuff?\r\nJohn: Yes, just got it today.\r\nMichael: Good. Where should we meet?\r\nJohn: Our usual spot, the park by the river.\r\nMichael: Perfect. Make sure you're not followed.\r\nJohn: Always careful, Mike. You know me.\r\nMichael: Alright, see you there.\r\nJohn: See you.",
+            "summaries": {
+                  "general": "Michael asks John if he got the \"stuff\" and organizes a meeting with him.",
+                  "precise": "Michael asks if John has the \"stuff\", to which John answers that he got it that day. Michael then arranges a meeting, and John proposes to meet at their usual place, a park located by the river.",
+                  "GPT4_non_adjusted": "In the conversation, Michael initiates a discussion with John about a secretive deal. He confirms that John has 'the stuff', a coded reference potentially indicating illicit substances, and they agree to meet at a usual spot, a park by the river. They emphasize the need for discretion and caution, showing that their activities are likely illegal, potentially related to drug trafficking or dealing.",
+                  "GPT4_adjusted": "In the conversation, Michael initiates a discussion with John about a secretive deal. He confirms that John has 'the stuff', a coded reference potentially indicating illicit substances, and they agree to meet at a usual spot, a park by the river. They emphasize the need for discretion and caution, showing that their activities are likely illegal, potentially related to drug trafficking or dealing."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_drug_trafficking_or_dealing_activities",
+                  "application": "Telegram",
+                  "chat group name": "Trading Routes",
+                  "list of participants": [
+                        "James",
+                        "Robert",
+                        "Michael",
+                        "Barbara"
+                  ],
+                  "first message sending datetime": "05.05.2021 18:00:00"
+            },
+            "dialogue": "James: We need to discuss a new route for the shipment\r\nRobert: I agree, the old one has become too risky\r\nMichael: Let's use the southern route, it's less monitored\r\nJames: That's a good idea, Michael. But we need a reliable transporter\r\nBarbara: I know a guy, trustworthy and discreet. Used to work in smuggling\r\nRobert: Sounds good Barbara. Let's arrange a meeting\r\nMichael: I will handle the meeting. Let's not leave any loose ends\r\nJames: Agreed, Michael. We need to play this safe\r\nBarbara: I'll contact the transporter and set up the meeting\r\nRobert: Keep us updated, Barbara\r\nJames: This plan needs to work, we can't afford any mistakes",
+            "summaries": {
+                  "general": "James, Robert, Michael, and Barbara are trying to find a new route and transporter for a shipment.",
+                  "precise": "James proposes to find a new route for their shipment. Robert agrees, and Michael suggests using the southern one, due to a lower monitoring of this route. James accepts and states that they also need a new transporter. Barbara answers that she knows a former smuggler. Michael proposes to handle the meeting, and Barbara to set it up.",
+                  "GPT4_non_adjusted": "The conversation took place between four individuals namely James, Robert, Michael, and Barbara. The discussion was centered around establishing a new route for an illicit drug shipment. James initiated the conversation, expressing the need for a new route. Robert agreed, calling attention to the riskiness of their current route. Michael proposed using a southern route which he claimed was less monitored. James agreed to this but pointed out the need for a reliable transporter. Barbara suggested a trustworthy individual who had previous experience in smuggling. Robert agreed to this suggestion and asked for a meeting to be arranged. Michael volunteered to handle the meeting, stressing the importance of not leaving any loose ends. Barbara agreed to contact the transporter and arrange the meeting, while Robert asked her to keep them updated. James ended the conversation by emphasizing the necessity for the plan to succeed, stating that they couldn't afford any mistakes.",
+                  "GPT4_adjusted": "The conversation took place between four individuals namely James, Robert, Michael, and Barbara. The discussion was centered around establishing a new route for an illicit drug shipment. James initiated the conversation, expressing the need for a new route. Robert agreed, calling attention to the riskiness of their current route. Michael proposed using a southern route which he claimed was less monitored. James agreed to this but pointed out the need for a reliable transporter. Barbara suggested a trustworthy individual who had previous experience in smuggling. Robert agreed to this suggestion and asked for a meeting to be arranged. Michael volunteered to handle the meeting, stressing the importance of not leaving any loose ends. Barbara agreed to contact the transporter and arrange the meeting, while Robert asked her to keep them updated. James ended the conversation by emphasizing the necessity for the plan to succeed, stating that they couldn't afford any mistakes."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_drug_trafficking_or_dealing_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "The Shipyard",
+                  "list of participants": [
+                        "Michael",
+                        "Robert",
+                        "David"
+                  ],
+                  "first message sending datetime": "01.05.2022 18:30:00"
+            },
+            "dialogue": "Michael: We need to discuss the new shipment\r\nRobert: Agreed, when is it due?\r\nDavid: It's due next week, we have to be ready\r\nMichael: The last one was not properly handled, we can't afford another mistake\r\nRobert: I've reinforced the team, it won't happen again\r\nDavid: Let's hope so, we're playing with fire here\r\nMichael: We need a detailed plan this time, Robert\r\nRobert: Already working on it\r\nDavid: Let's meet tomorrow and discuss it in person\r\nMichael: Tomorrow, 8 pm at the usual place\r\nDavid: See you guys there\r\nRobert: Alright, will be there",
+            "summaries": {
+                  "general": "Michael, David, and Robert are discussing the handling of their next shipment.",
+                  "precise": "Michael requests a discussion with David and Robert regarding the next shipment, which is, according to David, due the next week. Michael stresses that this time they can not make mistakes. Robert assures that he improved the team, but Michael asks for a detailed plan this time. The three of them finally agree to meet the next day at 8 PM at their usual place to discuss it.",
+                  "GPT4_non_adjusted": "The conversation involves three individuals: Michael, Robert, and David. They are discussing a shipment that's due to arrive the following week, presumably related to their illicit drug trafficking activities. Michael expresses concern over how the last shipment was handled and emphasizes the need for a better plan this time to avoid any mistakes. Robert assures him that he's reinforced the team and is working on a detailed plan. David suggests a face-to-face meeting to discuss it in detail, and they agree to meet the following day at their usual place. The conversation takes place on a WhatsApp group named \"The Shipyard\".",
+                  "GPT4_adjusted": "The conversation involves three individuals: Michael, Robert, and David. They are discussing a shipment that's due to arrive the following week, presumably related to their illicit drug trafficking activities. Michael expresses concern over how the last shipment was handled and emphasizes the need for a better plan this time to avoid any mistakes. Robert assures him that he's reinforced the team and is working on a detailed plan. David suggests a face-to-face meeting to discuss it in detail, and they agree to meet the following day at their usual place."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_drug_trafficking_or_dealing_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Underground Kings",
+                  "list of participants": [
+                        "Michael",
+                        "Robert",
+                        "James"
+                  ],
+                  "first message sending datetime": "02.03.2022 10:30:00"
+            },
+            "dialogue": "Michael: Guys, we got a shipment coming in tonight.\r\nRobert: What's the cargo?\r\nMichael: The usual. 50 lbs.\r\nJames: Are we sure of the quality?\r\nMichael: It's the best. Same supplier.\r\nRobert: What time's the drop?\r\nMichael: Midnight. Dock 9.\r\nJames: I'll arrange the transport.\r\nRobert: I'll take care of distribution.\r\nMichael: Good. Let's keep it clean and quiet, guys.",
+            "summaries": {
+                  "general": "Michael, Robert, and James are discussing the details of a new shipment they will receive.",
+                  "precise": "Michael mentions the arrival of a new shipment that evening. Robert and James wonder about the cargo and the quality, to which Michael answers that it is a usual 50 lbs shipment of the best quality, obtained through the same supplier. Robert wants to know when it will arrive, and Michael answers at midnight on dock 9. James will arrange the transport and Robert the distribution.",
+                  "GPT4_non_adjusted": "The conversation is between three individuals: Michael, Robert, and James, who are discussing an incoming shipment related to their illicit drug trafficking activities. Michael initiates the conversation, informing the others about a shipment arriving that night. Robert inquires about the nature of the cargo, to which Michael responds that it's their usual 50 lbs. James questions the quality of the cargo, and Michael assures him that it's of the highest quality from their usual supplier. The drop is scheduled at midnight at Dock 9. James takes responsibility for arranging the transportation, while Robert handles the distribution. Michael ends the conversation by urging them to keep their operations clean and quiet. This conversation takes place on a WhatsApp group named \"Underground Kings\" on the 2nd of March, 2022, starting from 10:30 AM.",
+                  "GPT4_adjusted": "The conversation is between three individuals: Michael, Robert, and James, who are discussing an incoming shipment related to their illicit drug trafficking activities. Michael initiates the conversation, informing the others about a shipment arriving that night. Robert inquires about the nature of the cargo, to which Michael responds that it's their usual 50 lbs. James questions the quality of the cargo, and Michael assures him that it's of the highest quality from their usual supplier. The drop is scheduled at midnight at Dock 9. James takes responsibility for arranging the transportation, while Robert handles the distribution. Michael ends the conversation by urging them to keep their operations clean and quiet."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "usual_day-to-day_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Day to Day",
+                  "list of participants": [
+                        "David",
+                        "John"
+                  ],
+                  "first message sending datetime": "20.09.2022 10:30:00"
+            },
+            "dialogue": "David: Hey John, how was your day?\r\nJohn: Hey David, it was quite hectic. How about yours?\r\nDavid: Oh, mine was fairly relaxed. Had a few meetings though.\r\nJohn: That sounds nice. I was stuck with a pile of paperwork.\r\nDavid: Oh, that doesn't sound fun. Anything interesting?\r\nJohn: Not really, just usual office stuff.\r\nDavid: Alright. What are your plans for dinner?\r\nJohn: Thinking of cooking something. Maybe pasta.\r\nDavid: That sounds nice. I think I'll order pizza.\r\nJohn: Not a bad idea. Maybe I'll do the same.",
+            "summaries": {
+                  "general": "David and John are discussing their day.",
+                  "precise": "David asks John about his day. He responds that it was particularly busy, with lots of boring office paperwork. David's was way more relaxed, with a few meetings. They also discuss their dinner plans, with John willing to cook pasta. David on the other hand is thinking of ordering a pizza and might have convinced John to do the same.",
+                  "GPT4_non_adjusted": "In this conversation, David and John discuss their respective days. David had a relaxed day with a few meetings while John had a hectic one filled with paperwork. They then shift their conversation to their dinner plans. John initially plans to cook pasta but upon hearing David's plan to order pizza, he considers doing the same. The chat took place on WhatsApp, under the group name \"Day to Day\", and the first message was sent by David on 20.09.2022 at 10:30:00.",
+                  "GPT4_adjusted": "In this conversation, David and John discuss their respective days. David had a relaxed day with a few meetings while John had a hectic one filled with paperwork. They then shift their conversation to their dinner plans. John initially plans to cook pasta but upon hearing David's plan to order pizza, he considers doing the same."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "usual_day-to-day_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Daily Updates",
+                  "list of participants": [
+                        "James",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "05.04.2022 08:15:30"
+            },
+            "dialogue": "James: Good morning, Robert. Did you manage to finish the report for today's meeting?\r\nRobert: Morning, James. Yes, I did. I just need to do a final check before sending it to you.\r\nJames: Great! I'll be waiting for it. By the way, did you manage to contact the supplier about the delayed shipment?\r\nRobert: Yes, I did. They apologized for the delay and promised to expedite the shipment. It should arrive by tomorrow.\r\nJames: Excellent! That's a relief. We should be able to meet the project deadline then.\r\nRobert: Yes, we should. I'll send you the report shortly. Have a good day, James.\r\nJames: You too, Robert. Speak to you later.",
+            "summaries": {
+                  "general": "James and Robert are discussing work-related tasks.",
+                  "precise": "James asks Robert about updates for two tasks, a report for the meeting of the day, and the contact of the supplier for delayed shipment. Robert responds that he would do a last check before sending the report and that he could contact the supplier. According to him, the shipment should arrive the next day. James is relieved as they should then meet the deadline.",
+                  "GPT4_non_adjusted": "The conversation is between James and Robert, taking place on WhatsApp in a group named \"Daily Updates\". The conversation started on 05.04.2022 at 08:15:30. The discussion revolved around their daily work activities. James began by asking Robert if he finished a report for a meeting. Robert confirmed he did and would send it after a final check. James also inquired about a delayed shipment from a supplier. Robert informed him that the supplier promised to expedite the shipment, which should arrive by the next day. They both seem relieved that they can meet their project deadline. The conversation ends with Robert promising to send the report and both wishing each other a good day.",
+                  "GPT4_adjusted": "The conversation is between James and Robert. The discussion revolved around their daily work activities. James began by asking Robert if he finished a report for a meeting. Robert confirmed he did and would send it after a final check. James also inquired about a delayed shipment from a supplier. Robert informed him that the supplier promised to expedite the shipment, which should arrive by the next day. They both seem relieved that they can meet their project deadline. The conversation ends with Robert promising to send the report and both wishing each other a good day."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "usual_day-to-day_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Daily Chat",
+                  "list of participants": [
+                        "James",
+                        "David"
+                  ],
+                  "first message sending datetime": "10.11.2022 08:30:00"
+            },
+            "dialogue": "James: Good morning, David.\r\nDavid: Hey James. How are you today?\r\nJames: Doing well, thank you. Just finished my morning workout. You?\r\nDavid: I'm good too. Just started with my work.\r\nJames: That's nice. What's on your agenda today?\r\nDavid: Have a couple of meetings and a project deadline. What about you?\r\nJames: I have a presentation in the afternoon. Other than that, it's mostly paperwork today.\r\nDavid: Good luck with that. Have a good day, James.\r\nJames: You too, David. Catch you later.",
+            "summaries": {
+                  "general": "James and David are chatting about their upcoming day.",
+                  "precise": "David asks James about his day. James just finished his workout, while David already started working. He has a few meetings and a project deadline. James, on the other hand, will have a presentation and some paperwork to do.",
+                  "GPT4_non_adjusted": "The conversation between James and David took place on WhatsApp in a chat group named \"Daily Chat\". The conversation began on the 10th of November, 2022 at 8:30 AM. They started their conversation by exchanging pleasantries. James mentioned he had just finished his morning workout, and David shared that he had started work. They then discussed their tasks for the day. James mentioned he had a presentation and paperwork to attend to, while David had meetings and a project deadline. They wished each other a good day before ending the conversation.",
+                  "GPT4_adjusted": "The conversation between James and David took place on a chat group. They started their conversation by exchanging pleasantries. James mentioned he had just finished his morning workout, and David shared that he had started work. They then discussed their tasks for the day. James mentioned he had a presentation and paperwork to attend to, while David had meetings and a project deadline. They wished each other a good day before ending the conversation."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "usual_day-to-day_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Day to Day Chats",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "12.04.2022 10:15:30"
+            },
+            "dialogue": "John: Hey Michael, how's it going?\r\nMichael: Hi John, I'm good. Just got back from the grocery store.\r\nJohn: Great. What did you get?\r\nMichael: Just the usual stuff: milk, eggs, bread, and some fruits.\r\nJohn: Did you remember to get the bananas?\r\nMichael: Yes, I did. Also got some fresh berries.\r\nJohn: Perfect! I was thinking of making a fruit salad for dessert tonight.\r\nMichael: Sounds delicious. I'm looking forward to it.\r\nJohn: Great! See you at dinner then.\r\nMichael: See you, John.",
+            "summaries": {
+                  "general": "John and Michael are talking about Michael's groceries.",
+                  "precise": "John asks Michael about how he is doing. Michael answers that everything is good and that he just did the groceries, buying usual items such as milk or eggs. John asks if he remembered to take bananas, which is the case. Michael also took some berries, which is convenient for John, who wanted to make a fruit salad for dessert.",
+                  "GPT4_non_adjusted": "The conversation between John and Michael revolves around their daily activities, particularly grocery shopping. Michael has just returned from the store and shares with John the items he has purchased, which include milk, eggs, bread, fruits, bananas, and berries. John, satisfied with the purchases, plans to make a fruit salad for dessert that evening. The chat concludes with both of them looking forward to their dinner.",
+                  "GPT4_adjusted": "The conversation between John and Michael revolves around their daily activities, particularly grocery shopping. Michael has just returned from the store and shares with John the items he has purchased, which include milk, eggs, bread, fruits, bananas, and berries. John, satisfied with the purchases, plans to make a fruit salad for dessert that evening. The chat concludes with both of them looking forward to their dinner."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "usual_day-to-day_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Day-to-Day Chats",
+                  "list of participants": [
+                        "Robert",
+                        "Matthew"
+                  ],
+                  "first message sending datetime": "15.09.2021 09:00:00"
+            },
+            "dialogue": "Robert: Hey, how's your day going?\r\nMatthew: Good, Robert. Just finished with the morning chores. How about you?\r\nRobert: Just returned from the grocery store. Planning the meals for the week.\r\nMatthew: That sounds good. I need to plan mine too. Any suggestions?\r\nRobert: How about trying some Italian dishes? I can share some recipes.\r\nMatthew: That's a great idea. I would love to try some Italian recipes.\r\nRobert: Cool. I will send you some easy-to-make recipes.\r\nMatthew: Thanks, Robert. Looking forward to trying them out.\r\nRobert: You're welcome. Let me know how it goes.\r\nMatthew: Sure, I will. Talk to you later, Robert.\r\nRobert: Later, Matthew. Have a great day.",
+            "summaries": {
+                  "general": "Robert and Matthew are chatting about their day and potential meals for the upcoming week.",
+                  "precise": "Robert asks Matthew about his day. Matthew responds that he just finished morning chores, and asks about Robert's day. Robert explains that he just came back from the groceries, and started planning the meals for the upcoming week. Matthew thinks of doing the same and asks for suggestions. Robert suggests going for an Italian dish, which convinces Matthew. He will also send easy recipes to Matthew.",
+                  "GPT4_non_adjusted": "In the conversation, Robert and Matthew, members of the \"Day-to-Day Chats\" group on WhatsApp, discuss their daily activities. Robert shares that he has just returned from the grocery store and is planning his meals for the week. When Matthew expresses interest in doing the same, Robert suggests trying Italian cuisine and offers to share some recipes. The conversation ends with the agreement of sharing the recipes and discussing the outcomes later. The chat began on the 15th of September 2021 at 09:00:00.",
+                  "GPT4_adjusted": "In the conversation, Robert and Matthew discuss their daily activities. Robert shares that he has just returned from the grocery store and is planning his meals for the week. When Matthew expresses interest in doing the same, Robert suggests trying Italian cuisine and offers to share some recipes. The conversation ends with the agreement of sharing the recipes and discussing the outcomes later."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "usual_day-to-day_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Daily Chit-Chat",
+                  "list of participants": [
+                        "John",
+                        "Robert",
+                        "Barbara",
+                        "William"
+                  ],
+                  "first message sending datetime": "20.09.2021 08:00:00"
+            },
+            "dialogue": "John: Morning everyone, how did you sleep?\r\nRobert: Morning John, I slept pretty well. How about you?\r\nJohn: Not bad Robert, had a bit of a late night working on a project though.\r\nBarbara: Morning guys, I slept like a baby!\r\nWilliam: Morning all, I had a restless night. Kept thinking about work.\r\nJohn: William, you need to learn to switch off buddy!\r\nRobert: I agree with John, William. It's important to have some downtime.\r\nBarbara: Maybe try some meditation William, it works wonders for me.\r\nWilliam: Thanks for the advice guys. I'll definitely try that tonight.\r\nJohn: That's what friends are for William. Anyways, what's everyone's plan for the day?\r\nRobert: I have a few meetings at work, then I'll hit the gym.\r\nBarbara: I have a yoga class in the morning, then I'm going to the market.\r\nWilliam: Work, work, and more work for me.",
+            "summaries": {
+                  "general": "John, Robert, Barbara, and William are chatting about their respective last night and their upcoming day plans.",
+                  "precise": "John asks everyone about their night. Robert, Barbara, and John had a good night, even though John had to work a bit later. William on the other hand could not sleep correctly, thinking too much about work. Everyone tries to help him, suggesting to learn how to switch off or to even start meditation. William states he will try it that night. They finally discuss their upcoming day, with work meetings and gym for Robert, yoga and market for Barbara, and work for William.",
+                  "GPT4_non_adjusted": "The conversation started with John greeting everyone and asking about their sleep. Robert and Barbara reported a good night's sleep, while William had a restless night due to work-related thoughts. John and Robert advised William to learn to switch off from work, and Barbara suggested meditation. William appreciated the advice and said he would try it. John then asked everyone about their plans for the day. Robert planned to attend some work meetings and then go to the gym. Barbara planned to attend a yoga class and then go to the market. William, however, had a busy workday ahead.",
+                  "GPT4_adjusted": "The conversation started with John greeting everyone and asking about their sleep. Robert and Barbara reported a good night's sleep, while William had a restless night due to work-related thoughts. John and Robert advised William to learn to switch off from work, and Barbara suggested meditation. William appreciated the advice and said he would try it. John then asked everyone about their plans for the day. Robert planned to attend some work meetings and then go to the gym. Barbara planned to attend a yoga class and then go to the market. William, however, had a busy workday ahead."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "usual_day-to-day_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Daily Catch-Up",
+                  "list of participants": [
+                        "James",
+                        "Michael",
+                        "Jennifer",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "10.05.2022 08:00:00"
+            },
+            "dialogue": "James: Good morning everyone, hope you all are doing well\r\nMichael: Good morning James, all good here. Just about to take the dog for a walk\r\nJennifer: Morning guys, just getting the kids ready for school\r\nRobert: Morning, just having my coffee before I start work for the day\r\nJames: Sounds like everyone's day is off to a good start\r\nMichael: Yeah, it's a beautiful day outside. Perfect for a dog walk\r\nJennifer: I wish I could say the same. It's chaos here with the kids\r\nRobert: Hang in there Jennifer, you're doing a great job\r\nJames: Agreed, parenting is no easy task. Hats off to you\r\nJennifer: Thanks guys, that means a lot\r\nMichael: Anytime Jennifer. After all, we're all in this together\r\nJames: Absolutely. Have a great day everyone\r\nRobert: You too James, and everyone else as well\r\nJennifer: Have a great day guys\r\nMichael: You too Jennifer. Enjoy your day everyone.",
+            "summaries": {
+                  "general": "James, Michael, Jennifer, and Robert are talking about the current state of their day.",
+                  "precise": "James hopes everyone is doing well. Michael will soon go for a walk with his dog, Jennifer is busy getting the kids ready for their school day, and Robert is having a coffee before starting work. Michael is happy given the nice weather for his walk, and Jennifer explains struggling with the kids. Everyone supports her. They finally wish each other a great day. ",
+                  "GPT4_non_adjusted": "The conversation takes place in a WhatsApp group chat named \"Daily Catch-Up\" consisting of four participants: James, Michael, Jennifer, and Robert. The dialogue commences at 08:00 on 10th May 2022. The participants exchange morning greetings and discuss their day-to-day activities. James initiates the conversation, wishing everyone well. Michael is preparing for a dog walk, while Jennifer is getting her children ready for school, and Robert is having coffee before work. The chat continues with members expressing support and encouragement for each other, particularly towards Jennifer as she manages her morning with her children. They conclude by wishing each other a pleasant day.",
+                  "GPT4_adjusted": "The conversation takes place in a group chat consisting of four participants: James, Michael, Jennifer, and Robert. The participants exchange morning greetings and discuss their day-to-day activities. James initiates the conversation, wishing everyone well. Michael is preparing for a dog walk, while Jennifer is getting her children ready for school, and Robert is having coffee before work. The chat continues with members expressing support and encouragement for each other, particularly towards Jennifer as she manages her morning with her children. They conclude by wishing each other a pleasant day."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "usual_day-to-day_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Daily Activities",
+                  "list of participants": [
+                        "John",
+                        "David",
+                        "Robert",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "22.09.2022 08:00:00"
+            },
+            "dialogue": "John: Good morning, everyone. What's the plan for today?\r\nDavid: Hi John. I was thinking of going for a run and then do some grocery shopping. Anyone wants to join?\r\nRobert: Hey guys. I can't join for the run, but I can help with the groceries later.\r\nMichael: Morning! I'll join for the run, David. And Robert, maybe we can meet at the supermarket afterwards?\r\nDavid: Perfect. Let's meet at the park in 30 minutes then, Michael.\r\nMichael: Sounds good, see you then.\r\nJohn: I have some work to do in the morning, but I'll join you guys at the supermarket later.\r\nRobert: Great, John. Let's meet at the supermarket at 11:30.\r\nJohn: Okay, see you guys there.\r\nDavid: Alright, Michael and I are off for our run. Catch you guys later.",
+            "summaries": {
+                  "general": "John, David, Robert, and Michael are chatting about their respective plans for the day.",
+                  "precise": "John asks everyone for their daily plans. David answers that he'd like to go for a run and then for the groceries, before proposing the other ones to join. Robert might join them for the groceries, and Michael for the run. David and Michael will meet 30 minutes later for the run at the park. John has work but will join them at the supermarket at 11:30.",
+                  "GPT4_non_adjusted": "The conversation initiated by John in the \"Daily Activities\" WhatsApp group involved four participants: John, David, Robert, and Michael. It started on the 22nd of September, 2022, at 8:00 AM. The discussion revolved around their day-to-day plans. David proposed a run followed by grocery shopping, to which Michael agreed to join for the run. Robert could not join for the run but offered to assist with the groceries. John had work in the morning but planned to join at the supermarket later. The running partners, David and Michael, agreed to meet at the park, and the group decided to meet at the supermarket at 11:30 AM.",
+                  "GPT4_adjusted": "The conversation initiated by John involved four participants: John, David, Robert, and Michael. The discussion revolved around their day-to-day plans. David proposed a run followed by grocery shopping, to which Michael agreed to join for the run. Robert could not join for the run but offered to assist with the groceries. John had work in the morning but planned to join at the supermarket later. The running partners, David and Michael, agreed to meet at the park, and the group decided to meet at the supermarket at 11:30 AM."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "hobby_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Hobby Chat",
+                  "list of participants": [
+                        "Mary",
+                        "Jennifer"
+                  ],
+                  "first message sending datetime": "01.07.2021 18:30:00"
+            },
+            "dialogue": "Mary: Hey, have you ever tried painting as a hobby?\r\nJennifer: Hi Mary, yes, I have tried it a few times. It's relaxing.\r\nMary: That's great! Do you have any specific type of painting you prefer?\r\nJennifer: I usually prefer watercolor painting. It's quite challenging but fun.\r\nMary: Wow, watercolor painting sounds interesting. Could you share some tips with me?\r\nJennifer: Sure, I would suggest starting with simple shapes and gradually moving to complex ones. Also, mix colors on the palette, not on the paper.\r\nMary: That's quite helpful, thank you Jennifer.\r\nJennifer: You're welcome, Mary. And remember, practice is key.",
+            "summaries": {
+                  "general": "Mary and Jennifer are discussing the hobby of painting.",
+                  "precise": "Mary wonders if Jennifer tried painting before. She answers that yes she already tried it and prefers watercolor painting. After being asked by Mary, Jennifer also provides tips such as starting with simple shapes and mixing colors on the palette. Mary is thankful, and Jennifer advises her that practice is key.",
+                  "GPT4_non_adjusted": "In the conversation, Mary and Jennifer discuss painting as a hobby on a WhatsApp group chat named \"Hobby Chat\". Mary initiates the conversation by asking if Jennifer has ever tried painting as a hobby. Jennifer responds positively, mentioning that she finds it relaxing and prefers watercolor painting. When Mary asks for tips, Jennifer advises starting with simple shapes and mixing colors on the palette, not on the paper. She also emphasizes the importance of practice. The first message was sent on 1st July 2021 at 18:30:00.",
+                  "GPT4_adjusted": "In the conversation, Mary and Jennifer discuss painting as a hobby. Mary initiates the conversation by asking if Jennifer has ever tried painting as a hobby. Jennifer responds positively, mentioning that she finds it relaxing and prefers watercolor painting. When Mary asks for tips, Jennifer advises starting with simple shapes and mixing colors on the palette, not on the paper. She also emphasizes the importance of practice."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "hobby_activities",
+                  "application": "Telegram",
+                  "chat group name": "HobbyTalk",
+                  "list of participants": [
+                        "John",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "03.03.2022 16:45:00"
+            },
+            "dialogue": "John: Hey Robert, have you tried any new hobbies lately?\r\nRobert: Hey John! Yes, I just started learning to play the guitar. How about you?\r\nJohn: That's awesome! I've been getting into bird watching. There are so many species around my area.\r\nRobert: Wow, that sounds interesting. I've never considered bird watching. What got you into it?\r\nJohn: Well, I was looking for a hobby that would allow me to spend more time outdoors. Plus, it's pretty relaxing.\r\nRobert: That's a great point. Maybe I should try it out sometime. How do you identify the different species?\r\nJohn: There are some great apps that help identify birds by their looks and sounds. Plus, I have a guide book that's been really helpful.\r\nRobert: That's quite cool. I'll definitely consider it. Thanks for the suggestion, John.\r\nJohn: No problem, Robert. Let's share more about our hobbies next time.",
+            "summaries": {
+                  "general": "John and Robert are chatting about the hobbies they recently started.",
+                  "precise": "John asks Robert about the hobbies he tried lately. Robert answers that he started to play guitar and asked the same question. John explains he's been trying bird watching lately, given that he wanted to spend more time outdoors and has lots of species around him. To identify the birds John uses an application analyzing their look and sounds, and a guidebook. Robert finds it interesting and might also try it.",
+                  "GPT4_non_adjusted": "In the conversation, John and Robert are discussing their recent hobby activities. John asks Robert if he has taken up any new hobbies, to which Robert responds that he has started learning to play the guitar. John shares his own recent interest in bird watching, explaining that it allows him to spend more time outdoors and is quite relaxing. Robert expresses interest in John's hobby, and John provides more details on how he identifies different bird species. The conversation concludes with both agreeing to share more about their hobbies in future discussions. The chat took place on Telegram in a group named \"HobbyTalk\" and the first message was sent on 03.03.2022 at 16:45:00.",
+                  "GPT4_adjusted": "In the conversation, John and Robert are discussing their recent hobby activities. John asks Robert if he has taken up any new hobbies, to which Robert responds that he has started learning to play the guitar. John shares his own recent interest in bird watching, explaining that it allows him to spend more time outdoors and is quite relaxing. Robert expresses interest in John's hobby, and John provides more details on how he identifies different bird species. The conversation concludes with both agreeing to share more about their hobbies in future discussions."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "hobby_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Hobby Chat",
+                  "list of participants": [
+                        "James",
+                        "John"
+                  ],
+                  "first message sending datetime": "20.04.2022 18:30:00"
+            },
+            "dialogue": "James: Hey John, have you been painting lately?\r\nJohn: Hi James, yes, I've been working on a landscape painting. How about you?\r\nJames: That sounds great! I've been getting into model train building.\r\nJohn: That's interesting. How did you get started with that?\r\nJames: I used to love trains as a kid. I recently found a kit and thought I'd give it a try.\r\nJohn: I'd love to see your progress sometime.\r\nJames: Sure thing, I'll share some pictures next time.\r\nJohn: Looking forward to it. And I'll share my painting when it's done.\r\nJames: Can't wait to see your masterpiece, John.\r\nJohn: Thanks, James. It's always nice to share hobbies with friends.",
+            "summaries": {
+                  "general": "James and John are talking about their hobbies, more precisely painting and model train building.",
+                  "precise": "James asks John if he's been painting lately. He answers that yes, he's been painting landscapes, and asks what John has been doing lately. John answers that he is into model train building, given that he loved trains as a child and recently found a kit. Each one asks the other to send pictures and updates of their progress.",
+                  "GPT4_non_adjusted": "The conversation is between James and John, conducted on WhatsApp in a chat group named \"Hobby Chat\". The first message was sent by James on April 20, 2022, at 6:30 PM. The topic of their discussion revolves around their respective hobbies. James starts the conversation by asking John about his recent painting activities. John shares that he's been working on a landscape painting and reciprocates the question. James reveals that he's been building model trains, a hobby he picked up from his childhood interest. They express mutual interest in each other's hobbies and agree to share their progress in the future.",
+                  "GPT4_adjusted": "The conversation is between James and John. The topic of their discussion revolves around their respective hobbies. James starts the conversation by asking John about his recent painting activities. John shares that he's been working on a landscape painting and reciprocates the question. James reveals that he's been building model trains, a hobby he picked up from his childhood interest. They express mutual interest in each other's hobbies and agree to share their progress in the future."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "hobby_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Hobby Chat",
+                  "list of participants": [
+                        "John",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "15.09.2021 18:30:00"
+            },
+            "dialogue": "John: Hey Robert, have you been keeping up with your painting hobby?\r\nRobert: Hey John, yes I've been painting a lot recently. Just finished a landscape piece.\r\nJohn: That's cool, Robert. I'd love to see it sometime.\r\nRobert: Sure John, I'll bring it next time we meet. What about your guitar lessons?\r\nJohn: They're going well, Robert. I'm learning to play 'Stairway to Heaven' now.\r\nRobert: That's a classic, John! Looking forward to hearing you play it.\r\nJohn: Definitely, Robert. It's a deal, your painting for my guitar performance.",
+            "summaries": {
+                  "general": "John and Robert are discussing the hobbies they have been into lately.",
+                  "precise": "John wonders if Robert kept up his painting hobby. Roberts answers that yes, and that he just finished a landscape. He asks in return if John is still following guitar lessons. John answers that he is currently learning 'Stairway to Heaven'. Finally, They agree to show each other performances.",
+                  "GPT4_non_adjusted": "The conversation was between John and Robert, two friends who are discussing their respective hobbies on a WhatsApp chat group named \"Hobby Chat\". John inquires if Robert has been painting recently, to which Robert replies affirmatively, mentioning he just completed a landscape piece. John expresses interest in seeing Robert's work. Robert then asks about John's guitar lessons, and John shares that he is currently learning to play 'Stairway to Heaven'. Robert shows enthusiasm towards John's progress, and they agree to share their hobby outputs the next time they meet. The conversation started on 15th September 2021 at 6:30 PM.",
+                  "GPT4_adjusted": "The conversation was between John and Robert, two friends who are discussing their respective hobbies. John inquires if Robert has been painting recently, to which Robert replies affirmatively, mentioning he just completed a landscape piece. John expresses interest in seeing Robert's work. Robert then asks about John's guitar lessons, and John shares that he is currently learning to play 'Stairway to Heaven'. Robert shows enthusiasm towards John's progress, and they agree to share their hobby outputs the next time they meet."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "hobby_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Hobby Talk",
+                  "list of participants": [
+                        "Michael",
+                        "John"
+                  ],
+                  "first message sending datetime": "05.05.2021 18:30:00"
+            },
+            "dialogue": "Michael: Hey John, have you tried any new hobbies lately?\r\nJohn: Hey Michael, I've recently started learning how to play the guitar. What about you?\r\nMichael: That's cool! I've been getting into hiking. The views from the top are just amazing.\r\nJohn: Hiking sounds interesting. I might give it a try one of these days. How often do you do it?\r\nMichael: I try to go hiking every weekend. It's a great way to unwind and get some exercise.\r\nJohn: Sounds good! Maybe you can give me some tips when I decide to start.\r\nMichael: Absolutely! I'd be more than happy to help.\r\nJohn: Thanks, Michael. I'll definitely reach out when I'm ready.",
+            "summaries": {
+                  "general": "Michael and John are talking about the different hobbies they recently started.",
+                  "precise": "Michael asks about John's recent hobby trials. John answers that he started playing the guitar and asked about Michael. He responds that he started hiking every weekend to get wonderful views and exercise more. John says that he might start it, and asks if he can get tips once he's ready to start, to which Michael answers positively.",
+                  "GPT4_non_adjusted": "In the conversation, Michael initiates a discussion with John about their recent hobby activities. John shares that he has started learning to play the guitar, while Michael expresses his new interest in hiking. John shows interest in Michael's hobby and hints at trying it out in the future. Michael offers to provide tips on hiking when John decides to start. The conversation reflects a friendly exchange of hobbies and mutual support.",
+                  "GPT4_adjusted": "In the conversation, Michael initiates a discussion with John about their recent hobby activities. John shares that he has started learning to play the guitar, while Michael expresses his new interest in hiking. John shows interest in Michael's hobby and hints at trying it out in the future. Michael offers to provide tips on hiking when John decides to start. The conversation reflects a friendly exchange of hobbies and mutual support."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "hobby_activities",
+                  "application": "Telegram",
+                  "chat group name": "Weekend Hobby Plans",
+                  "list of participants": [
+                        "Robert",
+                        "Jennifer",
+                        "Paul"
+                  ],
+                  "first message sending datetime": "15.03.2022 18:05:30"
+            },
+            "dialogue": "Robert: Hey guys, what are your plans for this weekend?\r\nJennifer: Hi Robert, I was thinking of going bird-watching. There's a park nearby that is perfect for it.\r\nPaul: That sounds interesting, Jennifer. I might join you. As for me, I'll probably spend some time painting. It's been a while.\r\nRobert: Awesome, I was planning to do some gardening. Maybe we can share pictures of our activities afterward.\r\nJennifer: That's a great idea, Robert. I'll definitely take some pictures of the birds I spot.\r\nPaul: Count me in. I'd love to see your garden, Robert, and the birds you spot, Jennifer.",
+            "summaries": {
+                  "general": "Robert, Jennifer, and Paul are chatting about their weekend plans.",
+                  "precise": "Robert asks Jennifer and Paul about their weekend plans. Jennifer will go to a nearby park to watch birds, and Paul will be painting. Robert explains that he will spend time gardening. Paul states that he might join Jennifer. They finally all agree to send pictures of their respective activity afterward.",
+                  "GPT4_non_adjusted": "In the conversation, three individuals namely Robert, Jennifer, and Paul are discussing their plans for the weekend. Robert initiates the conversation by asking about their plans. Jennifer replies that she is planning to go bird-watching in a nearby park. Paul finds Jennifer's plan interesting and considers joining her. He also mentions that he plans to spend some time painting. Robert then proposes that they should share pictures of their activities afterward, which Jennifer and Paul agree with. The conversation took place on Telegram, in a chat group named \"Weekend Hobby Plans\" on 15.03.2022 at 18:05:30.",
+                  "GPT4_adjusted": "In the conversation, three individuals namely Robert, Jennifer, and Paul are discussing their plans for the weekend. Robert initiates the conversation by asking about their plans. Jennifer replies that she is planning to go bird-watching in a nearby park. Paul finds Jennifer's plan interesting and considers joining her. He also mentions that he plans to spend some time painting. Robert then proposes that they should share pictures of their activities afterward, which Jennifer and Paul agree with."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "hobby_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Hobby Chat",
+                  "list of participants": [
+                        "James",
+                        "Robert",
+                        "Betty",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "01.05.2022 16:15:32"
+            },
+            "dialogue": "James: Hey guys, I've started a new hobby.\r\nRobert: Oh really, James? What is it?\r\nJames: I've gotten into bird watching. It's really relaxing.\r\nBetty: That sounds interesting, James. I've always loved animals.\r\nMichael: I prefer more active hobbies. Like running or playing sports.\r\nJames: That's cool, Michael. Different strokes for different folks.\r\nRobert: I've been thinking about picking up a hobby. Maybe I'll try bird watching.\r\nBetty: You should, Robert! We can join James in his bird watching adventures.\r\nJames: That sounds like a plan. We can make a day of it.\r\nMichael: Maybe I'll join you guys. It could be a good change of pace from my normal routine.",
+            "summaries": {
+                  "general": "James, Robert, Betty, and Michael are chatting about bird watching, James' new hobby.",
+                  "precise": "James tells his friends that he started a new relaxing hobby: bird watching. Betty finds it interesting, but Michael prefers more dynamic hobbies. James states that hobby preferences are personal, and Robert says that he might try bird watching. Finally, they all agree to spend a day with James to try this new hobby.",
+                  "GPT4_non_adjusted": "In the chat conversation, James initiates the discussion by sharing his new hobby, bird watching, with his friends in the \"Hobby Chat\" group on WhatsApp. Robert shows interest in James's hobby, while Betty expresses that she has always loved animals, implying she might like bird watching as well. Michael, on the other hand, prefers more active hobbies but doesn't dismiss the idea of joining the bird watching. The conversation ends with the group considering a joint bird watching adventure, showing a shared interest in exploring this hobby.",
+                  "GPT4_adjusted": "In the chat conversation, James initiates the discussion by sharing his new hobby, bird watching, with his friends. Robert shows interest in James's hobby, while Betty expresses that she has always loved animals, implying she might like bird watching as well. Michael, on the other hand, prefers more active hobbies but doesn't dismiss the idea of joining the bird watching. The conversation ends with the group considering a joint bird watching adventure, showing a shared interest in exploring this hobby."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "hobby_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Hobby Enthusiasts",
+                  "list of participants": [
+                        "David",
+                        "Michael",
+                        "Jennifer",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "12.09.2021 17:45:00"
+            },
+            "dialogue": "David: Hey guys, have you tried drone photography?\r\nMichael: No, David. But that sounds exciting. How do we get started?\r\nDavid: First, we need to get a drone with a high-quality camera. Then we need to learn how to operate it.\r\nJennifer: I have a drone! We used it last summer at the beach. It has a great camera.\r\nRobert: That's amazing Jennifer. Can we use it for our hobby activities?\r\nJennifer: Sure, why not! We can meet this weekend and try it out.\r\nMichael: Sounds like a plan. Let's do it!\r\nDavid: Perfect, let's meet at the park, more space to fly the drone.\r\nRobert: Good idea, David. See you guys on Saturday!\r\nJennifer: Can't wait! See you guys.",
+            "summaries": {
+                  "general": "David, Michael, Jennifer, and Robert are talking about drone photography, and plan a day to go and try it.",
+                  "precise": "David asks the other if they ever tried drone photography. Michael never tried it but finds the proposition interesting. David explains that they simply need a drone with a high-quality camera and to learn to use it. Jennifer says that she has one and is okay to use it with the others for a hobby activity. They all agree to meet on Saturday at the park to try it.",
+                  "GPT4_non_adjusted": "In the WhatsApp group chat named \"Hobby Enthusiasts,\" which consists of David, Michael, Jennifer, and Robert, a discussion about drone photography as a hobby activity was initiated by David on 12th September 2021 at 5:45 PM. David suggested getting a drone with a high-quality camera and learning how to operate it. Jennifer revealed that she owns a drone with a good camera and agreed to use it for their hobby. The group decided to meet over the weekend to try out drone photography. They decided to meet at the park, as there would be more space to fly the drone.",
+                  "GPT4_adjusted": "In a group chat consisting of David, Michael, Jennifer, and Robert, a discussion about drone photography as a hobby activity was initiated by David. David suggested getting a drone with a high-quality camera and learning how to operate it. Jennifer revealed that she owns a drone with a good camera and agreed to use it for their hobby. The group decided to meet over the weekend to try out drone photography. They decided to meet at the park, as there would be more space to fly the drone."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_heist_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Heist Planning",
+                  "list of participants": [
+                        "John",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "01.12.2021 10:15:30"
+            },
+            "dialogue": "John: We need to plan this heist carefully.\r\nRobert: Agreed, John. The target is the diamond exhibit at the museum.\r\nJohn: I've got blueprints of the museum. We need to study them.\r\nRobert: Good. We should also know the security measures in place.\r\nJohn: I've got a guy who can help us with that.\r\nRobert: Perfect. We also need to think about the escape route.\r\nJohn: I've thought of that. I've got a driver who can get us out fast.\r\nRobert: Sounds good. Let's meet up and discuss in detail.\r\nJohn: Sure. Let's meet tomorrow at the usual place.\r\nRobert: See you then.",
+            "summaries": {
+                  "general": "John and Robert are discussing the planning for a heist whose target is a diamond exhibited in a museum.",
+                  "precise": "John and Robert start by discussing the target of their heist, a diamond exhibited in a museum. John explains that he got the blueprints of the museum and knows a guy who could help get information about the museum's security. They finally discuss their escape, where John mentions a driver that could help, and plan a meeting for the next day.",
+                  "GPT4_non_adjusted": "The conversation is between two individuals, John and Robert, who are planning a heist. They discuss their target, which is the diamond exhibit at a museum, and the need for careful planning. John reveals that he has blueprints of the museum for them to study, and a contact who can assist with understanding the security measures in place. They also discuss the importance of a quick and efficient escape route, with John mentioning that he has a driver for this purpose. They agree to meet the next day to discuss their plan in more detail.",
+                  "GPT4_adjusted": "The conversation is between two individuals, John and Robert, who are planning a heist. They discuss their target, which is the diamond exhibit at a museum, and the need for careful planning. John reveals that he has blueprints of the museum for them to study, and a contact who can assist with understanding the security measures in place. They also discuss the importance of a quick and efficient escape route, with John mentioning that he has a driver for this purpose. They agree to meet the next day to discuss their plan in more detail."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_heist_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "The Heist Crew",
+                  "list of participants": [
+                        "James",
+                        "Michael",
+                        "Robert",
+                        "John"
+                  ],
+                  "first message sending datetime": "14.03.2022 16:25:34"
+            },
+            "dialogue": "James: Just got word of a possible target. High value, high risk.\r\nMichael: I'm in. What are we looking at?\r\nJames: A private collection. Art, jewels, all secured in a private estate.\r\nRobert: Sounds like we're going to need a plan. Michael, any ideas?\r\nMichael: I think we need inside information. Someone on the inside to give us a layout.\r\nJohn: I can get us that. I know a guy.\r\nJames: Okay, we meet tomorrow to discuss the plan. Be prepared.\r\nRobert: We also need a contingency plan, in case things go south.\r\nJohn: Agreed. We need to cover all our bases.\r\nMichael: Let's do this. Tomorrow, we start planning.",
+            "summaries": {
+                  "general": "James, Michael, Robert, and John are discussing a potential target for a heist and organizing a meeting to plan it.",
+                  "precise": "James comes up with a potential new target composed of art and jewels stored in a private estate. Robert stresses that they need a plan, and Michael that they need information. John mentions that he knows a guy who could provide intel. They finally agree to meet on the next day, to establish a plan and a backup plan.",
+                  "GPT4_non_adjusted": "The conversation involves four individuals: James, Michael, Robert, and John, who are discussing a potential heist. James introduces a high-risk, high-value target that involves a private collection of art and jewels. Michael suggests they need inside information and a layout of the place, to which John responds affirmatively, stating he knows someone who could help. Robert emphasizes the need for a contingency plan if things don't go as planned. The group agrees to meet the next day to start planning the heist. The conversation takes place on a WhatsApp group named \"The Heist Crew\" on the 14th of March, 2022 at 16:25:34.",
+                  "GPT4_adjusted": "The conversation involves four individuals: James, Michael, Robert, and John, who are discussing a potential heist. James introduces a high-risk, high-value target that involves a private collection of art and jewels. Michael suggests they need inside information and a layout of the place, to which John responds affirmatively, stating he knows someone who could help. Robert emphasizes the need for a contingency plan if things don't go as planned. The group agrees to meet the next day to start planning the heist."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_heist_activities",
+                  "application": "Telegram",
+                  "chat group name": "Heist Plans",
+                  "list of participants": [
+                        "James",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "10.06.2021 19:30:00"
+            },
+            "dialogue": "James: We need to discuss the plan for the upcoming operation.\r\nRobert: Agreed. We need a solid strategy.\r\nJames: I've got a blueprint of the target location.\r\nRobert: That's helpful. What about the security measures?\r\nJames: There are CCTV cameras and several guards.\r\nRobert: We need to be careful then. What's our entry point?\r\nJames: I believe the west entrance is the least guarded.\r\nRobert: Sounds plausible. What about the exit strategy?\r\nJames: We'll use the service exit at the back.\r\nRobert: We need a clean getaway vehicle.\r\nJames: I know a guy who can get us an untraceable car.\r\nRobert: Good. Let's meet up and discuss this in person.\r\nJames: Agreed. We'll iron out the details.\r\nRobert: See you tomorrow then.\r\nJames: See you tomorrow, Robert.",
+            "summaries": {
+                  "general": "James and Robert are trying to establish a plan for their next operation.",
+                  "precise": "James states that they need a plan for their next operation, to which Robert agrees. James has a blueprint of the target and mentions that there are cameras and guards. He proposes to enter by the west and leave by the back and knows someone with an untraceable car for the escape. They both agree to meet the next day to finetune this plan.",
+                  "GPT4_non_adjusted": "The conversation between James and Robert revolves around planning a heist. They discuss the blueprint of the target location, security measures, entry and exit points, and the need for a clean getaway vehicle. Robert suggests that they should meet up to discuss the details in person. The entire conversation is conducted on the Telegram application in a chat group named 'Heist Plans'.",
+                  "GPT4_adjusted": "The conversation between James and Robert revolves around planning a heist. They discuss the blueprint of the target location, security measures, entry and exit points, and the need for a clean getaway vehicle. Robert suggests that they should meet up to discuss the details in person."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_heist_activities",
+                  "application": "Signal",
+                  "chat group name": "Plan B",
+                  "list of participants": [
+                        "Michael",
+                        "John"
+                  ],
+                  "first message sending datetime": "24.09.2022 18:45:00"
+            },
+            "dialogue": "Michael: We need to get the blueprints of the vault\r\nJohn: Sure, I can get that. But we'll need an insider for the security codes\r\nMichael: I've someone in mind. But he's risky. Can we trust him?\r\nJohn: We've no choice. It's the only way\r\nMichael: Alright, I'll contact him. Meanwhile, you get the blueprints\r\nJohn: Deal. Let's meet tomorrow with what we've\r\nMichael: See you at the usual place. And remember, no traces\r\nJohn: Understood. See you tomorrow",
+            "summaries": {
+                  "general": "Michael and John are discussing the gathering of intel for a vault heist.",
+                  "precise": "Michael highlights the need for blueprints of the vault. John answers that he can get it, but that they will also need the security codes. Michael says that he might know someone and will contact him. They both agree to meet on the next day with what they could get.",
+                  "GPT4_non_adjusted": "The conversation revolves around two individuals named Michael and John planning a heist. They discuss the necessity of obtaining blueprints for a vault and the requirement of an insider for the security codes. Michael reveals he knows a potential insider but expresses concern over the risk involved with this individual. Despite the risks, John agrees that they have no other choice. They agree to meet the following day with their respective pieces of information at a location that is referred to as their 'usual place.' They emphasize the need for discretion and leaving no traces of their conversation or plans.",
+                  "GPT4_adjusted": "The conversation revolves around two individuals named Michael and John planning a heist. They discuss the necessity of obtaining blueprints for a vault and the requirement of an insider for the security codes. Michael reveals he knows a potential insider but expresses concern over the risk involved with this individual. Despite the risks, John agrees that they have no other choice. They agree to meet the following day with their respective pieces of information at a location that is referred to as their 'usual place.' They emphasize the need for discretion and leaving no traces of their conversation or plans."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_heist_activities",
+                  "application": "Telegram",
+                  "chat group name": "Fictional Heist Planning",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "18.05.2022 20:13:45"
+            },
+            "dialogue": "John: Hey, Michael. Got time for a chat?\r\nMichael: Sure, John. What's up?\r\nJohn: I've got a plan for a heist. Interested?\r\nMichael: Sure, I'm game. What's the plan?\r\nJohn: It involves a priceless artifact. The 'Eye of the Sphinx'.\r\nMichael: Sounds intriguing. Where is it?\r\nJohn: In a high-security museum. We'll need a team.\r\nMichael: Who are you thinking?\r\nJohn: I was thinking of involving Richard and Jessica.\r\nMichael: Sounds good. What's their role?\r\nJohn: Richard is good with tech. Jessica is great with diversion tactics.\r\nMichael: Sounds like a plan, John. Let's do this.\r\nJohn: Great! Let's start planning.",
+            "summaries": {
+                  "general": "John and Michael are chatting about the planning of a heist. The target is the \"Eye of the Sphinx\" stored in a high-security museum.",
+                  "precise": "John asks Michael if he would be interested in a heist. Michael is in and John presents the target which is the \"Eye of the Sphinx\" stored in a high-security museum. To complete the team, John thinks of a so-called Richard for his technical skills and a so-called Jessica for her diversion tactics.",
+                  "GPT4_non_adjusted": "In the conversation, John initiates a discussion about planning a heist with Michael. The target of this heist is a valuable artifact named the 'Eye of the Sphinx', located in a high-security museum. John suggests involving Richard and Jessica in their plan, as Richard is proficient with technology and Jessica excels in diversion tactics. Michael agrees to John's plan and they decide to proceed with it. The conversation takes place in a Telegram group named \"Fictional Heist Planning\", which includes John, Michael, Richard, and Jessica as participants. The first message was sent on May 18, 2022, at 20:13:45.",
+                  "GPT4_adjusted": "In the conversation, John initiates a discussion about planning a heist with Michael. The target of this heist is a valuable artifact named the 'Eye of the Sphinx', located in a high-security museum. John suggests involving Richard and Jessica in their plan, as Richard is proficient with technology and Jessica excels in diversion tactics. Michael agrees to John's plan and they decide to proceed with it."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_heist_activities",
+                  "application": "Signal",
+                  "chat group name": "The Heist Plan",
+                  "list of participants": [
+                        "James",
+                        "Robert",
+                        "John",
+                        "Michael",
+                        "David",
+                        "William",
+                        "Richard",
+                        "Joseph",
+                        "Thomas",
+                        "Christopher",
+                        "Mark",
+                        "Donald"
+                  ],
+                  "first message sending datetime": "01.05.2022 15:00:00"
+            },
+            "dialogue": "James: We need a plan, gentlemen.\r\nRobert: Agreed, James. We need to understand the layout first.\r\nJohn: I can handle that. I have a contact who can get us the blueprints.\r\nMichael: Good. Timing is crucial too. We need to know when the guards change shifts.\r\nDavid: I can observe and get that information. Also, we need a getaway plan.\r\nWilliam: I'll arrange the vehicles. Two cars should do it, right?\r\nRichard: Yeah, that's good. But we need a backup plan as well. What if things go south?\r\nJoseph: Let's hope they don't, Richard. But you're right, a backup plan is necessary.\r\nThomas: We'll need a hacker too. To disable the security system.\r\nChristopher: I know a guy. He's the best in the business.\r\nMark: Sounds like we're getting somewhere. Let's meet up and finalize the plan.\r\nDonald: Agreed. Tomorrow, same time?\r\nRobert: Tomorrow it is then. Let's do this, gentlemen.\r\nJames: Stay safe. See you all tomorrow.",
+            "summaries": {
+                  "general": "James, Robert, John, Michael, David, William, Richard, Joseph, Thomas, Christopher, Mark, and Donald are discussing a plan for an operation.",
+                  "precise": "James insists on the need for a plan. John will take care of the blueprints, David of the intel about guard shifts, Willam of the vehicles, and Christopher of recruiting a hacker to disable security systems. Richard also points out the need for a plan B in case something does not go as planned. They all agree to meet the next day to finalize their plan.",
+                  "GPT4_non_adjusted": "The conversation revolves around the planning of a heist. James initiates the discussion about the need for a detailed plan. Robert agrees and emphasizes the importance of understanding the layout of the place they intend to rob. John offers to procure the blueprints through a contact. Michael underlines the significance of timing, specifically the guards' shift changes, which David volunteers to observe and record. There's also talk about arranging the getaway vehicles, which William promises to handle. Richard brings up the need for a backup plan in case things don't go as planned. Thomas mentions the need for a hacker to disable the security system, and Christopher suggests a skilled individual for this role. The group agrees to meet up to finalize their plan, setting up a meeting for the following day. The conversation ends with an agreement for the meeting and a reminder from James for everyone to stay safe.",
+                  "GPT4_adjusted": "The conversation revolves around the planning of a heist. James initiates the discussion about the need for a detailed plan. Robert agrees and emphasizes the importance of understanding the layout of the place they intend to rob. John offers to procure the blueprints through a contact. Michael underlines the significance of timing, specifically the guards' shift changes, which David volunteers to observe and record. There's also talk about arranging the getaway vehicles, which William promises to handle. Richard brings up the need for a backup plan in case things don't go as planned. Thomas mentions the need for a hacker to disable the security system, and Christopher suggests a skilled individual for this role. The group agrees to meet up to finalize their plan, setting up a meeting for the following day. The conversation ends with an agreement for the meeting and a reminder from James for everyone to stay safe."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_heist_activities",
+                  "application": "Telegram",
+                  "chat group name": "Heist Masters",
+                  "list of participants": [
+                        "Michael",
+                        "William",
+                        "John",
+                        "David",
+                        "Paul"
+                  ],
+                  "first message sending datetime": "12.04.2022 21:30:00"
+            },
+            "dialogue": "Michael: We need to plan this carefully.\r\nWilliam: Agreed, Michael. The security is top-notch.\r\nJohn: I've got a contact who could help with the security systems.\r\nDavid: That's great, John. We'll need every edge we can get.\r\nPaul: We'll also need a getaway driver.\r\nMichael: I know a guy, best in the business.\r\nJohn: Perfect, let's meet tomorrow to finalize everything.\r\nWilliam: Tomorrow at 8pm works for me.\r\nDavid: Same here, see you guys then.\r\nPaul: Alright, see you guys tomorrow.",
+            "summaries": {
+                  "general": "Michael, William, John, and David are planning some kind of operation.",
+                  "precise": "Michael states that they need to plan thoroughly. William agrees and explains that the security is important. John mentions that he knows someone who could handle the security, and Michael that he knows someone to drive them away. They finally agree to meet the next day at 8 PM.",
+                  "GPT4_non_adjusted": "The conversation takes place among five individuals: Michael, William, John, David, and Paul, who are planning a heist. The chat begins with Michael emphasizing the need for careful planning due to the high-level security they are about to encounter. John mentions a contact who could assist with the security systems, and Paul points out the necessity of a getaway driver. Michael assures the group that he knows a reliable person for this role. The group agrees to meet the next day to finalize their plans. This conversation occurs in a Telegram chat group named \"Heist Masters\" on the 12th of April, 2022, starting at 9:30 PM.",
+                  "GPT4_adjusted": "The conversation takes place among five individuals: Michael, William, John, David, and Paul, who are planning a heist. The chat begins with Michael emphasizing the need for careful planning due to the high-level security they are about to encounter. John mentions a contact who could assist with the security systems, and Paul points out the necessity of a getaway driver. Michael assures the group that he knows a reliable person for this role. The group agrees to meet the next day to finalize their plans."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "fictional_heist_activities",
+                  "application": "Telegram",
+                  "chat group name": "Heist Planning",
+                  "list of participants": [
+                        "John",
+                        "Michael",
+                        "David",
+                        "Robert",
+                        "James"
+                  ],
+                  "first message sending datetime": "22.06.2022 15:45:00"
+            },
+            "dialogue": "John: We need to create a solid plan\r\nMichael: Agreed, John. We can't go in without a clear strategy\r\nDavid: I'm on it. I've been studying the layout of the place\r\nJohn: David, focus on the security systems\r\nDavid: Understood, John\r\nRobert: And we need to make sure we have a solid alibi\r\nJames: I can handle that, Robert\r\nMichael: Good, James. We also need a getaway car\r\nJohn: I've got the perfect car for this\r\nRobert: Great, John. Let's meet tomorrow to finalise the plan\r\nDavid: Sounds good to me\r\nMichael: Me too. Let's do this",
+            "summaries": {
+                  "general": "John, Michael, Robert, and James are trying to establish a plan for some kind of operation.",
+                  "precise": "John emphasizes the need for a solid plan. Michael agrees. David explains that he's been working on the layout of the place, and John asks him to focus on security systems. Robert mentions the need for a good alibi, and Michael the need for a getaway car. John states that he can manage the alibi and has a car for the escape. They eventually plan to meet the next day to finalize the plan.",
+                  "GPT4_non_adjusted": "The conversation is between five individuals named John, Michael, David, Robert, and James. The discussion revolves around planning a heist. The group discusses various aspects of the heist such as creating a solid plan, studying the layout of the place, focusing on security systems, establishing a solid alibi, arranging a getaway car, and meeting to finalize the plan. The conversation concludes with the members agreeing to proceed with the plan.",
+                  "GPT4_adjusted": "The conversation is between five individuals named John, Michael, David, Robert, and James. The discussion revolves around planning a heist. The group discusses various aspects of the heist such as creating a solid plan, studying the layout of the place, focusing on security systems, establishing a solid alibi, arranging a getaway car, and meeting to finalize the plan. The conversation concludes with the members agreeing to proceed with the plan."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "weekend_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Weekend Hiking",
+                  "list of participants": [
+                        "John",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "22.09.2022 18:45:00"
+            },
+            "dialogue": "John: Hey Michael, any plans for the weekend?\r\nMichael: Hi John, I was thinking about going hiking. Want to join?\r\nJohn: Sounds awesome! Which trail are you thinking about?\r\nMichael: I was considering the Blue Ridge trail. It's quite scenic this time of the year.\r\nJohn: I've heard good things about it. Let's do it!\r\nMichael: Great! We can meet at my place at 7am on Saturday.\r\nJohn: Perfect. I'll bring some snacks and water.\r\nMichael: Great, I'll take care of the map and first aid kit. See you then!\r\nJohn: See you on Saturday, Michael. Looking forward to it!",
+            "summaries": {
+                  "general": "John and Michael are planning to go on a hike this weekend.",
+                  "precise": "John asks Michael about his plans for the weekend. Michael was thinking of going hiking on the Blue Ridge trail and invites John to join. John accepts and Michael proposes to meet on Saturday at 7 AM at his place. John will manage snacks and drinks while Michael will handle maps and a first aid kit.",
+                  "GPT4_non_adjusted": "The conversation is between John and Michael, discussing their weekend plans on WhatsApp. John initiates the conversation by asking Michael about his weekend plans. Michael proposes going hiking and invites John to join him. John accepts the invitation and they decide to hike the Blue Ridge trail. They agree to meet at Michael's place on Saturday at 7am. John offers to bring snacks and water, while Michael will take care of the map and first aid kit. The conversation is friendly and ends with John expressing his anticipation for the hike.",
+                  "GPT4_adjusted": "The conversation is between John and Michael, discussing their weekend plans. John initiates the conversation by asking Michael about his weekend plans. Michael proposes going hiking and invites John to join him. John accepts the invitation and they decide to hike the Blue Ridge trail. They agree to meet at Michael's place on Saturday at 7am. John offers to bring snacks and water, while Michael will take care of the map and first aid kit. The conversation is friendly and ends with John expressing his anticipation for the hike."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "weekend_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Weekend Warriors",
+                  "list of participants": [
+                        "James",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "18.12.2021 08:30:00"
+            },
+            "dialogue": "James: Hey Robert, any plans for the weekend?\r\nRobert: Hey James, not really. Was thinking of going hiking. Interested?\r\nJames: Sounds good. Where were you planning to go?\r\nRobert: I was thinking of the Blue Ridge Mountains. They say the views are awesome this time of year.\r\nJames: I've heard about it. Should we leave early morning?\r\nRobert: Yes, that would be perfect. We can catch the sunrise.\r\nJames: Awesome! Let's do it. I'll get the gear ready.\r\nRobert: Great! Let's meet at my place at 5 am. We can drive from there.\r\nJames: Sounds like a plan. See you then, Robert.\r\nRobert: See you, James. Looking forward to it.",
+            "summaries": {
+                  "general": "James and Robert are discussing hiking plans for the upcoming weekend.",
+                  "precise": "James starts by asking Robert about his plans for the upcoming weekend. Robert answers that he was thinking of going for a hike in the Blue Ridge Mountains, and invites James to join. They plan on meeting at 5 AM at Robert's to leave early and watch the sunrise. James will handle the gearing.",
+                  "GPT4_non_adjusted": "The conversation involves two individuals, James and Robert. James initiates the conversation by asking Robert about his plans for the upcoming weekend. Robert suggests they go hiking and mentions the Blue Ridge Mountains as a potential destination, citing the stunning views during this season. James agrees to the plan and proposes they leave early in the morning. Robert agrees, suggesting they meet at his place at 5 am to start the journey. James confirms the plan, and they both look forward to the weekend hiking trip.",
+                  "GPT4_adjusted": "The conversation involves two individuals, James and Robert. James initiates the conversation by asking Robert about his plans for the upcoming weekend. Robert suggests they go hiking and mentions the Blue Ridge Mountains as a potential destination, citing the stunning views during this season. James agrees to the plan and proposes they leave early in the morning. Robert agrees, suggesting they meet at his place at 5 am to start the journey. James confirms the plan, and they both look forward to the weekend hiking trip."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "weekend_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Weekend Plans",
+                  "list of participants": [
+                        "Robert",
+                        "John"
+                  ],
+                  "first message sending datetime": "23.03.2022 10:15:30"
+            },
+            "dialogue": "Robert: Hi John, any plans for the weekend?\r\nJohn: Hey Robert! Yes, I am thinking about going for a hike. How about you?\r\nRobert: That sounds great! I was planning to try out a new recipe and do some reading. Which trail are you planning to hike?\r\nJohn: I'm considering the Blue Ridge Mountain trail.\r\nRobert: That's a beautiful trail. I have been there a couple of times. Make sure to carry enough water.\r\nJohn: Thanks for the tip, Robert. What book are you planning to read?\r\nRobert: I got 'The Alchemist' by Paulo Coelho. Heard a lot about it.\r\nJohn: It's an excellent read. Enjoy your weekend, Robert!\r\nRobert: You too, John. Enjoy your hike and cooking!",
+            "summaries": {
+                  "general": "Robert and John are discussing their respective plans for the weekend.",
+                  "precise": "Robert asks John about his plans for the weekend. John explains that he is willing to go for a hike, and asks back Robert's plans. He answers that he will cook and read. John plans on hiking the Blue Ridge Mountain trail, and Robert will read 'The Alchemist' by Paulo Coelho.",
+                  "GPT4_non_adjusted": "In the conversation, Robert initiates a discussion with John about their weekend plans. John mentions his plan to go for a hike, and Robert shares his intention to try out a new recipe and do some reading. They briefly talk about the trail John intends to hike, with Robert recommending carrying enough water. John also shares the book he is planning to read. The chat ends with both of them wishing each other a pleasant weekend. The conversation took place on WhatsApp in a group named \"Weekend Plans\", including only Robert and John. The first message was sent on March 23rd, 2022 at 10:15:30.",
+                  "GPT4_adjusted": "In the conversation, Robert initiates a discussion with John about their weekend plans. John mentions his plan to go for a hike, and Robert shares his intention to try out a new recipe and do some reading. They briefly talk about the trail John intends to hike, with Robert recommending carrying enough water. John also shares the book he is planning to read. The chat ends with both of them wishing each other a pleasant weekend."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "weekend_activities",
+                  "application": "Telegram",
+                  "chat group name": "Weekend Plans",
+                  "list of participants": [
+                        "James",
+                        "John"
+                  ],
+                  "first message sending datetime": "01.10.2021 09:00:00"
+            },
+            "dialogue": "James: Hey John, what's your plan for this weekend?\r\nJohn: Hey James, I'm thinking of going hiking. What about you?\r\nJames: That sounds great. I was thinking of going to a cooking class this weekend.\r\nJohn: Oh cool! What type of cuisine?\r\nJames: Italian. I've always wanted to learn how to make homemade pasta.\r\nJohn: That sounds delicious. Let's share our experiences on Monday.\r\nJames: Definitely, looking forward to it.\r\nJohn: Same here. Have a great weekend James!\r\nJames: You too, John. Enjoy the hike!",
+            "summaries": {
+                  "general": "James and John are discussing their respective plans for the weekend.",
+                  "precise": "James asks John about his weekend plans. John answers that he is willing to hike and wonders about James' plans. James explains that he wants to take an Italian cooking class to make homemade pasta. They eventually agree to share their respective experience afterward.",
+                  "GPT4_non_adjusted": "The conversation revolves around the weekend plans of two individuals, James and John. James opens the discussion by asking John about his plans, to which John responds that he's considering going hiking. James then shares his plans to attend an Italian cooking class with a focus on homemade pasta. They agree to share their experiences the following Monday. The chat is amicable and ends on a positive note, with both looking forward to their respective weekend activities.",
+                  "GPT4_adjusted": "The conversation revolves around the weekend plans of two individuals, James and John. James opens the discussion by asking John about his plans, to which John responds that he's considering going hiking. James then shares his plans to attend an Italian cooking class with a focus on homemade pasta. They agree to share their experiences the following Monday. The chat is amicable and ends on a positive note, with both looking forward to their respective weekend activities."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "weekend_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Weekend Plans",
+                  "list of participants": [
+                        "James",
+                        "Robert"
+                  ],
+                  "first message sending datetime": "22.08.2022 09:15:30"
+            },
+            "dialogue": "James: Hey, what are your plans for the weekend?\r\nRobert: Hi James, I am thinking about going hiking in the mountains. You?\r\nJames: Sounds like a good plan. I was thinking about visiting a museum.\r\nRobert: Which museum are you planning to visit?\r\nJames: I am planning to visit the Natural History Museum. They have a new exhibit.\r\nRobert: That sounds interesting. Maybe I will join you after my hike.\r\nJames: Sounds like a plan, Robert. Let's meet at the museum around 4 PM.\r\nRobert: Perfect, see you then!",
+            "summaries": {
+                  "general": "James and Robert are discussing their respective plans for the weekend.",
+                  "precise": "James asks Robert about his plans for the upcoming weekend. Robert answers that he'd like to have a hike in the mountains. After being asked back by Robert, James says that he is willing to visit the new exhibition at the Natural History Museum. Robert states that he might be able to join after his hike. Both agree to meet at the museum during the afternoon, around 4 PM.",
+                  "GPT4_non_adjusted": "James initiated the conversation by asking Robert about his plans for the upcoming weekend. Robert responded by saying he planned to go hiking in the mountains and asked James about his plans. James revealed that he was planning to visit a museum, specifically the Natural History Museum due to their new exhibit. Finding this interesting, Robert suggested that he might join James after his hike. They agreed to meet at the museum around 4 PM. The conversation took place on WhatsApp in a chat group named \"Weekend Plans\" and the first message was sent on the 22nd of August, 2022 at 9:15:30 AM.",
+                  "GPT4_adjusted": "James initiated the conversation by asking Robert about his plans for the upcoming weekend. Robert responded by saying he planned to go hiking in the mountains and asked James about his plans. James revealed that he was planning to visit a museum, specifically the Natural History Museum due to their new exhibit. Finding this interesting, Robert suggested that he might join James after his hike. They agreed to meet at the museum around 4 PM."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "weekend_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Weekend Warriors",
+                  "list of participants": [
+                        "John",
+                        "Michael",
+                        "Richard",
+                        "Elizabeth"
+                  ],
+                  "first message sending datetime": "12.08.2021 18:34:25"
+            },
+            "dialogue": "John: Hey guys, what are your plans for this weekend?\r\nMichael: I was thinking about going for a hike, the weather is perfect.\r\nRichard: That sounds great, Michael. I'd be up for that.\r\nElizabeth: I might join too. I need a good workout.\r\nJohn: Great! Let's meet up on Saturday morning then.\r\nMichael: Perfect! Let's say at 8:00 AM at the trailhead?\r\nRichard: Sounds good to me.\r\nElizabeth: Count me in. See you guys on Saturday.\r\nJohn: Awesome! Looking forward to it.\r\nMichael: Same here! It's going to be a fun weekend.\r\nRichard: Indeed. See you all on Saturday.\r\nElizabeth: See you then!",
+            "summaries": {
+                  "general": "John, Michael, Richard, and Elizabeth are organizing a hike during the weekend.",
+                  "precise": "John starts by asking the others if they have something planned for the weekend. Michael answers that he would like to go hiking, given the nice weather. Richard and Elizabeth would be up for a hike, and John proposes to meet Saturday morning. Michael proposes 8 AM at the begining of the trail and everyone is okay.",
+                  "GPT4_non_adjusted": "The conversation revolves around the plans of four friends - John, Michael, Richard, and Elizabeth - for the upcoming weekend. The chat took place on WhatsApp in a group named \"Weekend Warriors\". The conversation started with John inquiring about everyone's plans for the weekend. Michael proposed the idea of going for a hike, to which Richard and Elizabeth agreed. They decided to meet on Saturday morning at 8:00 AM at the trailhead. Everyone expressed excitement for the hike and the conversation ended with a mutual agreement to meet on the decided day and time. The first message was sent by John on 12th August 2021 at 6:34 PM.",
+                  "GPT4_adjusted": "The conversation revolves around the plans of four friends - John, Michael, Richard, and Elizabeth - for the upcoming weekend. The conversation started with John inquiring about everyone's plans for the weekend. Michael proposed the idea of going for a hike, to which Richard and Elizabeth agreed. They decided to meet on Saturday morning at 8:00 AM at the trailhead. Everyone expressed excitement for the hike and the conversation ended with a mutual agreement to meet on the decided day and time."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "weekend_activities",
+                  "application": "WhatsApp",
+                  "chat group name": "Weekend Hikers",
+                  "list of participants": [
+                        "James",
+                        "Robert",
+                        "Michael",
+                        "Patricia"
+                  ],
+                  "first message sending datetime": "23.09.2021 18:30:00"
+            },
+            "dialogue": "James: Hey everyone, any plans for the weekend?\r\nRobert: I was thinking about a hike. How about you, Michael?\r\nMichael: Sounds good to me. I can bring some snacks.\r\nPatricia: I'd love to join. I can drive us there.\r\nRobert: Great! Patricia, can you pick us up at 9AM on Saturday?\r\nPatricia: Sure, see you then.\r\nJames: Awesome! Let's prepare for an adventurous weekend!\r\nMichael: Looking forward to it!\r\nRobert: Don't forget to bring your hiking boots.\r\nJames: And water bottles too. Stay hydrated.\r\nPatricia: Got it all noted down. Excited for the weekend!",
+            "summaries": {
+                  "general": "James, Robert, Michael, and Patricia are discussing the organization of a hike for the weekend.",
+                  "precise": "James questions the others about their plan for the weekend. Robert responds that he was thinking of a hike during the weekend, and asks about Michael's plans. Michael answers that he could join Robert and bring snacks. Patricia would also like to join and could drive the team. Robert proposes to her to pick them up on Saturday at 9 AM. James is also looking forward to the event. They finally provide bits of advice about gears and supplies to bring such as boots and water.",
+                  "GPT4_non_adjusted": "In the conversation, James initiates a discussion about weekend plans within a group chat titled \"Weekend Hikers\". Robert suggests a hiking trip and asks Michael for his input. Michael agrees and offers to bring snacks. Patricia expresses her interest to join and offers to drive everyone to the hiking location. The group agrees to meet at 9AM on Saturday. James, Michael, and Robert remind everyone about the essentials for the hike, such as hiking boots and water bottles. The conversation concludes with Patricia noting down all the details and expressing her excitement for the weekend plan.",
+                  "GPT4_adjusted": "In the conversation, James initiates a discussion about weekend plans. Robert suggests a hiking trip and asks Michael for his input. Michael agrees and offers to bring snacks. Patricia expresses her interest to join and offers to drive everyone to the hiking location. The group agrees to meet at 9AM on Saturday. James, Michael, and Robert remind everyone about the essentials for the hike, such as hiking boots and water bottles. The conversation concludes with Patricia noting down all the details and expressing her excitement for the weekend plan."
+            }
+      },
+      {
+            "metadata": {
+                  "directory name": "weekend_activities",
+                  "application": "Telegram",
+                  "chat group name": "Weekend Warriors",
+                  "list of participants": [
+                        "John",
+                        "Robert",
+                        "Michael"
+                  ],
+                  "first message sending datetime": "15.04.2022 19:30:00"
+            },
+            "dialogue": "John: Hey guys, what's the plan for this weekend?\r\nRobert: I was thinking we could go hiking in the mountains.\r\nMichael: That sounds great! I've been wanting to get some exercise.\r\nRobert: Perfect! Let's meet up on Saturday morning then?\r\nJohn: Sounds good to me. What should we bring?\r\nRobert: Just some water, snacks, and good hiking shoes should be enough.\r\nMichael: Awesome. Looking forward to it!\r\nJohn: Me too, it's been a while since our last hike.\r\nRobert: Agreed. This weekend is going to be fun.\r\nMichael: Definitely! Can't wait to catch up with you guys.",
+            "summaries": {
+                  "general": "John, Robert, and Michael are planning a hike for the weekend.",
+                  "precise": "John asks Robert and Michael about their plans for the weekend. Robert answers that he thought they could go hiking all together. Michael and John are excited, and Robert suggests to meet on Saturday morning. He also indicates that they should bring supplies and boots.",
+                  "GPT4_non_adjusted": "The conversation involves three individuals, John, Robert, and Michael, discussing their plans for the upcoming weekend. John initiates the discussion by asking for the weekend plan. Robert suggests going hiking in the mountains, which Michael enthusiastically agrees to, expressing his desire to get some exercise. Robert then proposes to meet on Saturday morning, asks the others to bring water, snacks, and good hiking shoes. All participants express their excitement for the planned hike and the opportunity to catch up with each other. The chat took place on Telegram in a group named \"Weekend Warriors\" and started on 15th April 2022 at 19:30:00.",
+                  "GPT4_adjusted": "The conversation involves three individuals, John, Robert, and Michael, discussing their plans for the upcoming weekend. John initiates the discussion by asking for the weekend plan. Robert suggests going hiking in the mountains, which Michael enthusiastically agrees to, expressing his desire to get some exercise. Robert then proposes to meet on Saturday morning, asks the others to bring water, snacks, and good hiking shoes. All participants express their excitement for the planned hike and the opportunity to catch up with each other."
+            }
+      }
+]
