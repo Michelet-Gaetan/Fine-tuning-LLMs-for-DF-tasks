@@ -1,0 +1,76 @@
+[
+      {
+            "base_model": "google/gemma-2-2b-it",
+            "task": "task-1",
+            "sample_type": "automatic",
+            "old_sample": {
+                  "prompt": "Here is a series of messages discussing a single topic sent over a messaging application. You'll find the following information for each message: the name of the sender and the content of the message. Note that the information is presented in the following format: 'sender: message'\n\nTrinity: Hey Glenda, you got the stuff?\r\nGlenda: Yeah, I have it. When and where?\r\nTrinity: Let's meet at the usual spot. Tomorrow at 9.\r\nGlenda: Alright. But this is the last time, Trinity.\r\nTrinity: What? Why's that?\r\nGlenda: I'm getting out of the business. Too risky.\r\nTrinity: What about the team?\r\nGlenda: They'll manage. This isn't a game anymore, Trinity.\r\nTrinity: You're right. Maybe it's time for a change.\r\nGlenda: Exactly. See you tomorrow, Trinity.\r\nTrinity: See you, Glenda.\n\nPlease, provide a summary of the presented chat! No introduction is required, just directly provide the summary.\n\n",
+                  "prompt_id": "9217ea0b-017f-4b95-b4f7-64a64254d708",
+                  "messages": [
+                        {
+                              "content": "Here is a series of messages discussing a single topic sent over a messaging application. You'll find the following information for each message: the name of the sender and the content of the message. Note that the information is presented in the following format: 'sender: message'\n\nTrinity: Hey Glenda, you got the stuff?\r\nGlenda: Yeah, I have it. When and where?\r\nTrinity: Let's meet at the usual spot. Tomorrow at 9.\r\nGlenda: Alright. But this is the last time, Trinity.\r\nTrinity: What? Why's that?\r\nGlenda: I'm getting out of the business. Too risky.\r\nTrinity: What about the team?\r\nGlenda: They'll manage. This isn't a game anymore, Trinity.\r\nTrinity: You're right. Maybe it's time for a change.\r\nGlenda: Exactly. See you tomorrow, Trinity.\r\nTrinity: See you, Glenda.\n\nPlease, provide a summary of the presented chat! No introduction is required, just directly provide the summary.\n\n",
+                              "role": "user"
+                        },
+                        {
+                              "content": "The conversation generated involved two individuals, Trinity and Glenda, discussing a drug deal. Initially, Trinity reaches out to Glenda to confirm if she has the 'stuff' (implying drugs). They agree to meet at a usual spot the following day at 9. However, Glenda expresses her intent to leave the drug business citing it as too risky. Trinity seems surprised and concerned about the rest of their team, but Glenda reassures her that they will manage. Glenda's decision makes Trinity consider a change as well. The conversation ends with Glenda affirming their meeting the following day.",
+                              "role": "assistant"
+                        }
+                  ]
+            },
+            "prompt": [
+                  {
+                        "content": "Here is a series of messages discussing a single topic sent over a messaging application. You'll find the following information for each message: the name of the sender and the content of the message. Note that the information is presented in the following format: 'sender: message'\n\nTrinity: Hey Glenda, you got the stuff?\r\nGlenda: Yeah, I have it. When and where?\r\nTrinity: Let's meet at the usual spot. Tomorrow at 9.\r\nGlenda: Alright. But this is the last time, Trinity.\r\nTrinity: What? Why's that?\r\nGlenda: I'm getting out of the business. Too risky.\r\nTrinity: What about the team?\r\nGlenda: They'll manage. This isn't a game anymore, Trinity.\r\nTrinity: You're right. Maybe it's time for a change.\r\nGlenda: Exactly. See you tomorrow, Trinity.\r\nTrinity: See you, Glenda.\n\nPlease, provide a summary of the presented chat! No introduction is required, just directly provide the summary.\n\n",
+                        "role": "user"
+                  }
+            ],
+            "prompt_time": 1.54283,
+            "result": "Trinity is meeting with Glenda to finalize a business deal. Glenda is retiring from the business due to its risks, and Trinity acknowledges the change. They agree to meet tomorrow at 9 am at their usual spot. \n",
+            "generated_messages": [
+                  {
+                        "content": "Here is a series of messages discussing a single topic sent over a messaging application. You'll find the following information for each message: the name of the sender and the content of the message. Note that the information is presented in the following format: 'sender: message'\n\nTrinity: Hey Glenda, you got the stuff?\r\nGlenda: Yeah, I have it. When and where?\r\nTrinity: Let's meet at the usual spot. Tomorrow at 9.\r\nGlenda: Alright. But this is the last time, Trinity.\r\nTrinity: What? Why's that?\r\nGlenda: I'm getting out of the business. Too risky.\r\nTrinity: What about the team?\r\nGlenda: They'll manage. This isn't a game anymore, Trinity.\r\nTrinity: You're right. Maybe it's time for a change.\r\nGlenda: Exactly. See you tomorrow, Trinity.\r\nTrinity: See you, Glenda.\n\nPlease, provide a summary of the presented chat! No introduction is required, just directly provide the summary.\n\n",
+                        "role": "user"
+                  },
+                  {
+                        "role": "assistant",
+                        "content": "Trinity is meeting with Glenda to finalize a business deal. Glenda is retiring from the business due to its risks, and Trinity acknowledges the change. They agree to meet tomorrow at 9 am at their usual spot. \n"
+                  }
+            ]
+      },
+      {
+            "base_model": "google/gemma-2-2b-it",
+            "task": "task-1",
+            "sample_type": "automatic",
+            "old_sample": {
+                  "prompt": "Here is a series of messages discussing a single topic sent over a messaging application. You'll find the following information for each message: the name of the sender and the content of the message. Note that the information is presented in the following format: 'sender: message'\n\nJohn: Hey guys, I think we have a situation.\r\nPeter: What's up, John?\r\nJohn: I believe we have a mole in our operations.\r\nRichard: How can you be so sure, John?\r\nJohn: Some of our shipments have been intercepted recently. This can't be a coincidence.\r\nPeter: We need to figure this out before things get out of hand.\r\nKaren: I agree with Peter. We should investigate this matter.\r\nAshley: I have a few contacts who might be able to help us.\r\nRichard: Let's proceed with that then, Ashley.\r\nJohn: We should also be careful about what we discuss here.\r\nPeter: Agreed. Let's use code words for sensitive topics from now on.\r\nKaren: Good idea, Peter. Let's keep this under wraps until we figure out what's going on.\r\nAshley: I'll start reaching out to my contacts.\r\nJohn: Keep us posted, Ashley.\r\nRichard: Let's tread carefully, everyone.\n\nPlease, provide a summary of the presented chat! No introduction is required, just directly provide the summary.\n\n",
+                  "prompt_id": "cb8cfcd0-acce-452d-b613-61e8c798c269",
+                  "messages": [
+                        {
+                              "content": "Here is a series of messages discussing a single topic sent over a messaging application. You'll find the following information for each message: the name of the sender and the content of the message. Note that the information is presented in the following format: 'sender: message'\n\nJohn: Hey guys, I think we have a situation.\r\nPeter: What's up, John?\r\nJohn: I believe we have a mole in our operations.\r\nRichard: How can you be so sure, John?\r\nJohn: Some of our shipments have been intercepted recently. This can't be a coincidence.\r\nPeter: We need to figure this out before things get out of hand.\r\nKaren: I agree with Peter. We should investigate this matter.\r\nAshley: I have a few contacts who might be able to help us.\r\nRichard: Let's proceed with that then, Ashley.\r\nJohn: We should also be careful about what we discuss here.\r\nPeter: Agreed. Let's use code words for sensitive topics from now on.\r\nKaren: Good idea, Peter. Let's keep this under wraps until we figure out what's going on.\r\nAshley: I'll start reaching out to my contacts.\r\nJohn: Keep us posted, Ashley.\r\nRichard: Let's tread carefully, everyone.\n\nPlease, provide a summary of the presented chat! No introduction is required, just directly provide the summary.\n\n",
+                              "role": "user"
+                        },
+                        {
+                              "content": "In the conversation, John initiates a discussion about a potential threat to their operations, suggesting there might be a mole in their team. He bases his suspicions on the recent interceptions of their shipments. Peter emphasizes the need to address this issue promptly. Karen agrees with Peter's stance and suggests an investigation. Ashley offers to reach out to her contacts who might be able to assist. Richard agrees with Ashley's plan. Due to the sensitive nature of their operations, John suggests that they should be cautious about their discussions, prompting Peter to propose using code words for sensitive topics. Karen appreciates Peter's idea, emphasizing the need for discretion. Ashley then commits to contacting her sources, with John asking her to keep them all updated. Richard ends the conversation by reminding everyone to tread carefully.",
+                              "role": "assistant"
+                        }
+                  ]
+            },
+            "prompt": [
+                  {
+                        "content": "Here is a series of messages discussing a single topic sent over a messaging application. You'll find the following information for each message: the name of the sender and the content of the message. Note that the information is presented in the following format: 'sender: message'\n\nJohn: Hey guys, I think we have a situation.\r\nPeter: What's up, John?\r\nJohn: I believe we have a mole in our operations.\r\nRichard: How can you be so sure, John?\r\nJohn: Some of our shipments have been intercepted recently. This can't be a coincidence.\r\nPeter: We need to figure this out before things get out of hand.\r\nKaren: I agree with Peter. We should investigate this matter.\r\nAshley: I have a few contacts who might be able to help us.\r\nRichard: Let's proceed with that then, Ashley.\r\nJohn: We should also be careful about what we discuss here.\r\nPeter: Agreed. Let's use code words for sensitive topics from now on.\r\nKaren: Good idea, Peter. Let's keep this under wraps until we figure out what's going on.\r\nAshley: I'll start reaching out to my contacts.\r\nJohn: Keep us posted, Ashley.\r\nRichard: Let's tread carefully, everyone.\n\nPlease, provide a summary of the presented chat! No introduction is required, just directly provide the summary.\n\n",
+                        "role": "user"
+                  }
+            ],
+            "prompt_time": 1.659347,
+            "result": "John suspects a mole in their operations due to intercepted shipments. The group agrees to investigate and use code words for sensitive topics. Ashley will reach out to contacts for help, and everyone agrees to keep the situation confidential until further information is available. \n",
+            "generated_messages": [
+                  {
+                        "content": "Here is a series of messages discussing a single topic sent over a messaging application. You'll find the following information for each message: the name of the sender and the content of the message. Note that the information is presented in the following format: 'sender: message'\n\nJohn: Hey guys, I think we have a situation.\r\nPeter: What's up, John?\r\nJohn: I believe we have a mole in our operations.\r\nRichard: How can you be so sure, John?\r\nJohn: Some of our shipments have been intercepted recently. This can't be a coincidence.\r\nPeter: We need to figure this out before things get out of hand.\r\nKaren: I agree with Peter. We should investigate this matter.\r\nAshley: I have a few contacts who might be able to help us.\r\nRichard: Let's proceed with that then, Ashley.\r\nJohn: We should also be careful about what we discuss here.\r\nPeter: Agreed. Let's use code words for sensitive topics from now on.\r\nKaren: Good idea, Peter. Let's keep this under wraps until we figure out what's going on.\r\nAshley: I'll start reaching out to my contacts.\r\nJohn: Keep us posted, Ashley.\r\nRichard: Let's tread carefully, everyone.\n\nPlease, provide a summary of the presented chat! No introduction is required, just directly provide the summary.\n\n",
+                        "role": "user"
+                  },
+                  {
+                        "role": "assistant",
+                        "content": "John suspects a mole in their operations due to intercepted shipments. The group agrees to investigate and use code words for sensitive topics. Ashley will reach out to contacts for help, and everyone agrees to keep the situation confidential until further information is available. \n"
+                  }
+            ]
+      }
+]
